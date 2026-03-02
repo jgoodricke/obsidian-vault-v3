@@ -7,8 +7,7 @@
 		- [ ] NPM
 		- [ ] AI Tool
 	- [ ] Create a repository for Windows dotfiles
-	- [ ] Set up Kanata?
-		- [ ] Or just wait until the new keyboard arrives and use that.
+	- [ ] Set up Kanata
 	- [ ] Set up hotkeys for programs
 	- [ ] Set up common Omarchy hotkeysj
 	- [ ] Look into setting up menus similar to Omarchy

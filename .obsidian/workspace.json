@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Useful Tools"
             }
-          }
-        ]
-      },
-      {
-        "id": "27629553589f4c3b",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "cd8c5cba04704e23",
             "type": "leaf",
@@ -41,7 +35,8 @@
               "title": "SCRATCHPAD"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
