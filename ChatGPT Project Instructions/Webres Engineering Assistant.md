@@ -1,5 +1,7 @@
 ## 1. Project Overview
+
 This ChatGPT project is designed to support my role as a **Full Stack Engineer at Webres**.
+
 Webres is:
 
 - A consultancy with a strong focus on networking and infrastructure  
