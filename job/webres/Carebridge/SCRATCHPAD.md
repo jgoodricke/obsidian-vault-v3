@@ -11,7 +11,7 @@ Discuss this one with Rob / Lisa
 
 ## Spreadsheet
 ### Update User Permissions
-- Note the users for each organisation don't all need to be the same. It would probably be better to call use actual position/department titles.
+- Note the users for each organization don't all need to be the same. It would probably be better to call use actual position/department titles.
 
 # To Discuss
 - Domain terminology should be used more extensively
