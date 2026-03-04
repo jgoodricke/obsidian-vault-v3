@@ -1,4 +1,5 @@
-# Questions About Cards:
+# Questions
+## Trello
 https://trello.com/c/VOVCHwLW
 Need further explanation on this one.
 
@@ -8,6 +9,9 @@ Chat about this one.
 https://trello.com/c/Hv4VOz5z
 Discuss this one with Rob / Lisa
 
+## Spreadsheet
+### Update User Permissions
+- Note the users for each organisation don't all need to be the same. It would probably be better to call use actual position/department titles.
 
 # To Discuss
 - Domain terminology should be used more extensively
