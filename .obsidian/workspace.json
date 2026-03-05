@@ -11,10 +11,14 @@
             "id": "10c5451906e9bb88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI Prompts/AI Project Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AI Project Plan"
             }
           }
         ]
@@ -180,6 +184,8 @@
   "active": "10c5451906e9bb88",
   "lastOpenFiles": [
     "tech/GitKraken Commit Prompt.md",
+    "AI Prompts/AI Project Plan.md",
+    "AI Prompts",
     "tech/Useful Tools.md",
     "linux/Useful Tools.md",
     "tech/linux/Useful Tools.md",
@@ -202,7 +208,6 @@
     "ChatGPT Project Instructions/Webres Engineering Assistant.md",
     "ChatGPT Project Instructions",
     "webres/SCRATCHPAD.md",
-    "TODO Later.md",
-    "webres"
+    "TODO Later.md"
   ]
 }

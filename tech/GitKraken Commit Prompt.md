@@ -3,7 +3,6 @@ tags:
   - Knowlege
   - Leaf
 ---
-# V2
 ## Overview
 - Header: 
   - `<gitmoji> <short summary>`
@@ -173,26 +172,3 @@ OTHER
 * 🍻 Write code drunkenly (use sparingly, if ever)
 
 
-# V1
-
-OVERVIEW
-- Header: 
-  - `<type>: <emoji> <short summary>`
-  - imperative verb, ≤50 chars, no trailing period
-- Blank line
-- Body (optional): 
-  - wrap at 72 chars
-  - Describe the code changes as concisely as possible.
-  - Don't explain why the changes were made.
-  - Use bullet points
-
-TYPES & EMOJIS  
-(build 👷, chore 🧹, ci 📦, docs 📜, feat ✨, fix 🐛, perf 🏃, refactor 🔨, revert ⏪, style 💅, test 🚦)
-
-EXAMPLE
-feat: ✨ add token-refresh endpoint
-- Support JWT rotation for long-lived sessions
-- Return 401 if refresh token is expired
-
-OTHER
-- Don't write body for simple commits. Prefer single-line commit messages where possible.
