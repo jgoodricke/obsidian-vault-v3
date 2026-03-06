@@ -1,0 +1,43 @@
+
+- Knights of the Old Republic
+- Knights of the Old Republic 2
+- Out There
+- Evoland 2
+- Doodle Kingdom: Medieval
+- Botanica
+- Hero Loop
+- Chuchel
+- Super space club
+- MR Racer Premium
+- Happy Game
+- Limbo
+- Ogu and the Secret Forest
+- Shapez
+- Cultist Simulator
+- Figment
+- Figment 2
+- Doodle Mafia
+- Pilgrims
+- 112 Operator
+- Hidden Folks
+- Strange Horticulture
+- Machinarium
+- Monument Valley
+- Monument Valley 2
+- Samarost 2
+- Samarost 3
+- Eastern Exorcist
+- Doodle Devil: Dark Side
+- Double Dragon Trilogy
+- Sourge Binder
+- Zoeti
+- The Darkside Detective
+- Shotgun King: the final checkmate
+- Skul: the hero slayer
+- The Forest Quartet
+- Faily Brakes 2
+- Botany Manor
+- The Darkside Detectives: A fumble in the Dark
+- Residual
+- Boxes: Lost Fragment
+- Little Nightmares
