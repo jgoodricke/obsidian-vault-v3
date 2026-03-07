@@ -9,4 +9,4 @@
 | 6. Approachability | High    | Low   | High    |
 | 7. Adaptability    | High    | High  | High    |
 | 8. Persistance     | Low     | Low   | High    |
-| 9. Mood            | High    | Low   |         |
+| 9. Mood            | High    | Low   | High    |
