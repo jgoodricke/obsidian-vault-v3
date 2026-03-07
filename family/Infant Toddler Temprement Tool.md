@@ -16,6 +16,7 @@
 ## 1. Your role & values as a father
 - Calm, playful, emotionally available.
 - Gentle parenting, emotional intellegence, helping him grow into a well-adjusted adult.
+- 
 
 
 This shapes _how_ advice should be framed.
