@@ -8,7 +8,7 @@ https://www.linkedin.com/jobs/view/4377110300/?trackingId=pUHbpsDyXQWpPSdEqlmo2g
 | ------------------ | -------- | --------- |
 | Taxable Income     | 6,534.00 | 10,216.00 |
 | Depreciation       | 1,157.65 | 0         |
-| Interest Add Backs | 0        |           |
+| Interest Add Backs | 0        | 0         |
 | Operating Expenses | 5,269.09 | 1721<br>  |
 
 
