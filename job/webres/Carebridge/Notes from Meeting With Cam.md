@@ -7,4 +7,7 @@
 - Role json is stored in AWS folder
 - Notification data is stored in the `resources/views/notifications/` directory, under `title` and `content`
 - Custom JS router uses the routes from Laravel.
-- 
+
+## Visibility
+- Need to set up log retention.
+
