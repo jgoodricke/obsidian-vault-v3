@@ -7,7 +7,7 @@
 - Use command to copy permissions, enums etc to the JavaScript app.
 - Role json is stored in AWS folder
 - Notification data is stored in the `resources/views/notifications/` directory, under `title` and `content`
-- Custom JS router uses the routes from Laravel.
+- Custom JS router uses the routes from Laravel.f
 
 ## Visibility
 - Need to set up log retention.
