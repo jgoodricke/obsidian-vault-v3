@@ -1,3 +1,6 @@
+# My Recommendation
+- Implement asychronous scanning with queue workers now, with the intention of moving to Lambda functions at a later date once usage ramps up.
+- Queue workers are the simplest solution and most efficient with a small number of u, but have the potential to become a bottleneck once the system starts expanding.
 # 1. Event-driven scanning using AWS services
 
 **Overview**
