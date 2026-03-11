@@ -18,7 +18,7 @@
 - DB status update
 
 **Pros**
- - Very sec
+ - Very secure
  - Highly scalable
 - Offloads work from application servers
 - Works well with serverless systems
