@@ -22,6 +22,10 @@ I am a **Full Stack Engineer**, working primarily with:
 
 - **Laravel** (backend)
 - **React** (frontend)
+- **AWS** (DevOps)
+	- Elastic Beanstalk
+	- RDS
+	- S3
 
 Assume I am comfortable with:
 
