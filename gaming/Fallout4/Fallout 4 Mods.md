@@ -4,25 +4,36 @@
 	- Virtual Holsters - Artwork
 	- Virtual Reload
 - Tools
-	- Robco Patcher?
+	- Robco Patcher
 
 # Check out:
 - Heisenberg Physical interactions
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
 	- Commonwealth broadcasting service
+		- Tales of the Commonwealth Patch
+	- Commonwealth Hit Squads
 	- Story Encounter Booster
-- Whisky's Lunar Fallout Patches
-	- Handmade Turrets
-	- immersive turret replacer
-	- Tweeking Scaling
-- Enclave Remnants?
-- Chinese Remnants?
-	- Chinese Commando Uniform
-	- Red Shift Power Armor
-	- CC Chinese Stealth Suit
-	- Chinese Assault Rifle
-
+- These Radio Stations
+	- https://www.nexusmods.com/profile/Brandoman/mods?sortBy=endorsements&gameId=1151&page=2
+- Old World Radio
+	- Galaxy News Radio - Boston Mass
+	- Cadillac Jack's Radio Shack
+	- Nuka World Radio (The Nuka-Cola Broadcast System)
+	- The Cat's Meow -Atom Cats Radio-
+	- Enclave National Broadcast
+	- other
+		- The French Connection
+		- The Adventures of MechaBetty
+		- Billy Bob's Bunker
+		- Agatha's Song Returns
+		- Civil Defense 'Conelrad'
+		- Radio FNGS
+		- Malt Shop Mayhem
+		- Red Rocket Radio Bop
+		- Tumbleweed Tunes
+		- Gopnik Radio
+		- Old World Tunes
 # TO FIND
 - Mod that restores The Wanderer to Diamond City Radio?
 - Add blood to enemies when wounded
@@ -33,6 +44,12 @@
 	- Also modify BTVxManagerScript::DamageAP to set scope shot as a multiplier of the weapon value, rather than a flat rate. Make it x3 and x1.5 when you have the perk.
 - Add Settlement Ambush Kit Monitor to Conquest
 
+## To Check
+- Lunar Patches
+	- [CC Remnants](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
+	- [SS2](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
+	- [Tales of the Commonwealth](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
+	- 
 
 # Modding Philosophy
 - Character:

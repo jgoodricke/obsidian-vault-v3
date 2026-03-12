@@ -41,3 +41,4 @@
 - Residual
 - Boxes: Lost Fragment
 - Little Nightmares
+- Wonder Boy: The Dragon Trap
