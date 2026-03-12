@@ -29,22 +29,22 @@
 4. Click **Add**.
 
 # Plugins
-
 - Bitwarden Password Manager
 - Ublock Origin
 - Chrome Mask (Firefox only)
-- Old Reddit Redirect
-- Social Media
-	- Escape the Algorythm
-	- SocialFocus
-	- Control Panel for Youtube
 - Grammarly
 - Tmetric
 - [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
 - Vimium
+- Indie Wiki Bu
+- Social Media
+	- Escape the Algorythm
+	- SocialFocus
+	- Control Panel for Youtube
+	- Old Reddit Redirect
 - Dev Tools
-- React Dev Tools
-- Vue.js devtools
+	- React Dev Tools
+	- Vue.js devtools
 # Activitywatch
 http://localhost:5600/#/timeline
 
