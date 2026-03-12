@@ -6,7 +6,7 @@
 - Disable spell-checker
 - Disable split view
 	- For Zen, go to `about:config` and set `zen.splitView.enable-tab-drop` to `false`
-- - Non-Helium: Disable Saving Passwords
+- Non-Helium: Disable Saving Passwords
 - Firefox: Disable saving credit cards
 - Zen: Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
 
@@ -28,20 +28,21 @@
 	- **URL with %s in place of query:** `https://www.google.com/search?q=%s&udm=14`
 4. Click **Add**.
 
-# Core Plugins
-- [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [Indie Wiki Buddy](https://addons.mozilla.org/en-US/firefox/addon/indie-wiki-buddy/)
-- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [SocialFocus](https://addons.mozilla.org/en-US/firefox/addon/socialfocus/)
-- Consent-O-Matic
-- Chrome Mask
+# Plugins
+
+- Bitwarden Password Manager
+- Ublock Origin
+- Chrome Mask (Firefox only)
 - Old Reddit Redirect
-# Other Plugins
-- [Grammarly](https://www.grammarly.com/browser/firefox)
-- [Tmetric](https://addons.mozilla.org/en-US/firefox/addon/tmetric-extension/)
-- Control Panel for Youtube
+- Social Media
+	- Escape the Algorythm
+	- SocialFocus
+	- Control Panel for Youtube
+- Grammarly
+- Tmetric
 - [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
 - Vimium
+- Dev Tools
 - React Dev Tools
 - Vue.js devtools
 # Activitywatch
