@@ -1,0 +1,4 @@
+- Need to look at replacing the style library
+- It hasn't been updated in a while, and it means that some of our core libraries are locked to an old version.
+- We should move to ShadCN, which is currently the gold-standard for this sort of thing.
+- Timing depends on how married we are to the existing theme
