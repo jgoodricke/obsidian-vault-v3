@@ -10,7 +10,7 @@
 
 ## Zen
 - Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
-## Disable Split View
+- Disable split view
 - Go to `about:config`
 - set `zen.splitView.enable-tab-drop` to `false`
 ## Set Google Web
