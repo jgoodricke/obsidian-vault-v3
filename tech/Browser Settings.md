@@ -36,12 +36,12 @@
 - Tmetric
 - [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
 - Vimium
-- Indie Wiki Bu
 - Social Media
 	- Escape the Algorythm
 	- SocialFocus
 	- Control Panel for Youtube
 	- Old Reddit Redirect
+	- Indie Wiki Buddy
 - Dev Tools
 	- React Dev Tools
 	- Vue.js devtools
