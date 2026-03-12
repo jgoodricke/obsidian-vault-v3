@@ -22,10 +22,10 @@ zen.splitView.enable-tab-drop -> false
 1.  Go to:  `chrome://settings/searchEngines`
 2. In the **Site search** section, click **Add**.
 3. Enter the following:
-- **Search engine:** `Google Web`
-- **Shortcut:** `gweb`
-- **URL with %s in place of query:** `https://www.google.com/search?q=%s&udm=14`
-1. Click **Add**.
+	- **Search engine:** `Google Web`
+	- **Shortcut:** `gweb`
+	- **URL with %s in place of query:** `https://www.google.com/search?q=%s&udm=14`
+4. Click **Add**.
 
 # Core Plugins
 - [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
