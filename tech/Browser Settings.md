@@ -8,7 +8,7 @@
 	- For Zen, go to `about:config` and set `zen.splitView.enable-tab-drop` to `false`
 - Non-Helium: Disable Saving Passwords
 - Firefox: Disable saving credit cards
-- Zen: Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
+- Zen: Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`h
 
 ## Set Google Web
 ### Firefox
