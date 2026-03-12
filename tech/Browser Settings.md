@@ -4,10 +4,10 @@
 # Settings
 ## General
 - Disable spell-checker
-- Disable Saving Passwords (Not Helium)
-- Disable saving credit cards (Not Helium)
 - Disable split view
 	- For Zen, go to `about:config` and set `zen.splitView.enable-tab-drop` to `false`
+- - Non-Helium: Disable Saving Passwords
+- Firefox: Disable saving credit cards
 - Zen: Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
 
 ## Set Google Web
