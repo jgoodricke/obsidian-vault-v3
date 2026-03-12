@@ -2,17 +2,15 @@
 [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
 [Helium](https://helium.computer/)
 # Settings
-
-### General
+## General
 - Disable Saving Passwords
 - Disable saving credit cards
 - Disable spell-checker
-
-## Zen
-- Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
 - Disable split view
-- Go to `about:config`
-- set `zen.splitView.enable-tab-drop` to `false`
+	- For Zen, go to `about:config` and set `zen.splitView.enable-tab-drop` to `false`
+### Zen
+- Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
+
 ## Set Google Web
 ### Firefox
 - Go to:  `about:preferences#search`
