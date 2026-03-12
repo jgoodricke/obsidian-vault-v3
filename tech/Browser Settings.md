@@ -3,9 +3,9 @@
 [Helium](https://helium.computer/)
 # Settings
 ## General
-- Disable Saving Passwords
-- Disable saving credit cards
 - Disable spell-checker
+- Disable Saving Passwords (Not Helium)
+- Disable saving credit cards (Not Helium)
 - Disable split view
 	- For Zen, go to `about:config` and set `zen.splitView.enable-tab-drop` to `false`
 ### Zen
