@@ -2,12 +2,17 @@
 [Iceraven](https://github.com/fork-maintainers/iceraven-browser)
 [Helium](https://helium.computer/)
 # Settings
+
+### General
 - Disable Saving Passwords
 - Disable saving credit cards
-- Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
 - Disable spell-checker
-## `about:config`
-zen.splitView.enable-tab-drop -> false
+
+## Zen
+- Switch shortcuts for `Show Sidebar` and `Toggle Compact Mode`
+## Disable Split View
+- Go to `about:config`
+- set `zen.splitView.enable-tab-drop` to `false`
 ## Set Google Web
 ### Firefox
 - Go to:  `about:preferences#search`
@@ -18,7 +23,6 @@ zen.splitView.enable-tab-drop -> false
 	 - **Keyword:** `@gweb`
  - Save it, close and re-open the settings and set "Google Web" as your default.
 ### Chrome
-
 1.  Go to:  `chrome://settings/searchEngines`
 2. In the **Site search** section, click **Add**.
 3. Enter the following:
