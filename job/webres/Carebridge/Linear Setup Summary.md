@@ -74,13 +74,13 @@ Issues are assigned to cycles once they move into **Ready**.
 
 Enable **issue estimates** and use a simple size scale:
 
-|Estimate|Typical effort|
-|---|---|
-|XS|< 1 hour|
-|S|~½ day|
-|M|~1 day|
-|L|2–3 days|
-|XL|4–5 days|
+| Estimate | Typical effort | Story Points |
+| -------- | -------------- | ------------ |
+| XS       | < 1 hour       | 1            |
+| S        | ~½ day         | 2            |
+| M        | ~1 day         | 3            |
+| L        | 2–3 days       | 5            |
+| XL       | 4–5 days       | 8            |
 
 Rules:
 
