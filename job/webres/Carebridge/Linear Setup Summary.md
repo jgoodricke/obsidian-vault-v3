@@ -33,7 +33,7 @@ New issuese that are yet to be estimated.
 Prioritised issues that are not yet scheduled.
 
 **Ready**  
-Issues prepared for development in the current or upcoming cycle.
+The issue is understood, estimated, and testable. It is ready for development in the current or upcoming cycle.
 
 **In Progress**  
 Currently being worked on.
@@ -128,8 +128,8 @@ Recommended labels:
 bug
 feature
 improvement
-investigation
-technical-debt
+investigate
+Maintanance
 ```
 
 Also add a label for blocked tasks, indicating that it cannot be worked on until clarification is given from someone else. When an issue is blocked, a comment should be added explaining what the blocker is.
@@ -160,7 +160,7 @@ Project: Hospital Reporting Improvements
 
 Linear tracks project progress automatically based on completed issues, making it easier to see how far an initiative has progressed.
 
-Projects should be used for **larger pieces of work spanning multiple tickets and cycles**, not for individual tasks. Most issues will simply move through the normal workflow independently.
+Note that not all tasks need to be part of a project. Projects should be used for **larger pieces of work spanning multiple tickets and cycles**. 
 
 ---
 
