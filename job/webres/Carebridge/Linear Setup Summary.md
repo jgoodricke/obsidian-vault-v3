@@ -208,6 +208,7 @@ Target backlog size: 30–50 tickets
 
 Archive outdated or irrelevant items.
 
+You should always have 10-15 tickets ready for developm
 
 ---
 
@@ -248,7 +249,7 @@ Example cycle plan:
 | Cycle 1 | Work that will be completed in the next 2 weeks |
 | Cycle 2 | Work that will be completed next                |
 | Cycle 3 | Forecast                                        |
-| Cycle 4 |                                                 |
+| Cycle 4 | Forecast                                        |
 
 When customers ask about delivery timelines, responses can be based on cycle assignment:
 
