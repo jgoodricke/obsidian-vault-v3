@@ -109,7 +109,7 @@ Guideline:
 
 **Urgent** – production issues affecting customers  
 **High** – important bug fixes or client requests  
-**Medium** – normal backlog work  
+**Medium** – normal backlog work
 **Low** – improvements or technical debt
 
 Backlog should always be sorted by **priority and importance**.
