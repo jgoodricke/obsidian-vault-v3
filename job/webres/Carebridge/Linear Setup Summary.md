@@ -1,3 +1,8 @@
+# TODO
+- Add note about catch-ups
+	- Mid-sprint catchup
+	- End of Sprint review and Sprint planning
+
 This setup is designed for a **small development team (1 developer + product owner)** working primarily on **bug fixes and incremental improvements**. The goal is to keep the workflow simple while still allowing **prioritisation, backlog management, and delivery forecasting for clients**.
 
 The system uses:
