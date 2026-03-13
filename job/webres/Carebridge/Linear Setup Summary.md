@@ -79,13 +79,13 @@ Issues are assigned to cycles once they move into **Ready**.
 
 Enable **issue estimates** and use a simple size scale:
 
-| Estimate | Typical effort | Cycle Estimate Value |
-| -------- | -------------- | -------------------- |
-| XS       | < 1 hour       | 1                    |
-| S        | ~½ day         | 2                    |
-| M        | ~1 day         | 3                    |
-| L        | 2–3 days       | 5                    |
-| XL       | 4–5 days       | 8                    |
+| Estimate | Typical effort | Cycle Estimate |
+| -------- | -------------- | -------------- |
+| XS       | < 1 hour       | 1              |
+| S        | ~½ day         | 2              |
+| M        | ~1 day         | 3              |
+| L        | 2–3 days       | 5              |
+| XL       | 4–5 days       | 8              |
 
 Rules:
 - Anything larger than **XL should be split**
