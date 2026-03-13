@@ -223,6 +223,7 @@ Reorder backlog
 
 This should take **15–30 minutes** for a small team.
 
+
 ---
 
 # End-of-Cycle Review
@@ -241,12 +242,12 @@ Cycles and estimates together allow rough forecasting.
 
 Example cycle plan:
 
-| Cycle   | Work                                            |
-| ------- | ----------------------------------------------- |
-| Cycle 1 | Work that will be completed in the next 2 weeks |
-| Cycle 2 | Work that will be completed next                |
-| Cycle 3 | Forecast                                        |
-| Cycle 4 | Forecast                                        |
+| Cycle   | Work                                  |
+| ------- | ------------------------------------- |
+| Cycle 1 | Will be completed in the next 2 weeks |
+| Cycle 2 | Will be completed next                |
+| Cycle 3 | Forecast                              |
+| Cycle 4 | Forecast                              |
 
 When customers ask about delivery timelines, responses can be based on cycle assignment:
 
