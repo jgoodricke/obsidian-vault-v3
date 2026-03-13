@@ -188,7 +188,7 @@ This keeps commits and development work tied to the corresponding ticket.
 
 ---
 
-# 7. Backlog Management
+# Backlog Management
 
 Perform **weekly backlog grooming**.
 
@@ -208,6 +208,33 @@ Target backlog size: 30–50 tickets
 
 Archive outdated or irrelevant items.
 
+
+---
+
+# 11. Weekly Backlog Refinement
+
+Once per week:
+
+Review new issues  
+Clarify tickets  
+Split large work  
+Reorder backlog
+
+This should take **15–30 minutes** for a small team.
+
+---
+
+# 12. End-of-Cycle Review
+
+At the end of each cycle:
+
+Demonstrate completed work  
+Discuss feedback  
+Adjust priorities
+
+This keeps stakeholders aligned and avoids surprises.
+
+
 ---
 
 # 8. Forecasting Delivery
@@ -216,11 +243,12 @@ Cycles and estimates together allow rough forecasting.
 
 Example cycle plan:
 
-| Cycle   | Work                                  |
-| ------- | ------------------------------------- |
-| Cycle 1 | urgent fixes and high-priority issues |
-| Cycle 2 | next most important backlog items     |
-| Cycle 3 | lower priority improvements           |
+| Cycle   | Work                                            |
+| ------- | ----------------------------------------------- |
+| Cycle 1 | Work that will be completed in the next 2 weeks |
+| Cycle 2 | Work that will be completed next                |
+| Cycle 3 | Forecast                                        |
+| Cycle 4 |                                                 |
 
 When customers ask about delivery timelines, responses can be based on cycle assignment:
 
