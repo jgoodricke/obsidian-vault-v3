@@ -11,11 +11,12 @@ The system uses:
 
 ---
 
-# 1. Workflow (Kanban)
+# Workflow (Kanban)
 
 Use a simple issue lifecycle with the following states:
 
 ```
+Inbox
 Backlog
 Ready
 In Progress
@@ -24,6 +25,9 @@ Done
 ```
 
 Meaning of each stage:
+
+**Inbox**  
+New issuese that are yet to be estimated.
 
 **Backlog**  
 Prioritised issues that are not yet scheduled.
@@ -44,7 +48,7 @@ This workflow keeps the process simple while still showing progress clearly.
 
 ---
 
-# 2. Cycles (Planning Horizon)
+# Cycles (Planning Horizon)
 
 Enable **Cycles** in Linear.
 
@@ -62,15 +66,16 @@ Example:
 Cycle 1 – current work (weeks 1–2)
 Cycle 2 – next planned work (weeks 3–4)
 Cycle 3 – planned work after that (weeks 5–6)
+Cycle 4 – planned work after that (weeks 7–8)
 ```
 
-This provides approximately **six weeks of forecast visibility**, which helps when customers ask when specific items may be completed.
+This provides approximately **8 weeks of forecast visibility**, which helps when customers ask when specific items may be completed.
 
 Issues are assigned to cycles once they move into **Ready**.
 
 ---
 
-# 3. Issue Estimates
+# Issue Estimates
 
 Enable **issue estimates** and use a simple size scale:
 
@@ -83,15 +88,13 @@ Enable **issue estimates** and use a simple size scale:
 | XL       | 4–5 days       | 8            |
 
 Rules:
-
 - Anything larger than **XL should be split**
-    
+- Anything smaller than XS should e combined into one ticket.
 - Estimates are used for **forecasting and planning**, not exact commitments
-    
 
 ---
 
-# 4. Prioritisation
+# Prioritisation
 
 Use Linear’s built-in priority levels:
 
@@ -113,7 +116,7 @@ Backlog should always be sorted by **priority and importance**.
 
 ---
 
-# 5. Labels
+# Labels
 
 Keep labels minimal.
 
@@ -123,10 +126,13 @@ Recommended labels:
 
 ```
 bug
-enhancement
+feature
+improvement
 investigation
 technical-debt
 ```
+
+Also add a label for blocked tasks, indicating that it cannot be worked on until clarification is given from someone else. When an issue is blocked, a comment should be added explaining what the blocker is.
 
 Optional **area labels** if the backlog grows:
 
@@ -140,8 +146,25 @@ admin
 Labels help organise and filter issues.
 
 ---
+# Projects
+**Projects** are used to group related issues that contribute to a larger initiative. A project represents a broader goal made up of multiple tickets.
 
-# 6. GitHub Integration
+Example:
+
+```
+Project: Hospital Reporting Improvements
+  - Fix export bug
+  - Add CSV fields
+  - Improve reporting filters
+```
+
+Linear tracks project progress automatically based on completed issues, making it easier to see how far an initiative has progressed.
+
+Projects should be used for **larger pieces of work spanning multiple tickets and cycles**, not for individual tasks. Most issues will simply move through the normal workflow independently.
+
+---
+
+# GitHub Integration
 
 Connect Linear with GitHub so development activity links directly to issues.
 
@@ -172,15 +195,10 @@ Perform **weekly backlog grooming**.
 Steps:
 
 1. Review new issues in the backlog
-    
 2. Clarify descriptions
-    
 3. Add estimates
-    
 4. Assign priority
-    
 5. Decide whether the item should remain in the backlog
-    
 
 Keep backlog size manageable:
 
@@ -198,11 +216,11 @@ Cycles and estimates together allow rough forecasting.
 
 Example cycle plan:
 
-|Cycle|Work|
-|---|---|
-|Cycle 1|urgent fixes and high-priority issues|
-|Cycle 2|next most important backlog items|
-|Cycle 3|lower priority improvements|
+| Cycle   | Work                                  |
+| ------- | ------------------------------------- |
+| Cycle 1 | urgent fixes and high-priority issues |
+| Cycle 2 | next most important backlog items     |
+| Cycle 3 | lower priority improvements           |
 
 When customers ask about delivery timelines, responses can be based on cycle assignment:
 
