@@ -233,9 +233,6 @@ At the end of each cycle:
 - Discuss feedback  
 - Adjust priorities
 
-This keeps stakeholders aligned and avoids surprises.
-
-
 ---
 
 # Forecasting Delivery
