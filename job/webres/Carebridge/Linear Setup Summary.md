@@ -203,12 +203,12 @@ Steps:
 Keep backlog size manageable:
 
 ```
-Target backlog size: 30–50 tickets
+Target backlog size: 20-40 tickets
 ```
 
-Archive outdated or irrelevant items.
+Archive outdated or irrelevant items, and remove low-value work that will probably never get worked on.
 
-You should always have 10-15 tickets ready for developm
+You should always have 10-15 tickets ready for development.
 
 ---
 
