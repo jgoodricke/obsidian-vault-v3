@@ -16,7 +16,7 @@ The system uses:
 Use a simple issue lifecycle with the following states:
 
 ```
-Inbox
+Draft
 Backlog
 Ready
 In Progress
