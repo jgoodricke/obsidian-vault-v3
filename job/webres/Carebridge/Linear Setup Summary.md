@@ -203,16 +203,16 @@ Steps:
 Keep backlog size manageable:
 
 ```
-Target backlog size: 20-40 tickets
+Target backlog size: 20-50 tickets
 ```
 
-Archive outdated or irrelevant items, and remove low-value work that will probably never get worked on.
+If it grows beyond this, archive outdated or irrelevant items, and remove low-value work that will probably never get worked on.
 
 You should always have 10-15 tickets ready for development.
 
 ---
 
-# 11. Weekly Backlog Refinement
+# Weekly Backlog Refinement
 
 Once per week:
 
@@ -225,20 +225,20 @@ This should take **15–30 minutes** for a small team.
 
 ---
 
-# 12. End-of-Cycle Review
+# End-of-Cycle Review
 
 At the end of each cycle:
 
-Demonstrate completed work  
-Discuss feedback  
-Adjust priorities
+- Demonstrate completed work  
+- Discuss feedback  
+- Adjust priorities
 
 This keeps stakeholders aligned and avoids surprises.
 
 
 ---
 
-# 8. Forecasting Delivery
+# Forecasting Delivery
 
 Cycles and estimates together allow rough forecasting.
 
@@ -258,36 +258,3 @@ Example:
 > This issue is currently scheduled for Cycle 2, which is planned for early April.
 
 This gives **predictable delivery windows without overcommitting to specific dates**.
-
----
-
-# Summary
-
-The Linear setup should include:
-
-**Workflow**
-
-```
-Backlog → Ready → In Progress → Review → Done
-```
-
-**Planning**
-
-```
-2-week cycles
-3 cycles planned ahead (~6 weeks)
-```
-
-**Estimation**
-
-```
-XS / S / M / L / XL
-```
-
-**Prioritisation**
-
-```
-Urgent / High / Medium / Low
-```
-
-This structure keeps the system **simple, maintainable, and predictable**, while still allowing the team to manage a growing backlog and provide customers with **reasonable delivery forecasts**.
