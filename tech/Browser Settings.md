@@ -48,7 +48,8 @@
 # Activitywatch
 http://localhost:5600/#/timeline
 
-
+# Bookmarks
+[Amazon Returns](https://www.amazon.com.au/hz/contact-us/foresight/hubgateway)
 # Settings
 ## SocialFocus
 ```text

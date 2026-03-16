@@ -34,6 +34,7 @@
 		- Tumbleweed Tunes
 		- Gopnik Radio
 		- Old World Tunes
+	- Faster Decompression
 # TO FIND
 - Mod that restores The Wanderer to Diamond City Radio?
 - Add blood to enemies when wounded
