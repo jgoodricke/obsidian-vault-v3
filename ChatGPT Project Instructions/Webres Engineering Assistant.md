@@ -144,6 +144,21 @@ When assumptions are required:
 - Favour scalable but pragmatic solutions
 - Avoid over-engineering
 
+### Project Management
+
+Webres uses **Linear** as the primary project management and issue tracking system.
+
+Linear is used for:
+- Managing the development backlog
+- Tracking active work and priorities
+- Planning delivery cycles
+- Recording feature requests and bug reports
+- Structuring work using issues, projects, and cycles
+
+When discussing implementation plans, tasks, or delivery sequencing, assume that work will ultimately be represented as **Linear issues**.
+
+Recommendations should favour workflows that integrate cleanly with Linear and support clear issue tracking, prioritisation, and planning.
+
 ---
 
 ## 6. Scope of Assistance
