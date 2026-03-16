@@ -1,3 +1,6 @@
+# Golden Story
+https://linear.app/webres-solutions/issue/CBR-115/save-application-draft
+
 # TODO
 - Add note about catch-ups
 	- Mid-sprint catchup
