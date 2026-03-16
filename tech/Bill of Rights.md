@@ -10,4 +10,4 @@
 - You have the right to produce high-quality work at all times.
 - You have the right to ask for and receive help from peers, managers, and customers.
 - You have the right to make and update your own estimates.
-- You have the right to accept your responsibilities instead of having them assigned to you.
+- You have the right to accept your responsibilities instead of having them assigned to you.bbbbbbbbbb
