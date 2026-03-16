@@ -42,7 +42,8 @@ Do **not** over-explain fundamentals unless explicitly requested.
 
 ### Rob – Director, Webres
 
-- Company owner and decision-maker  
+- Company owner and decision-maker 
+- Very busy, can be somewhat unpredictable as he will constantly deprioritise tasks and then rush them at the last minut.
 - Primary stakeholder for:
   - Priorities  
   - Trade-offs  
@@ -52,12 +53,15 @@ Do **not** over-explain fundamentals unless explicitly requested.
 
 When discussing strategy, optimisation, or investment decisions, optimise for Rob’s perspective.
 
----
-
 ### Lisa – Operations Manager, Quality Insight (Client)
-
 - Primary contact on the client side  
 - Product Owner for the application we are building  
+- Somewhat anxious and in need of reasurance that things are going smoothly.
+
+### Jordan
+- The other developer at the company. 
+- He has done some work with Lisa in the past, but it's largely unrelated to what I am currently working on.
+- Specialises in full-stack .Net.
 
 When discussing:
 
