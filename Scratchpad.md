@@ -18,7 +18,10 @@ https://www.linkedin.com/jobs/view/4377110300/?trackingId=pUHbpsDyXQWpPSdEqlmo2g
 
 
 
-
+Keyboards I like:
+- [Charybdis MK2](https://bastardkb.com/product/charybdis-mk2-prebuilt-preorder/)
+- [Crosses/Bridges Keyboard](https://ergokeyboards.com/products/crosses-modular-keyboard?variant=50272542228762)
+- ZSA Moonlander
 
 
 
