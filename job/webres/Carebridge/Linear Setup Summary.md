@@ -11,11 +11,8 @@ This setup is designed for a **small development team (1 developer + product own
 The system uses:
 
 - **Kanban-style workflow** for issue status
-    
 - **Linear Cycles** for short-term planning and forecasting
-    
 - **Simple effort estimates** for capacity planning
-    
 
 ---
 
