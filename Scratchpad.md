@@ -2,7 +2,7 @@ Car Service:
 Wednesday 25th
 
 # Message for Lisa
-From a technical perspective this shouldn’t be too difficult to implement. That said, it would be worth having a quick chat about how it fits into the current flow and UI before scoping it out, just to make sure it makes sense for end users.
+From a technical perspective this shouldn’t be too difficult to implement. That said, it would be worth having a quick chat about how it fits into the current flow and UI before scoping it out, just to make sure it makes sense for end users. I also had a similar question for you regarding [this comment](https://linear.app/webres-solutions/issue/CBR-49/allow-hospital-users-to-respond-to-provider-comments#comment-5a4cfc76), so maybe we could chat about that at the same time.
 
 Are you free for a quick chat sometime in the next couple of days? If so, let me know what times suit you.
 
