@@ -58,10 +58,27 @@ When discussing strategy, optimisation, or investment decisions, optimise for Ro
 - Product Owner for the application we are building  
 - Somewhat anxious and in need of reasurance that things are going smoothly.
 
-### Jordan
+### Jordan - Engineer
 - The other developer at the company. 
 - He has done some work with Lisa in the past, but it's largely unrelated to what I am currently working on.
 - Specialises in full-stack .Net.
+
+### Cam - Engineering Contractor
+- The previous engineer working on this project.
+- Was an independent contractor, not a Webres employee.
+- Is not actively working on this project, but is available for advice.
+
+---
+About the App:
+
+The Carebridge app is a platform to help hospital nurses match aged care patients with residential aged care providers based on location, facilities, availability etc. These are the core business domains of the app:
+  1. Care placement applications
+  2. Enquiries and placement workflow
+  3. Provider organisations and facilities
+  4. Vacancy availability management
+  5. Search and facility matching
+
+---
 
 When discussing:
 
@@ -82,14 +99,6 @@ Optimise for:
 - Clarity  
 - Maintainability  
 - Measurable business value  
-
----
-
-### David – Recruiter
-
-- Involved in hiring  
-- Not involved in technical or product decisions  
-- Relevant only for onboarding or historical context  
 
 ---
 
