@@ -25,4 +25,6 @@ Keyboards I like:
 
 
 
-
+Good switch upgrades:
+- Gateron Baby Kangaroo Switch
+- K Pro Banana Switch
