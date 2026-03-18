@@ -6,35 +6,6 @@ Wednesday 25th
 
 
 
----
-
-### 5. The `transfer_hospitals` assertion is harder to read than it needs to be
-
-This part works, but it is dense:
-
-```php
-->where('transfer_hospitals', fn ($hospitals) => collect($hospitals)->contains(
-    fn (array $hospital) => $hospital['id'] === $otherHospital->id
-        && $hospital['name'] === $otherHospital->name
-) && !collect($hospitals)->contains(fn (array $hospital) => $hospital['id'] === $currentHospital->id)
-    && !collect($hospitals)->contains(fn (array $hospital) => $hospital['id'] === $providerCompany->id))
-```
-
-I would rewrite that for clarity:
-
-```php
-->where('transfer_hospitals', function ($hospitals) use ($otherHospital, $currentHospital, $providerCompany) {
-    $ids = collect($hospitals)->pluck('id');
-
-    return $ids->contains($otherHospital->id)
-        && ! $ids->contains($currentHospital->id)
-        && ! $ids->contains($providerCompany->id);
-})
-```
-
-That is much easier to read when revisiting the test later.
-
-You could also assert the exact returned IDs if the list is intentionally small and deterministic.
 
 ---
 
