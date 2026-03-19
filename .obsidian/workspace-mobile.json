@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratchpad"
+              "title": "Epic Games Mobile Library"
             }
           }
         ],
@@ -78,7 +78,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Epic",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -129,7 +129,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "5ddcbb43d961d2cf",
@@ -197,6 +197,7 @@
   },
   "active": "6cb6534ffa9ad933",
   "lastOpenFiles": [
+    "Scratchpad.md",
     "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "tech/Research/Your codebase is NOT ready for AI (here's how to fix it).md",
@@ -210,7 +211,6 @@
     "Jackson Development Snapshot.md",
     "family/Infant Toddler Temprement Tool.md",
     "family",
-    "Scratchpad.md",
     "gaming/Fallout 4 Mods 1.md"
   ]
 }
