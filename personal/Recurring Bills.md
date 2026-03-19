@@ -21,7 +21,7 @@ frontmatter-version: 1
 
 
 # My Account
-Total Allowance: $346.67
+Total Allowance: $216.66
 My Monthly Allowance Bank Balance:  $190
 ## Monthly
 **Note:** Re-Check and Reset every October
