@@ -9,81 +9,18 @@ Wednesday 25th
 
 ---
 
-### 6. Consider asserting more about the view route payload
+Hi Lisa,
 
-In the view route tests, you assert:
+ Thanks for sending through the pen test report. I've updated the cards we discussed in the meeting today. If you could please review them and let me know if anything needs to be added or modified that would be great, thanks. 
 
-- selected application id
-    
-- applications list contains one item
-    
+ADD_CARDS_HERE
 
-That is good, but if the page is expected to include the selected application in a specific resource shape, you could assert a couple more meaningful fields on `application.data`, not just the ID.
+Cheers,
+James
 
-For example:
-
-```php
-->where('application.data.id', $visibleApplication->id)
-->where('application.data.first_name', 'Ava')
-->where('application.data.last_name', 'Patient')
-```
-
-That depends on how much value the page serializer adds. If it is just a pass-through, maybe not needed. If it transforms fields, it is worth asserting.
-
-
----
-
-### 8. Use factories for `Application` if possible
-
-This helper:
-
-```php
-return Application::query()->create([
-    ...
-]);
-```
-
-works, but if you have an `ApplicationFactory`, it would usually be cleaner and more expressive:
-
-```php
-return Application::factory()
-    ->for($company)
-    ->for($creator, 'creator')
-    ->create([
-        ...
-        ...$attributes,
-    ]);
-```
-
-That keeps test data closer to the model’s intended creation path and makes future changes easier.
-
-If the factory does not exist yet, this file is not necessarily the place to build a huge one, but I would lean that way.
-
----
-
-### 9. Consider grouping these as page access tests
-
-The file currently mixes a few concerns:
-
-- list route
-    
-- new route
-    
-- view route
-    
-- permission-driven payload differences
-    
-- 404 scope enforcement
-    
-
-That is acceptable, but if the file grows further, I’d split it into sections or separate files:
-
-- `ApplicationIndexPageTest`
-    
-- `ApplicationViewPageTest`
-    
-
-Or at least add comments grouping behaviours.
+- https://linear.app/webres-solutions/issue/CBR-48/allow-re-presentation-of-previously-unsuccessful-patients
+- https://linear.app/webres-solutions/issue/CBR-49/allow-hospital-users-to-respond-to-provider-comments
+- https://linear.app/webres-solutions/issue/CBR-135/notification-subscriptions
 
 ---
 
