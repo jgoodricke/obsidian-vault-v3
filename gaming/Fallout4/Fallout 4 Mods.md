@@ -50,7 +50,7 @@
 	- [CC Remnants](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
 	- [SS2](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
 	- [Tales of the Commonwealth](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- 
+- Refreshing Checkpoints
 
 # Modding Philosophy
 - Character:
@@ -98,6 +98,7 @@
 - Disk Cache Enabler - F4VR
 - Private Profile Redirector
 - Simple Death Screen
+- VR Shadow Boost
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix

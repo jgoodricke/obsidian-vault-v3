@@ -26,6 +26,7 @@ Skyrim Revoiced
 - ISPVR - Immersive Spellcasting VR
 - HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
 - Follower Dialogue Expansion - Marcurio (FDE)
+- Wildfire?
 
 # Wait for
 - Boats - Operational Animated Travel
@@ -328,6 +329,8 @@ Skyrim Revoiced
 - [ ] Wet and Cold
 	- [ ] Wet and Cold - Gear
 	- [ ] Seasons of Skyrim Patch
+- [ ] Cold Breath NG
+- [ ] Particle Wind - SKSE Plugin
 
 ## Exploration
 - [ ] Waymark
