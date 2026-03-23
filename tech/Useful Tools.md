@@ -31,7 +31,9 @@ frontmatter-version: 1.0
 | wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl) |
 | cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste  |
 
-
+# Git plugins
+- Git LFS
+- git-interactive-rebase-tool
 
 
 # Git LFS
