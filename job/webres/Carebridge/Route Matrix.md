@@ -66,3 +66,29 @@
 | /requested-enquiries/update-enquiry-status          | post     | ApplicationController@enquiryStatusUpdateByProvider  |                      |                       |                |            |                            |
 | /long-application                                   | get      | Closure                                              |                      |                       |                |            |                            |
 | /api/type-of-care/{accommodationType}/solo-facility | get      | TypeOfCareController@showSoloFacility                |                      |                       |                |            |                            |
+
+
+
+I need to complete the following task:
+
+Goal:
+
+- Identify which controller actions have:
+    - role/permission checks
+    - ownership checks
+    - organisation scoping
+    - Insecure Direct Object Access Risk
+
+Deliverable:
+
+- A route/action matrix with:
+    - route
+    - controller action
+    - permission mechanism
+    - ownership enforcement
+    - tenant scoping
+    - risk level
+    - remediation recommendation
+      
+      
+To that end, I have created a table of the available routes in the .agents/plans/permissions-plan.md file. Please fill in the first two rows of the table (the login routes). 
