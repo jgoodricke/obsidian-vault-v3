@@ -2,6 +2,7 @@
 - Better log
 - rename commits
 - squash commits
+	- 
 - undo commits
 - AI commit messages
 - Better merge conflict resolution
