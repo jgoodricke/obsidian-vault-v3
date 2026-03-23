@@ -8,7 +8,7 @@
 - [x] PR reviewed
 - [x] Deployment run
 - [x] Migrations checked
-- [ ] Smoke tests completed
+- [x] Smoke tests completed
 # Key Commands
 ```bash
 # Before Deployment
