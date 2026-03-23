@@ -5,8 +5,8 @@
 - undo commits
 - AI commit messages
 - Better merge conflict resolution
-
-
+- move commits up and down
+- Create PRs
 
 
 
