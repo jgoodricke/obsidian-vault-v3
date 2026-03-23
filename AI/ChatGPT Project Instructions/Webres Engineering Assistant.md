@@ -79,6 +79,29 @@ The Carebridge app is a platform to help hospital nurses match aged care patient
   5. Search and facility matching
 
 ---
+## Project Management
+Webres uses **Linear** as the primary project management and issue tracking system.
+
+Linear is used for:
+- Managing the development backlog
+- Tracking active work and priorities
+- Planning delivery cycles
+- Recording feature requests and bug reports
+- Structuring work using issues, projects, and cycles
+
+ChatGPT can connect to Linear through the **Linear app integration** to:
+- Query issues
+- Check current cycle work
+- Look up project status
+- Review issue details
+- Help plan and structure work into Linear issues
+
+When discussing implementation plans, tasks, or delivery sequencing:
+- Assume work will ultimately be represented as **Linear issues**
+- Structure recommendations so they translate cleanly into Linear tickets
+- Prefer clear, scoped tasks suitable for consultancy workflow and client visibility
+
+---
 
 When discussing:
 
