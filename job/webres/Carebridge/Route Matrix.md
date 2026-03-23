@@ -71,7 +71,7 @@
 
 I need to complete the following task:
 
-Goal:
+Goal:Do the
 
 - Identify which controller actions have:
     - role/permission checks
