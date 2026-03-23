@@ -4,10 +4,10 @@
 - [x] Exact deploy commit confirmed
 - [x] Annotated tag created
 - [x] Tag pushed to origin
-- [ ] PR Created with release notes
-- [ ] PR reviewed
-- [ ] Deployment run
-- [ ] Migrations checked
+- [x] PR Created with release notes
+- [x] PR reviewed
+- [x] Deployment run
+- [x] Migrations checked
 - [ ] Smoke tests completed
 # Key Commands
 ```bash
