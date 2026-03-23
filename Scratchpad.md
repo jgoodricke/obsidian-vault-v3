@@ -1,6 +1,13 @@
-- Are there any application, valuation, or settlement fees not shown here?
-- Can we refinance easily after 2 years without major costs?
-- I noticed the comparison includes NAB, ING, Bank of Melbourne, Bendigo and Bank Australia, but not CBA, Westpac or ANZ.  Could you explain why those lenders were not included in the comparison?
+# GitKraken on CLI
+- Better log
+- rename commits
+- squash commits
+- undo commits
+- AI commit messages
+- Better merge conflict resolution
+
+
+
 
 
 Car Service:
