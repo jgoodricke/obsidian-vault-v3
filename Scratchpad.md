@@ -1,3 +1,11 @@
+# LLM Skills to Install
+grill-me
+improve-codebase-architecture
+
+write-a-prd
+prd-to-issues
+
+
 # GitKraken on CLI
 - Better log
 - rename commits
