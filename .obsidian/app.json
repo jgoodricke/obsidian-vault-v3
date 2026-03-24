@@ -1,5 +1,12 @@
 {
   "vimMode": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A3",
+    "landscape": true,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }
