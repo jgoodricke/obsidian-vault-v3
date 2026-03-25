@@ -144,4 +144,3 @@ Examples:
 - Compliance-heavy industries
 
 
-https://chatgpt.com/share/69b109c6-32d4-8007-afd7-e953e2f4ccfa
