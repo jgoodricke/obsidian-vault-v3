@@ -61,13 +61,18 @@ At the end, return:
 ```
 
 
+# Add the Missing Email
+
+
 # Refactoring
+## Urgent
+- Do something about that ugly PHP block in the \\wsl.localhost\archlinux\home\james\Projects\portal\e2e\enquiry-review-flow.spec.ts file.
+
 ## General
 - Refactor the request-review transition into a dedicated action/service with a DB transaction.
 - Move `can_request_review` calculation out of the resource or at least avoid per-item DB queries.
 - Extract frontend action config generation from `ViewControls`.
 - Move Playwright env/login helpers into shared test utilities.
-- Consider whether `run-ci` should really do `migrate:fresh --seed`, or whether that belongs in a separate E2E command.
 
 ## Clean
 - Introduce a `RequestEnquiryReview` action and move controller logic into it.
