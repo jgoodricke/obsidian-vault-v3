@@ -1,17 +1,7 @@
 Add more tests:
 
 ```markdown
-Add missing test coverage for the enquiry review / re-present workflow.
-
-Do not implement or modify tests for these scenarios, as they are already being handled:
-- requesting review twice should fail or be idempotent
-- a non-latest unsuccessful history row must never expose the action server-side
-- provider approve/reject flow should verify resulting history records, not just resulting status
-- notification recipients should exclude users without facility membership
-- queued mail should still work when related models are not already loaded
-- feature and notification tests, plus the mail/notification path that could break when models are serialized onto the queue
-
-Implement only the remaining worthwhile gaps.
+That looks good. Also implement the following tests (if they don't already exist):
 
 BACKEND / FEATURE TESTS
 
