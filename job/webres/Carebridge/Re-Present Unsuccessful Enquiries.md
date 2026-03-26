@@ -44,7 +44,7 @@
 - Route notification clicks to the provider enquiry view, likely by targeting `EnquiryHistory` and extending notification-presenter routing for the new type.
 
 ## Test Plan
-j
+
 - Feature test: hospital user can request review on an unsuccessful enquiry, which creates a `Re-Present` history row with the comment and updates the enquiry status.
 - Feature test: request review fails for missing comment, wrong application/enquiry pairing, inaccessible application, or any current status other than `Unsuccessful`.
 - Provider approval comment is optional; provider rejection comment is required.
@@ -52,3 +52,4 @@ j
 - Unlimited re-presentation cycles are allowed on the same enquiry.
 - Existing undo behaviour stays unchanged, even for review-flow history entries.
 - No extra history attribution fields are added; status + comment + timestamp remain the visible audit trail.
+- Add happy-path integration tests using Playwright. Update the database/seeders/LocalTestDataSeeder.php to add required initial test conditions if that is required.
