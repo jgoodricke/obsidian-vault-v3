@@ -13,7 +13,7 @@
 - [ ] Refactor the request-review transition into a dedicated action/service with a DB transaction.
 - [ ] Move `can_request_review` calculation out of the resource or at least avoid per-item DB queries.
 - [ ] Extract frontend action config generation from `ViewControls`.
-- [ ] Refactor the Event Listeners
+- [ ] Refactor the Event Listeners?
 ## Clean
 - Introduce a `RequestEnquiryReview` action and move controller logic into it.
 - Move “can request review” rule out of the resource into domain or policy code.
