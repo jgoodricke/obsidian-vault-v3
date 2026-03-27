@@ -6,7 +6,7 @@
 ## Urgent
 - [x] Update the email text.
 - [x] Add the missing email that Lisa requested.
-- [ ] Update the controls so they look nicer.
+- [x] Update the controls so they look nicer.
 
 
 ## General
