@@ -34,18 +34,18 @@ frontmatter-version: 1.0
 
 ## Omarchy in Windows
 - Hyprland
-	- GlazeWM
-		-  Zebar
-		- Gat
+	- **GlazeWM**
+		-  **Zebar**
+		- **Gat**
 	- Komorebi
 	- Seelen
 - Hotkeys
-	- Autohotkey
+	- **Autohotkey**
 	- WHK
 - Launcher
-	- Windows Command Pallette
+	- **Windows Command Pallette**
 - Menus
-	- ???
+	- Keypirinha?
 	- Flow Launcher
 
 
