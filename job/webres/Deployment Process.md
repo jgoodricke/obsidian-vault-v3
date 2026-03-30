@@ -2,8 +2,8 @@
 - [x] PRs merged and approved
 - [x] Latest main pulled locally
 - [x] Exact deploy commit confirmed
-- [ ] Annotated tag created
-- [ ] Tag pushed to origin
+- [x] Annotated tag created
+- [x] Tag pushed to origin
 - [ ] PR Created with release notes
 - [ ] PR reviewed
 - [ ] Deployment run
