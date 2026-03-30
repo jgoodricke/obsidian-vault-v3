@@ -1,0 +1,311 @@
+---
+tags:
+  - Note
+  - Leaf
+frontmatter-version: 1
+---
+## Playing
+- SP
+	- Doom
+	- Doom 3
+	- Space Engine
+	- Apex Construct
+	- Archangel Hellfire
+	- Beat Saber
+	- Pistol Whip
+	- Fujii - A Magical Gardening Adventure
+	- Robo Recall
+	- The Thrill of the Fight
+	- Waltz of the Wizard
+	- Hot Dogs, Horseshoes and Hand Grenades (H3VR)
+	- SpaceEngine
+- MP
+	- Valheim
+	- Guardians Frontline
+	- Risk of Rain 2
+	- Battlewake
+	- Bean Stalker
+	- Cave Digger 2 Dig Harder
+	- Dead Effect 2 VR
+	- Dick Wilde 2
+	- IronWolf VR
+	- Vox Machinae
+	- VR Dungeon Knight
+	- Phasmophobia
+	- PULSAR Lost Colony
+## To Play
+- SP
+	- Doom (https://www.questzdoom.com/recommended.html)
+		- Sigil
+		- Doom 2
+		- Doom 3D
+		- Other 
+			- HacX
+			- Brutal Doom Hell on Earth
+	- Doom 3 DLC
+	- The Walking Dead Saints & Sinners
+	- The Talos Principle VR
+	- Firewatch
+	- A Fisherman's Tale 2
+	- Return to Castle Wolfenstein
+	- Paper Beast
+	- Maskmaker
+	- Scanner Sombre
+	- Red Matter
+	- Into the Radius VR
+	- Grimlord
+	- Until You Fall
+	- The Gallery - Episode 1 Call of the Starseed
+	- The Gallery - Episode 2 Heart of the Emberstone
+	- Hard Bullet
+	- Trover Saves the Universe
+	- STRIDE
+	- Wanderer
+	- The Invisible Hours
+	- Vertigo Remastered
+	- XING The Land Beyond
+	- Iron Lung
+	- BONEWORKS
+	- The Wizards
+	- The Wizards - Dark Times
+	- Detached
+	- Megaton Rainfall
+	- Groundhog Day Like Father Like Son
+	- Quake
+	- Quake 2
+	- Prey
+	- Vanishing Realms
+	- Bow to Blood Last Captain Standing
+	- Skyworld
+	- Conductor
+	- Budget Cuts
+	- Budget Cuts 2 Mission Insolvency
+	- DOOM VFR
+	- Surgeon Simulator Experience Reality
+	- Moss
+	- Superfly
+	- The Morrigan
+	- Sairento VR
+	- Windlands
+	- Witching Tower
+	- In Death
+	- Far Beyond A Space Odyssey VR
+	- Fantastic Contraption
+	- Rick and Morty Virtual Rick-ality
+	- Abode 2
+	- Stargaze
+	- A-Tech Cybernetic VR
+	- Espire 1 VR Operative
+	- Creed Rise to Glory™
+	- Borderlands 2 VR
+	- Raw Data
+	- SVRVIVE The Deus Helix
+	- I Expect You To Die
+	- Time Lock VR 1
+	- The Curious Tale of the Stolen Pets
+	- Shooty Fruity
+	- Kartong
+	- Sneaky Bears
+	- Hello Puppets!
+	- Traffic Jams
+	- Counter Fight
+	- Counter Fight Samurai Edition
+- SP - HOTAS
+	- EVERSPACE
+	- Ace Combat 7
+	- Aircar
+	- Elite Dangerous
+	- Distance
+- SP - Racing Wheel
+	- GRIP Combat Racing
+- SP - Free
+	- Explore Fushimi Inari
+	- Dagon
+	- Buzz Aldrin Cycling Pathways to Mars
+	- Cartoon Network Journeys VR
+	- Acan's Call Act 1
+	- Blast the Past
+	- A Show of Kindness
+	- Allumette
+	- Audio Factory
+	- Blocks
+	- Rampage VR
+	- Gnomes & Goblins (Preview)
+	- Google Spotlight Stories Age of Sail
+	- Google Spotlight Stories Pearl
+	- Hide & Spook The Haunted Alchemist
+	- International Space Station Tour VR
+	- Irrational Exuberance Prologue
+	- Museum of Other Realities
+	- Nevrosa Prelude
+	- Memories From Beyond a Coral Sea
+	- PROZE Prologue
+	- Taphouse VR
+	- The Art Theft by Jay Doherty
+	- Octopus Bar
+	- Open Brush
+	- Operation Armstrong
+	- VR Museum of Fine art
+	- Welcome to Light Fields
+	- InMind VR
+	- INVASION!
+	- Kaisuo
+	- Portal Stories VRi
+	- Quanero
+	- RAYGUN COMMANDO VR
+	- RETNE
+	- Senza Peso
+	- Sheaf - Together EP
+	- Smithsonian American Art Museum - Beyond The Walls
+	- Surge
+	- The Bond
+	- The Cubicle
+	- The Red Stare
+	- The VR Museum of Fine Art
+	- Toran
+	- Transmissions Element 120
+	- Transpose
+	- Valkyrie Blade VR
+	- Vistascapes VR
+	- VR Flush
+	- Wake Up
+	- Wave
+- MP
+	- BattleGroupVR
+	- Cook-Out
+	- Dungeons of Eternity
+	- Serious Sam 3 VR BFE
+	- Serious Sam Fusion 2017 (Beta)
+	- Serious Sam VR The First Encounter
+	- Serious Sam VR The Last Hope
+	- Serious Sam VR The Second Encounter
+	- VTOL VR
+	- Sam & Dan Floaty Flatmates
+	- Star Trek Bridge Crew
+	- Tales of Escape
+- Couch Coop
+	- Acron Attack of the Squirrels!
+	- Nemesis Perspective
+	- Panoptic
+	- Takelings House Party
+## Wait for Update
+- SP
+	- Subnautica
+	- Subnautica Below Zero
+	- The Elder Scrolls III: Morrowind
+	- Jedi Knight 2
+	- Fallout 4 VR
+	- The Elder Scrolls V Skyrim VR
+- SP - HOTAS
+	- X-Wing & Tie Fighter
+	- X-Wing Alliance
+- MP
+	- Satisfactory
+## Wait for Better PC
+- SP
+	- Azgard's Wrath
+		- Azgard's Wrath 2
+	- Blade & Sorcery
+- SP - HOTAS
+	- Star Wars Squadrons
+	- Elite Dangerous
+- MP
+	- No Mans Sky
+
+## Finished Played
+- SP
+	- A Fisherman's Tale
+	- Batman™ Arkham VR
+	- Jedi Academy
+	- Half-Life
+	- Half-Life 2
+	- Big Breezy Boat
+	- Cosmic Trip
+	- Downward Spiral Horus Station
+	- Fruit Ninja VR
+	- GORN
+	- Half-Life Alyx
+	- FORM
+	- Holopoint
+	- Job Simulator
+	- Space Pirate Trainer 
+	- SUPERHOT VR
+	- Twilight Path
+	- VR Regatta - The Sailing Game
+	- Perspectives Paradise
+	- PLANNES
+- SP - Free
+	- The Lab
+	- The Scream
+	- The Homestead
+	- NVIDIA® VR Funhouse
+	- Propagation VR
+	- Google Earth VR
+	- Trials on Tatooine
+	- Yupitergrad Sneaki Peaki
+	- Home - A VR Spacewalk
+	- Nefertari Journey to Eternity
+	- Spider-Man Far From Home Virtual Reality
+	- theBlu
+	- Star Wars Droid Repair Bay
+	- Guns'n'Stories Preface VR
+	- The Night Cafe
+	- 
+- MP
+	- Arizona Sunshine
+	- Contractors VR
+	- Jet Island
+	- Killing Floor Incursion
+	- Karnage Chronicles
+	- Keep Talking and Nobody Explodes
+	- Tabletop Simulator
+	- The Forest
+	- Zero Caliber VR
+	- Pavlov VR
+	- PAYDAY 2
+	- Trickster VR
+## Not Interested
+- Synth Riders
+- Blaston
+- Battlezone
+- Bullets And More VR - BAM VR
+- Dragon Guide
+- Fantasynth One
+- QuiVr
+- QuiVr Vanguard
+- The Brookhaven Experiment
+- Water Bears VR
+- Hot Squat
+- Slightly Heroes VR
+- Smashbox Arena
+- JetX
+- Sprint Vector
+- Starbear Taxi
+- Swords of Gurrah
+- Tower Tag
+
+Child::[[VR Games - Old]]
+
+  
+
+# To Get
+## HOTAS  
+- Space SIM
+	- *Alliance: Peacefighter*
+	- *House of the Dying Sun*
+	- *Vector 36*
+- Flight SIM
+	- *Microsoft Flight Simulator (Dune DLC)*
+	- *IL-2 Sturmovik: Battle of Stalingrad*
+	- *Project Wingman*
+	- *Falcon BMS*
+	- *Warplanes: Battle over the Pacific*
+	- Ace Combat 7
+- Other
+	- *Mechwarriors 5*
+
+## WHEEL  
+- Redout?
+- Ballistic NG?
+- Project Cars
+- Dirt Rally
