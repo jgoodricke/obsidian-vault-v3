@@ -3,7 +3,7 @@
 - [ ] Disable auto-reloading
 - [ ] Enable sprint and decrease movement speed.
 
-# Remap Controls
+# Remap Controls?q
 
 | Control   | Weapon          | Slot |
 | --------- | --------------- | ---- |
