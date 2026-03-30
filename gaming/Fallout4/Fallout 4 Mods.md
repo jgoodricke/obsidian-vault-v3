@@ -35,6 +35,7 @@
 		- Gopnik Radio
 		- Old World Tunes
 	- Faster Decompression
+	- Fallout 3 Styled Vaults
 # TO FIND
 - Mod that restores The Wanderer to Diamond City Radio?
 - Add blood to enemies when wounded

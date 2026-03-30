@@ -1,14 +1,3 @@
----
-child:
-  - "[[Skyrim Old Modlist]]"
-  - "[[Skyrim New Mods to Install]]"
-  - "[[Modlist Changes]]"
-  - "[[Frostfall SPID]]"
-tags:
-  - Leaf
-  - Project
-frontmatter-version: 1
----
 # To Add
 Locational Damage AE (SKSE Plugin)
 Modern Lighting Overhaul 2 (MLO2)
