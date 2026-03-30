@@ -4,13 +4,16 @@
 - [ ] Enable sprint and decrease movement speed.
 
 # Remap Controls
-- Up: Fist
-- Up-alt: Chainsaw
-- Left: Pistol
-- Left-Alt: chaingun
-- Down: Shotgun
-- Down-Alt: Super Shotgun
-- Right: Rocket Launcher
-- Right-Alt: BFG-9000
-- Click: Plasma Gun
-- Click-Alt: Unmaker
+
+| Control   | Weapon          | Slot |
+| --------- | --------------- | ---- |
+| Up        | Fist            | 1    |
+| Up-alt    | Chainsaw        | 8    |
+| Left      | Pistol          | 2    |
+| Left-Alt  | Chaingun        | 4    |
+| Down      | Shotgun         | 3    |
+| Down-Alt  | Super Shotgun   |      |
+| Right     | Rocket Launcher | 5    |
+| Right-Alt | BFG-9000        | 7    |
+| Click     | Plasma Gun      | 6    |
+| Click-Alt | Unmaker         |      |
