@@ -5,6 +5,8 @@ Need clarification on this one:
     - Personal (including Health),
     - Financial,
     - Both options
+https://linear.app/webres-solutions/issue/CBR-104
+Confirm that this is referring to the Supporting Information Section
 
 # TODO
 - [ ] Get project running
