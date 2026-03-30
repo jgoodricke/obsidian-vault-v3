@@ -4,7 +4,7 @@
 - [x] Exact deploy commit confirmed
 - [x] Annotated tag created
 - [x] Tag pushed to origin
-- [ ] PR Created with release notes
+- [x] PR Created with release notes
 - [ ] PR reviewed
 - [ ] Deployment run
 - [ ] Migrations checked
