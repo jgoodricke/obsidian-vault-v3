@@ -2,13 +2,13 @@
 - [x] PRs merged and approved
 - [x] Latest main pulled locally
 - [x] Exact deploy commit confirmed
-- [x] Annotated tag created
-- [x] Tag pushed to origin
-- [x] PR Created with release notes
-- [x] PR reviewed
-- [x] Deployment run
-- [x] Migrations checked
-- [x] Smoke tests completed
+- [ ] Annotated tag created
+- [ ] Tag pushed to origin
+- [ ] PR Created with release notes
+- [ ] PR reviewed
+- [ ] Deployment run
+- [ ] Migrations checked
+- [ ] Smoke tests completed
 # Key Commands
 ```bash
 # Before Deployment
