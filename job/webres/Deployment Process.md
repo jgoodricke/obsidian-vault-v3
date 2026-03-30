@@ -5,10 +5,10 @@
 - [x] Annotated tag created
 - [x] Tag pushed to origin
 - [x] PR Created with release notes
-- [x] PR reviewed
-- [x] Deployment run
-- [x] Migrations checked
-- [x] Smoke tests completed
+- [ ] PR reviewed
+- [ ] Deployment run
+- [ ] Migrations checked
+- [ ] Smoke tests completed
 # Key Commands
 ```bash
 # Before Deployment

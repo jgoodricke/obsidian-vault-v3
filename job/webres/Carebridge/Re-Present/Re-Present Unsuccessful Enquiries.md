@@ -52,3 +52,4 @@
 - Unlimited re-presentation cycles are allowed on the same enquiry.
 - Existing undo behaviour stays unchanged, even for review-flow history entries.
 - No extra history attribution fields are added; status + comment + timestamp remain the visible audit trail.
+- Add happy-path integration tests using Playwright. Update the database/seeders/LocalTestDataSeeder.php to add required initial test conditions if that is required.

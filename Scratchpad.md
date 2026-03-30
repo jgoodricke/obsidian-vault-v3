@@ -1,3 +1,8 @@
+# Things to Change
+- [ ] Move ApplicationEnquiryReviewController to the Aplication Controller?
+- [ ] 
+
+
 # LLM Skills to Install
 grill-me
 improve-codebase-architecture

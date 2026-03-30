@@ -31,6 +31,24 @@ frontmatter-version: 1.0
 | wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl) |
 | cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste  |
 
+
+## Omarchy in Windows
+- Hyprland
+	- **GlazeWM**
+		-  **Zebar**
+		- **Gat**
+	- Komorebi
+	- Seelen
+- Hotkeys
+	- **Autohotkey**
+	- WHK
+- Launcher
+	- **Windows Command Pallette**
+- Menus
+	- Keypirinha?
+	- Flow Launcher
+
+
 # Git plugins
 - Git LFS
 - git-interactive-rebase-tool

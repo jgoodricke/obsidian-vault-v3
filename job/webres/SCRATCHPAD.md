@@ -1,3 +1,13 @@
+# Questions for Lisa
+https://linear.app/webres-solutions/issue/CBR-96
+Need clarification on this one:
+- Add Representative authority:
+    - Personal (including Health),
+    - Financial,
+    - Both options
+https://linear.app/webres-solutions/issue/CBR-104
+Confirm that this is referring to the Supporting Information Section
+
 # TODO
 - [ ] Get project running
 	- [ ] Set up Docker
