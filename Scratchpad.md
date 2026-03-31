@@ -1,32 +1,6 @@
-  1. What is the canonical ownership path for each model?
-     Define it explicitly per model
-  2. Is “organisation-owned” actually one concept here, or are there two scopes: company scope and
-     facility-assignment scope? 
-     they are two scopes.
-  3. What is the rule precedence? 
-     global admin bypass -> company scope -> facility assignment -> ability-specific rule.
-  4. What does User ownership mean? 
-     User is owned by company_id. user_groups is depricated and should be removed.
-  5. What does create authorize against when no record exists yet? For company-owned models, authorize against the parent model
-  6. Do you want query-time filtering, action-time authorization, or both? 
-     Both
-  7. How will you prevent route model binding leaks?
-     Avoid implicit route-model binding for org-owned resources until scoped
-     bindings are in place. When models don't exist return a 403 error.
-  8. Which abilities are truly generic, and which are domain actions?
-     Keep view/create/update/delete generic. Put transition, undo, transfer, refresh,
-     download behind ability methods only where the action has distinct business rules.
-  9. What is “global admin access still works where intended” supposed to exclude?
-     Essentially, Non-admin users do not have the ability to create, edit or delete companies, facilities or users. They are limited to interacting with the applications and enquiries. Admins should aslo have access to all of the same actions as other users, and thier actions are not scoped to any company. There are no records that global admins cannot mutate (except impersonating other global admins)
-  10. What is the unauthorized contract for background jobs, exports, and file streaming?
-      Standardize one rule for web responses and another for internal callers. File downloads in app/Http/Controllers/Portal/ApplicationFileController.php:14 are a good example where you need the same policy logic but not necessarily the same UX handling.
-  11. Are transition rules about object ownership, current state, or both?
-     Both, but separate them. Policy decides actor/resource access. Domain service
-     decides whether the state transition itself is valid. Don’t bury state-machine logic in
-     policies.
-  12. How much migration are you actually willing to do in one pass?
-      Ideally less would be better. However, the security audit dictates that all parts of the system that are accessible to users who are not super admins need to be fixed.
-
+# Things to Update
+- [ ] ApplicationRepresentative.php
+	- [ ] Convert those arrays to Enums
 
 
 
