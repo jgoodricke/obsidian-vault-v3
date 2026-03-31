@@ -10,7 +10,6 @@
   5. What does create authorize against when no record exists yet? For company-owned models, authorize against the parent model
   6. Do you want query-time filtering, action-time authorization, or both? 
      Both
-     ApplicationService.php:48 and app/Services/EnquiryService.php:14.
   7. How will you prevent route model binding leaks?
      Recommended: Either avoid implicit route-model binding for org-owned resources until scoped
      bindings are in place, or authorize immediately after binding and never vary the response by
