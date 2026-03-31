@@ -1,14 +1,20 @@
 # TODO
-- Make backup of DB before deleting records.
+- Make backup of DB before deploying these changes.
 
 # Things to Update
 - [ ] ApplicationRepresentative.php
 	- [ ] Convert those arrays to Enums
 - [ ] 2026_03_31_000001_create_application_representatives_table.php
 	- [ ] Change the name of the other_epoa_contact_info column to 'notes', rather than making a new column.
+- [ ] Form formatting
+	- [ ] Delete button is too large, move into the top corner.
+	- [ ] Add a prompt before deleting
+	- [ ] Move title to the next row
+	- [ ] Remove Representative X title
+- [ ] resources/js/pages/applications/components/form/components/epoa-details-section/index.tsx
+	- [ ] Rather than using the append method directly, make a seperate helper method to wrap that function.
 - [ ] Tests
 	- [ ] Also write tests for edge-cases.
-
 
 
 
