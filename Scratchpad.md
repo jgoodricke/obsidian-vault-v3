@@ -11,11 +11,8 @@
   6. Do you want query-time filtering, action-time authorization, or both? 
      Both
   7. How will you prevent route model binding leaks?
-     ???
-     Recommended: Either avoid implicit route-model binding for org-owned resources until scoped
-     bindings are in place, or authorize immediately after binding and never vary the response by
-     existence. Your acceptance criterion says 403, so be consistent: cross-org existing and
-     nonexistent should not produce distinguishable behavior in these flows.
+     Avoid implicit route-model binding for org-owned resources until scoped
+     bindings are in place. When models don't exist return a 403 error.
   8. Which abilities are truly generic, and which are domain actions?
      Keep view/create/update/delete generic. Put transition, undo, transfer, refresh,
      download behind ability methods only where the action has distinct business rules.
@@ -28,9 +25,7 @@
      decides whether the state transition itself is valid. Don’t bury state-machine logic in
      policies.
   12. How much migration are you actually willing to do in one pass?
-      Don’t try to flip every controller and query path at once. Start with the highest-
-     risk record actions and the most duplicated rules: Application, Enquiry, ApplicationFile,
-     Facility, Vacancy.
+      Ideally less would be better. However, the security audit dictates that all parts of the system that are accessible to users who are not super admins need to be fixed.
 
 
 
