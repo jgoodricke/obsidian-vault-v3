@@ -1,4 +1,40 @@
-
+  1. What is the canonical ownership path for each model?
+     Define it explicitly per model
+  2. Is “organisation-owned” actually one concept here, or are there two scopes: company scope and
+     facility-assignment scope? 
+     they are two scopes.
+  3. What is the rule precedence? 
+     global admin bypass -> company scope -> facility assignment -> ability-specific rule.
+  4. What does User ownership mean? 
+     User is owned by company_id. user_groups is depricated and should be removed.
+  5. What does create authorize against when no record exists yet? For company-owned models, authorize against the parent model
+  6. Do you want query-time filtering, action-time authorization, or both? 
+     Both
+     ApplicationService.php:48 and app/Services/EnquiryService.php:14.
+  7. How will you prevent route model binding leaks?
+     Recommended: Either avoid implicit route-model binding for org-owned resources until scoped
+     bindings are in place, or authorize immediately after binding and never vary the response by
+     existence. Your acceptance criterion says 403, so be consistent: cross-org existing and
+     nonexistent should not produce distinguishable behavior in these flows.
+  8. Which abilities are truly generic, and which are domain actions?
+     Recommended: Keep view/create/update/delete generic. Put transition, undo, transfer, refresh,
+     download behind ability methods only where the action has distinct business rules. Don’t force
+     every policy to implement meaningless methods just for symmetry.
+  9. What is “global admin access still works where intended” supposed to exclude?
+     Recommended: Write the exceptions down now. If there are records even super/system admins should
+     not mutate, encode that explicitly. “Where intended” becomes a bug farm otherwise.
+  10. What is the unauthorized contract for background jobs, exports, and file streaming?
+     Recommended: Standardize one rule for web responses and another for internal callers. File
+     downloads in app/Http/Controllers/Portal/ApplicationFileController.php:14 are a good example
+     where you need the same policy logic but not necessarily the same UX handling.
+  11. Are transition rules about object ownership, current state, or both?
+     Recommended: Both, but separate them. Policy decides actor/resource access. Domain service
+     decides whether the state transition itself is valid. Don’t bury state-machine logic in
+     policies.
+  12. How much migration are you actually willing to do in one pass?
+     Recommended: Don’t try to flip every controller and query path at once. Start with the highest-
+     risk record actions and the most duplicated rules: Application, Enquiry, ApplicationFile,
+     Facility, Vacancy.
 
 
 
