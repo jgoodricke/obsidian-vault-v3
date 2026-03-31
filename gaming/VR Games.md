@@ -1,7 +1,8 @@
 ## Playing
-- SP
+- SP - Quest
 	- Doom
 	- Doom 3
+- SP
 	- Space Engine
 	- Apex Construct
 	- Archangel Hellfire
@@ -28,7 +29,7 @@
 	- Phasmophobia
 	- PULSAR Lost Colony
 ## To Play
-- SP
+- SP - Quest
 	- Doom (https://www.questzdoom.com/recommended.html)
 		- Sigil
 		- Doom 2
@@ -45,11 +46,12 @@
 	- Quake 3
 	- Prey
 	- Tomb Raider
+	- Iron Lung
+- SP
 	- The Walking Dead Saints & Sinners
 	- The Talos Principle VR
 	- Firewatch
 	- A Fisherman's Tale 2
-	- Return to Castle Wolfenstein
 	- Paper Beast
 	- Maskmaker
 	- Scanner Sombre
@@ -66,7 +68,6 @@
 	- The Invisible Hours
 	- Vertigo Remastered
 	- XING The Land Beyond
-	- Iron Lung
 	- BONEWORKS
 	- The Wizards
 	- The Wizards - Dark Times
