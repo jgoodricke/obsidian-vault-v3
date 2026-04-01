@@ -1,13 +1,8 @@
----
-tags:
-  - Note
-  - Leaf
-frontmatter-version: 1
----
 ## Playing
-- SP
+- SP - Quest
 	- Doom
 	- Doom 3
+- SP
 	- Space Engine
 	- Apex Construct
 	- Archangel Hellfire
@@ -34,20 +29,29 @@ frontmatter-version: 1
 	- Phasmophobia
 	- PULSAR Lost Colony
 ## To Play
-- SP
+- SP - Quest
 	- Doom (https://www.questzdoom.com/recommended.html)
 		- Sigil
 		- Doom 2
-		- Doom 3D
+		- Doom 64
 		- Other 
 			- HacX
 			- Brutal Doom Hell on Earth
 	- Doom 3 DLC
+	- Wolfenstein 3D
+	- Return to Castle Wolfenstein
+	- Quake 2
+	- Quake 4
+	- Quake
+	- Quake 3
+	- Prey
+	- Tomb Raider
+	- Iron Lung
+- SP
 	- The Walking Dead Saints & Sinners
 	- The Talos Principle VR
 	- Firewatch
 	- A Fisherman's Tale 2
-	- Return to Castle Wolfenstein
 	- Paper Beast
 	- Maskmaker
 	- Scanner Sombre
@@ -64,16 +68,12 @@ frontmatter-version: 1
 	- The Invisible Hours
 	- Vertigo Remastered
 	- XING The Land Beyond
-	- Iron Lung
 	- BONEWORKS
 	- The Wizards
 	- The Wizards - Dark Times
 	- Detached
 	- Megaton Rainfall
 	- Groundhog Day Like Father Like Son
-	- Quake
-	- Quake 2
-	- Prey
 	- Vanishing Realms
 	- Bow to Blood Last Captain Standing
 	- Skyworld

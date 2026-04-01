@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/Epic Games Mobile Library.md",
+                "file": "gaming/VR Games.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Epic Games Mobile Library"
+              "title": "VR Games"
             }
           }
         ],
@@ -181,8 +181,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e7c1c3da6c57768",
+  "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "gaming/Epic Games Mobile Library.md",
+    "gaming/VR Mods.md",
     "gaming/VR Games.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "gaming/Doom/Todo.md",
@@ -200,7 +202,6 @@
     "job/webres/Carebridge/Pen Test",
     "Scratchpad.md",
     "job/webres/Carebridge/Route Matrix.md",
-    "gaming/Epic Games Mobile Library.md",
     "tech/Research/Your codebase is NOT ready for AI (here's how to fix it).md",
     "gaming/Elder Scrolls/Skyrim",
     "gaming/Elder Scrolls",
