@@ -19,6 +19,34 @@
 - [ ] Tests
 	- [ ] Also write tests for edge-cases.
 
+Fix these:
+  - [P1] Gate premium payload with the view permission — /home/james/Projects/
+    portal/app/Http/Resources/ApplicationResource.php:18-18
+    This switched the resource gate from application-view-premium-fields to
+    application-edit-premium-fields, but the React view still decides whether to
+    render the section from the view permission. In any role setup where a user
+    may view-but-not-edit premium data, the page will now show -/empty
+    representative data because patient_has_capacity_to_make_decisions, notes,
+    and representatives are omitted from the Inertia payload. 
+  - [P2] Clear stale other_type when a representative stops being Other — /home/
+    james/Projects/portal/resources/js/pages/applications/components/form/
+    index.tsx:107-115
+    This mapper forwards every representative field unchanged except
+    primary_decision_maker. Because other_type is rendered conditionally and the
+    form is not using shouldUnregister, a user can pick Other, enter Advocate,
+    then switch the same row to EPOA or POA; React Hook Form will keep the hidden
+    other_type value and it will be saved. The read-only card then renders
+    incorrect labels such as EPOA: Advocate. 
+  - [P2] Throw on transactional save failures instead of returning strings — /
+    home/james/Projects/portal/app/Services/ApplicationService.php:269-269
+    The new transaction only rolls back on exceptions, but the failure paths
+    inside this closure all return error strings (store() and
+    syncRepresentatives() swallow exceptions). If a representative insert fails
+    after syncRepresentatives() has deleted the old rows, the request reports an
+    error while still committing the delete and any earlier inserts, leaving the
+    application partially updated. 
+
+
 
 - [ ] Code review feedback:
 	- [ ] Serialize representative fields for premium editors — /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php:41-49  
