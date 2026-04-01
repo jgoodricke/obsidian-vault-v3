@@ -27,7 +27,7 @@ Fix these:
     render the section from the view permission. In any role setup where a user
     may view-but-not-edit premium data, the page will now show -/empty
     representative data because patient_has_capacity_to_make_decisions, notes,
-    and representatives are omitted from the Inertia payload. 
+    and representatives are omitted from the Inertia payload. - REVERT IN GIT 
   - [P2] Clear stale other_type when a representative stops being Other — /home/
     james/Projects/portal/resources/js/pages/applications/components/form/
     index.tsx:107-115
