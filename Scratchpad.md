@@ -13,7 +13,9 @@
 	- [ ] Remove Representative X title
 - [ ] resources/js/pages/applications/components/form/components/epoa-details-section/index.tsx
 	- [ ] Rather than using the append method directly, make a seperate helper method to wrap that function.
-- [ ] In /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php, update the gate to use edit instead of 
+- [ ] In /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php, update the gate to use edit instead of view permission.
+- [ ] Backfill required EPOA fields during migration — /home/james/Projects/portal/database/migrations/2026_03_31_000001_create_application_representatives_table.php:60-72  
+	  This backfill creates every legacy EPOA representative with authority and primary_decision_maker set to null, but the new validation now requires both for any EPOA row. After deploying this migration, any existing application that had legacy EPOA data will fail validation on the next edit unless a user manually repairs those new fields first, even if they were only changing an unrelated field.
 - [ ] Tests
 	- [ ] Also write tests for edge-cases.
 
