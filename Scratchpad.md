@@ -4,8 +4,8 @@
 # Things to Update
 - [x] ApplicationRepresentative.php
 	- [x] Convert those arrays to Enums
-- [ ] 2026_03_31_000001_create_application_representatives_table.php
-	- [ ] Change the name of the other_epoa_contact_info column to 'notes', rather than making a new column.
+- [x] 2026_03_31_000001_create_application_representatives_table.php
+	- [x] Change the name of the other_epoa_contact_info column to 'notes', rather than making a new column.
 - [ ] Form formatting
 	- [ ] Delete button is too large, move into the top corner.
 	- [ ] Add a prompt before deleting
