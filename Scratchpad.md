@@ -13,13 +13,18 @@
 	- [ ] Remove Representative X title
 - [ ] resources/js/pages/applications/components/form/components/epoa-details-section/index.tsx
 	- [ ] Rather than using the append method directly, make a seperate helper method to wrap that function.
+- [ ] In /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php, update the gate to use edit instead of 
 - [ ] Tests
 	- [ ] Also write tests for edge-cases.
 
 
-
-
-
+- [ ] Code review feedback:
+	- [ ] Serialize representative fields for premium editors — /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php:41-49  
+	  The edit form is hydrated from application.data, but these new premium fields are only sent when the user has application-view-premium-fields. A role can have application-edit-premium-fields without that view permission, and in that case the sidebar opens with patient_has_capacity_to_make_decisions = null, notes = undefined, and representatives = []; submitting any unrelated edit then clears the saved representative data. Please expose these fields whenever the current user is allowed to edit them, or load the edit form from a source that is not gated by the view permission.
+	- [ ] Backfill required EPOA fields during migration — /home/james/Projects/portal/database/migrations/2026_03_31_000001_create_application_representatives_table.php:60-72  
+	  This backfill creates every legacy EPOA representative with authority and primary_decision_maker set to null, but the new validation now requires both for any EPOA row. After deploying this migration, any existing application that had legacy EPOA data will fail validation on the next edit unless a user manually repairs those new fields first, even if they were only changing an unrelated field.
+	- [ ] Throw on save failures inside the new transaction — /home/james/Projects/portal/app/Services/ApplicationService.php:265-280  
+	  DB::transaction() only rolls back when the closure throws, but the failure paths here just return error strings. Because store()/syncRepresentatives() catch exceptions and return strings, a representative insert failure after representatives()->delete() or an application_files save failure will still commit the earlier writes. On update that can permanently delete the old representatives even though the request is reported as failed.
 # Things to Change
 - [ ] Move ApplicationEnquiryReviewController to the Aplication Controller?
 - [ ] 
