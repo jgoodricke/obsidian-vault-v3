@@ -6,11 +6,11 @@
 	- [x] Convert those arrays to Enums
 - [x] 2026_03_31_000001_create_application_representatives_table.php
 	- [x] Change the name of the other_epoa_contact_info column to 'notes', rather than making a new column.
-- [ ] Form formatting
-	- [ ] Delete button is too large, move into the top corner.
-	- [ ] Add a prompt before deleting
-	- [ ] Move title to the next row
-	- [ ] Remove Representative X title
+- [x] Form formatting
+	- [x] Delete button is too large, move into the top corner.
+	- [x] Add a prompt before deleting
+	- [x] Move title to the next row
+	- [x] Remove Representative X title
 - [ ] resources/js/pages/applications/components/form/components/epoa-details-section/index.tsx
 	- [ ] Rather than using the append method directly, make a seperate helper method to wrap that function.
 - [x] In /home/james/Projects/portal/app/Http/Resources/ApplicationResource.php, update the gate to use edit instead of view permission.
