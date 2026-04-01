@@ -37,7 +37,7 @@ Fix these:
     then switch the same row to EPOA or POA; React Hook Form will keep the hidden
     other_type value and it will be saved. The read-only card then renders
     incorrect labels such as EPOA: Advocate. 
-  - [ ] Throw on transactional save failures instead of returning strings — /
+  - [x] Throw on transactional save failures instead of returning strings — /
     home/james/Projects/portal/app/Services/ApplicationService.php:269-269
     The new transaction only rolls back on exceptions, but the failure paths
     inside this closure all return error strings (store() and
