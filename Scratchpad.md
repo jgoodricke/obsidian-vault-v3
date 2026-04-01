@@ -20,7 +20,7 @@
 	- [ ] Also write tests for edge-cases.
 
 Fix these:
-  - [P1] Gate premium payload with the view permission — /home/james/Projects/
+  - [x] Gate premium payload with the view permission — /home/james/Projects/
     portal/app/Http/Resources/ApplicationResource.php:18-18
     This switched the resource gate from application-view-premium-fields to
     application-edit-premium-fields, but the React view still decides whether to
@@ -28,7 +28,7 @@ Fix these:
     may view-but-not-edit premium data, the page will now show -/empty
     representative data because patient_has_capacity_to_make_decisions, notes,
     and representatives are omitted from the Inertia payload. - REVERT IN GIT 
-  - [P2] Clear stale other_type when a representative stops being Other — /home/
+  - [ ] Clear stale other_type when a representative stops being Other — /home/
     james/Projects/portal/resources/js/pages/applications/components/form/
     index.tsx:107-115
     This mapper forwards every representative field unchanged except
@@ -37,7 +37,7 @@ Fix these:
     then switch the same row to EPOA or POA; React Hook Form will keep the hidden
     other_type value and it will be saved. The read-only card then renders
     incorrect labels such as EPOA: Advocate. 
-  - [P2] Throw on transactional save failures instead of returning strings — /
+  - [ ] Throw on transactional save failures instead of returning strings — /
     home/james/Projects/portal/app/Services/ApplicationService.php:269-269
     The new transaction only rolls back on exceptions, but the failure paths
     inside this closure all return error strings (store() and
