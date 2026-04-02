@@ -68,6 +68,12 @@ Risk of Rain 2: [https://thunderstore.io/package/DrBibop/VRMod/](https://thunder
 Valheim: [https://www.nexusmods.com/valheim/mods/847](https://www.nexusmods.com/valheim/mods/847)  
   
 # Singleplayer
+Hogwarts Legacy
+https://mixed-news.com/en/hogwarts-legacy-vr-mod/
+
+Halo
+https://github.com/LivingFray/HaloCEVR
+
 Breath of the Wild:
 https://crementif.github.io/BotW-BetterVR/
 
