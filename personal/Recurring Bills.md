@@ -22,7 +22,7 @@ frontmatter-version: 1
 
 # My Account
 Bi-Weely: 200
-My Monthly Allowance Bank Balance:  $190
+My Monthly Allowance Bank Balance:  $19066.3
 ## Monthly
 **Note:** Re-Check and Reset every October
 
