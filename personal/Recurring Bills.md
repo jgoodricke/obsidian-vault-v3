@@ -21,15 +21,16 @@ frontmatter-version: 1
 
 
 # My Account
-Total Allowance: $216.66
+Bi-Weely: 200
 My Monthly Allowance Bank Balance:  $190
 ## Monthly
 **Note:** Re-Check and Reset every October
 
-| Item       | Price  | Note    |
-| ---------- | ------ | ------- |
-| Audible    | $8.99  |         |
-| Sunsama    | $30.65 | $20 USD |
+| Item    | Price  | Note    |
+| ------- | ------ | ------- |
+| Audible | $8.99  |         |
+| Sunsama | $30.65 | $20 USD |
+
 
 
 Total: $69
