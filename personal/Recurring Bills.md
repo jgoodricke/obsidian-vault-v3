@@ -17,7 +17,7 @@ frontmatter-version: 1
 | Union Membership | $70.66  |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     |      |
-**TOTAL:** $375.49  
+**TOTAL:** $304.83
 
 
 # My Account
