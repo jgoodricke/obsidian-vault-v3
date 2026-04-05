@@ -1,11 +1,3 @@
-- [ ] prepare a one-page chronology with only the key dates
-- [ ] prepare a document bundle of about 8 to 12 items
-- [ ] write your 2 to 3 minute opening
-- [ ] write your ideal, realistic and minimum settlement positions
-- [ ] decide which non-money terms matter most
-- [ ] have a calculator or notes ready for your settlement range
-- [ ] keep a pen-and-paper list of offers and counteroffers during the call
-- [ ] do not agree on the spot unless you understand every term.
 
 
 
