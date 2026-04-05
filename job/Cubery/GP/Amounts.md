@@ -95,5 +95,5 @@ If you want, I can also turn this into a short opening statement for the start o
 - rewriting the whole performance history.
 
 ## What to say if the employer proposes a broad deed
-
+ 
 > My main focus is financial resolution of this application, but I am not prepared to settle on terms that release unrelated statutory entitlements. Any release would need to be limited to this general protections matter, or expressly carve out any underpayment, wages, superannuation, leave and other minimum entitlement claims.
