@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/VR Mods.md",
+                "file": "gaming/Doom/Todo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "VR Mods"
+              "title": "Todo"
             }
           }
         ],
@@ -183,10 +183,11 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
-    "tech/Research/Using Ralph.md",
-    "gaming/VR Mods.md",
-    "gaming/VR Games.md",
+    "job/Cubery/GP/Amounts.md",
     "gaming/Epic Games Mobile Library.md",
+    "gaming/VR Mods.md",
+    "tech/Research/Using Ralph.md",
+    "gaming/VR Games.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "gaming/Doom/Todo.md",
     "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",

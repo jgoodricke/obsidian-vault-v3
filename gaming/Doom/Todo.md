@@ -1,8 +1,6 @@
 # TODO
-- [ ] Enable reloading
-- [ ] Disable auto-reloading
-- [ ] Enable sprint and decrease movement speed.
-
+- [ ] install PyWeaponWheelVR
+- [ ] Install HyprV for melee attacks
 # Remap Controls?q
 
 | Control   | Weapon          | Slot |

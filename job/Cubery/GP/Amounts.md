@@ -1,9 +1,30 @@
 ### My numbers
+Open at $45,000
+First move to $36,000
+
+Narrow Release:
+Serious zone $18,000 to $26,000
+Bottom line $10,000 to $14,000
+Broad release
+Serious zone $24,000 to $32,000
+Bottom line $15,000 to $20,000
+4
+Absolutely Minimum: $7,500
+
+
+
 
 **Opening position:** $55,000  
 **Target range:** $25,000 to $35,000  
 **Private bottom line:** $20,000  
 **Below $15,000:** not a serious settlement zone
+
+**If they know about my new job:**
+
+Ideal: $28,000
+Realistic: $14,000 to $18,000
+Minimum: $7,500, but only with a narrow release
+Minimum if they want a broad release affecting unpaid wages claims: at least $12,000 to $15,000, or no deal.
 
 ### Non-monetary terms to ask for
 

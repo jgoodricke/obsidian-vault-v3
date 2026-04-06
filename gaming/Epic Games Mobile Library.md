@@ -44,3 +44,4 @@
 - Wonder Boy: The Dragon Trap
 - Potion Permit CF
 - the wreck
+- Dumb ways to die 2
