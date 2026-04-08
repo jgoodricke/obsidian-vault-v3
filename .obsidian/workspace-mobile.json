@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/Doom/Todo.md",
+                "file": "Scratchpad.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Scratchpad"
             }
           }
         ],
@@ -183,13 +183,13 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "gaming/Doom/Todo.md",
     "job/Cubery/GP/Amounts.md",
     "gaming/Epic Games Mobile Library.md",
     "gaming/VR Mods.md",
     "tech/Research/Using Ralph.md",
     "gaming/VR Games.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
-    "gaming/Doom/Todo.md",
     "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "job/webres/Names.md",
     "gaming/Doom",
