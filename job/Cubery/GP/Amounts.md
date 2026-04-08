@@ -1,4 +1,11 @@
 ### My numbers
+- Open at **$38,000**
+- First move to **$30,000**
+- Serious zone **$18,000 to $26,000**
+- Bottom line **$10,000 to $14,000**
+
+
+
 Open at $45,000
 First move to $36,000
 
