@@ -1,3 +1,6 @@
+I am having trouble with this item. It stops working intermittently, and we need to power cycle it to get it working again. I would like to make a warrantee claim.
+
+
 I am having trouble adding paid parental leave.
 208097455T
 
