@@ -1,3 +1,58 @@
+Hi Ryan,
+
+Thanks again for sending through the agreement and proposal.
+
+We understand this is a fixed-fee service rather than a commission-based structure. Before signing, we wanted to clarify a few points so that everything is clear and aligned.
+
+1. Tail clause
+
+We noticed the agreement says the fee may still be payable for purchases made within 12 months after termination. Would you be open to reducing this period to 3 months, and limiting it only to properties you had already introduced to us in writing, such as by email?
+
+2. When the fee applies
+
+Can we please clarify that the fixed fee only applies where you have materially assisted with sourcing and/or negotiating the purchase of the property?
+
+3. Exclusive arrangement
+
+We understand this is an exclusive buyer's agency arrangement. Could you please confirm that the fee would not apply if we independently purchased a property that had not been introduced by you and where you had not materially assisted?
+
+4. Payment timing
+
+Could you please confirm exactly when the balance of the fee is payable?
+
+We noticed the documents refer to slightly different points, including contract signed and unconditional exchange, so we would appreciate confirmation of the intended timing.
+
+6. If no property is found within 60 days
+
+The proposal mentions finding a property within 60 days. If a suitable property is not found within that period, what happens then?
+
+7. Termination after the minimum term
+
+Would it be possible to include a clearer exit mechanism if either party wishes to end the engagement after the minimum term?
+
+8. Extra costs
+
+Could you please confirm whether there are any additional charges beyond the fixed fee, such as auction bidding, extra inspections, third-party liaison, or any other costs, apart from external services like building inspections, conveyancing, or similar items paid to third parties?
+
+9. Property brief
+
+Could we also please confirm that our property brief will be recorded accurately in writing in the engagement, including the property type, budget and preferred areas, so there is no misunderstanding later?
+
+10. Authority to act on our behalf
+
+We noticed the proposal mentions signing on behalf of the client if authority is given. We would want any such authority to be limited to a separate written approval for a specific property only. Please let us know if that can be noted.
+
+Thanks again. We appreciate your help and just want to make sure everything is clear before proceeding.
+
+Kind regards,
+
+James and Christy
+
+
+
+
+
+
 I am having trouble with this item. It stops working intermittently, and we need to power cycle it to get it working again. I would like to make a warrantee claim.
 
 
