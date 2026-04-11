@@ -28,4 +28,6 @@
     malformed bid.
 
 
+It may be worth starting with an app first for drivers. I don't know if using a web browser is practical for this sort of thing.
 
+This needs a framework on the backend.
