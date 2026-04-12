@@ -23,13 +23,15 @@ We also wanted to check how properties you show us would normally be recorded. F
 We also wanted to ask how third-party services or costs would usually work if something needed to be arranged on our behalf.
 
 **Authority**  
-And if there is ever a situation where you would be acting on our behalf for a property, could you please explain how that would usually work? For example, would that only happen if we had first given clear written approval for that specific property and purchase?
+If there is ever a situation where you would be acting on our behalf for a property, could you please explain how that would usually work? For example, would that only happen if we had first given clear written approval for that specific property and purchase?
 
-**Costs, refunds, and ending the agreement**  
+**Costs** 
 Could you please confirm whether there are any charges beyond the fixed fee, apart from outside services like building inspections, conveyancing, or other third-party costs?
 
+**Refunds**  
 We understand the initial retainer is non-refundable, but could you also let us know whether any other part of the fee would ever be refundable, including if the engagement ends early or if we do not end up purchasing during the engagement period?
 
+**Costs, refunds, and ending the agreement**  
 We’d also appreciate a bit more clarity on what happens after the minimum term if either side decides not to continue.
 
 Thanks again. We appreciate your help and just want to make sure we’ve understood everything clearly before proceeding.
