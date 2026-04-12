@@ -31,7 +31,7 @@ Could you please confirm whether there are any charges beyond the fixed fee, apa
 **Refunds**  
 We understand the initial retainer is non-refundable, but could you also let us know whether any other part of the fee would ever be refundable, including if the engagement ends early or if we do not end up purchasing during the engagement period?
 
-**Costs, refunds, and ending the agreement**  
+**Ending the agreement**  
 We’d also appreciate a bit more clarity on what happens after the minimum term if either side decides not to continue.
 
 Thanks again. We appreciate your help and just want to make sure we’ve understood everything clearly before proceeding.
