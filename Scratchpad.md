@@ -2,6 +2,76 @@ Hi Ryan,
 
 Thanks again for sending through the agreement and proposal.
 
+We understand this is a fixed-fee service rather than a commission-based structure. Before signing, we wanted to clarify a few points and discuss a few possible amendments so that everything is clear and aligned.
+
+1. Clause 1.7.4, exclusivity and 12-month tail  
+    We noticed the agreement says the fee may still be payable even if we purchase a property ourselves, and also for purchases within 12 months after termination. We would be more comfortable if this were narrowed so that it only applies to properties you clearly identified to us in writing and where you materially assisted with sourcing and/or negotiating the purchase. If the tail period remains, would you be open to reducing it from 12 months to 3 months?
+2. Clause 1.4.2, obligation to cooperate  
+    The wording requiring us to cooperate with you “at all times” feels quite broad. Would you be open to softening this to something like acting reasonably and responding within a reasonable time?
+3. When the fee applies  
+    Can we please clarify that the fixed fee only applies where you have materially assisted with sourcing and/or negotiating the purchase of the property?
+4. Payment timing  
+    Could you please confirm exactly when the balance of the fee is payable?  
+    At the moment the documents seem inconsistent:
+- page 1 says the balance is due on contract signed
+- clause 1.8 refers to exchanged unconditional
+- the proposal says the balance is paid once the contract becomes unconditional
+
+As these are not all the same thing, we would appreciate confirmation of the intended timing and for the wording to be made consistent.
+
+
+6. Proposal promises and contract wording  
+    The proposal refers to:
+- finding a property within 60 days
+- getting everything done for us
+- signing on behalf of the client if authority is given
+
+However, the contract itself does not appear to clearly lock these points in, and clause 1.19 says the written agreement is the whole agreement and that prior representations are not relied upon. Could you please confirm which parts of the proposal are intended to be binding, and whether any key promises should be written expressly into the agreement itself?
+
+7. If no property is found within 60 days  
+    The proposal mentions finding a property within 60 days. If a suitable property is not found within that period, what happens then?  
+    For example, does the agreement end automatically, continue until terminated, or require a formal extension by both parties?
+    
+8. Termination after the minimum term  
+    Would it be possible to include a clearer exit mechanism if either party wishes to end the engagement after the minimum term?
+    
+9. Clause 1.10, third-party information  
+    We noticed the clause says there is no warranty for third-party information. We understand that a buyer’s agent may rely on third-party data, but as drafted this seems quite broad. Could this be clarified or softened so there is still some reasonable accountability where information relied upon is materially wrong?
+    
+10. Clause 1.11, third-party referrals and costs  
+    We would want any third-party services arranged on our behalf to require our prior written approval. Could this be added so that no third-party costs are incurred without our written consent first?
+    
+11. Clause 1.14, client indemnity  
+    This indemnity seems quite broad, particularly the part covering claims arising out of the agent’s “proper performance”. We would be more comfortable if this were narrowed so that it only covers losses arising from our own breach of the agreement.
+    
+12. Extra costs  
+    Could you please confirm whether there are any additional charges beyond the fixed fee, such as auction bidding, extra inspections, third-party liaison, or any other costs, apart from external services like building inspections, conveyancing, or similar third-party costs approved by us?
+    
+13. Refunds and non-refundable amount  
+    We understand the initial retainer is non-refundable. Could you please confirm whether any other portion of the fee is refundable in any circumstances, including if the engagement ends within the first few weeks or if we do not proceed with a purchase?
+    
+14. Property brief  
+    Could we also please confirm that our property brief will be recorded accurately in writing in the engagement, including property type, budget and preferred areas, so there is no misunderstanding later?
+    
+15. Authority to act on our behalf  
+    We noticed the proposal mentions signing on behalf of the client if authority is given. We would only be comfortable with that if any such authority were limited to a separate written approval for a specific property and transaction. Please let us know if that can be noted.
+    
+
+Thanks again. We appreciate your help and just want to make sure everything is clear before proceeding.
+
+Kind regards,  
+James and Christy
+
+
+
+
+---
+
+
+Hi Ryan,
+
+Thanks again for sending through the agreement and proposal.
+
 We understand this is a fixed-fee service rather than a commission-based structure. Before signing, we wanted to clarify a few points so that everything is clear and aligned.
 
 1. Tail clause
@@ -50,6 +120,36 @@ James and Christy
 
 
 
+
+Points to add: 
+1.7.4 Exclusive agreement, fee payable regardless, 12 month tail
+- the clause does **not** apply to properties you independently found without their involvement
+1.4.2 Cooperate at all times
+- “at all times” is too broad. I would want this softened to something like “act reasonably and respond within a reasonable time”.
+1.4.4 Do not buy presented properties except through them
+- very broad. It would be better to limit this to properties clearly identified in writing by address and only where the agent materially assisted.
+1.7.4 Exclusive agreement, fee payable regardless, 12 month tail
+- the clause does **not** apply to properties you independently found without their involvement
+1.10 No warranty for third-party information
+- quite broad. In practice, a buyer’s agent will often rely on third-party data, so this gives you little recourse if information is wrong.
+1.11 Third-party referrals and costs
+- this is the clause that effectively lets them arrange third-party services at your cost. I would want this changed so they can only do that **with your prior written approval**.
+1.14 Client indemnity
+- this is unusually broad. The part covering claims arising out of the agent’s “proper performance” is particularly agent-friendly. I would want this narrowed to losses caused by **your breach only**.
+1.8 When commission is payable
+- This needs to be clarified
+	- The proposal says:
+		- “We find the property within 60 days”
+		- “Balance paid once the contract becomes unconditional”
+		- “Contract signed on behalf of client (if Authority is given)”
+	- But the contract itself:
+		- does **not** promise they will find a property within 60 days
+		- says the balance is due on **contract signed** on page 1, but clause 1.8 says **exchanged unconditional**
+		- does **not** set out any proper limits or process around signing on your behalf
+**3. The fee timing is inconsistent**  
+Page 1 says the balance is due on **contract signed**. Clause 1.8 says the commission is payable once contracts have **exchanged unconditional**. The proposal says the balance is paid once the contract becomes **unconditional**. Those are not all the same thing, and they should be made consistent before signing.
+**4. The proposal promises are not safely locked in**  
+The proposal says things like “we find the property within 60 days”, “we get EVERYTHING done for you”, and “contract signed on behalf of client (if Authority is given)”. But clause 1.19 says the written agreement is the **whole agreement** and you are **not relying on prior representations**. So unless a promise is clearly written into the contract itself, it may not be enforceable.
 
 
 
