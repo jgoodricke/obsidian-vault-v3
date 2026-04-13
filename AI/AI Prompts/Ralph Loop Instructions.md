@@ -1,12 +1,11 @@
 Do the following for bead epic portal-e8e:
 
-# Ralph Loop Instructions
-
 ## Before Doing Anything
 
 - Read and obey `AGENTS.md` and relevant repo instructions.
 - Read the root epic and all comments on the epic.
 - Decide what to do next yourself. Do not expect the caller to narrow the task list for you.
+
 ## Rules
 
 - Own Beads task management under this epic.
