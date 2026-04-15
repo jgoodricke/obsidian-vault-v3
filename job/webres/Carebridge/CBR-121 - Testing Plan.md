@@ -38,11 +38,11 @@ Manual Matrix
 	- [x] map access with scoped application context
 	- [x] request review on an unsuccessful enquiry
 	- [x] one explicit denial when opening another company's application
-- [ ] Provider User Free: 
-	- [ ] assigned-facility application access, 
-	- [ ] application file download, 
-	- [ ] enquiry view/transition on the assigned facility, 
-	- [ ] and one explicit denial through an unassigned or foreign-company facility.
+- [x] Provider User Free: 
+	- [x] assigned-facility application access, 
+	- [x] application file download, 
+	- [x] enquiry view/transition on the assigned facility, 
+	- [x] and one explicit denial through an unassigned or foreign-company facility.
 - [ ] Hospital Administrator: 
 	- [ ] same-company visibility without needing facility assignment, 
 	- [ ] one admin-managed user or company update inside company scope, 
