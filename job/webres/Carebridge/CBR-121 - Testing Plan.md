@@ -75,7 +75,7 @@
     relationship or company plan, then confirm direct company_id behavior, facility
     assignments still make sense, and the resulting role/scope behavior refreshes as
     expected.
-  - [ ] Review email side effect: cover one enquiry review path end-to-end and confirm the
+  - [ ]  Review email side effect: cover one enquiry review path end-to-end and confirm the
     expected recipient/routing once in Mailpit at http://localhost:8027.
 
   Test Scenarios and Evidence
