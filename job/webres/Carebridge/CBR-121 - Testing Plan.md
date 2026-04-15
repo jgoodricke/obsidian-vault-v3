@@ -48,34 +48,34 @@
 
   Manual Matrix
 
-  - Hospital User Free: verify own-company application list/view/create, map access with
+  - [ ] Hospital User Free: verify own-company application list/view/create, map access with
     scoped application context, request review on an unsuccessful enquiry, and one
     explicit denial when opening another company’s application.
-  - Provider User Free: verify assigned-facility application access, application file
+  - [ ] Provider User Free: verify assigned-facility application access, application file
     download, enquiry view/transition on the assigned facility, and one explicit denial
     through an unassigned or foreign-company facility.
-  - Hospital Administrator: verify same-company visibility without needing facility
+  - [ ] Hospital Administrator: verify same-company visibility without needing facility
     assignment, one admin-managed user or company update inside company scope, and one
     denial for updating a target outside company scope.
-  - Provider Administrator: verify company-wide facility and enquiry access without
+  - [ ] Provider Administrator: verify company-wide facility and enquiry access without
     explicit per-facility assignment, one valid enquiry transition, one valid vacancy
     delete inside company scope, and one denial outside company scope.
-  - Hospital User Paid: verify paid-only premium fields are visible/editable on an
+- [ ] Hospital User Paid: verify paid-only premium fields are visible/editable on an
     accessible application and persist correctly.
-  - Provider User Paid: verify paid-only premium fields are visible on an accessible
+  - [ ]  Provider User Paid: verify paid-only premium fields are visible on an accessible
     application; do not duplicate full provider authorization coverage here.
-  - Facility Manager: smoke only. Verify assigned facility detail and vacancy delete
+  - [ ] Facility Manager: smoke only. Verify assigned facility detail and vacancy delete
     succeed, and an out-of-assignment facility/vacancy is forbidden.
-  - Account Manager: smoke only. Verify company, user, and facility pages remain
+  - [ ] Account Manager: smoke only. Verify company, user, and facility pages remain
     accessible outside the manager’s own company. Do not use this role to prove
     application permissions.
-  - System Administrator: smoke only. Verify out-of-organisation application/map access
+  - [ ] System Administrator: smoke only. Verify out-of-organisation application/map access
     and vacancy refresh/global admin behavior.
-  - Admin mutation: run one focused mutation scenario that changes a user/company
+  - [ ] Admin mutation: run one focused mutation scenario that changes a user/company
     relationship or company plan, then confirm direct company_id behavior, facility
     assignments still make sense, and the resulting role/scope behavior refreshes as
     expected.
-  - Review email side effect: cover one enquiry review path end-to-end and confirm the
+  - [ ] Review email side effect: cover one enquiry review path end-to-end and confirm the
     expected recipient/routing once in Mailpit at http://localhost:8027.
 
   Test Scenarios and Evidence
