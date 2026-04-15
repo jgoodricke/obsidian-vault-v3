@@ -48,11 +48,10 @@ Manual Matrix
 	- [ ] one admin-managed user or company update inside company scope, 
 	- [ ] and one denial for updating a target outside company scope.
 - [ ] Provider Administrator: 
-	- [ ] verify 
-		- [ ] company-wide facility and enquiry access without explicit per-facility assignment, 
-		- [ ] one valid enquiry transition, 
-		- [ ] one valid vacancy delete inside company scope, 
-		- [ ] and one denial outside company scope.
+	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, 
+	- [ ] one valid enquiry transition, 
+	- [ ] one valid vacancy delete inside company scope, 
+	- [ ] and one denial outside company scope.
 - [ ] Hospital User Paid: 
 	- [ ] paid-only premium fields are visible/editable on an accessible application and persist correctly.
 - [ ] Provider User Paid: 
