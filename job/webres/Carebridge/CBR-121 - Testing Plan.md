@@ -45,7 +45,7 @@ Manual Matrix
 	- [x] and one explicit denial through an unassigned or foreign-company facility.
 - [ ] Hospital Administrator: 
 	- [x] same-company visibility without needing facility assignment, 
-	- [ ] one admin-managed user or company update inside company scope, 
+	- [x] one admin-managed user or company update inside company scope, 
 	- [ ] and one denial for updating a target outside company scope.
 - [ ] Provider Administrator: 
 	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, 
