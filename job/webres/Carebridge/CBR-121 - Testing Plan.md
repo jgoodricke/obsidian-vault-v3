@@ -33,20 +33,20 @@ Execution Order
 
 Manual Matrix
 
-- [x] Hospital User Free:
-	- [x] own-company application list/view/create
-	- [x] map access with scoped application context
-	- [x] request review on an unsuccessful enquiry
-	- [x] one explicit denial when opening another company's application
-- [x] Provider User Free: 
-	- [x] assigned-facility application access, 
-	- [x] application file download, 
-	- [x] enquiry view/transition on the assigned facility, 
-	- [x] and one explicit denial through an unassigned or foreign-company facility.
-- [x] Hospital Administrator: 
-	- [x] same-company visibility without needing facility assignment, 
-	- [x] one admin-managed user or company update inside company scope, 
-	- [x] and one denial for updating a target outside company scope.
+- [ ] Hospital User Free:
+	- [ ] own-company application list/view/create
+	- [ ] map access with scoped application context
+	- [ ] request review on an unsuccessful enquiry
+	- [ ] one explicit denial when opening another company's application
+- [ ] Provider User Free: 
+	- [ ] assigned-facility application access, 
+	- [ ] application file download, 
+	- [ ] enquiry view/transition on the assigned facility, 
+	- [ ] and one explicit denial through an unassigned or foreign-company facility.
+- [ ] Hospital Administrator: 
+	- [ ] same-company visibility without needing facility assignment, 
+	- [ ] one admin-managed user or company update inside company scope, 
+	- [ ] and one denial for updating a target outside company scope.
 - [ ] Provider Administrator: 
 	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, - THIS ISN'T WORKING!!! 
 	- [ ] one valid enquiry transition, 
