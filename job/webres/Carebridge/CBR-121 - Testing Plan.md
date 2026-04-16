@@ -63,14 +63,14 @@ Manual Matrix
 - [ ] Account Manager: smoke only. 
 	- [ ] Verify company, user, and facility pages remain accessible outside the manager's own company. 
 		- [ ] Do not use this role to prove application permissions.
-- [ ] System Administrator: smoke only. 
-	- [ ] Verify out-of-organisation application/map access and vacancy refresh/global admin behavior.
+- [x] System Administrator: smoke only. 
+	- [x] Verify out-of-organisation application/map access and vacancy refresh/global admin behavior.
 - [ ] Admin mutation: 
 	- [ ] run one focused mutation scenario that changes a user/company relationship or company plan, 
 	- [ ] then confirm direct `company_id` behavior, facility assignments still make sense, and the resulting role/scope behavior refreshes as expected.
-- [ ] Review email side effect: 
-	- [ ] cover one enquiry review path end-to-end 
-	- [ ] and confirm the expected recipient/routing once in Mailpit at http://localhost:8027.
+- [x] Review email side effect: 
+	- [x] cover one enquiry review path end-to-end 
+	- [x] and confirm the expected recipient/routing once in Mailpit at http://localhost:8027.
 
 Test Scenarios and Evidence
 
