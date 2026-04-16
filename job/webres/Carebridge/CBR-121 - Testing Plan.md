@@ -33,11 +33,11 @@ Execution Order
 
 Manual Matrix
 
-- [ ] Hospital User Free:
-	- [ ] own-company application list/view/create
-	- [ ] map access with scoped application context
-	- [ ] request review on an unsuccessful enquiry
-	- [ ] one explicit denial when opening another company's application
+- [x] Hospital User Free:
+	- [x] own-company application list/view/create
+	- [x] map access with scoped application context
+	- [x] request review on an unsuccessful enquiry
+	- [x] one explicit denial when opening another company's application
 - [ ] Provider User Free: 
 	- [ ] assigned-facility application access, 
 	- [ ] application file download, 
