@@ -4,6 +4,26 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIZzUUlhinUotLUTFXpfq57rNvURofJZDnHNL7fN4oFm
 
 
 
+# Inspections
+8 Walbrook Drive
+
+22 Federal Drive
+- External door
+- shade cloth broken
+
+42 Howqua Way
+- didn't go inside
+- School and playground nearby
+
+15 Olvallia Rd
+- Paint bubbling in bathroom
+
+
+3 Maculata Pl
+- 
+
+
+
 # TODO
 - Make backup of DB before deploying these changes.
 

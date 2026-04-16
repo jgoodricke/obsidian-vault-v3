@@ -7,6 +7,8 @@ frontmatter-version: 1
 # Joint Account
 
 ## Monthly Bills
+Rent:
+$3076
 
 | Item             | Price   | Note                                        | Paid |
 | ---------------- | ------- | ------------------------------------------- | ---- |
