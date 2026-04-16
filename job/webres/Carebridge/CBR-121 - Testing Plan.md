@@ -48,7 +48,7 @@ Manual Matrix
 	- [x] one admin-managed user or company update inside company scope, 
 	- [x] and one denial for updating a target outside company scope.
 - [ ] Provider Administrator: 
-	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, 
+	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, - THIS ISN'T WORKING!!! 
 	- [ ] one valid enquiry transition, 
 	- [ ] one valid vacancy delete inside company scope, 
 	- [ ] and one denial outside company scope.
