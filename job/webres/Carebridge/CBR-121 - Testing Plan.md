@@ -43,7 +43,7 @@ Manual Matrix
 	- [x] application file download, 
 	- [x] enquiry view/transition on the assigned facility, 
 	- [x] and one explicit denial through an unassigned or foreign-company facility.
-- [ ] Hospital Administrator: 
+- [x] Hospital Administrator: 
 	- [x] same-company visibility without needing facility assignment, 
 	- [x] one admin-managed user or company update inside company scope, 
 	- [ ] and one denial for updating a target outside company scope.
