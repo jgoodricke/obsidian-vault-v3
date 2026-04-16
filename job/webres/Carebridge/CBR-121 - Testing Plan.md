@@ -46,7 +46,7 @@ Manual Matrix
 - [x] Hospital Administrator: 
 	- [x] same-company visibility without needing facility assignment, 
 	- [x] one admin-managed user or company update inside company scope, 
-	- [ ] and one denial for updating a target outside company scope.
+	- [x] and one denial for updating a target outside company scope.
 - [ ] Provider Administrator: 
 	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, 
 	- [ ] one valid enquiry transition, 
