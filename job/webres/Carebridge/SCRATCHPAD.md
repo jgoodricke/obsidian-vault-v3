@@ -1,3 +1,11 @@
+# Todo
+Need to migrate comment replies.
+Need to replace existing comment system with new one (use created_by_id). 
+- Comments on Enquiries
+- Comments on EnquiryStatus
+Need to update emails to use the new system
+
+
 # Questions
 ## Trello
 https://trello.com/c/VOVCHwLW

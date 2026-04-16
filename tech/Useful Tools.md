@@ -45,6 +45,7 @@ frontmatter-version: 1.0
 - Launcher
 	- **Windows Command Pallette**
 - Menus
+	- **My custom menu**
 	- Keypirinha?
 	- Flow Launcher
 
