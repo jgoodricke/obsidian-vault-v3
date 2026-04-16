@@ -38,36 +38,36 @@ Manual Matrix
 	- [x] map access with scoped application context
 	- [x] request review on an unsuccessful enquiry
 	- [x] one explicit denial when opening another company's application
-- [ ] Provider User Free: 
-	- [ ] assigned-facility application access, 
-	- [ ] application file download, 
-	- [ ] enquiry view/transition on the assigned facility, 
-	- [ ] and one explicit denial through an unassigned or foreign-company facility.
-- [ ] Hospital Administrator: 
-	- [ ] same-company visibility without needing facility assignment, 
-	- [ ] one admin-managed user or company update inside company scope, 
-	- [ ] and one denial for updating a target outside company scope.
-- [ ] Provider Administrator: 
-	- [ ] company-wide facility and enquiry access without explicit per-facility assignment, - THIS ISN'T WORKING!!! 
-	- [ ] one valid enquiry transition, 
-	- [ ] one valid vacancy2 delete inside company scope, 
-	- [ ] and one denial outside company scope.
-- [ ] Hospital User Paid: 
-	- [ ] paid-only premium fields are visible/editable on an accessible application and persist correctly.
-- [ ] Provider User Paid: 
-	- [ ] paid-only premium fields are visible on an accessible application; 
-		- [ ] do not duplicate full provider authorization coverage here.
-- [ ] Facility Manager: smoke only. 
-	- [ ] Verify assigned facility detail and vacancy delete succeed, 
-	- [ ] and an out-of-assignment facility/vacancy is forbidden.
-- [ ] Account Manager: smoke only. 
-	- [ ] Verify company, user, and facility pages remain accessible outside the manager's own company. 
-		- [ ] Do not use this role to prove application permissions.
+- [x] Provider User Free: 
+	- [x] assigned-facility application access, 
+	- [x] application file download, 
+	- [x] enquiry view/transition on the assigned facility, 
+	- [x] and one explicit denial through an unassigned or foreign-company facility.
+- [x] Hospital Administrator: 
+	- [x] same-company visibility without needing facility assignment, 
+	- [x] one admin-managed user or company update inside company scope, 
+	- [x] and one denial for updating a target outside company scope.
+- [x] Provider Administrator: 
+	- [x] company-wide facility and enquiry access without explicit per-facility assignment, - THIS ISN'T WORKING!!! 
+	- [x] one valid enquiry transition, 
+	- [x] one valid vacancy2 delete inside company scope, 
+	- [x] and one denial outside company scope.
+- [x] Hospital User Paid: 
+	- [x] paid-only premium fields are visible/editable on an accessible application and persist correctly.
+- [x] Provider User Paid: 
+	- [x] paid-only premium fields are visible on an accessible application; 
+		- [x] do not duplicate full provider authorization coverage here.
+- [x] Facility Manager: smoke only. 
+	- [x] Verify assigned facility detail and vacancy delete succeed, 
+	- [x] and an out-of-assignment facility/vacancy is forbidden.
+- [x] Account Manager: smoke only. 
+	- [x] Verify company, user, and facility pages remain accessible outside the manager's own company. 
+		- [x] Do not use this role to prove application permissions.
 - [x] System Administrator: smoke only. 
 	- [x] Verify out-of-organisation application/map access and vacancy refresh/global admin behavior.
-- [ ] Admin mutation: 
-	- [ ] run one focused mutation scenario that changes a user/company relationship or company plan, 
-	- [ ] then confirm direct `company_id` behavior, facility assignments still make sense, and the resulting role/scope behavior refreshes as expected.
+- [x] Admin mutation: 
+	- [x] run one focused mutation scenario that changes a user/company relationship or company plan, 
+	- [x] then confirm direct `company_id` behavior, facility assignments still make sense, and the resulting role/scope behavior refreshes as expected.
 - [x] Review email side effect: 
 	- [x] cover one enquiry review path end-to-end 
 	- [x] and confirm the expected recipient/routing once in Mailpit at http://localhost:8027.
