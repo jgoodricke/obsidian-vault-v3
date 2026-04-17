@@ -1,3 +1,14 @@
+# AI Workflow Steps
+- [ ] Plan Mode
+	- [ ] Write a PRD
+	- [ ] Write issues from PRD
+- [ ] Normal Mode
+	- [ ] Epic and Issues
+- [ ] Plan Mode
+	- [ ] Grill Me about implementation
+- [ ] Normal Mode
+	- [ ] Implement Solution
+
 
 
 I am having trouble adding paid parental leave.
