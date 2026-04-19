@@ -20,16 +20,19 @@ frontmatter-version: 1.0
 
 
 
-| Tool          | Description                                                | Note                                   |
-| ------------- | ---------------------------------------------------------- | -------------------------------------- |
-| bat           | a `cat` clone with syntax highlighting and Git integration |                                        |
-| chafa         | show images in console                                     |                                        |
-| exiftool      | Show and edit image metadata                               |                                        |
-| hyprmon       | Monitor manager for hyprland                               | Arch only                              |
-| kanata        | Rebind keys                                                | [[kanata]]                             |
-| activitywatch |                                                            | Alternative for arch is awatcher       |
-| wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl) |
-| cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste  |
+| Tool          | Description                                                | Note                                          |
+| ------------- | ---------------------------------------------------------- | --------------------------------------------- |
+| bat           | a `cat` clone with syntax highlighting and Git integration |                                               |
+| chafa         | show images in console                                     |                                               |
+| exiftool      | Show and edit image metadata                               |                                               |
+| hyprmon       | Monitor manager for hyprland                               | Arch only                                     |
+| kanata        | Rebind keys                                                | [[kanata]]                                    |
+| activitywatch |                                                            | Alternative for arch is awatcher              |
+| wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl)        |
+| cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste         |
+| bd            | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface. |
+| pearls        |                                                            |                                               |
+| agent-browser | Command-line tool for AI agents to access websites.        |                                               |
 
 
 ## Omarchy in Windows
