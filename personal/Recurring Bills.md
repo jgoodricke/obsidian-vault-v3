@@ -23,7 +23,8 @@ $3076
 
 
 # My Account
-Bi-Weely: 200
+
+Allowance (bi-weekly): 323.08
 My Monthly Allowance Bank Balance:  $19066.3
 ## Monthly
 **Note:** Re-Check and Reset every October
