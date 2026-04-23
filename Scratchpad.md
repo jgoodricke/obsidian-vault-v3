@@ -1,3 +1,34 @@
+# Good Playgrounds
+Booran Reserve
+
+Royal Children's Hospital in Parkville. Maritime Cove Park in Port Melbourne. JJ Holland in Kensington.
+
+Hansen Reserve in West Footscray
+
+Marie Wallace in Bayswater 
+
+Thomas Street Park in Hampton
+
+Chelsea Bicentennial Park
+
+Wombat Bend in Templestowe, Eltham North Adventure playground, Diamond Valley regional playspace in Diamond Creek.
+
+# Househunting
+39 Amesbury AvenueWyndham Vale, VIC 3024
+
+51 Vaughan Chase, Wyndham Vale, Vic 3024
+
+8 Walbrook Drive, Wyndham Vale, Vic 3024
+
+9 Ellenborough Crescent, Manor Lakes, Vic 3024
+
+59 Kinglake Drive, Manor Lakes, Vic 3024
+
+76 Eureka Drive, Manor Lakes, Vic 3024
+
+4 Chesterfield Drive, Wyndham Vale, Vic 3024
+
+
 # AI Workflow Steps
 - [ ] Plan Mode
 	- [ ] Write a PRD
