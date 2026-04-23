@@ -36,6 +36,7 @@
 - Tmetric
 - [Bypass Paywalls Clean](https://gitflic.ru/project/magnolia1234/bypass-paywalls-firefox-clean)
 - Vimium
+- Video Background Play Fix (Firefox Android Only)
 - Social Media
 	- Escape the Algorythm
 	- SocialFocus
