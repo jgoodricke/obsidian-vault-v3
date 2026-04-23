@@ -31,7 +31,6 @@ frontmatter-version: 1.0
 | wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl)        |
 | cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste         |
 | beads (bd)    | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface. |
-| pearls        |                                                            |                                               |
 | agent-browser | Command-line tool for AI agents to access websites.        |                                               |
 
 
