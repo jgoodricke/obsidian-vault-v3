@@ -1,15 +1,21 @@
 # Todo
 Add charts:
-- Provider response performance
-- Unsuccessful enquiry insights
-- Care profile
-- Financial status mix
-- Enquiries by status
-- Productivity metrics
-- Team comparison table
+- From Example
+	- Provider response performance
+	- Unsuccessful enquiry insights
+	- Care profile
+	- Enquiries by status
+	- Productivity metrics
+	- Team comparison table
+- From Reports
+	- Applications By Hospital
+	- Company Facilities
+	- Company Plan And Types
+	- Company Users
+	- Enquiries
+	- Provider Enquiries
 
 Add Cards:
-- Active applications
 - Average first response
 - Average enquiries per application
 - Average time to placed
@@ -20,15 +26,16 @@ Add Goals:
 - PDF Exports?
 - Scheduled email snapshot in future phase
 - Drill down to specific pages
+- Add automated catagories using AI
 
 
-# Stage 1
+## Stage 1
 Goal: Lay the groundwork
 Includes
 - New page setup
 - 1 Chart
 	- Application Status Mix
-- 1 Modal
+- 1 Card
 	- Applications submitted
 
 ## Stage 2
@@ -36,16 +43,20 @@ Goal: Set up the minimal dashboard
 Includes:
 - +1 Charts
 	- Applications and placements over time
-- +2 Modals
-	- ???
+- +2 Cards
+	- Active applications
+	- Average first response
 
 ## Stage 3
 Goal: Set up a more fleshed out Dashboard
 Includes
 - +3 Charts
-	- ???
-- +2 Modals
-	- ???
+	- Provider response performance
+	- Financial status mix
+	- Care profile
+- +2 Cards
+	- Average time to placed
+	- Average enquiries per application
 
 ## Stage 4
 Includes: 
@@ -58,7 +69,7 @@ Includes
 - Parent Company and Filtering by child companies and Teams
 
 ## Stage 6
-Goal: Add automated catagories using AI.
+Goal: add automatic catagorisation of Query insights using LLMs
 Includes:
-- LLM Generates categories and adds them to the database.
-
+- LLM Catagorisation
+- Financial status mix Chart
