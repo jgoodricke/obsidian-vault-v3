@@ -21,7 +21,7 @@ Add Goals:
 - Scheduled email snapshot
 - Drill down to specific pages
 
-
+Park Carebridge/Bedsearch separation for the next 2-3 weeks.
 ## Stage 1
 Goal: Lay the groundwork
 Includes
@@ -30,6 +30,13 @@ Includes
 	- Application Status Mix
 - 1 Card
 	- Applications submitted
+- Two new roles
+	- Supervisor
+		- Can view charts but not applications
+	- ???
+		- Can access charts and applications
+		- No access to users
+- Superusers can also access charts
 
 ## Stage 2
 Goal: Set up the minimal dashboard
