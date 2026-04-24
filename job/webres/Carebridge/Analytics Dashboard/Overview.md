@@ -1,6 +1,5 @@
 # Todo
 Add charts:
-- Applications and placements over time
 - Provider response performance
 - Unsuccessful enquiry insights
 - Care profile
@@ -8,6 +7,12 @@ Add charts:
 - Enquiries by status
 - Productivity metrics
 - Team comparison table
+
+Add Cards:
+- Active applications
+- Average first response
+- Average enquiries per application
+- Average time to placed
 
 
 Add Goals:
@@ -30,7 +35,7 @@ Includes
 Goal: Set up the minimal dashboard
 Includes:
 - +1 Charts
-	- ???
+	- Applications and placements over time
 - +2 Modals
 	- ???
 
