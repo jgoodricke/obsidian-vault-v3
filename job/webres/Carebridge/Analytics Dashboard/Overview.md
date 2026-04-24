@@ -15,18 +15,11 @@ Add charts:
 	- Enquiries
 	- Provider Enquiries
 
-Add Cards:
-- Average first response
-- Average enquiries per application
-- Average time to placed
-
-
 Add Goals:
 - CSV export from every table
 - PDF Exports?
-- Scheduled email snapshot in future phase
+- Scheduled email snapshot
 - Drill down to specific pages
-- Add automated catagories using AI
 
 
 ## Stage 1
