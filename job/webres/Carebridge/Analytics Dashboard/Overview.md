@@ -26,6 +26,7 @@ Park Carebridge/Bedsearch separation for the next 2-3 weeks.
 Goal: Lay the groundwork
 Includes
 - New page setup
+- Exporting data
 - 1 Chart
 	- Application Status Mix
 - 1 Card
