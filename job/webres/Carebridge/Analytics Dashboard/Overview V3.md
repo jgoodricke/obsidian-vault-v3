@@ -1,31 +1,39 @@
 # TODO
-- [ ] Add Cards:
-	- [ ] Group 1
-		- [x] Applications submitted
-		- [x] Active applications
-		- [x] Patients placed
-		- [ ] Total enquiries
-		- [ ] Engaged providers
-	- [ ] Group 2
+- Add Cards:
+	- Group 1
+		- Applications submitted
+		- Active applications
+		- Patients placed
+		- Total enquiries
+		- Engaged providers
+	- Group 2
 		- Avg time to first response
 		- Avg time to outcome
 		- Avg time to place
-- [ ] Add Graphs:
-	- [ ] Applications, enquiries and placements over time
-	- [x] Application Status Mix
-	- [ ] Applications by region
-	- [ ] Unsuccessful enquiry insights
-	- [ ] Application profile
-	- [ ] Enquiries by status
-	- [ ] Time metrics by month
-- [ ] Add Lists
-	- [ ] Grouped suburb regions
-	- [ ] Complex needs breakdown
-- [ ] Add Tables
-	- [ ] Team comparison table
+- Add Graphs:
+	- Applications, enquiries and placements over time
+	- Application Status Mix
+	- Applications by region
+	- Unsuccessful enquiry insights
+	- Application profile
+	- Enquiries by status
+	- Time metrics by month
+- Add Lists
+	- Grouped suburb regions
+	- Complex needs breakdown
+- Add Tables
+	- Team comparison table
 
 
 ---
+
+Note: All cards, charts, tables and lists should contain data exporting to csv.
+
+- Add Page
+	- Use existing menu item
+- basic Date range filtering  (30 days, 90 days, 1 year)
+
+
 
 - New Page Setup
 - 1 Chart
@@ -34,6 +42,32 @@
 	- Applications submitted
 - Exporting data
 - filter by set date range (30 days, 90 days, 1 year)
+
+
+- Add Cards:
+	- Group 1
+		- Applications submitted
+		- Active applications
+		- Patients placed
+		- Total enquiries
+		- Engaged providers
+	- Group 2
+		- Avg time to first response
+		- Avg time to outcome
+		- Avg time to place
+- Add Graphs:
+	- Applications, enquiries and placements over time
+	- Application Status Mix
+	- Applications by region
+	- Unsuccessful enquiry insights
+	- Application profile
+	- Enquiries by status
+	- Time metrics by month
+- Add Lists
+	- Grouped suburb regions
+	- Complex needs breakdown
+- Add Tables
+	- Team comparison table
 
 
 ---
