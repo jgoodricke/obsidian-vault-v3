@@ -83,31 +83,6 @@ Complex needs breakdown
 
 - Counts by specific need types
 
----
-
-## Tables
-
-**Title**  
-Provider status matrix
-
-- Provider × status metrics
-- Includes facilities, active, placed, unsuccessful
-
----
-
-**Title**  
-Facility snapshot
-
-- Providers, vacancies, facilities with vacancies
-- Support placeholder fields
-
----
-
-**Title**  
-Team comparison table
-
-- Applications, active, avg enquiries, form time, placed
-- Aggregated by site/team
 
 ---
 
