@@ -31,6 +31,17 @@ Note: All cards, charts, tables and lists should contain data exporting to csv.
 
 - Add Page
 	- Use existing menu item
+- Add Chart: Status Mix
+	- Patient-level status mix, one application per patient.
+	- Donut Chart
+- Add Chart: Applications, enquiries and placements over time
+	- Applications use distinct Application ID by earliest month recorded. Enquiries are provider-level records.
+	- Multi-line chart
+		- Applications
+		- Enquiries
+		- Placed
+- Add Chart: Applications by region
+	- Map-style view using distinct Application ID by grouped suburb region.
 - basic Date range filtering  (30 days, 90 days, 1 year)
 
 
