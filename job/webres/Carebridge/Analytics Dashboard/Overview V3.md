@@ -37,6 +37,7 @@ Questions:
 		- No access to users
 	- Executive
 		- ????
+- Do we need filtering by status?
 
 Note: 
 - All cards, charts, tables and lists should contain data exporting to csv.
@@ -49,7 +50,7 @@ Other:
 - advanced date range filtering (filter using two date pickers)
 - Add filtering by Sites/Facilities
 	- Requires setting up parent companies in order to filter facilities correctly.
-- Add Filtering by status
+- Add Filtering by status?
 - Add different dashboard types
 	- Restrict access to dashboard types depending on User level
 	- These users have distinct dashboards:
@@ -59,6 +60,8 @@ Other:
 		- Executive (new user type)
 			- Depends on having sites/facilities set up.
 		- Supervisor (New User Type)
+
+---
 
 - Applications submitted
     - Type: KPI card
