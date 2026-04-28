@@ -27,17 +27,6 @@
 
 ---
 
-Questions:
-- What is the difference between Hospital/Referrer Organisation
-- Need to get these roles straightened out:
-	- Supervisor
-		- Can view charts but not applications
-	- Team Leader?
-		- Can access charts and applications
-		- No access to users
-	- Executive
-		- ????
-- Do we need filtering by status?
 
 Note: 
 - All cards, charts, tables and lists should contain data exporting to csv.
