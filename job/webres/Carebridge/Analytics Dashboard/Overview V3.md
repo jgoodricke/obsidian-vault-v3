@@ -1,3 +1,143 @@
+[ChatGPT - Carebridge Reports Dashboard Mockup](https://chatgpt.com/canvas/shared/69e1ab1c05688191aa463fde427199a5)
+
+## Application Profile
+
+**Title**  
+Support profile metrics
+
+- MSU, complex care, behavioural, other
+- % of total applications
+
+---
+
+**Title**  
+Financial status metrics
+
+- Fully/partially supported, self-funded, unsure
+
+---
+
+**Title**  
+Care type distribution
+
+- Permanent, respite, home care
+- Pie chart with totals
+
+---
+
+## Time Metrics
+
+**Title**  
+Avg time to first response KPI
+
+- Derived from enquiry timestamps
+
+---
+
+**Title**  
+Avg time to outcome KPI
+
+- Time from enquiry to final status
+
+---
+
+**Title**  
+Avg time to placed KPI
+
+- Time from enquiry to placement
+
+---
+
+**Title**  
+Time metrics by month
+
+- Monthly averages for response, outcome, placement
+- Requires historical aggregation logic
+
+---
+
+## Enquiry & Workflow
+
+**Title**  
+Enquiries by status
+
+- Count grouped by workflow status
+- Ranked display
+
+---
+
+## Location & Grouping
+
+**Title**  
+Grouped suburb regions list
+
+- Region definitions + application counts
+- Backed by grouping logic
+
+---
+
+## Detailed Breakdowns
+
+**Title**  
+Complex needs breakdown
+
+- Counts by specific need types
+
+---
+
+## Tables
+
+**Title**  
+Provider status matrix
+
+- Provider × status metrics
+- Includes facilities, active, placed, unsuccessful
+
+---
+
+**Title**  
+Facility snapshot
+
+- Providers, vacancies, facilities with vacancies
+- Support placeholder fields
+
+---
+
+**Title**  
+Team comparison table
+
+- Applications, active, avg enquiries, form time, placed
+- Aggregated by site/team
+
+---
+
+## Product Analytics
+
+**Title**  
+User engagement metrics
+
+- Logins, session time, searches, active users
+- Based on usage tracking data
+
+---
+
+## Additional Supporting Cards (Recommended)
+
+**Title**  
+Implement enquiry and application time tracking
+
+- Ensure timestamps exist for all status transitions
+- Required for time-based metrics
+
+---
+
+**Title**  
+Define suburb → region mapping logic
+
+- Centralised mapping for reporting consistency
+
+---
+
 # TODO
 - Add Cards:
 	- Group 1
