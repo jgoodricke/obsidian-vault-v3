@@ -45,7 +45,6 @@ Note:
 Other:
 - Add Page
 	- Use existing menu item
-- Add Chart: Status Mix
 - basic Date range filtering  (30 days, 90 days, 1 year)
 - advanced date range filtering (filter using two date pickers)
 - Add filtering by Sites/Facilities
