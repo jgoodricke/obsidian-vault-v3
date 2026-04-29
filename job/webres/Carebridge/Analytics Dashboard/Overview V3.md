@@ -2,33 +2,43 @@
 
 ## Application Profile
 
-**Title**  
-Support profile metrics
 
+
+**Title**  
+Create Chart: Support profile metrics
+Description:
 - MSU, complex care, behavioral, other
 - % of total applications
+Depends On: CBR-170
+Priority: Medium
 
 ---
 
 **Title**  
-Financial status metrics
-
+Create Chart: Financial status metrics
+Description:
 - Fully/partially supported, self-funded, unsure
+Depends On: CBR-170
+Priority: Medium
 
 ---
 
 **Title**  
-Care type distribution
-
+Create Chart: Care type distribution
+Description:
 - Permanent, respite, home care
 - Pie chart with totals
+Depends On: CBR-170
+Priority: Medium
 
 ---
 
 **Title**  
-Define suburb → region mapping logic
-
+Define suburb to region mapping logic
+Description:
 - Centralised mapping for reporting consistency
+Dependent for: CBR-182
+Priority: High
 
 ---
 
