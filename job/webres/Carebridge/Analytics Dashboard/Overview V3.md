@@ -5,7 +5,7 @@
 **Title**  
 Support profile metrics
 
-- MSU, complex care, behavioural, other
+- MSU, complex care, behavioral, other
 - % of total applications
 
 ---
@@ -28,28 +28,28 @@ Care type distribution
 ## Time Metrics
 
 **Title**  
-Avg time to first response KPI
+Create KPI Card: Avg time to first response KPI
 
 - Derived from enquiry timestamps
 
 ---
 
 **Title**  
-Avg time to outcome KPI
+Create KPI Card: Avg time to outcome KPI
 
 - Time from enquiry to final status
 
 ---
 
 **Title**  
-Avg time to placed KPI
+Create KPI Card: Avg time to placed KPI
 
 - Time from enquiry to placement
 
 ---
 
 **Title**  
-Time metrics by month
+Create KPI Card: Time metrics by month
 
 - Monthly averages for response, outcome, placement
 - Requires historical aggregation logic
