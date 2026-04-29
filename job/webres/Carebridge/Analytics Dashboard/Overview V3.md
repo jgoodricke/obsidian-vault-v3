@@ -25,87 +25,6 @@ Care type distribution
 
 ---
 
-## Time Metrics
-
-**Title**  
-Create KPI Card: Avg time to first response KPI
-
-- Derived from enquiry timestamps
-
----
-
-**Title**  
-Create KPI Card: Avg time to outcome KPI
-
-- Time from enquiry to final status
-
----
-
-**Title**  
-Create KPI Card: Avg time to placed KPI
-
-- Time from enquiry to placement
-
----
-
-**Title**  
-Create KPI Card: Time metrics by month
-
-- Monthly averages for response, outcome, placement
-- Requires historical aggregation logic
-
----
-
-## Enquiry & Workflow
-
-**Title**  
-Enquiries by status
-
-- Count grouped by workflow status
-- Ranked display
-
----
-
-## Location & Grouping
-
-**Title**  
-Grouped suburb regions list
-
-- Region definitions + application counts
-- Backed by grouping logic
-
----
-
-## Detailed Breakdowns
-
-**Title**  
-Complex needs breakdown
-
-- Counts by specific need types
-
-
----
-
-## Product Analytics
-
-**Title**  
-User engagement metrics
-
-- Logins, session time, searches, active users
-- Based on usage tracking data
-
----
-
-## Additional Supporting Cards (Recommended)
-
-**Title**  
-Implement enquiry and application time tracking
-
-- Ensure timestamps exist for all status transitions
-- Required for time-based metrics
-
----
-
 **Title**  
 Define suburb → region mapping logic
 
@@ -264,14 +183,14 @@ Other:
 
 ---
 
-- Enquiries by status
+- Create Chart: Enquiries by status
     - Type: Ranked bar-style list
     - Data: Count of enquiries grouped by workflow status
     - Notes: Provider workflow visibility
 
 ---
 
-- Time metrics by month
+- Create Chart: Time metrics by month
     - Type: Multi-line chart
     - Data: Monthly averages for:
         - First response time
