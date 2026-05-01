@@ -149,7 +149,7 @@
 	- See-through scopes
 - VR Small Pip Boy Position Fix
 - Bullet Time VATS VR
-	- Need a patch for Killshot, maybe increase damage instead of accuracy.
+	- UsefulER Perception
 - Critical Hits Outside of VATS
 - Weapon Accuracy Redone for VR 
 	- Make a patch for Nuka World Weapons

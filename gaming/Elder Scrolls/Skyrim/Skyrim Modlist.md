@@ -1,7 +1,7 @@
 # To Add
-Locational Damage AE (SKSE Plugin)
-Modern Lighting Overhaul 2 (MLO2)
-Skyrim Revoiced
+- Locational Damage AE (SKSE Plugin)
+- Modern Lighting Overhaul 2 (MLO2)
+- Skyrim Revoiced
 - Stress and Fear - Make compatible with Last Seed
 	- Dirt and Blood
 	- Skyrim's Got Tallent
@@ -16,6 +16,16 @@ Skyrim Revoiced
 - HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
 - Follower Dialogue Expansion - Marcurio (FDE)
 - Wildfire?
+- Immersive Reading
+- Elemental Fury VR
+- Attacks Cost Stamina VR
+- Spellbending VR
+- VR Climbing
+- Pull Arrows VR
+- Ultimate Telekinesis VR
+	- Teleharvest VR
+- Better weapon collisions for VR
+- ISPVR - Immersive Spellcasting VR
 
 # Wait for
 - Boats - Operational Animated Travel
