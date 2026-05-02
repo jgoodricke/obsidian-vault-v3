@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
+                "file": "gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skyrim Modlist"
+              "title": "Epic Games Mobile Library"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Skyri",
+            "query": "Epic",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -183,20 +183,20 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "personal/Recurring Bills.md",
+    "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "Scratchpad.md",
     "gaming/Epic Games Mobile Library.md",
     "AI/llm-prompts/Research Partner.md",
     "AI/llm-prompts/Provide Sources.md",
     "AI/llm-prompts",
-    "personal/Recurring Bills.md",
     "tech/Omarchy Upgrade Checklist.md",
     "gaming/Doom/Todo.md",
     "job/Cubery/GP/Amounts.md",
     "gaming/VR Mods.md",
     "tech/Research/Using Ralph.md",
     "gaming/VR Games.md",
-    "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "job/webres/Names.md",
     "gaming/Doom",
     "job/webres/People.md",

@@ -16,7 +16,6 @@ $3076
 | Internet         | $79.00  |                                             |      |
 | Phone            | $25     |                                             |      |
 | Health Insurance | $188.58 |                                             |      |
-| Union Membership | $70.66  |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     |      |
 **TOTAL:** $304.83
@@ -33,10 +32,11 @@ My Monthly Allowance Bank Balance:  $19066.3
 | ------- | ------ | ------- |
 | Audible | $8.99  |         |
 | Sunsama | $30.65 | $20 USD |
+| Claude  | $30.65 | $20 USD |
 
 
 
-Total: $69
+Total: $71
 
 # Weekly
 | Item           | Price | Note |
