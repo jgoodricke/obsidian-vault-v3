@@ -22,9 +22,13 @@ $3076
 
 
 # My Account
+Allowance (Monthly): $700
+Minus Student Loan: $390
+Total: $310
 
-Allowance (bi-weekly): 323.08
-My Monthly Allowance Bank Balance:  $19066.3
+Allowance (bi-weekly): $323.08
+Minus Student Loan: $180
+Total: $143
 ## Monthly
 **Note:** Re-Check and Reset every October
 
