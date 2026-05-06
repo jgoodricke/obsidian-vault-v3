@@ -1,3 +1,8 @@
+- Definitely settlement 30 days?
+	- Are there any delays in paperwork after approval?
+- Contract signed under Christy's name - is that okay for bank? 
+	- Can we still get loan under both names?
+
 # Good Playgrounds
 Booran Reserve
 
