@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Recurring Bills.md",
+                "file": "gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recurring Bills"
+              "title": "Epic Games Mobile Library"
             }
           }
         ],
@@ -64,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Recur",
+            "query": "Epic",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -183,8 +183,8 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
-    "gaming/Epic Games Mobile Library.md",
     "personal/Recurring Bills.md",
+    "gaming/Epic Games Mobile Library.md",
     "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "Scratchpad.md",
