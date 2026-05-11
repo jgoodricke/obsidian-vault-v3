@@ -1,7 +1,8 @@
 ## Understanding the database
+
 - Refer to the `.agents/docs/mysql-schema-summary.md` for a broad overview of the database structure.
-- Use `database/schema/mysql-schema.sql` if exact SQL structure is needed. 
-- Do not refer to the migration files, unless they aren't listed in the migrations table in the mysql-schema.sql dump. 
+- Use `database/schema/mysql-schema.sql` if exact SQL structure is needed.
+- Do not refer to the migration files, unless they aren't listed in the migrations table in the mysql-schema.sql dump.
   - Any migrations that are in the schema file should always be ignored.
 
 ## Before completing a task
@@ -20,10 +21,16 @@
 
 ## Testing
 - When writing unit tests, use Factories instead of queries wherever possible.
+- Do not run multiple PHP or Pest test commands in parallel. These test runs share the same database and can reset, migrate, seed, or mutate state underneath each other, which leads to flaky failures and misleading results.
+- Always wait for one Pest command to finish completely before starting the next one.
 
 ## Authorisation
 - Add any new authorisation logic to a policy rather than embedding it inline in controllers, actions, or views.
 - Treat policies as the current home for this logic, with the long-term goal of moving authorisation concerns into a clearer DDD architecture over time.
+
+## Blade templates
+- When creating Blade templates for emails and notifications, do not pass models to the template.
+- Always extract the required fields from the model first and pass those scalar values or simple arrays to the template instead.
 
 ## Browser checks
 - When making UI or email changes, test them in a browser to confirm they look correct.
@@ -43,3 +50,43 @@ Do not run these commands under any circumstances:
 - `git clean -f` / `git clean -fd`
 - `git branch -D`
 - `git checkout .` / `git restore .`
+
+
+<!-- code-review-graph MCP tools -->
+## MCP Tools: code-review-graph
+
+**IMPORTANT: This project has a knowledge graph. ALWAYS use the
+code-review-graph MCP tools BEFORE using Grep/Glob/Read to explore
+the codebase.** The graph is faster, cheaper (fewer tokens), and gives
+you structural context (callers, dependents, test coverage) that file
+scanning cannot.
+
+### When to use graph tools FIRST
+
+- **Exploring code**: `semantic_search_nodes` or `query_graph` instead of Grep
+- **Understanding impact**: `get_impact_radius` instead of manually tracing imports
+- **Code review**: `detect_changes` + `get_review_context` instead of reading entire files
+- **Finding relationships**: `query_graph` with callers_of/callees_of/imports_of/tests_for
+- **Architecture questions**: `get_architecture_overview` + `list_communities`
+
+Fall back to Grep/Glob/Read **only** when the graph doesn't cover what you need.
+
+### Key Tools
+
+| Tool | Use when |
+| ------ | ---------- |
+| `detect_changes` | Reviewing code changes — gives risk-scored analysis |
+| `get_review_context` | Need source snippets for review — token-efficient |
+| `get_impact_radius` | Understanding blast radius of a change |
+| `get_affected_flows` | Finding which execution paths are impacted |
+| `query_graph` | Tracing callers, callees, imports, tests, dependencies |
+| `semantic_search_nodes` | Finding functions/classes by name or keyword |
+| `get_architecture_overview` | Understanding high-level codebase structure |
+| `refactor_tool` | Planning renames, finding dead code |
+
+### Workflow
+
+1. The graph auto-updates on file changes (via hooks).
+2. Use `detect_changes` for code review.
+3. Use `get_affected_flows` to understand impact.
+4. Use `query_graph` pattern="tests_for" to check coverage.
