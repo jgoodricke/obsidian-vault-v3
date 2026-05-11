@@ -1,3 +1,15 @@
+- [x] app/Repositories/Reports/ReportsRepository.php — havingRaw uses string concatenation instead of parameterized bindings, inconsistent with the selectRaw above it and a latent injection risk if $includedStatusIds ever changes source.
+- [x] tests/Unit/ReportsRepositoryTest.php — No test for applications with zero enquiries in activeApplicationsCount; the whereHas silently excludes them and there's no test (or confirmed decision) about whether that's intentional.
+- [x] tests/Unit/ReportsRepositoryTest.php — No unit test for activeApplicationsCount respecting the date filter; every other repository method has one.
+- [x] .gitignore — Comment # Added by code-review-graph is a tool artefact and shouldn't be committed as-is.
+- [ ] In @resources/tests/Pages/Reports/ReportsPage.test.tsx around lines 99 - 107, The assertion uses Number.prototype.toLocaleString without a locale causing flakiness; update the test in ReportsPage.test.tsx so the expected value is deterministic —  call (1205).toLocaleString('en-US') in the expect for activeApplicationsCard?.value to match a fixed locale.
+- [x] In @tests/Feature/Portal/ReportsPageTest.php at line 111, The assertion in ReportsPageTest is expecting the wrong active applications count; update the assertion in the test method that checks 'props.activeApplications' (the line currently asserting 1) to assert 0 because PLACED and CONTRACT_COMPLETE applications should be excluded from active count per the "excludes placed applications from active applications count" scenario; locate the assertion ->assertJsonPath('props.activeApplications', 1) and change the expected value to 0 so the test reflects the intended behavior.
+
+
+
+
+---
+
 - Need confirmation for NAB regarding the 99/1 split.
 - 50/50 split would speed up the process.
 
