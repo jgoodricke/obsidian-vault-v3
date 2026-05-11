@@ -1,3 +1,7 @@
+- Need confirmation for NAB regarding the 99/1 split.
+- 50/50 split would speed up the process.
+
+
 - first hoome buyers declaration form.
 
 # Good Playgrounds
