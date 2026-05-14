@@ -52,7 +52,7 @@ http://localhost:5600/#/timeline
 # Bookmarks
 [Amazon Returns](https://www.amazon.com.au/hz/contact-us/foresight/hubgateway)
 [Codex Usage]([Codex Usage](https://chatgpt.com/codex/cloud/settings/analytics))
-[Code reviews]()
+[Code reviews]([Code Reviews](https://chatgpt.com/codex/cloud?tab=code_reviews))
 # Settings
 ## SocialFocus
 ```text
