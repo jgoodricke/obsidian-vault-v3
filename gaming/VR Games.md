@@ -29,7 +29,7 @@
 	- Phasmophobia
 	- PULSAR Lost Colony
 ## To Play
-- SP - Quest
+- SP - Quest Free
 	- Doom (https://www.questzdoom.com/recommended.html)
 		- Sigil
 		- Doom 2
@@ -37,8 +37,7 @@
 		- Other 
 			- HacX
 			- Brutal Doom Hell on Earth
-	- Doom 3 DLC
-	- Wolfenstein 3D
+	- Doom 3
 	- Return to Castle Wolfenstein
 	- Quake 2
 	- Quake 4
@@ -47,6 +46,16 @@
 	- Prey
 	- Tomb Raider
 	- Iron Lung
+- SP - Quest Paid
+	- Rider
+	- Star Wars - Tales from the Galactic Edge
+	- Resident Evil 4
+	- Batman Arkham Shadow
+	- Assassin's Creed Nexus
+	- Vade Immortal 1-3
+	- Robo Recall
+	- In Death Unchained
+	- Blade and Sorcery Nomad
 - SP
 	- The Walking Dead Saints & Sinners
 	- The Talos Principle VR
