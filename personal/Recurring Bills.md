@@ -1,6 +1,5 @@
 ---
 tags:
-  - Note
   - Leaf
 frontmatter-version: 1
 ---
