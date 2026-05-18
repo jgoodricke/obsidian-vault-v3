@@ -25,7 +25,10 @@
 - Ultimate Telekinesis VR
 	- Teleharvest VR
 - Better weapon collisions for VR
-- ISPVR - Immersive Spellcasting VR
+- ISPVR - Immersive Spellcasting
+- FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire
+- M.I.N.T. - Mint-Issued National Tenders
+- C.O.I.N. - Coins of Interesting Nature
 
 # Wait for
 - Boats - Operational Animated Travel

@@ -17,19 +17,21 @@
 - first hoome buyers declaration form.
 
 # Good Playgrounds
-Booran Reserve
+Been:
+- Booran Reserve
+- Marie Wallace in Bayswater
 
-Royal Children's Hospital in Parkville. Maritime Cove Park in Port Melbourne. JJ Holland in Kensington.
-
-Hansen Reserve in West Footscray
-
-Marie Wallace in Bayswater 
-
-Thomas Street Park in Hampton
-
-Chelsea Bicentennial Park
-
-Wombat Bend in Templestowe, Eltham North Adventure playground, Diamond Valley regional playspace in Diamond Creek.
+To Go:
+- Royal Children's Hospital in Parkville. 
+- Maritime Cove Park in Port Melbourne. 
+- JJ Holland in Kensington.
+- Hansen Reserve in West Footscray
+- Wattle Park in Burwood
+- Thomas Street Park in Hampton
+- Chelsea Bicentennial Park
+- Wombat Bend in Templestowe, 
+- Eltham North Adventure playground, 
+- Diamond Valley regional playspace in Diamond Creek.
 
 # Househunting
 39 Amesbury AvenueWyndham Vale, VIC 3024
