@@ -1,5 +1,4 @@
 # check out
-https://old.reddit.com/r/VRGaming/comments/1ic2gp0/are_there_any_vr_games_that_are_like_the_old_wing/
 
 
 ## Playing
@@ -124,6 +123,7 @@ https://old.reddit.com/r/VRGaming/comments/1ic2gp0/are_there_any_vr_games_that_a
 	- Counter Fight
 	- Counter Fight Samurai Edition
 - SP - HOTAS
+	- House of the Dying Sun
 	- EVERSPACE
 	- Ace Combat 7
 	- Aircar
@@ -305,8 +305,9 @@ Child::[[VR Games - Old]]
 ## HOTAS  
 - Space SIM
 	- *Alliance: Peacefighter*
-	- *House of the Dying Sun*
 	- *Vector 36*
+	- Freespace 2
+	- Strike Commander
 - Flight SIM
 	- *Microsoft Flight Simulator (Dune DLC)*
 	- *IL-2 Sturmovik: Battle of Stalingrad*
