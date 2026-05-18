@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/VR Mods.md",
+                "file": "gaming/VR Games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VR Mods"
+              "title": "VR Games"
             }
           }
         ],
@@ -183,9 +183,9 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "gaming/VR Mods.md",
     "gaming/Quest Piracy.md",
     "gaming/VR Games.md",
-    "gaming/VR Mods.md",
     "Scratchpad.md",
     "personal/Brandon Sanderson Cosmere Reading Order.md",
     "personal/Recurring Bills.md",
