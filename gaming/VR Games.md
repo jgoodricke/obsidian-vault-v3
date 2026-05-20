@@ -297,8 +297,6 @@
 - Swords of Gurrah
 - Tower Tag
 
-Child::[[VR Games - Old]]
-
   
 
 # To Get
@@ -308,7 +306,7 @@ Child::[[VR Games - Old]]
 	- *Vector 36*
 	- Freespace 2
 	- Strike Commander
-	- Evochron Legacy
+	- Evochron Legacy?
 - Flight SIM
 	- *Microsoft Flight Simulator (Dune DLC)*
 	- *IL-2 Sturmovik: Battle of Stalingrad*
