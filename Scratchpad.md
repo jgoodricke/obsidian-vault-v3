@@ -1,3 +1,25 @@
+# Steps
+- Grill Session
+- Research (optional)
+- Prototype (optional)
+- PRD
+- Kanban
+- Execution
+- Claude Review
+- Claude Requirements Review
+- Coderabbit Review
+- Code Review
+- Generates QA plan
+- Smoke Test Locally
+- Create PR
+- Review Feedback
+- Merge
+- Smoke Test on Staging
+
+
+
+
+
 - [x] app/Repositories/Reports/ReportsRepository.php — havingRaw uses string concatenation instead of parameterized bindings, inconsistent with the selectRaw above it and a latent injection risk if $includedStatusIds ever changes source.
 - [x] tests/Unit/ReportsRepositoryTest.php — No test for applications with zero enquiries in activeApplicationsCount; the whereHas silently excludes them and there's no test (or confirmed decision) about whether that's intentional.
 - [x] tests/Unit/ReportsRepositoryTest.php — No unit test for activeApplicationsCount respecting the date filter; every other repository method has one.
