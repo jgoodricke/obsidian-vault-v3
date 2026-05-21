@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-22.md",
+                "file": "gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-22"
+              "title": "Epic Games Mobile Library"
             }
           }
         ],
@@ -183,8 +183,8 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
-    "tech/Browser Settings.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-22.md",
+    "tech/Browser Settings.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-13.md",
     "gaming/VR Games.md",
     "gaming/VR Mods.md",
