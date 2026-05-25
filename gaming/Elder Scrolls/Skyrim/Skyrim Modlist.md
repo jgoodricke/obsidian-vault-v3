@@ -183,6 +183,7 @@
 - [ ] Deadly Spell Impacts
 	- [ ] 4K patch
 - [ ] Dynamic Interior Ambient Lighting (DIAL)
+- [ ] Lore-Friendly Thalmor Banners
 
 
 

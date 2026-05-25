@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming/Epic Games Mobile Library.md",
+                "file": "gaming/Fallout4/Fallout 4 Mods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epic Games Mobile Library"
+              "title": "Fallout 4 Mods"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personal/Recurring Bills.md",
+            "file": "gaming/Fallout4/Fallout 4 Mods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,6 +183,10 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
+    "gaming/Fallout4/Fallout 4 Mods.md",
+    "job/webres/Carebridge/Analytics Dashboard/cbr-209 QA Plan.md",
+    "gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-22.md",
     "tech/Browser Settings.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-13.md",
@@ -193,9 +197,6 @@
     "personal/Brandon Sanderson Cosmere Reading Order.md",
     "personal/Recurring Bills.md",
     "job/webres/Carebridge/Pen Test/Route Matrix.md",
-    "gaming/Epic Games Mobile Library.md",
-    "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
-    "gaming/Fallout4/Fallout 4 Mods.md",
     "AI/llm-prompts/Research Partner.md",
     "AI/llm-prompts/Provide Sources.md",
     "AI/llm-prompts",
@@ -210,7 +211,6 @@
     "job/webres/Carebridge/Pen Test/Security Audit.md",
     "job/webres/Carebridge/Pen Test/Report - Route Access Controls.md",
     "job/webres/Carebridge/Pen Test/Report - Form Validation.md",
-    "job/webres/Carebridge/Pen Test/Antivirus - Recommendation.md",
     "job/webres/Carebridge/Pen Test",
     "gaming/Elder Scrolls/Skyrim",
     "gaming/Elder Scrolls",
