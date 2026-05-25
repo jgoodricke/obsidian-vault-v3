@@ -1,4 +1,4 @@
-QA Plan — Facility Notification Emails (cbr-52d460f8 / cbr-209)
+2QA Plan — Facility Notification Emails (cbr-52d460f8 / cbr-209)
 
 ▎ Feature branch: feature/cbr-209-allow-facilities-to-have-multiple-emails
 ▎ Check out before testing: git checkout feature/cbr-209-allow-facilities-to-have-multiple-emails
