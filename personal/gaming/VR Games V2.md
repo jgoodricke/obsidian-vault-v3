@@ -79,19 +79,19 @@
 | V-Racer Hoverbike                                           | Yes                | Yes             | 90          | 96         | Not Playing           | Touch          | no    |
 | Vampire: The Masquerade - Justice                           | Yes                | Yes             | 65          | 80         | Not Playing           | Touch          | no    |
 | Waltz of the Wizard                                         | Yes                | Yes             | 91          | 98         | Playing               | Touch Controls | yes   |
-| A Fisherman's Tale 2                                        | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| BARDO                                                       | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Eye of the Temple                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Falcon Age                                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Grimlord                                                    | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Knockout League                                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Red Matter                                                  | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Red Matter 2                                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Red Matter 2                                                | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Tethered                                                    | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The 7th Guest VR                                            | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Light Brigade                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Walking Dead Saints & Sinners                           | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
+| A Fisherman's Tale 2                                        | Yes                | Yes             | 86          | 92         | Not Playing           | Touch Controls | yes   |
+| BARDO                                                       | Yes                | Yes             | 82          | N/A        | Not Playing           | Touch          | no    |
+| Eye of the Temple                                           | Yes                | Yes             | 93          | 94         | Not Playing           | Touch          | no    |
+| Falcon Age                                                  | Yes                | Yes             | 79          | 82         | Not Playing           | Touch          | no    |
+| Grimlord                                                    | Yes                | Yes             | 78          | 80         | Not Playing           | Touch Controls | yes   |
+| Knockout League                                             | Yes                | Yes             | 77          | 74         | Not Playing           | Touch          | no    |
+| Red Matter                                                  | Yes                | Yes             | 90          | 92         | Not Playing           | Touch Controls | yes   |
+| Red Matter 2                                                | Yes                | Yes             | 93          | 96         | Not Playing           | Touch          | no    |
+| Red Matter 2                                                | Yes                | Yes             | 93          | 96         | Not Playing           | Touch Controls | yes   |
+| Tethered                                                    | Yes                | Yes             | 81          | N/A        | Not Playing           | Touch          | no    |
+| The 7th Guest VR                                            | Yes                | Yes             | 94          | 92         | Not Playing           | Touch          | no    |
+| The Light Brigade                                           | Yes                | Yes             | 89          | 88         | Not Playing           | Touch          | no    |
+| The Walking Dead Saints & Sinners                           | Yes                | Yes             | 86          | 92         | Not Playing           | Touch Controls | yes   |
 | Angry Birds VR: Isle of Pigs                                | Yes                | Yes             |             |            | Not Playing           | Touch Controls | No    |
 | Blade and Sorcery                                           | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
 | Action Hero                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
