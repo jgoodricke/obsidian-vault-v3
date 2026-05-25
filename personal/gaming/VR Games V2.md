@@ -1,11 +1,11 @@
 | Title                                                       | Available on Quest | Available on PC | Steam Score | Meta Score | Status             | Control Type   | Owned |
 | ----------------------------------------------------------- | ------------------ | --------------- | ----------- | ---------- | ------------------ | -------------- | ----- |
-| A Long Survive                                              |                    | Yes             |             |            | Not Playing        | Touch          | no    |
-| A-Tech Cybernetic VR                                        |                    | Yes             |             |            | Not Playing        | Touch Controls | yes   |
-| Abode 2                                                     |                    | Yes             |             |            | Not Playing        | Touch Controls | yes   |
-| Accounting+                                                 |                    | Yes             |             |            | Not Playing        | Touch          | no    |
-| Adventure Time: Magic Man's Head Games                      |                    | Yes             |             |            | Not Playing        | Touch          | no    |
-| Airborn                                                     |                    | Yes             |             |            | Not Playing        | Tocuh          | no    |
+| A Long Survive                                              | Yes                | Yes             |             |            | Not Playing        | Touch          | no    |
+| A-Tech Cybernetic VR                                        | No                 | Yes             |             |            | Not Playing        | Touch Controls | yes   |
+| Abode 2                                                     | No                 | Yes             |             |            | Not Playing        | Touch Controls | yes   |
+| Accounting+                                                 | Yes                | Yes             |             |            | Not Playing        | Touch          | no    |
+| Adventure Time: Magic Man's Head Games                      | No                 | Yes             |             |            | Not Playing        | Touch          | no    |
+| Airborn                                                     | No                 | Yes             |             |            | Not Playing        | Tocuh          | no    |
 | AMID EVIL VR                                                |                    | Yes             |             |            | Not Playing        | Touch          | no    |
 | Apex Construct                                              |                    | Yes             |             |            | Playing            | Touch Controls | yes   |
 | Archangel Hellfire                                          |                    | Yes             |             |            | Playing            | Touch Controls | yes   |
