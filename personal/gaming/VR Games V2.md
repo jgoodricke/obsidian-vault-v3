@@ -92,29 +92,28 @@
 | The 7th Guest VR                                            | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
 | The Light Brigade                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
 | The Walking Dead Saints & Sinners                           | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
+| Angry Birds VR: Isle of Pigs                                | Yes                | Yes             |             |            | Not Playing           | Touch Controls | No    |
+| Blade and Sorcery                                           | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
 | Action Hero                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Airspace Defender                                           | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Angry Birds VR: Isle of Pigs                                | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | ARKTIKA.1                                                   | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Armored Titan Expansion Pack                                | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Assassin’s Creed® Nexus VR                                  | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Attack on Titan VR: Unbreakable                             | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Batman: Arkham Shadow                                       | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Beyond Blue: After the Storm                                | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Blade and Sorcery Nomad                                     | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
 | Catana: Red Flowers                                         | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Dimensional Double Shift                                    | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Doom                                                        | Yes                | No              | N/A         |            | Playing               | Touch Controls | yes   |
-| Doom 3                                                      | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
+| Doom                                                        | Yes                | No              |             | N/A        | Playing               | Touch Controls | yes   |
+| Doom 3                                                      | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
 | Drop Dead: The Cabin                                        | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Escaping Wonderland                                         | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Espire 2: Stealth Operatives                                | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Exploding Kittens VR                                        | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Ghostbusters: Rise of the Ghost Lord                        | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | In Death Unchained                                          | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| In Death: Unchained                                         | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
 | Infinite Inside                                             | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Iron Lung                                                   | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
+| Iron Lung                                                   | Yes                | No              | N/A         | N/A        | Not Playing           | Touch Controls | yes   |
 | Journey of the Gods                                         | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Just Dance VR – Welcome to Dancity                          | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Laser Dance                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
@@ -127,13 +126,13 @@
 | Out of Scale: A Kurzgesagt Adventure                        | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Phantom: Covert Ops                                         | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | PianoVision                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Prey                                                        | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Quake                                                       | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Quake 2                                                     | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Quake 3                                                     | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Quake 4                                                     | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Resident Evil 4                                             | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Return to Castle Wolfenstein                                | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
+| Prey                                                        | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
+| Quake                                                       | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
+| Quake 2                                                     | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
+| Quake 3                                                     | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
+| Quake 4                                                     | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
+| Resident Evil 4                                             | Yes                | No              |             |            | Not Playing           | Touch Controls | No    |
+| Return to Castle Wolfenstein                                | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
 | Rider                                                       | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
 | Robo Recall: Unplugged                                      | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | RUNNER                                                      | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
@@ -143,9 +142,8 @@
 | Street Gods                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | The Climb                                                   | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | The Climb 2                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| The Thrill of the Fight                                     | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
-| Tomb Raider                                                 | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
-| Vade Immortal 1-3                                           | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | yes   |
+| The Thrill of the Fight                                     | Yes                | No              |             |            | Not Playing           | Touch Controls | No    |
+| Tomb Raider                                                 | Yes                | No              |             | N/A        | Not Playing           | Touch Controls | yes   |
 | Vader Immortal: Episode I                                   | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | VENDETTA FOREVER                                            | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
 | Wall Town Wonders                                           | Yes                | No              | N/A         |            | Not Playing           | Touch Controls | No    |
