@@ -1,3 +1,8 @@
+# TODO
+- Fix bug where the email is not showing up correctly on the map screen.
+- Move the Email field to a seperate row
+
+
 # Steps
 - Grill Session
 - Research (optional)
