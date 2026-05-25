@@ -327,3 +327,254 @@
 | Stormland                                                   | Yes                | No              |             |            | Not Playing        | Touch Controls | No    |
 | Phantom: Covert Ops                                         | Yes                | No              |             |            | Not Playing        | Touch Controls | No    |
 | Lucent VR - Relax and Explore                               | Yes                | No              |             |            | Not Playing        | Touch Controls | No    |
+
+
+
+
+| Title                                                       | Available on Quest |
+| ----------------------------------------------------------- | ------------------ |
+| Space Engine                                                |                    |
+| Apex Construct                                              |                    |
+| Archangel Hellfire                                          |                    |
+| Beat Saber                                                  |                    |
+| Pistol Whip                                                 |                    |
+| Fujii - A Magical Gardening Adventure                       |                    |
+| Waltz of the Wizard                                         |                    |
+| Hot Dogs, Horseshoes and Hand Grenades (H3VR)               |                    |
+| SpaceEngine                                                 |                    |
+| Paper Beast                                                 |                    |
+| Maskmaker                                                   |                    |
+| Scanner Sombre                                              |                    |
+| Into the Radius VR                                          |                    |
+| Until You Fall                                              |                    |
+| The Gallery - Episode 1 Call of the Starseed                |                    |
+| The Gallery - Episode 2 Heart of the Emberstone             |                    |
+| Hard Bullet                                                 |                    |
+| Trover Saves the Universe                                   |                    |
+| STRIDE                                                      |                    |
+| Wanderer: The Fragments of Fate                             |                    |
+| The Invisible Hours                                         |                    |
+| Vertigo Remastered                                          |                    |
+| XING The Land Beyond                                        |                    |
+| BONEWORKS                                                   |                    |
+| The Wizards                                                 |                    |
+| The Wizards - Dark Times                                    |                    |
+| Detached                                                    |                    |
+| Megaton Rainfall                                            |                    |
+| Groundhog Day Like Father Like Son                          |                    |
+| Vanishing Realms                                            |                    |
+| Bow to Blood Last Captain Standing                          |                    |
+| Skyworld                                                    |                    |
+| Conductor                                                   |                    |
+| Budget Cuts                                                 |                    |
+| Budget Cuts 2 Mission Insolvency                            |                    |
+| DOOM VFR                                                    |                    |
+| Surgeon Simulator Experience Reality                        |                    |
+| Moss                                                        |                    |
+| Superfly                                                    |                    |
+| The Morrigan                                                |                    |
+| Sairento VR                                                 |                    |
+| Windlands                                                   |                    |
+| Witching Tower                                              |                    |
+| Far Beyond A Space Odyssey VR                               |                    |
+| Fantastic Contraption                                       |                    |
+| Rick and Morty Virtual Rick-ality                           |                    |
+| Abode 2                                                     |                    |
+| Stargaze                                                    |                    |
+| A-Tech Cybernetic VR                                        |                    |
+| Espire 1 VR Operative                                       |                    |
+| Creed Rise to Glory™                                        |                    |
+| Borderlands 2 VR                                            |                    |
+| Raw Data                                                    |                    |
+| SVRVIVE The Deus Helix                                      |                    |
+| I Expect You To Die                                         |                    |
+| Time Lock VR 1                                              |                    |
+| The Curious Tale of the Stolen Pets                         |                    |
+| Shooty Fruity                                               |                    |
+| Kartong                                                     |                    |
+| Sneaky Bears                                                |                    |
+| Hello Puppets!                                              |                    |
+| Traffic Jams                                                |                    |
+| Counter Fight                                               |                    |
+| Counter Fight Samurai Edition                               |                    |
+| A Long Survive                                              |                    |
+| Accounting+                                                 |                    |
+| Adventure Time: Magic Man's Head Games                      |                    |
+| Airborn                                                     |                    |
+| Alien: Rogue Incursion VR                                   |                    |
+| Alliance Peacefighter                                       |                    |
+| AMID EVIL VR                                                |                    |
+| Arken Age                                                   |                    |
+| Audica                                                      |                    |
+| Audio Trip                                                  |                    |
+| Audioshield                                                 |                    |
+| BallisticNG                                                 |                    |
+| BARDO                                                       |                    |
+| Bendy and the Ink Machine                                   |                    |
+| Blasters of the Universe                                    |                    |
+| Blood Trail                                                 |                    |
+| BONEWORKS                                                   |                    |
+| Bootstrap Island                                            |                    |
+| BOXVR                                                       |                    |
+| Carly and the Reaperman - Escape from the Underworld        |                    |
+| Clone Drone in the Hyperdome                                |                    |
+| Cloudlands : VR Minigolf                                    |                    |
+| Colossal Cave VR                                            |                    |
+| COMPOUND                                                    |                    |
+| CONVRGENCE                                                  |                    |
+| Crossings                                                   |                    |
+| Dance Collider                                              |                    |
+| Derail Valley                                               |                    |
+| Doctor Who: The Edge Of Time                                |                    |
+| Dredge                                                      |                    |
+| Duck Season                                                 |                    |
+| Echo Point Nova                                             |                    |
+| Elven Assassin                                              |                    |
+| Escape Simulator + Spy                                      |                    |
+| Eternity Warriors™ VR                                       |                    |
+| EVE: Valkyrie - Warzone                                     |                    |
+| EXD - Extra Dimensional                                     |                    |
+| EXOSHOCK                                                    |                    |
+| Eye In The Sky                                              |                    |
+| Eye of the Temple                                           |                    |
+| Falcon 4.0                                                  |                    |
+| Falcon Age                                                  |                    |
+| Faraday Protocol                                            |                    |
+| Firebird - La Peri                                          |                    |
+| Firebird - The Unfinished                                   |                    |
+| Firmament                                                   |                    |
+| Floor Plan 2                                                |                    |
+| fpsVR                                                       |                    |
+| FREEDIVER: Triton Down                                      |                    |
+| Freespace 2                                                 |                    |
+| Garden of the Sea (VR)                                      |                    |
+| Ghost Signal: A Stellaris Game                              |                    |
+| Go For Launch: Mercury                                      |                    |
+| Grand Theft Auto: The Trilogy - The Definitive Edition      |                    |
+| Gravity Lab - Gravitational Testing Facility & Observations |                    |
+| Gunheart                                                    |                    |
+| Guns'n'Stories: Bulletproof VR                              |                    |
+| Half-Life: Alyx                                             |                    |
+| Holodance                                                   |                    |
+| Homeworld: Vast Reaches                                     |                    |
+| Hot Dogs, Horseshoes & Hand Grenades                        |                    |
+| House of the Dying Sun                                      |                    |
+| IL-2 Sturmovik: Battle of Stalingrad                        |                    |
+| In the Black ™                                              |                    |
+| Interkosmos                                                 |                    |
+| Into Black                                                  |                    |
+| Into the Radius VR                                          |                    |
+| Irreversible                                                |                    |
+| JUST ONE MAN                                                |                    |
+| Knockout League                                             |                    |
+| Knockout League - Arcade VR Boxing                          |                    |
+| L.A. Noire: The VR Case Files                               |                    |
+| Lone Echo- Oculus Rift                                      |                    |
+| Marrow Marrow                                               |                    |
+| MechWarrior 5: Mercenaries                                  |                    |
+| Metro Awakening                                             |                    |
+| Nature Treks VR                                             |                    |
+| Neon White                                                  |                    |
+| NeverBound                                                  |                    |
+| Omega Agent                                                 |                    |
+| Outer Wilds                                                 |                    |
+| Overload                                                    |                    |
+| OVR Toolkit                                                 |                    |
+| Pacific Drive                                               |                    |
+| PAPER FIRE ROOKIE (Formerly Paperville Panic)               |                    |
+| Pixel Ripped 1989                                           |                    |
+| PowerBeatsVR                                                |                    |
+| Primordian                                                  |                    |
+| Project Wingman                                             |                    |
+| Psychonauts in the Rhombus of Ruin                          |                    |
+| QUAKE                                                       |                    |
+| Quake 4                                                     |                    |
+| QUAKE II                                                    |                    |
+| QUAKE III Arena                                             |                    |
+| RAGER                                                       |                    |
+| Reach                                                       |                    |
+| Red Matter 2                                                |                    |
+| Redout - Back to Earth Pack                                 |                    |
+| Redout - Mars Pack                                          |                    |
+| Redout - Neptune Pack                                       |                    |
+| Redout - Space Exploration Pack                             |                    |
+| Redout - V.E.R.T.E.X. Pack                                  |                    |
+| RESIDENT EVIL 7 biohazard                                   |                    |
+| Resident Evil Village                                       |                    |
+| Return to Castle Wolfenstein                                |                    |
+| Riven                                                       |                    |
+| Robinson: The Journey                                       |                    |
+| Roboquest VR                                                |                    |
+| Run Of Mydan                                                |                    |
+| SACRALITH : The Archer`s Tale                               |                    |
+| Shadow Legend VR                                            |                    |
+| SILENT HILL 2                                               |                    |
+| SILICON RISING                                              |                    |
+| Skydance Games Collection                                   |                    |
+| Skydance's BEHEMOTH                                         |                    |
+| Slime Rancher                                               |                    |
+| Soundboxing                                                 |                    |
+| Space Docker VR                                             |                    |
+| Space Salvage                                               |                    |
+| Spacetours VR                                               |                    |
+| Spacetours VR - Ep1 The Solar System                        |                    |
+| Spectro                                                     |                    |
+| STORM VR                                                    |                    |
+| STRIDE: Fates                                               |                    |
+| Subnautica                                                  |                    |
+| Subnautica: Below Zero                                      |                    |
+| Surreal 98                                                  |                    |
+| Surviving Mars: Pioneer                                     |                    |
+| Swarm                                                       |                    |
+| SWARM 2                                                     |                    |
+| Sweet Surrender                                             |                    |
+| sYs - Save Your Soul                                        |                    |
+| System Shock                                                |                    |
+| Tethered                                                    |                    |
+| The 7th Guest VR                                            |                    |
+| The Amusement                                               |                    |
+| The Assembly                                                |                    |
+| The Elder Scrolls IV: Oblivion Remastered                   |                    |
+| The House of Da Vinci VR                                    |                    |
+| The Last Clockwinder                                        |                    |
+| The Light Brigade                                           |                    |
+| The Midnight Walk                                           |                    |
+| The Pirate Queen: A Forgotten Legend                        |                    |
+| The Room VR: A Dark Matter                                  |                    |
+| The Solus Project                                           |                    |
+| The Unspoken                                                |                    |
+| The Unspoken - Oculus Rift                                  |                    |
+| The Walking Dead: Saints & Sinners - Chapter 2: Retribution |                    |
+| theBlu                                                      |                    |
+| Thief VR: Legacy of shadow                                  |                    |
+| Thrasher                                                    |                    |
+| Time Transit VR                                             |                    |
+| TITAN SLAYER                                                |                    |
+| Titanic VR & Apollo 11 VR HD Bundle                         |                    |
+| Trombone Champ: Unflattened                                 |                    |
+| Twisted Arrow                                               |                    |
+| ULTRAKILL                                                   |                    |
+| UNDERDOGS                                                   |                    |
+| Universe Sandbox ²                                          |                    |
+| Unknightly                                                  |                    |
+| V-Racer Hoverbike                                           |                    |
+| Vampire: The Masquerade - Justice                           |                    |
+| Vector 36                                                   |                    |
+| Vertigo 2                                                   |                    |
+| VEX MAGE                                                    |                    |
+| Virtual Virtual Reality                                     |                    |
+| ViSP - Virtual Space Port                                   |                    |
+| Void Jump VR                                                |                    |
+| Wanderer: The Fragments of Fate                             |                    |
+| Warplanes: Battles over Pacific                             |                    |
+| Wave Circles                                                |                    |
+| We Are One                                                  |                    |
+| Westworld Awakening                                         |                    |
+| Wolfenstein 3D                                              |                    |
+| WOLFENSTEIN: Cyberpilot                                     |                    |
+| Wrath: Aeon of Ruin VR - Brutal Edition                     |                    |
+| Wrench                                                      |                    |
+| X Rebirth VR Edition                                        |                    |
+| X-Plane 11                                                  |                    |
+| Z.O.N.A: Origin                                             |                    |
+| Zero Caliber 2 Remastered                                   |                    |
