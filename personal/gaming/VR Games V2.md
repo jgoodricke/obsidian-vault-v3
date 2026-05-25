@@ -29,56 +29,56 @@
 | Ghost Signal: A Stellaris Game                              | Yes                | Yes             | 94          | 92         | Not Playing           | Touch          | no    |
 | Gravity Lab - Gravitational Testing Facility & Observations | Yes                | Yes             | 80          | 82         | Not Playing           | Touch          | no    |
 | Homeworld: Vast Reaches                                     | Yes                | Yes             | 57          | 74         | Not Playing           | Touch          | no    |
-| I Expect You To Die                                         | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Into Black                                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Into the Radius VR                                          | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Maskmaker                                                   | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Metro Awakening                                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Moss                                                        | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Nature Treks VR                                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Pistol Whip                                                 | Yes                | Yes             |             |            | Playing               | Touch Controls | yes   |
-| Pixel Ripped 1989                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| PowerBeatsVR                                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Riven                                                       | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Sairento VR                                                 | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Space Docker VR                                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| STRIDE                                                      | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| STRIDE: Fates                                               | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Superfly                                                    | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Surviving Mars: Pioneer                                     | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Swarm                                                       | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| SWARM 2                                                     | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Sweet Surrender                                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Curious Tale of the Stolen Pets                         | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| The House of Da Vinci VR                                    | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Last Clockwinder                                        | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Pirate Queen: A Forgotten Legend                        | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Room VR: A Dark Matter                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Wizards                                                 | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| The Wizards - Dark Times                                    | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Thief VR: Legacy of shadow                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Thrasher                                                    | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Traffic Jams                                                | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Trombone Champ: Unflattened                                 | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Until You Fall                                              | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Virtual Virtual Reality                                     | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Void Jump VR                                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Wanderer: The Fragments of Fate                             | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| We Are One                                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Windlands                                                   | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Wrath: Aeon of Ruin VR - Brutal Edition                     | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| A Long Survive                                              | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Accounting+                                                 | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| AMID EVIL VR                                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Apex Construct                                              | Yes                | Yes             |             |            | Playing               | Touch Controls | yes   |
-| Beat Saber                                                  | Yes                | Yes             |             |            | Playing               | Touch Controls | yes   |
-| Shooty Fruity                                               | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Skydance's BEHEMOTH                                         | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| The Walking Dead: Saints & Sinners - Chapter 2: Retribution | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| UNDERDOGS                                                   | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| V-Racer Hoverbike                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Vampire: The Masquerade - Justice                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Waltz of the Wizard                                         | Yes                | Yes             |             |            | Playing               | Touch Controls | yes   |
+| I Expect You To Die                                         | Yes                | Yes             | 94          | 96         | Not Playing           | Touch Controls | yes   |
+| Into Black                                                  | Yes                | Yes             | 87          | 94         | Not Playing           | Touch          | no    |
+| Into the Radius VR                                          | Yes                | Yes             | 94          | 94         | Not Playing           | Touch          | no    |
+| Maskmaker                                                   | Yes                | Yes             | 93          | 90         | Not Playing           | Touch Controls | yes   |
+| Metro Awakening                                             | Yes                | Yes             | 74          | 90         | Not Playing           | Touch          | no    |
+| Moss                                                        | Yes                | Yes             | 94          | 96         | Not Playing           | Touch Controls | yes   |
+| Nature Treks VR                                             | Yes                | Yes             | 82          | 78         | Not Playing           | Touch          | no    |
+| Pistol Whip                                                 | Yes                | Yes             | 93          | 96         | Playing               | Touch Controls | yes   |
+| Pixel Ripped 1989                                           | Yes                | Yes             | 85          | N/A        | Not Playing           | Touch          | no    |
+| PowerBeatsVR                                                | Yes                | Yes             | 85          | 90         | Not Playing           | Touch          | no    |
+| Riven                                                       | Yes                | Yes             | 93          | 76         | Not Playing           | Touch          | no    |
+| Sairento VR                                                 | Yes                | Yes             | 86          | 90         | Not Playing           | Touch Controls | yes   |
+| Space Docker VR                                             | Yes                | Yes             | 94          | 96         | Not Playing           | Touch          | no    |
+| STRIDE                                                      | Yes                | Yes             | 80          | 84         | Not Playing           | Touch Controls | yes   |
+| STRIDE: Fates                                               | Yes                | Yes             | 54          | 80         | Not Playing           | Touch          | no    |
+| Superfly                                                    | Yes                | Yes             | 90          | 90         | Not Playing           | Touch Controls | yes   |
+| Surviving Mars: Pioneer                                     | Yes                | Yes             | 82          | 92         | Not Playing           | Touch          | no    |
+| Swarm                                                       | Yes                | Yes             | 80          | 96         | Not Playing           | Touch          | no    |
+| SWARM 2                                                     | Yes                | Yes             | 73          | 96         | Not Playing           | Touch          | no    |
+| Sweet Surrender                                             | Yes                | Yes             | 84          | 92         | Not Playing           | Touch          | no    |
+| The Curious Tale of the Stolen Pets                         | Yes                | Yes             | 92          | 88         | Not Playing           | Touch Controls | yes   |
+| The House of Da Vinci VR                                    | Yes                | Yes             | 93          | 94         | Not Playing           | Touch          | no    |
+| The Last Clockwinder                                        | Yes                | Yes             | 96          | 96         | Not Playing           | Touch          | no    |
+| The Pirate Queen: A Forgotten Legend                        | Yes                | Yes             | 73          | 78         | Not Playing           | Touch          | no    |
+| The Room VR: A Dark Matter                                  | Yes                | Yes             | 97          | 98         | Not Playing           | Touch          | no    |
+| The Wizards                                                 | Yes                | Yes             | 74          | 82         | Not Playing           | Touch Controls | yes   |
+| The Wizards - Dark Times                                    | Yes                | Yes             | 72          | 76         | Not Playing           | Touch Controls | yes   |
+| Thief VR: Legacy of shadow                                  | Yes                | Yes             | 77          | 82         | Not Playing           | Touch          | no    |
+| Thrasher                                                    | Yes                | Yes             | 90          | 80         | Not Playing           | Touch          | no    |
+| Traffic Jams                                                | Yes                | Yes             | 85          | 82         | Not Playing           | Touch Controls | yes   |
+| Trombone Champ: Unflattened                                 | Yes                | Yes             | 99          | 98         | Not Playing           | Touch          | no    |
+| Until You Fall                                              | Yes                | Yes             | 94          | 94         | Not Playing           | Touch Controls | yes   |
+| Virtual Virtual Reality                                     | Yes                | Yes             | 92          | 94         | Not Playing           | Touch          | no    |
+| Void Jump VR                                                | Yes                | Yes             | 80          | 84         | Not Playing           | Touch          | no    |
+| Wanderer: The Fragments of Fate                             | Yes                | Yes             | 67          | 68         | Not Playing           | Touch          | no    |
+| We Are One                                                  | Yes                | Yes             | 92          | 96         | Not Playing           | Touch          | no    |
+| Windlands                                                   | Yes                | Yes             | 77          | 94         | Not Playing           | Touch Controls | yes   |
+| Wrath: Aeon of Ruin VR - Brutal Edition                     | Yes                | Yes             | 97          | 96         | Not Playing           | Touch          | no    |
+| A Long Survive                                              | Yes                | Yes             | 67          | 82         | Not Playing           | Touch          | no    |
+| Accounting+                                                 | Yes                | Yes             | 73          | 84         | Not Playing           | Touch          | no    |
+| AMID EVIL VR                                                | Yes                | Yes             | 87          | 92         | Not Playing           | Touch          | no    |
+| Apex Construct                                              | Yes                | Yes             | 73          | 82         | Playing               | Touch Controls | yes   |
+| Beat Saber                                                  | Yes                | Yes             | 96          | 90         | Playing               | Touch Controls | yes   |
+| Shooty Fruity                                               | Yes                | Yes             | 89          | 82         | Not Playing           | Touch Controls | yes   |
+| Skydance's BEHEMOTH                                         | Yes                | Yes             | 75          | 82         | Not Playing           | Touch          | no    |
+| The Walking Dead: Saints & Sinners - Chapter 2: Retribution | Yes                | Yes             | 64          | 78         | Not Playing           | Touch          | no    |
+| UNDERDOGS                                                   | Yes                | Yes             | 98          | 96         | Not Playing           | Touch          | no    |
+| V-Racer Hoverbike                                           | Yes                | Yes             | 90          | 96         | Not Playing           | Touch          | no    |
+| Vampire: The Masquerade - Justice                           | Yes                | Yes             | 65          | 80         | Not Playing           | Touch          | no    |
+| Waltz of the Wizard                                         | Yes                | Yes             | 91          | 98         | Playing               | Touch Controls | yes   |
 | A Fisherman's Tale 2                                        | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
 | BARDO                                                       | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
 | Eye of the Temple                                           | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
@@ -305,5 +305,3 @@
 | Stormland                                                   | No                 | Yes             | N/A         |            | Not Playing           | Touch Controls | No    |
 | Asgards Wrath                                               | No                 | Yes             | NA          |            | Waiting for Better PC | Touch          | yes   |
 | Asgards Wrath 2                                             | No                 | Yes             | NA          |            | Waiting for Better PC | Touch          | ye    |
-
-
