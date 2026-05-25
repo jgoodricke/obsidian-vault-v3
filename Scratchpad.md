@@ -1,6 +1,6 @@
 # TODO
-- Fix bug where the email is not showing up correctly on the map screen.
-- Move the Email field to a seperate row
+- Fix bug where the facility emails are not showing on the maps screen after switching to multiple emails.
+- Move the Email field to a seperate row in the table.
 
 
 # Steps
