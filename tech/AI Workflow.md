@@ -1,27 +1,21 @@
-- Exploration
-	- Grill Session
-	-  Research (Optional)
-	- Prototyping (Optional)
-- Planning
-	- Product Requirements Document (PRD)
-	- Implementation Planning (Kanban Board)
-- Execution
-	- Run Agents
-	- Cursory Code Check
-	- Smoke Test
-- Code Review
-	- Claude execution Review
-	- Claude Requirements Review
-	- Coderabbit Review
-	- Human Code Review
-- Testing
-	- Generates QA plan
-	- Test Locally
-- Deploy
-	- Create PR
-	- Review Feedback
-	- Merge
-	- Smoke Test on Staging
+- Exploration: research (optional)
+- Exploration: grill session
+- Exploration: prototyping (optional)
+- Planning: product requirements document (PRD)
+- Planning: implementation planning (kanban board)
+- Execution: run agents
+- Execution: quick code check
+- Execution: smoke test
+- Code Review: claude execution review
+- Code Review: claude requirements review
+- Code Review: coderabbit review
+- Code Review: human code review
+- Testing: generates QA plan
+- Testing: test locally
+- Deploy: create PR
+- Deploy: review feedback
+- Deploy: merge
+- Deploy: smoke test on Staging
 
 
 
