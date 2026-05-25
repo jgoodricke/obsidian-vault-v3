@@ -12,23 +12,23 @@
 | Arken Age                                                   | Yes                | Yes             | 90          | 98         | Not Playing           | Touch          | no    |
 | Audio Trip                                                  | Yes                | Yes             | 90          | 90         | Not Playing           | Touch          | no    |
 | Audioshield                                                 | Yes                | Yes             | 81          | 68         | Not Playing           | Touch          | no    |
-| Budget Cuts                                                 | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Budget Cuts 2 Mission Insolvency                            | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Carly and the Reaperman - Escape from the Underworld        | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Clone Drone in the Hyperdome                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Colossal Cave VR                                            | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| COMPOUND                                                    | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Creed Rise to Glory™                                        | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Dance Collider                                              | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Doctor Who: The Edge Of Time                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Elven Assassin                                              | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Espire 1 VR Operative                                       | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
-| Floor Plan 2                                                | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Fujii - A Magical Gardening Adventure                       | Yes                | Yes             |             |            | Playing               | Touch Controls | yes   |
-| Garden of the Sea (VR)                                      | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Ghost Signal: A Stellaris Game                              | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Gravity Lab - Gravitational Testing Facility & Observations | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
-| Homeworld: Vast Reaches                                     | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
+| Budget Cuts                                                 | Yes                | Yes             | 81          | 88         | Not Playing           | Touch Controls | yes   |
+| Budget Cuts 2 Mission Insolvency                            | Yes                | Yes             | 82          | 88         | Not Playing           | Touch Controls | yes   |
+| Carly and the Reaperman - Escape from the Underworld        | Yes                | Yes             | 88          | 82         | Not Playing           | Touch          | no    |
+| Clone Drone in the Hyperdome                                | Yes                | Yes             | 91          | 92         | Not Playing           | Touch          | no    |
+| Colossal Cave VR                                            | Yes                | Yes             | 88          | 76         | Not Playing           | Touch          | no    |
+| COMPOUND                                                    | Yes                | Yes             | 97          | 96         | Not Playing           | Touch          | no    |
+| Creed Rise to Glory™                                        | Yes                | Yes             | 75          | 82         | Not Playing           | Touch Controls | yes   |
+| Dance Collider                                              | Yes                | Yes             | 80          | 84         | Not Playing           | Touch          | no    |
+| Doctor Who: The Edge Of Time                                | Yes                | Yes             | 61          | 68         | Not Playing           | Touch          | no    |
+| Elven Assassin                                              | Yes                | Yes             | 84          | 80         | Not Playing           | Touch          | no    |
+| Espire 1 VR Operative                                       | Yes                | Yes             | 53          | 84         | Not Playing           | Touch Controls | yes   |
+| Floor Plan 2                                                | Yes                | Yes             | 90          | 88         | Not Playing           | Touch          | no    |
+| Fujii - A Magical Gardening Adventure                       | Yes                | Yes             | 94          | 92         | Playing               | Touch Controls | yes   |
+| Garden of the Sea (VR)                                      | Yes                | Yes             | 93          | 92         | Not Playing           | Touch          | no    |
+| Ghost Signal: A Stellaris Game                              | Yes                | Yes             | 94          | 92         | Not Playing           | Touch          | no    |
+| Gravity Lab - Gravitational Testing Facility & Observations | Yes                | Yes             | 80          | 82         | Not Playing           | Touch          | no    |
+| Homeworld: Vast Reaches                                     | Yes                | Yes             | 57          | 74         | Not Playing           | Touch          | no    |
 | I Expect You To Die                                         | Yes                | Yes             |             |            | Not Playing           | Touch Controls | yes   |
 | Into Black                                                  | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
 | Into the Radius VR                                          | Yes                | Yes             |             |            | Not Playing           | Touch          | no    |
@@ -305,6 +305,5 @@
 | Stormland                                                   | No                 | Yes             | N/A         |            | Not Playing           | Touch Controls | No    |
 | Asgards Wrath                                               | No                 | Yes             | NA          |            | Waiting for Better PC | Touch          | yes   |
 | Asgards Wrath 2                                             | No                 | Yes             | NA          |            | Waiting for Better PC | Touch          | ye    |
-
 
 
