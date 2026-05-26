@@ -1,4 +1,5 @@
 - Exploration: research (optional)
+- Exploration: create Linear ticket
 - Exploration: grill session
 - Exploration: prototyping (optional)
 - Planning: product requirements document (PRD)
