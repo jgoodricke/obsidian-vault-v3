@@ -1,14 +1,12 @@
 Playing Now
 - Jedi Knight 2
 - Doom 3
-- RUNNER
 
 Interested (Quest Only)
 - Iron Lung
-- Journey of the Gods
-- Nano
-- Resident Evil 4
-- The Climb
+- **Journey of the Gods**
+- **Nano**
+- **The Climb**
 - The Climb 2
 - Batman Arkham Shadow
 - Deadpool VR
