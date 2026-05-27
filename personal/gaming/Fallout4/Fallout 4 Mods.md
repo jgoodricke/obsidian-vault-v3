@@ -41,9 +41,6 @@
 - Add blood to enemies when wounded
 
 # Patches
-- Modify Bullet Time VATS VR:  
-	- update BTVxPlayerAliasScript::SetAttackAPCost() to use a flat rate for the VATS cost of actions, rather than a percentage. set FullAP to 110 (average starting VATS)  
-	- Also modify BTVxManagerScript::DamageAP to set scope shot as a multiplier of the weapon value, rather than a flat rate. Make it x3 and x1.5 when you have the perk.
 - Add Settlement Ambush Kit Monitor to Conquest
 
 ## To Check
@@ -141,6 +138,9 @@
 - Autosave Manager
 - Fusion Core Eject Removal
 - Simple Everyone's Best Friend
+
+## Weapon Fixes
+- Scrap Metal and Makeshift Welds
 ## Core Gameplay
 ### VR
 - FRIK
@@ -150,6 +150,7 @@
 - VR Small Pip Boy Position Fix
 - Bullet Time VATS VR
 	- UsefulER Perception
+	- Bullet Time V.A.T.S VR - static values
 - Critical Hits Outside of VATS
 - Weapon Accuracy Redone for VR 
 	- Make a patch for Nuka World Weapons

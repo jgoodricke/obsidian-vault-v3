@@ -1,3 +1,6 @@
+# check out
+
+
 ## Playing
 - SP - Quest
 	- Doom
@@ -29,7 +32,7 @@
 	- Phasmophobia
 	- PULSAR Lost Colony
 ## To Play
-- SP - Quest
+- SP - Quest Free
 	- Doom (https://www.questzdoom.com/recommended.html)
 		- Sigil
 		- Doom 2
@@ -37,8 +40,7 @@
 		- Other 
 			- HacX
 			- Brutal Doom Hell on Earth
-	- Doom 3 DLC
-	- Wolfenstein 3D
+	- Doom 3
 	- Return to Castle Wolfenstein
 	- Quake 2
 	- Quake 4
@@ -47,6 +49,16 @@
 	- Prey
 	- Tomb Raider
 	- Iron Lung
+- SP - Quest Paid
+	- Rider
+	- Star Wars - Tales from the Galactic Edge
+	- Resident Evil 4
+	- Batman Arkham Shadow
+	- Assassin's Creed Nexus
+	- Vade Immortal 1-3
+	- Robo Recall
+	- In Death Unchained
+	- Blade and Sorcery Nomad
 - SP
 	- The Walking Dead Saints & Sinners
 	- The Talos Principle VR
@@ -111,6 +123,7 @@
 	- Counter Fight
 	- Counter Fight Samurai Edition
 - SP - HOTAS
+	- House of the Dying Sun
 	- EVERSPACE
 	- Ace Combat 7
 	- Aircar
@@ -284,16 +297,16 @@
 - Swords of Gurrah
 - Tower Tag
 
-Child::[[VR Games - Old]]
-
   
 
 # To Get
 ## HOTAS  
 - Space SIM
 	- *Alliance: Peacefighter*
-	- *House of the Dying Sun*
 	- *Vector 36*
+	- Freespace 2
+	- Strike Commander
+	- Evochron Legacy?
 - Flight SIM
 	- *Microsoft Flight Simulator (Dune DLC)*
 	- *IL-2 Sturmovik: Battle of Stalingrad*

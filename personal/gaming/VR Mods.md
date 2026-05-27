@@ -7,7 +7,10 @@ frontmatter-version: 1
 # To Check Out:  
 - Metal: Hellsinger  
 - Firewatch  
-- Quake 4  
+- Quake 4
+- [Freespace](https://wiki.hard-light.net/index.php/Virtual_Reality)
+- [Wing Commander](https://wcrespace.com/media/) (Unfinished)
+- [Strike Commander](https://github.com/remileonard/libRealSpace)
 - [https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9](https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9)  
 - [https://www.youtube.com/watch?v=aR459G_Yp2Q](https://www.youtube.com/watch?v=aR459G_Yp2Q)
   
