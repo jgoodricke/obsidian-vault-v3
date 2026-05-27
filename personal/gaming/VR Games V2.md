@@ -1,7 +1,7 @@
 Playing Now
 - Jedi Knight 2
 - Doom 3
-- Robo Recall 2
+- Robo Recall
 
 Interested (Quest Only)
 - Iron Lung
@@ -15,6 +15,7 @@ Interested (Quest Only)
 - Iron Man VR
 - Star Wars: Tales from the Galactic Edge
 - Vader Immortal
+- Out of Scale: A Kurzgesagt Adventure
 - Street Gods VR
 - Resident Evil 4
 
@@ -32,7 +33,7 @@ Interested (Cross-Play)
 - Falcon Age
 - Behemoth
 - Eye of the Temple
-- Out of Scale: A Kurzgesagt Adventure
+
 
 
 
