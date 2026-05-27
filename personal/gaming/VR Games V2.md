@@ -4,12 +4,20 @@ Playing Now
 - RUNNER
 
 Interested (Quest Only)
+- Iron Lung
 - Journey of the Gods
+- Nano
 - Resident Evil 4
 - The Climb
 - The Climb 2
+- Batman Arkham Shadow
 - Deadpool VR
 - Assassin's Creed
+- Iron Man VR
+- Vader Immortal
+- Star Wars: Tales from the Galactic Edge
+- Street Gods VR
+
 
 Interested (Cross-Play)
 - Underdogs
@@ -24,6 +32,7 @@ Interested (Cross-Play)
 - Falcon Age
 - Behemoth
 - Eye of the Temple
+- Out of Scale: A Kurzgesagt Adventure
 
 
 
@@ -46,7 +55,7 @@ Interested (Cross-Play)
 | Phantom: Covert Ops                                         | Yes                | No              | N/A         | 84         | 84    | Not Playing           | Touch Controls    | No    |
 | Shattered                                                   | Yes                | No              | N/A         | 84         | 84    | Not Playing           | Touch Controls    | No    |
 | Star Wars: Tales from the Galaxy's Edge                     | Yes                | No              | N/A         | 84         | 84    | Not Playing           | Touch Controls    | No    |
-| Pixel Ripped 1989                                           | Yes                | No              | 85          | N/A        | 85    | Not Playing           | Touch             | no    |
+| Pixel Ripped 1989                                           | Yes                | Yes             | 85          | N/A        | 85    | Not Playing           | Touch             | no    |
 | Quake 4                                                     | Yes                | No              | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
 | Tomb Raider                                                 | Yes                | No              | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
 | Assassin’s Creed® Nexus VR                                  | Yes                | No              | N/A         | 86         | 86    | Not Playing           | Touch Controls    | No    |
@@ -67,7 +76,7 @@ Interested (Cross-Play)
 | Batman: Arkham Shadow                                       | Yes                | No              | N/A         | 92         | 92    | Not Playing           | Touch Controls    | No    |
 | Journey of the Gods                                         | Yes                | No              | N/A         | 92         | 92    | Not Playing           | Touch Controls    | No    |
 | Laser Dance                                                 | Yes                | No              | N/A         | 92         | 92    | Not Playing           | Touch Controls    | No    |
-| VENDETTA FOREVER                                            | Yes                | No              | N/A         | 92         | 92    | Not Playing           | Touch Controls    | No    |
+| VENDETTA FOREVER                                            | Yes                | Yes             | N/A         | 92         | 92    | Not Playing           | Touch Controls    | No    |
 | Iron Lung                                                   | Yes                | No              | 92          | N/A        | 92    | Not Playing           | Touch Controls    | yes   |
 | Quake 2                                                     | Yes                | No              | 92          | N/A        | 92    | Not Playing           | Touch Controls    | yes   |
 | Resident Evil 4                                             | Yes                | No              | 96          | 94         | 94    | Not Playing           | Touch Controls    | No    |
@@ -79,7 +88,7 @@ Interested (Cross-Play)
 | Quake                                                       | Yes                | No              | 95          | N/A        | 95    | Not Playing           | Touch Controls    | yes   |
 | Quake 3                                                     | Yes                | No              | 95          | N/A        | 95    | Not Playing           | Touch Controls    | yes   |
 | Nano                                                        | Yes                | No              | N/A         | 96         | 96    | Not Playing           | Touch Controls    | No    |
-| Escaping Wonderland                                         | Yes                | No              | N/A         | 96         | 96    | Not Playing           | Touch Controls    | No    |
+| Escaping Wonderland                                         | Yes                | Yes             | 82          | 96         | 82    | Not Playing           | Touch Controls    | No    |
 | Doom                                                        | Yes                | No              | 97          | N/A        | 97    | Playing               | Touch Controls    | yes   |
 | Espire 1 VR Operative                                       | Yes                | Yes             | 53          | 84         | 53    | Not Playing           | Touch Controls    | yes   |
 | STRIDE: Fates                                               | Yes                | Yes             | 54          | 80         | 54    | Not Playing           | Touch             | no    |
