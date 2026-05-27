@@ -1,6 +1,7 @@
 Playing Now
 - Jedi Knight 2
 - Doom 3
+- Robo Recall 2
 
 Interested (Quest Only)
 - Iron Lung
@@ -8,13 +9,14 @@ Interested (Quest Only)
 - **Nano**
 - **The Climb**
 - The Climb 2
-- Batman Arkham Shadow
 - Deadpool VR
 - Assassin's Creed
+- Batman Arkham Shadow
 - Iron Man VR
-- Vader Immortal
 - Star Wars: Tales from the Galactic Edge
+- Vader Immortal
 - Street Gods VR
+- Resident Evil 4
 
 
 Interested (Cross-Play)
