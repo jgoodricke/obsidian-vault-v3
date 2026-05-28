@@ -8,17 +8,18 @@ Interested (Quest Only)
 - **Journey of the Gods**
 - **Nano**
 - **The Climb**
-- The Climb 2
-- Deadpool VR
-- Assassin's Creed
-- Batman Arkham Shadow
-- Iron Man VR
+- **The Climb 2**
+- **Deadpool VR**
+- **Assassin's Creed**
+- **Batman Arkham Shadow**
+- **Iron Man VR**
 - Star Wars: Tales from the Galactic Edge
 - Vader Immortal
 - Out of Scale: A Kurzgesagt Adventure
 - Street Gods VR
 - Resident Evil 4
 - Attack on Titan VR
+- In Death Unchained
 
 
 Interested (Cross-Play)
