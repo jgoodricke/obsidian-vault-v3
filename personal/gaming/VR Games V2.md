@@ -4,19 +4,22 @@ Playing Now
 - Robo Recall
 
 Interested (Quest Only)
-- Iron Lung
-- **Journey of the Gods**
-- **Nano**
-- **The Climb**
-- **The Climb 2**
-- **Assassin's Creed**
-- **Batman Arkham Shadow**
-- **Iron Man VR**
-- Out of Scale: A Kurzgesagt Adventure
-- Resident Evil 4
-- In Death Unchained
-- Star Wars: Tales from the Galactic Edge
-- Vader Immortal
+- [ ] Iron Lung
+- [ ] **Journey of the Gods**
+- [ ] **Nano**
+- [ ] **The Climb**
+- [ ] **The Climb 2**
+- [ ] **Assassin's Creed**
+- [ ] **Batman Arkham Shadow**
+- [ ] **Iron Man VR**
+- [ ] Out of Scale: A Kurzgesagt Adventure
+- [ ] Resident Evil 4
+- [ ] In Death Unchained
+- [ ] Star Wars: Tales from the Galactic Edge
+- [ ] Vader Immortal
+	- [ ] Episode 1
+	- [ ] Episode 2
+	- [ ] Episode 3
 - Deadpool VR (Wait until November 2026)
 - Street Gods VR (Wait until December 2026)
 
