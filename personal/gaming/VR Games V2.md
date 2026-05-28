@@ -12,12 +12,11 @@ Interested (Quest Only)
 - **Assassin's Creed**
 - **Batman Arkham Shadow**
 - **Iron Man VR**
-- Star Wars: Tales from the Galactic Edge
-- Vader Immortal
 - Out of Scale: A Kurzgesagt Adventure
 - Resident Evil 4
-- Attack on Titan VR
 - In Death Unchained
+- Star Wars: Tales from the Galactic Edge
+- Vader Immortal
 - Deadpool VR (Wait until November 2026)
 - Street Gods VR (Wait until December 2026)
 
