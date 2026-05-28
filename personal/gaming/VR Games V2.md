@@ -4,24 +4,26 @@ Playing Now
 - Robo Recall
 
 Interested (Quest Only)
-- [ ] Iron Lung
+- [x] Iron Lung
 - [x] **Journey of the Gods**
 - [x] **Nano**
 - [x] **The Climb**
 - [x] **The Climb 2**
-- [ ] **Assassin's Creed**
-- [ ] **Batman Arkham Shadow**
-- [ ] **Iron Man VR**
 - [x] Out of Scale: A Kurzgesagt Adventure
-- [ ] Resident Evil 4
+- [x] Resident Evil 4
 - [ ] In Death Unchained
-- [ ] Star Wars: Tales from the Galactic Edge
-- [ ] Vader Immortal
-	- [ ] Episode 1
-	- [ ] Episode 2
-	- [ ] Episode 3
-- Deadpool VR (Wait until November 2026)
-- Street Gods VR (Wait until December 2026)
+- [ ] Vader Immortal: Episode 1
+- [ ] Wait for faster internet
+	- [ ] Assassin's Creed
+	- [ ] Batman Arkham Shadow
+	- [ ] Iron Man VR
+	- [ ] Star Wars: Tales from the Galactic Edge
+	- [ ] Vader Immortal: Episode 2
+	- [ ] Vader Immortal:  Episode 3
+- [ ] Wait Until Updated
+	- [ ] Deadpool VR (Wait until November 2026)
+	- [ ] Street Gods VR (Wait until December 2026)
+
 
 Interested (Cross-Play)
 - Underdogs
