@@ -5,14 +5,14 @@ Playing Now
 
 Interested (Quest Only)
 - [ ] Iron Lung
-- [ ] **Journey of the Gods**
-- [ ] **Nano**
-- [ ] **The Climb**
-- [ ] **The Climb 2**
+- [x] **Journey of the Gods**
+- [x] **Nano**
+- [x] **The Climb**
+- [x] **The Climb 2**
 - [ ] **Assassin's Creed**
 - [ ] **Batman Arkham Shadow**
 - [ ] **Iron Man VR**
-- [ ] Out of Scale: A Kurzgesagt Adventure
+- [x] Out of Scale: A Kurzgesagt Adventure
 - [ ] Resident Evil 4
 - [ ] In Death Unchained
 - [ ] Star Wars: Tales from the Galactic Edge
