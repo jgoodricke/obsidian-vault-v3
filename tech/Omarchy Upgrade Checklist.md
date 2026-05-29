@@ -1,4 +1,4 @@
 - [ ] Run Update
 - [ ] Update Jetbrains Apps
 - [ ] Update Jetbrains Plugins
-- [ ] Copy across the zsh files and update accordingly
+- [ ] Update Lazyvim
