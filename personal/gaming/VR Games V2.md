@@ -13,6 +13,7 @@ Interested (Quest Only)
 - [x] Resident Evil 4
 - [ ] In Death Unchained
 - [ ] Vader Immortal: Episode 1
+- [ ] Besieged VR
 - [ ] Wait for faster internet
 	- [ ] Assassin's Creed
 	- [ ] Batman Arkham Shadow

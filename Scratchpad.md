@@ -1,3 +1,8 @@
+# Fixes for Thermonuclear code review
+- remove the repetition, make it more DRY
+- Focus a lot more in tests.
+
+
 # TODO
 - Fix bug where the facility emails are not showing on the maps screen after switching to multiple emails.
 - Move the Email field to a seperate row in the table.

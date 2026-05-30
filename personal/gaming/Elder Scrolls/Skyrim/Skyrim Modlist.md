@@ -387,6 +387,9 @@
 	- [ ] Roggi Knot-Beard
 - [ ] Immersive Dialogue Expansion
 	- [ ] Stormcloaks
+	- [ ] Hearthfire
+	- [ ] Yorvaskr
+	- [ ] Thalmor
 
 
 
