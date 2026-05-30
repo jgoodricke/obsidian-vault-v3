@@ -15,8 +15,8 @@ Interested (Quest Only)
 - [ ] Vader Immortal: Episode 1
 - [ ] Besieged VR
 - [ ] Wait for faster internet
-	- [ ] Assassin's Creed
 	- [ ] Batman Arkham Shadow
+	- [ ] Assassin's Creed
 	- [ ] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
 	- [ ] Vader Immortal: Episode 2

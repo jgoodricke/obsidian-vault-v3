@@ -63,7 +63,7 @@ Do Go Courses:
 https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=qrOz7peBGa6o3wjZHR5p0
 
 # Epic React
-##  React Fundamentals
+##  [React Fundamentals](https://drive.google.com/drive/u/0/folders/1rZM7ocO6eL-0OrChZsvD91BmPfOVnm_Z)
 - [x] React Fundamentals Intro
 - [ ] Hello World in JS
 	- [x] Intro
@@ -135,7 +135,7 @@ https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsour
 	- [ ] Key Reset
 	- [ ] Dad Joke Break Rendering Arrays
 - [ ] Outro to React Fundamentals
-## React Hooks
+## [React Hooks](https://drive.google.com/drive/u/0/folders/1pUknHpl4XnJw6P5FA8dORL8Y1PX3O7Il)
 - [ ] React Hooks Intro
 - [ ] Managing UI State
 	- [ ] Intro to Managing UI State

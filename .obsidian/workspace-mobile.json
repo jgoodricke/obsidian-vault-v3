@@ -29,7 +29,7 @@
               "state": {
                 "file": "Scratchpad.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Scratchpad"
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "gaming/Fallout4/Fallout 4 Mods.md",
+            "file": "Scratchpad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,11 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4223005a1018366b",
+  "active": "2e7c1c3da6c57768",
   "lastOpenFiles": [
+    "===.md",
+    "Scratchpad.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/gaming/VR Games V2.md",
-    "Scratchpad.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-29.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "personal/Chats/Chat.md",
@@ -209,7 +210,6 @@
     "gaming/Doom/Todo.md",
     "job/Cubery/GP/Amounts.md",
     "tech/Research/Using Ralph.md",
-    "job/webres/Names.md",
     "gaming/Doom",
     "job/webres/Carebridge/Pen Test",
     "gaming/Elder Scrolls/Skyrim",
