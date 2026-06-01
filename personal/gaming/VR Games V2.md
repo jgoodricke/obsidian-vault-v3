@@ -16,7 +16,7 @@ Interested (Quest Only)
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
 	- [ ] Assassin's Creed
-	- [ ] Iron Man VR
+	- [x] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
 	- [ ] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
