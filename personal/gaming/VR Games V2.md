@@ -13,6 +13,20 @@ Interested (Quest Only)
 - [x] Resident Evil 4
 - [x] In Death Unchained
 - [x] Besieged VR
+- [ ] Wait for faster internet
+	- [ ] Batman Arkham Shadow
+	- [ ] Assassin's Creed
+	- [x] Iron Man VR
+	- [ ] Star Wars: Tales from the Galactic Edge
+	- [ ] Vader Immortal: Episode 1
+	- [ ] Vader Immortal: Episode 2
+	- [ ] Vader Immortal:  Episode 3
+- [ ] Maybe
+	- [ ] Lucent VR
+	- [ ] Attack on Titan VR
+- [ ] Wait Until Updated
+	- [ ] Deadpool VR (Wait until November 2026)
+	- [ ] Street Gods VR (Wait until December 2026)
 - [ ] Mixed Reality
 	- [ ] For Me
 		- [ ] Infinate Inside
@@ -33,21 +47,6 @@ Interested (Quest Only)
 			- [ ] Laser Dance
 			- [ ] Thrill of the Fight
 			- [ ] Angry Birds
-- [ ] Wait for faster internet
-	- [ ] Batman Arkham Shadow
-	- [ ] Assassin's Creed
-	- [x] Iron Man VR
-	- [ ] Star Wars: Tales from the Galactic Edge
-	- [ ] Vader Immortal: Episode 1
-	- [ ] Vader Immortal: Episode 2
-	- [ ] Vader Immortal:  Episode 3
-- [ ] Maybe
-	- [ ] Lucent VR
-	- [ ] Attack on Titan VR
-- [ ] Wait Until Updated
-	- [ ] Deadpool VR (Wait until November 2026)
-	- [ ] Street Gods VR (Wait until December 2026)
-
 
 Interested (Cross-Play)
 - Underdogs
