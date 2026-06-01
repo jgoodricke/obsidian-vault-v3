@@ -21,12 +21,11 @@ Interested (Quest Only)
 	- [ ] Vader Immortal: Episode 2
 	- [ ] Vader Immortal:  Episode 3
 - [ ] Maybe
-	- [ ] Lucent VR
 	- [ ] Attack on Titan VR
 - [ ] Wait Until Updated
 	- [ ] Deadpool VR (Wait until November 2026)
 	- [ ] Street Gods VR (Wait until December 2026)
-	- [ ] Assassin's Creed (Try again in August 2026)
+	- [ ] Assassin's Creed (Currently broken, try again in August 2026)
 - [ ] Mixed Reality
 	- [ ] For Me
 		- [ ] Infinate Inside
