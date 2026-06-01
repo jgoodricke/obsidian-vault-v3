@@ -14,20 +14,25 @@ Interested (Quest Only)
 - [x] In Death Unchained
 - [x] Besieged VR
 - [ ] Mixed Reality
-	- [ ] Infinate Inside
-	- [ ] Drop Dead - the cabin
-		- [ ] Home Invasion
-		- [ ] Last Stand
-	- [ ] Espire: MR Missions
-		- [ ] Spatial Ops
-	- [ ] Wall Town Wonders
-	- [ ] Starship Home
-	- [ ] Laser Dance
-	- [ ] Ocean Rift
-	- [ ] Thrill of the Fight
-	- [ ] Light Brigade
-	- [ ] Angry Birds
-	- [ ] Cosmic XR
+	- [ ] For Me
+		- [ ] Infinate Inside
+		- [ ] Wall Town Wonders
+		- [ ] Starship Home
+	- [ ] To Demo
+		- [ ] Wave Shooter
+			- [ ] Drop Dead - the cabin
+			- [ ] Home Invasion
+			- [ ] Last Stand
+		- [ ] Whole House
+			- [ ] Espire: MR Missions
+			- [ ] Spatial Ops
+		- [ ] Relaxing
+			- [ ] Ocean Rift
+			- [ ] Cosmic XR
+		- [ ] Other
+			- [ ] Laser Dance
+			- [ ] Thrill of the Fight
+			- [ ] Angry Birds
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
 	- [ ] Assassin's Creed
