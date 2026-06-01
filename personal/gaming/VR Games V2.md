@@ -33,9 +33,7 @@ Interested (Quest Only)
 		- [ ] Starship Home
 	- [ ] To Demo
 		- [ ] Wave Shooter
-			- [ ] Drop Dead - the cabin
 			- [ ] Home Invasion
-			- [ ] Last Stand
 		- [ ] Whole House
 			- [ ] Espire: MR Missions
 			- [ ] Spatial Ops
