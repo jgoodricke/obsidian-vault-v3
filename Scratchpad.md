@@ -1,3 +1,7 @@
+# Questions for VCAT
+- We are concerned about our health. A mold specialist has come and recommended multiple times now that a full clean of the apartment be done, but the landlord is refusing. Is this something we can expodite?
+- If not, is it possible to organise temporary accomodation or move out?
+
 # Fixes for Thermonuclear code review
 - remove the repetition, make it more DRY
 - Focus a lot more in tests.
