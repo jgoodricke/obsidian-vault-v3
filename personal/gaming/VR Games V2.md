@@ -11,8 +11,8 @@ Interested (Quest Only)
 - [x] **The Climb 2**
 - [x] Out of Scale: A Kurzgesagt Adventure
 - [x] Resident Evil 4
-- [ ] In Death Unchained
-- [ ] Besieged VR
+- [x] In Death Unchained
+- [x] Besieged VR
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
 	- [ ] Assassin's Creed
