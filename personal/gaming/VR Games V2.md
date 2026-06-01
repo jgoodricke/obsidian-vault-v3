@@ -13,6 +13,21 @@ Interested (Quest Only)
 - [x] Resident Evil 4
 - [x] In Death Unchained
 - [x] Besieged VR
+- [ ] Mixed Reality
+	- [ ] Infinate Inside
+	- [ ] Drop Dead - the cabin
+		- [ ] Home Invasion
+		- [ ] Last Stand
+	- [ ] Espire: MR Missions
+		- [ ] Spatial Ops
+	- [ ] Wall Town Wonders
+	- [ ] Starship Home
+	- [ ] Laser Dance
+	- [ ] Ocean Rift
+	- [ ] Thrill of the Fight
+	- [ ] Light Brigade
+	- [ ] Angry Birds
+	- [ ] Cosmic XR
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
 	- [ ] Assassin's Creed
@@ -21,6 +36,9 @@ Interested (Quest Only)
 	- [ ] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
 	- [ ] Vader Immortal:  Episode 3
+- [ ] Maybe
+	- [ ] Lucent VR
+	- [ ] Attack on Titan VR
 - [ ] Wait Until Updated
 	- [ ] Deadpool VR (Wait until November 2026)
 	- [ ] Street Gods VR (Wait until December 2026)
