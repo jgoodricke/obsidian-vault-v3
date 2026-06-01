@@ -15,7 +15,6 @@ Interested (Quest Only)
 - [x] Besieged VR
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
-	- [ ] Assassin's Creed
 	- [x] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
 	- [ ] Vader Immortal: Episode 1
@@ -27,6 +26,7 @@ Interested (Quest Only)
 - [ ] Wait Until Updated
 	- [ ] Deadpool VR (Wait until November 2026)
 	- [ ] Street Gods VR (Wait until December 2026)
+	- [ ] Assassin's Creed (Try again in August 2026)
 - [ ] Mixed Reality
 	- [ ] For Me
 		- [ ] Infinate Inside
