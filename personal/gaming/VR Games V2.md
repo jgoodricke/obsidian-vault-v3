@@ -12,13 +12,13 @@ Interested (Quest Only)
 - [x] Out of Scale: A Kurzgesagt Adventure
 - [x] Resident Evil 4
 - [ ] In Death Unchained
-- [ ] Vader Immortal: Episode 1
 - [ ] Besieged VR
 - [ ] Wait for faster internet
 	- [ ] Batman Arkham Shadow
 	- [ ] Assassin's Creed
 	- [ ] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
+	- [ ] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
 	- [ ] Vader Immortal:  Episode 3
 - [ ] Wait Until Updated
