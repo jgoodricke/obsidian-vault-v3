@@ -44,6 +44,12 @@ Interested (Quest Only)
 			- [ ] Laser Dance
 			- [ ] Thrill of the Fight
 			- [ ] Angry Birds
+- [ ] Games to Show Off
+	- [ ] Superhot
+	- [ ] Beat Saber
+	- [ ] Pistol Whip
+	- [ ] Blade and Sorcery
+	- [ ] Warplanes: WWI
 
 Interested (Cross-Play)
 - Underdogs
