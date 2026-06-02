@@ -50,6 +50,7 @@ Interested (Quest Only)
 	- [ ] Pistol Whip
 	- [ ] Blade and Sorcery
 	- [ ] Warplanes: WWI
+	- [ ] Thrill of the Fight
 
 Interested (Cross-Play)
 - Underdogs
