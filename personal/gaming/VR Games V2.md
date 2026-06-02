@@ -17,7 +17,7 @@ Interested (Quest Only)
 	- [x] Batman Arkham Shadow
 	- [x] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
-	- [ ] Vader Immortal: Episode 1
+	- [x] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
 	- [ ] Vader Immortal:  Episode 3
 - [ ] Maybe
