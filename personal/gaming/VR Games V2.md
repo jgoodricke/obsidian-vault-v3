@@ -14,7 +14,7 @@ Interested (Quest Only)
 - [x] In Death Unchained
 - [x] Besieged VR
 - [ ] Wait for faster internet
-	- [ ] Batman Arkham Shadow
+	- [x] Batman Arkham Shadow
 	- [x] Iron Man VR
 	- [ ] Star Wars: Tales from the Galactic Edge
 	- [ ] Vader Immortal: Episode 1
@@ -28,13 +28,12 @@ Interested (Quest Only)
 	- [ ] Assassin's Creed
 - [ ] Mixed Reality
 	- [ ] For Me
-		- [ ] Infinate Inside
+		- [x] Infinate Inside
 		- [ ] Wall Town Wonders
 		- [ ] Starship Home
 	- [ ] To Demo
-		- [ ] Wave Shooter
-			- [ ] Home Invasion
-		- [ ] Whole House
+		- [x] Wave Shooter
+			- [x] Home Invasion
 			- [ ] Espire: MR Missions
 			- [ ] Spatial Ops
 		- [ ] Relaxing
