@@ -34,13 +34,13 @@ Interested (Quest Only)
 	- [ ] To Demo
 		- [x] Wave Shooter
 			- [x] Home Invasion
-			- [ ] Espire: MR Missions
-			- [ ] Spatial Ops
+			- [x] Espire: MR Missions
+			- [x] Spatial Ops
 		- [ ] Relaxing
 			- [ ] Ocean Rift
 			- [ ] Cosmic XR
 		- [ ] Other
-			- [ ] Laser Dance
+			- [x] Laser Dance
 			- [ ] Thrill of the Fight
 			- [ ] Angry Birds
 - [ ] Games to Show Off
