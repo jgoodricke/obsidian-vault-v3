@@ -19,7 +19,7 @@ Interested (Quest Only)
 	- [ ] Star Wars: Tales from the Galactic Edge
 	- [x] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
-	- [ ] Vader Immortal:  Episode 3
+	- [x] Vader Immortal:  Episode 3
 - [ ] Maybe
 	- [ ] Attack on Titan VR
 - [ ] Wait Until December 2026
