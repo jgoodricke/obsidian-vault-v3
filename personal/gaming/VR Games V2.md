@@ -26,6 +26,7 @@ Interested (Quest Only)
 	- [ ] Deadpool VR
 	- [ ] Street Gods VR
 	- [ ] Assassin's Creed
+	- [ ] H3VR2
 - [ ] Mixed Reality
 	- [ ] For Me
 		- [x] Infinate Inside
@@ -47,9 +48,11 @@ Interested (Quest Only)
 	- [x] Superhot
 	- [ ] Beat Saber
 	- [ ] Blade and Sorcery
+	- [ ] Zero Caliber 2
 	- [ ] Pavlov?
-	- [ ] Warplanes: WWI
 	- [ ] Thrill of the Fight
+	- [ ] Warplanes: WWI
+
 
 Interested (Cross-Play)
 - Underdogs
