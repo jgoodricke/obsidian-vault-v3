@@ -20,8 +20,7 @@ Interested (Quest Only)
 	- [x] Vader Immortal: Episode 1
 	- [ ] Vader Immortal: Episode 2
 	- [x] Vader Immortal:  Episode 3
-- [ ] Maybe
-	- [ ] Attack on Titan VR
+
 - [ ] Wait Until December 2026
 	- [ ] Deadpool VR
 	- [ ] Street Gods VR
