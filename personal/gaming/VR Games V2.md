@@ -13,12 +13,12 @@ Interested (Quest Only)
 - [x] Resident Evil 4
 - [x] In Death Unchained
 - [x] Besieged VR
-- [ ] Wait for faster internet
+- [x] Wait for faster internet
 	- [x] Batman Arkham Shadow
 	- [x] Iron Man VR
-	- [ ] Star Wars: Tales from the Galactic Edge
+	- [x] Star Wars: Tales from the Galactic Edge
 	- [x] Vader Immortal: Episode 1
-	- [ ] Vader Immortal: Episode 2
+	- [x] Vader Immortal: Episode 2
 	- [x] Vader Immortal:  Episode 3
 
 - [ ] Wait Until December 2026
@@ -43,9 +43,9 @@ Interested (Quest Only)
 			- [ ] Thrill of the Fight
 			- [ ] Angry Birds
 - [ ] Games to Show Off
-	- [ ] Superhot
+	- [x] Superhot
 	- [ ] Beat Saber
-	- [ ] Pistol Whip
+	- [ ] Pistol Whip?
 	- [ ] Blade and Sorcery
 	- [ ] Warplanes: WWI
 	- [ ] Thrill of the Fight
