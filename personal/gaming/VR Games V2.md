@@ -4,6 +4,7 @@ Playing Now
 - Robo Recall
 
 Interested (Quest Only)
+- [ ] Attack on Titan Fan Game
 - [x] Iron Lung
 - [x] **Journey of the Gods**
 - [x] **Nano**
