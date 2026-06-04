@@ -25,7 +25,6 @@ Interested (Quest Only)
 - [ ] Wait Until December 2026
 	- [ ] Deadpool VR
 	- [ ] Street Gods VR
-
 	- [ ] H3VR2
 - [ ] Mixed Reality
 	- [ ] For Me
