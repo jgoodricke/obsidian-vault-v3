@@ -46,7 +46,7 @@ Interested (Quest Only)
 			- [ ] Angry Birds
 - [ ] Games to Show Off
 	- [x] Superhot
-	- [ ] Beat Saber
+	- [x] Beat Saber
 	- [ ] Blade and Sorcery
 	- [ ] Zero Caliber 2
 	- [ ] Pavlov?
