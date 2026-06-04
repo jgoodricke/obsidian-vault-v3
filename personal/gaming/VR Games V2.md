@@ -21,11 +21,11 @@ Interested (Quest Only)
 	- [x] Vader Immortal: Episode 1
 	- [x] Vader Immortal: Episode 2
 	- [x] Vader Immortal:  Episode 3
-
+	- [x] Assassin's Creed
 - [ ] Wait Until December 2026
 	- [ ] Deadpool VR
 	- [ ] Street Gods VR
-	- [ ] Assassin's Creed
+
 	- [ ] H3VR2
 - [ ] Mixed Reality
 	- [ ] For Me
