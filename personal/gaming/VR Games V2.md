@@ -47,9 +47,8 @@ Interested (Quest Only)
 - [ ] Games to Show Off
 	- [x] Superhot
 	- [x] Beat Saber
-	- [ ] Blade and Sorcery
-	- [ ] Zero Caliber 2
-	- [ ] Pavlov?
+	- [x] Blade and Sorcery
+	- [x] Zero Caliber 2
 	- [ ] Thrill of the Fight
 	- [ ] Warplanes: WWI
 
