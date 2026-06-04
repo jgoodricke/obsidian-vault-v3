@@ -32,19 +32,19 @@ Interested (Quest Only)
 		- [x] Infinate Inside
 		- [ ] Wall Town Wonders
 		- [ ] Starship Home
-	- [ ] To Demo
+	- [x] To Demo
 		- [x] Wave Shooter
 			- [x] Home Invasion
 			- [x] Espire: MR Missions
 			- [x] Spatial Ops
-		- [ ] Relaxing
-			- [ ] Ocean Rift
-			- [ ] Cosmic XR
-		- [ ] Other
+		- [x] Relaxing
+			- [x] Ocean Rift
+			- [x] Cosmic XR
+		- [x] Other
 			- [x] Laser Dance
 			- [x] Thrill of the Fight
-			- [ ] Angry Birds
-- [ ] Games to Show Off
+			- [x] Angry Birds
+- [x] Games to Show Off
 	- [x] Superhot
 	- [x] Beat Saber
 	- [x] Blade and Sorcery
