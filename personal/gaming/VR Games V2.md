@@ -42,15 +42,15 @@ Interested (Quest Only)
 			- [ ] Cosmic XR
 		- [ ] Other
 			- [x] Laser Dance
-			- [ ] Thrill of the Fight
+			- [x] Thrill of the Fight
 			- [ ] Angry Birds
 - [ ] Games to Show Off
 	- [x] Superhot
 	- [x] Beat Saber
 	- [x] Blade and Sorcery
 	- [x] Zero Caliber 2
-	- [ ] Thrill of the Fight
-	- [ ] Warplanes: WWI
+	- [x] Thrill of the Fight
+	- [x] Warplanes: WWI
 
 
 Interested (Cross-Play)
