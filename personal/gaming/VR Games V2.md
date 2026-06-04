@@ -21,36 +21,36 @@ Interested (Quest Only)
 	- [x] Vader Immortal: Episode 1
 	- [x] Vader Immortal: Episode 2
 	- [x] Vader Immortal:  Episode 3
-
+	- [x] Assassin's Creed
 - [ ] Wait Until December 2026
 	- [ ] Deadpool VR
 	- [ ] Street Gods VR
-	- [ ] Assassin's Creed
+
 	- [ ] H3VR2
 - [ ] Mixed Reality
 	- [ ] For Me
 		- [x] Infinate Inside
 		- [ ] Wall Town Wonders
 		- [ ] Starship Home
-	- [ ] To Demo
+	- [x] To Demo
 		- [x] Wave Shooter
 			- [x] Home Invasion
 			- [x] Espire: MR Missions
 			- [x] Spatial Ops
-		- [ ] Relaxing
-			- [ ] Ocean Rift
-			- [ ] Cosmic XR
-		- [ ] Other
+		- [x] Relaxing
+			- [x] Ocean Rift
+			- [x] Cosmic XR
+		- [x] Other
 			- [x] Laser Dance
-			- [ ] Thrill of the Fight
-			- [ ] Angry Birds
-- [ ] Games to Show Off
+			- [x] Thrill of the Fight
+			- [x] Angry Birds
+- [x] Games to Show Off
 	- [x] Superhot
 	- [x] Beat Saber
 	- [x] Blade and Sorcery
 	- [x] Zero Caliber 2
-	- [ ] Thrill of the Fight
-	- [ ] Warplanes: WWI
+	- [x] Thrill of the Fight
+	- [x] Warplanes: WWI
 
 
 Interested (Cross-Play)
