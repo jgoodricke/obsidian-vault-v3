@@ -35,7 +35,7 @@ Brett confirmed James’ maintenance request for **mould returning**.
 He said **MouldMen Pty Ltd** had been arranged to attend, and asked James to let him know if they did not make contact within the next few days.
 
 
-## TODO: (Between the 29th Dec and 20th Jan)
+## (Between the 29th Dec and 20th Jan)
 The mold man attended the premises and recommended a full fumigation of the apartment be done to kill any mold that is not visible.
 
 
@@ -45,7 +45,40 @@ Brett confirmed James’ maintenance request for **mould**.
 
 He said **Jims Cleaning Blackburn Central** had been arranged to attend, and asked James to let him know if they did not make contact within the next few days.
 
+### Friday, 23 Jan - David
+David introduces himself, explaining Brett Thomas referred James to him, and asks when is a good time to attend to clean some mould.
 
+### Monday, 26 Jan - James
+James replies that any day that week works, asking David to pick a day and time.
+
+### Tuesday, 27 Jan - David
+David offers only Saturday late afternoon that week.
+
+### Thursday, 29 Jan - James
+James, apologising for the late reply, agrees to Saturday late afternoon.
+
+### Friday, 30 Jan - David
+David says Saturday may no longer work since he had assumed James was not interested and booked other jobs. He offers two alternatives: Tuesday 3 Feb around midday, or Thursday 5 Feb mid-morning.
+
+### Monday, 2 Feb - James
+James, again apologising for the delay, says either Tuesday or Thursday works and asks David to choose. David proposes coming the next day, Tuesday, around midday to early afternoon.
+
+### Wednesday, 4 Feb - James
+James apologises for missing David’s Monday message and asks to reschedule. David is gracious, offering the next day, Thursday, mid-morning. James agrees, but then has to cancel again after hearing from his wife that the next day will not work, and asks for a weekend slot instead.
+
+### Monday, 2 Mar - David
+After a gap, and a follow-up email from James, David apologises for not replying, saying he had been flat out and forgot. He offers Thursday afternoon, or to check his calendar. James says Thursday will not work and asks specifically about weekends. David thinks he may have a late afternoon slot that weekend but needs to confirm. James asks him to check and get back as soon as possible. David then confirms he can do that Saturday afternoon, around 3:30pm.
+
+### Wednesday, 4 Mar - David
+David follows up to check whether James received his message about Saturday.
+
+### Thursday, 5 Mar - James
+James confirms Saturday afternoon works and asks if 3:30 is still good.
+
+### Friday, 6 Mar - David
+David confirms around 3:30 the next day, Saturday, works. James agrees, and David signs off saying he will see him the next day.
+
+## TODO: Add Inspection Here
 
 ### 7 May 2026, 10:45 am — Brett Thomas
 
