@@ -83,11 +83,83 @@ James confirms Saturday afternoon works and asks if 3:30 is still good.
 ### Friday, 6 Mar - David
 David confirms around 3:30 the next day, Saturday, works. James agrees, and David signs off saying he will see him the next day.
 
-### Saturday, 14 Mar - Inspection
-The cleaner came to the apartment, but did not perform any cleaning as he said that he was not qualified to do a full mold clean and could only clean surfaces. He recommended we contact a specialist.
-## Dehumidifier
+### 8 March 2026 (Christy)
+Reported that Jim's Cleaning attended but advised they were general cleaners only and not qualified to treat mould. Noted that the mould specialist's report stated the entire apartment required professional remediation rather than spot cleaning. Requested that Brett arrange a qualified mould specialist.
 
-### TODO: Add missing Info here
+### 10 March 2026 (Brett)
+**Brett:** Requested a phone call.
+
+**Christy:** Replied that email was preferable as both tenants work full-time, and asked for a suitable time for treatment.
+### 11 March 2026
+**Brett:** Asked whether the cleaners had undertaken any work. Noted that a previous clean had already been completed and suspected the mould would simply return. Offered to attend the property and advised that the owner would purchase a dehumidifier. Attached a mould cleaning document from Mouldmen.
+
+**Christy:** Confirmed that the cleaners had completed no work and advised availability after 6:45 pm on weekdays or on weekends.
+## Dehumidifier
+### 12 March 2026
+
+**Brett:** Advised that the owner would purchase a dehumidifier and arrange for the bedroom mould to be cleaned on Monday.
+
+**James:** Raised concerns that the odour persisted and that the source of the mould may be hidden, such as beneath the carpet. Noted that a full treatment had been recommended, particularly given the presence of a young child in the home.
+
+### 13 March 2026 (Brett)
+
+Stated a preference to trial the dehumidifier first, noting that he used one at home without issue. Advised that if there was no improvement within one to two weeks, he would arrange for the mould company to return.
+
+### 16 March 2026 (Brett)
+
+Forwarded a message from the owner, David, confirming that a dehumidifier had been ordered.
+
+### 26 March 2026 (Brett)
+
+Followed up regarding collection of the dehumidifier.
+
+### 29 March 2026 (James)
+
+Advised that the odour remained and was worsening with colder weather and increased condensation. Noted that mould-damaged personal belongings had been discarded and that collection during business hours was not possible. Stated that this constituted a formal request for repairs.
+
+### 30 March 2026
+**Brett:** Reiterated that the dehumidifier was available for collection and suggested using Exit Mould.
+
+**Christy:** Explained that the property had been cleaned and ventilated regularly, including the purchase of additional fans, but that the mould continued to return. Noted that both inspectors had identified the issue as being related to the building and condensation rather than cleaning practices. Repeated the formal request to investigate and rectify the underlying cause.
+
+### 31 March 2026 (Brett)
+Advised that the dehumidifier was available at his desk for collection and stated that the intended approach was to reduce moisture levels rather than continue repeated cleaning.
+
+### 2 April 2026 (Brett)
+**Brett:** Asked whether someone would be home on Wednesday to receive delivery of the dehumidifier.
+
+**Christy:** Confirmed that she would be working from home.
+
+### 5 April 2026 (Christy)
+
+Suggested that an inspection be conducted the following Wednesday at the same time as the planned dehumidifier delivery.
+
+### 8 April 2026 (James)
+
+Followed up to note that the dehumidifier delivery scheduled for that day appeared to have been missed.
+
+### 9 April 2026 (Brett)
+
+Advised that he was available either that day or the following day and requested a phone call to confirm a time.
+
+### 15 April 2026
+**Brett:** Asked whether the dehumidifier would be delivered or collected.
+
+**Christy:** Confirmed that both tenants were at home and that the inspection had just been completed.
+
+**Brett (4:34 pm):** Advised that he was on his way.
+
+### 30 April 2026
+
+**Brett:** Asked whether the dehumidifier had improved the mould issue.
+
+**Christy:** Reported that it had not helped and that mould odours could now be detected within the room.
+
+**Brett:** Advised that he had contacted the mould company to discuss available options.
+
+### 1 May 2026 (Brett)
+
+Forwarded a winter condensation guidance document from the building manager on behalf of the owner. The document recommended measures including checking balcony drains, improving ventilation, using bathroom exhaust fans, operating dehumidifiers, and cleaning mould with vinegar-based products. Brett requested feedback on whether these measures improved the situation.
 
 ### 7 May 2026, 10:45 am — Brett Thomas
 
@@ -104,10 +176,13 @@ James said the dehumidifier had not resolved the issue, and referred to earlier 
 James asked Brett to confirm what steps the rental provider would take, including investigation, professional remediation, and addressing damage to personal property. He attached photos and asked that the matter be treated as urgent.
 ## Mold Air Inspection
 
-### TODO: Add missing Info here
 ### 19th May 2026
-Mold men attended the apartment and did a reading of air particles to determine if mold was growing in the apartment. However, several instances of visible mold were also identified, and the attendant said the results would almost certainly come back positive because of that.
+**Brett:**  We are getting the mould men back to go off their recommendations and getting a full report, from there they will know how to treat it.
 
+Mold men attended the apartment and did a reading of air particles to determine if mold was growing in the apartment. However, several instances of visible mold were also identified, and the attendant said the results would almost certainly come back positive because of that.
+### 20 May 2026 — Brett Thomas
+
+Brett asked whether MouldMen had attended yet.
 ### 21 May 2026, 2:59 pm — Brett Thomas
 
 Brett asked whether MouldMen had attended yet.
