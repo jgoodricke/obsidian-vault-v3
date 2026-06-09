@@ -1,3 +1,4 @@
+## Initial Mold Clean
 ### 14 June 2025, 10:21 pm — Christy
 
 Christy reported mould that had suddenly appeared on a wall in the main bedroom, attached photos, and asked Brett to arrange inspection and action as soon as possible due to health concerns.
@@ -28,17 +29,21 @@ Brett said he had allocated **MouldMen** to report and repair, and asked James a
 
 They thanked Brett and said they would contact MouldMen the next day.
 
+### Sometime in Late July
+The mold men came to the appartment and performed a clean of the affected areas
+
+## Mold issue resurfaces
+
 ### 29 December 2025, 9:50 am — Brett Thomas
 
 Brett confirmed James’ maintenance request for **mould returning**.
 
 He said **MouldMen Pty Ltd** had been arranged to attend, and asked James to let him know if they did not make contact within the next few days.
 
-
-## (Between the 29th Dec and 20th Jan)
+### Early January
 The mold man attended the premises and recommended a full fumigation of the apartment be done to kill any mold that is not visible.
 
-
+## General Cleaner
 ### 20 January 2026, 11:40 am — Brett Thomas
 
 Brett confirmed James’ maintenance request for **mould**.
@@ -78,7 +83,11 @@ James confirms Saturday afternoon works and asks if 3:30 is still good.
 ### Friday, 6 Mar - David
 David confirms around 3:30 the next day, Saturday, works. James agrees, and David signs off saying he will see him the next day.
 
-## TODO: Add Inspection Here
+### Saturday, 14 Mar - Inspection
+The cleaner came to the apartment, but did not perform any cleaning as he said that he was not qualified to do a full mold clean and could only clean surfaces. He recommended we contact a specialist.
+## Dehumidifier
+
+### TODO: Add missing Info here
 
 ### 7 May 2026, 10:45 am — Brett Thomas
 
@@ -93,13 +102,17 @@ He said mould had also been found under the mattress, on the bed frame, in the l
 James said the dehumidifier had not resolved the issue, and referred to earlier advice from a mould expert that there may be hidden mould and that a full mould clean was needed.
 
 James asked Brett to confirm what steps the rental provider would take, including investigation, professional remediation, and addressing damage to personal property. He attached photos and asked that the matter be treated as urgent.
+## Mold Air Inspection
 
+### TODO: Add missing Info here
 ### 19th May 2026
 Mold men attended the apartment and did a reading of air particles to determine if mold was growing in the apartment. However, several instances of visible mold were also identified, and the attendant said the results would almost certainly come back positive because of that.
 
 ### 21 May 2026, 2:59 pm — Brett Thomas
 
 Brett asked whether MouldMen had attended yet.
+
+## Building Manager Inspection
 
 ### 22 May 2026, 1:54 pm — Brett Thomas
 
@@ -139,6 +152,8 @@ He asked to be kept updated about:
 - compensation for damaged personal items
 
 James also asked Brett to treat the matter as urgent because it had been ongoing for several months.
+
+## VCAT Application
 
 ### 28 May 2026, 9:17 am — Brett Thomas
 
@@ -201,6 +216,7 @@ James also asked Brett to confirm the **specific purpose** of the owner’s prop
 
 Brett said the owner wanted to see the property personally because James and Jihyung were taking him to **VCAT**, and the owner wanted to see it in person.
 
+## Notice to Vacate
 ### 4 June 2026, 10:25 pm — James
 
 James replied that, given there had already been several recent attendances at the property, including an inspection the previous week about the same issues, they wanted to **minimise further disruption** unless another attendance was required under the **Residential Tenancies Act**.
