@@ -1,3 +1,6 @@
+- 9th July Deadline for Compensation.
+
+
 ## Initial Mould Clean
 
 ### 14 June 2025
@@ -307,10 +310,7 @@ He also said MouldMen were still waiting for laboratory results and requested ac
 He requested that any proposed entry be supported by a written notice specifying:
 
 - the ground for entry
-    
 - the proposed date and time
-    
 - the purpose of attendance
-    
 
 He also asked the owner to consider the information and reports already obtained from recent inspections.
