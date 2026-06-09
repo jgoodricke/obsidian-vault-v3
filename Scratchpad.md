@@ -1,3 +1,22 @@
+# Email for Rob
+Hi Rob,
+
+I just wanted to let you know that I’ve come down with a bad cold and have completely lost my voice. I’ll still be working today, but I’ll need to work from home.
+
+Please feel free to message me on email or Discord if anything comes up.
+
+Thanks,
+James
+
+---
+
+Hi Jordan,
+Just wanted to let you know that I’ve come down with a bad cold and have completely lost my voice, so I’ll need to work from home today.
+
+Please feel free to message me on email or Discord if anything comes up.
+
+Cheers,
+James
 # Information from VCAT
 - Pay the fee by tomorrow
 - Have a list of documents on-hand:
