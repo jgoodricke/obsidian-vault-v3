@@ -2,12 +2,12 @@
 
 ## Custom Key Definitions
 
-| Name | Action |
-|------|--------|
-| `KC_M1` | `GUI + CTRL + X` (mission control shortcut) |
-| `KC_TASK` | `GUI + TAB` (Windows task switcher) |
-| `KC_FLXP` | `GUI + E` (Windows file explorer) |
-| `NAV_SPC` | Hold `Space` → activate NAV layer; tap → `Space` |
+| Name        | Action                                           |
+| ----------- | ------------------------------------------------ |
+| `KC_M1`     | `GUI + CTRL + X` (dictation shortcut)            |
+| *`KC_TASK`* | *`GUI + TAB` (Windows task switcher)*            |
+| *`KC_FLXP`* | *`GUI + E` (Windows file explorer)*              |
+| `NAV_SPC`   | Hold `Space` → activate NAV layer; tap → `Space` |
 
 ## Home Row Mods
 
@@ -30,13 +30,13 @@
 
 ## NAV Layer (hold Space)
 
-| Key                    | Action                        |
-| ---------------------- | ----------------------------- |
-| `~` (number row)       | `DEL`                         |
-| `TAB`                  | `Backspace`                   |
-| `CAPS`                 | `ESC`                         |
-| `H/J/K/L`              | `←/↓/↑/→` (arrow keys)        |
-| `'`                    | `` ` `` (backtick)            |
-| `/`                    | `\` (backslash)               |
-| `Space`                | `ALT + TAB` (window switcher) |
-| Number row `1–0, -, =` | `F1–F12`                      |
+| Key                    | Action                 |
+| ---------------------- | ---------------------- |
+| `~`                    | `DEL`                  |
+| `TAB`                  | `Backspace`            |
+| `CAPS`                 | `ESC`                  |
+| `H/J/K/L`              | `←/↓/↑/→` (arrow keys) |
+| `'`                    | `` ` `` (backtick)     |
+| `/`                    | `\` (backslash)        |
+| `home`                 | `end`                  |
+| Number row `1–0, -, =` | `F1–F12`               |
