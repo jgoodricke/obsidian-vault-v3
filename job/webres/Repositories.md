@@ -1,2 +1,4 @@
-https://github.com/WebresSolutions/CareBridgeReportGeneratorLambda
-TODO: Add the Carebridge one
+## Carebridge
+[Portal](https://github.com/qualityinsite/portal)
+[ReportGenerator](https://github.com/WebresSolutions/CareBridgeReportGeneratorLambda)
+
