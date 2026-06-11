@@ -4,6 +4,14 @@ https://mcsengineers.com.au/aboutus/contact
 https://www.primengineers.com.au/
 https://altezengineering.com.au/
 https://structerre.com.au/
+To check:
+- Ask for the **full name of the engineer attending site**, their **Victorian registration number**, and the **area of engineering** they are registered in. Then check that number on the **Consumer Affairs Victoria professional engineers public register**. 
+- If they rely on building-practitioner status or building engineer endorsements, also check the **VBA practitioner search**. 
+- Ask for a current **certificate of currency** for **professional indemnity** and **public liability** insurance. Prime and Altez explicitly publish PI cover, and Altez explicitly publishes both PI and public liability cover, but several of the other firms do not state insurance publicly, so you should request proof. 
+- Ask whether the quote is **fixed-fee** and whether it includes the **site inspection, photos, floor-level checks, crack mapping, written report, follow-up call, GST, and travel**. VVT explicitly says it offers fixed-fee quotes, while many others do not publish pricing. 
+- Ask whether the report is written as a **root-cause report** or just a general structural condition report. If you may need the report for an insurer, builder, dispute or lawyer, say so up front. MCS, Prime, Altez and Structerre all publish material indicating **forensic**, **dispute**, or **cause-analysis** style work. 
+- Ask whether they have recent experience with **residential cracking in Melbourne’s west / reactive clay soils**. That local context is especially relevant in Wyndham Vale.
+
 
 # Email for Rob
 Hi Rob,
