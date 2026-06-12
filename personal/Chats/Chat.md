@@ -441,3 +441,54 @@ A concise version of the conversation could be:
 > If you do, I think we need counselling and specific changes from both of us.
 > 
 > If you do not, then we need to stop pretending this is just a chores problem and talk honestly about what kind of family structure we are actually living in.”
+
+
+# 08/06/2026
+Here are the key action items:
+
+1. Stop trying to convince her during fights
+Do not keep arguing your case if she is blaming, interrupting, or refusing to listen. End circular conversations calmly.
+
+
+2. Shift the goal to low-conflict functioning
+Focus on reducing fights, protecting yourself emotionally, and creating calmer parenting logistics rather than fixing the whole marriage immediately.
+
+
+3. Use business-like communication
+Keep discussions practical: parenting, schedules, money, household tasks. Use writing where possible.
+
+
+4. Set boundaries you can enforce
+For example:
+
+> “I won’t continue this conversation while I’m being blamed or interrupted. I’ll come back to it later in writing.”
+
+
+
+
+5. Avoid serious arguments in front of your child
+If things escalate, pause the conversation or physically remove yourself if safe.
+
+
+6. Rebuild outside support
+Speak to a counsellor, GP, trusted friend, MensLine Australia, 1800RESPECT, or a family relationship service.
+
+
+7. Make a safety plan
+Know where you can go, who you can call, where important documents are, and what you would do if things escalate.
+
+
+8. Document incidents privately and factually
+Record dates, times, what happened, whether your child was present, and any threats, intimidation, or major conflict.
+
+
+9. Stop over-changing yourself to keep the peace
+Notice where you have become smaller or less yourself. Reclaim small parts of your identity and values.
+
+
+10. Consider a parallel-parenting model
+If mutual respect is not possible, aim for structured, low-contact parenting: clear routines, written schedules, defined responsibilities, and minimal emotional debate.
+
+
+
+The central principle is: stop trying to win understanding from someone who refuses to listen, and start protecting your emotional safety, your child’s stability, and your sense of self.

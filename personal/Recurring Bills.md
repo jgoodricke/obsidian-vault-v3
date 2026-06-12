@@ -28,6 +28,11 @@ Total: $310
 Allowance (bi-weekly): $323.08
 Minus Student Loan: $180
 Total: $143
+
+
+Allowance (bi-weekly): $323.08
+Pay: $2959.02 - check this
+Amount to Pay: 
 ## Monthly
 **Note:** Re-Check and Reset every October
 

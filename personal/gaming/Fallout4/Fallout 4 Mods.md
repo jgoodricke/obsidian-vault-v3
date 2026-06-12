@@ -138,6 +138,7 @@
 - Autosave Manager
 - Fusion Core Eject Removal
 - Simple Everyone's Best Friend
+- FallUI - HUD VR
 
 ## Weapon Fixes
 - Scrap Metal and Makeshift Welds
