@@ -311,3 +311,10 @@ He requested that any proposed entry be supported by a written notice specifying
 - the purpose of attendance
 
 He also asked the owner to consider the information and reports already obtained from recent inspections.
+## 8th June
+Hearing with VCAT was held. David said that he is happy to have professionals clean the apartment, and was instructed to do so within 7 days by the VCAT member. I said that we are no longer seeking repairs for the apartment and would only like the apartment cleaned and appropriate compensation.
+## 10th June
+Mold specialists came to the apartment to clean it.
+# Future Dates
+**3rd July:** Last day of tenancy
+**9 July:** Deadline to open compensation claim with VCAT
