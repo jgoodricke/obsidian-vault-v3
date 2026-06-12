@@ -10,6 +10,7 @@
 - Code Review: claude execution review
 - Code Review: claude security review 
 - Code Review: claude requirements review
+- Code Review: testing review
 - Code Review: coderabbit review
 - Code Review: human code review
 - Testing: generates QA plan

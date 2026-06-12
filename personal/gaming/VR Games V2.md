@@ -4,6 +4,7 @@ Playing Now
 - Robo Recall
 
 Interested (Quest Only)
+- [ ] Attack on Titan Fan Game
 - [x] Iron Lung
 - [x] **Journey of the Gods**
 - [x] **Nano**
@@ -11,19 +12,44 @@ Interested (Quest Only)
 - [x] **The Climb 2**
 - [x] Out of Scale: A Kurzgesagt Adventure
 - [x] Resident Evil 4
-- [ ] In Death Unchained
-- [ ] Vader Immortal: Episode 1
-- [ ] Besieged VR
-- [ ] Wait for faster internet
-	- [ ] Batman Arkham Shadow
-	- [ ] Assassin's Creed
-	- [ ] Iron Man VR
-	- [ ] Star Wars: Tales from the Galactic Edge
-	- [ ] Vader Immortal: Episode 2
-	- [ ] Vader Immortal:  Episode 3
-- [ ] Wait Until Updated
-	- [ ] Deadpool VR (Wait until November 2026)
-	- [ ] Street Gods VR (Wait until December 2026)
+- [x] In Death Unchained
+- [x] Besieged VR
+- [x] Wait for faster internet
+	- [x] Batman Arkham Shadow
+	- [x] Iron Man VR
+	- [x] Star Wars: Tales from the Galactic Edge
+	- [x] Vader Immortal: Episode 1
+	- [x] Vader Immortal: Episode 2
+	- [x] Vader Immortal:  Episode 3
+	- [x] Assassin's Creed
+- [ ] Wait Until December 2026
+	- [ ] Deadpool VR
+	- [ ] Street Gods VR
+	- [ ] H3VR2
+- [ ] Mixed Reality
+	- [ ] For Me
+		- [x] Infinate Inside
+		- [ ] Wall Town Wonders
+		- [ ] Starship Home
+	- [x] To Demo
+		- [x] Wave Shooter
+			- [x] Home Invasion
+			- [x] Espire: MR Missions
+			- [x] Spatial Ops
+		- [x] Relaxing
+			- [x] Ocean Rift
+			- [x] Cosmic XR
+		- [x] Other
+			- [x] Laser Dance
+			- [x] Thrill of the Fight
+			- [x] Angry Birds
+- [x] Games to Show Off
+	- [x] Superhot
+	- [x] Beat Saber
+	- [x] Blade and Sorcery
+	- [x] Zero Caliber 2
+	- [x] Thrill of the Fight
+	- [x] Warplanes: WWI
 
 
 Interested (Cross-Play)
