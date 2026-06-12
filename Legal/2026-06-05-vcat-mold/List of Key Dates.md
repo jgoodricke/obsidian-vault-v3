@@ -1,6 +1,3 @@
-- 9th July Deadline for Compensation.
-
-
 ## Initial Mould Clean
 
 ### 14 June 2025
