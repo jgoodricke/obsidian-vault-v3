@@ -1,7 +1,6 @@
----
-tags: [Leaf, Project]
-frontmatter-version: 1
----
+# Learn Rust
+https://rust-book.cs.brown.edu/
+
  Improvements
 ## Jetbrains
 - postfix completion

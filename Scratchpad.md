@@ -13,7 +13,7 @@ https://www.jbhifi.com.au/products/eufy-s4-nvr-poe-24-7-security-system-2-x-ptz-
 Router:
 https://www.pccasegear.com/products/64427/tp-link-archer-be550-be9300-tri-band-wifi-7-router
 https://www.pccasegear.com/products/69529/tp-link-archer-axe75-axe5400-tri-band-gigabit-wi-fi-6e-router
-https://www.pccasegear.com/products/64301/mercusys-mr47be-be9300-tri-band-wifi-7-router
+https://www.pccasegear.com/products/64301/mercusys-ccmr47be-be9300-tri-band-wifi-7-router
 
 # Security System Installation
 ## Sites
