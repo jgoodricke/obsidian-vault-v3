@@ -1,3 +1,8 @@
+Redguard:
+- Desert Trader
+- Patch to add redguard clothes to Npcs (and add color variants from that other creation kit mod).
+- Patch to add the special armor to the Alakir.
+
 # To Add
 - Locational Damage AE (SKSE Plugin)
 - Modern Lighting Overhaul 2 (MLO2)
