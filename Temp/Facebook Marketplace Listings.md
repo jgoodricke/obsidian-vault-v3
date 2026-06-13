@@ -55,7 +55,7 @@ Feel free to message with any questions.
 https://assets.woolworths.com.au/images/1005/1112967393.jpg?impolicy=wowsmkqiema
 https://www.woolworths.com.au/shop/productdetails/1119399725/petzly-foldable-dog-ramps-adjustable-height-pet-ramp-folding-portable-white
 https://www.woolworths.com.au/shop/productdetails/1112967393/pawz-dog-ramp-adjustable-height-stairs-foldable-white
-## IKEA MALM Chest of 6 Drawers — Black-Brown
+## IKEA MALM Chest of 6 Drawers
 
 Selling an IKEA MALM chest of 6 drawers in black-brown.
 
@@ -77,7 +77,7 @@ RRP is $299 from IKEA.
 
 Available for pickup in Hawthorn East.
 
-https://www.ikea.com/au/en/p/malm-chest-of-6-drawers-black-brown-00617314/#content
+https://www.ikea.com/au/en/p/malm-chest-of-6-drawers-black-brown-00617314
 ## Bed
 
 ## Matress
