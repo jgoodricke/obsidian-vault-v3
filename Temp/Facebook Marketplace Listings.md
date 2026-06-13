@@ -27,6 +27,7 @@ Selling our Haier 7.5kg front load washing machine (Model: HWF75AW1). It's clean
 
 Feel free to message me with any questions or to arrange an inspection.
 
+https://www.appliancesonline.com.au/ak/b/7/f/e/b7fe3d87bbec379a6b4f83a1c155e9d3ae6ffb4d_Haier_HWF75AW1_75_kg_Front_Load_Washing_Machine_Dimension_Image_high-high.jpeg?width=1200
 ## Dog Ramp
 
 ## Drawers
