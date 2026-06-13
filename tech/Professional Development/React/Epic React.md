@@ -1,0 +1,332 @@
+##  [React Fundamentals](https://drive.google.com/drive/u/0/folders/1rZM7ocO6eL-0OrChZsvD91BmPfOVnm_Z)
+- [x] React Fundamentals Intro
+- [ ] Hello World in JS
+	- [x] Intro
+	- [x] Hello World in JS
+	- [ ] Generate the Root Node
+	- [ ] Dad Joke Break
+- [ ] Raw React APIs
+	- [ ] Intro to Raw React APIs
+	- [ ] Create React Elements
+	- [ ] Nesting Elements
+	- [ ] Deep Nesting Elements
+	- [ ] Dad Joke Break Raw React APIs
+- [ ] Using JSX
+	- [ ] Intro to Using JSX
+	- [ ] Compiling JSX
+	- [ ] Interpolation
+	- [ ] Spread props
+	- [ ] Nesting JSX
+	- [ ] Fragments
+	- [ ] Dad Joke Break Using JSX
+- [ ] Custom Components
+	- [ ] Intro to Custom Components
+	- [ ] Simple Function
+	- [ ] Raw API
+	- [ ] JSX Components
+	- [ ] Props
+	- [ ] Dad Joke Break Custom Components
+- [ ] TypeScript
+	- [ ] Intro to TypeScript
+	- [ ] Props
+	- [ ] Narrow Types
+	- [ ] Derive Types
+	- [ ] Default Props
+	- [ ] Reduce Duplication
+	- [ ] Satisfies
+	- [ ] Dad Joke Break TypeScript
+- [ ] Styling
+	- [ ] Intro to Styling
+	- [ ] Styling
+	- [ ] Custom Component
+	- [ ] Size Prop
+	- [ ] Dad Joke Break Styling
+- [ ] Forms
+	- [ ] Intro to Forms
+	- [ ] Form
+	- [ ] Form Action
+	- [ ] Input Types
+	- [ ] Submission
+	- [ ] Form Actions
+	- [ ] Dad Joke Break Forms
+- [ ] Inputs
+	- [ ] Intro to Inputs
+	- [ ] Checkbox
+	- [ ] Select
+	- [ ] Radios
+	- [ ] Hidden Inputs
+	- [ ] Default Value
+	- [ ] Dad Joke Break Inputs
+- [ ] Error Boundries
+	- [ ] Intro to Error Boundaries
+	- [ ] Composition
+	- [ ] Other Errors
+	- [ ] Reset
+	- [ ] Dad Joke Break Error Boundaries
+- [ ] Rendering Arrays
+	- [ ] Intro to Rendering Arrays
+	- [ ] Key prop
+	- [ ] Focus State
+	- [ ] Key Reset
+	- [ ] Dad Joke Break Rendering Arrays
+- [ ] Outro to React Fundamentals
+## [React Hooks](https://drive.google.com/drive/u/0/folders/1pUknHpl4XnJw6P5FA8dORL8Y1PX3O7Il)
+- [ ] React Hooks Intro
+- [ ] Managing UI State
+	- [ ] Intro to Managing UI State
+	- [ ] useState
+	- [ ] Controlling Inputs
+	- [ ] Derive State
+	- [ ] Initialize State
+	- [ ] Init Callback
+	- [ ] Dad Joke Break Managing UI State
+- [ ] Side-Effects
+	- [ ] Intro to Side-Effects
+	- [ ] useEffect
+	- [ ] Effect Cleanup
+	- [ ] Dad Joke Break Side-Effects
+- [ ] Lifting State
+	- [ ] Intro to Lifting State
+	- [ ] Lift State
+	- [ ] Lift More State
+	- [ ] Colocate State
+	- [ ] Dad Joke Break Lifting State
+- [ ] DOM Side-Effects
+	- [ ] Intro to DOM Side-Effects
+	- [ ] Refs
+	- [ ] Dependencies
+	- [ ] Primitive Dependencies
+	- [ ] Dad Joke Break DOM Side-Effects
+- [ ] Unique IDs
+	- [ ] Intro to Unique IDs
+	- [ ] useId
+	- [ ] Dad Joke Break Unique IDs
+- [ ] Tic Tac Toe
+	- [ ] Intro to Tic Tac Toe
+	- [ ] setState callback
+	- [ ] Preserve State in localStorage
+	- [ ] Add Game History Feature
+	- [ ] Dad Joke Break Tic Tac Toe
+- [ ] Outro to React Hooks
+## Advanced React APIs
+- [ ] Advanced React APIs Intro
+- [ ] Advanced State Management
+	- [ ] Intro to Advanced State Management
+	- [ ] New State
+	- [ ] Previous State
+	- [ ] State Object
+	- [ ] Action Function
+	- [ ] Traditional Reducer
+	- [ ] Real World
+	- [ ] Dad Joke Break Advanced State Management
+- [ ] State Optimization
+	- [ ] Intro to State Optimization
+	- [ ] Optimize state updates
+	- [ ] Dad Joke Break State Optimization
+- [ ] Custom Hooks
+	- [ ] Intro to Custom Hooks
+	- [ ] Hook Function
+	- [ ] useCallback
+	- [ ] Dad Joke Break Custom Hooks
+- [ ] Shared Context
+	- [ ] Intro to Shared Context
+	- [ ] Context Provider
+	- [ ] Context Hook
+	- [ ] Dad Joke Break Shared Context
+- [ ] Portals
+	- [ ] Intro to Portals
+	- [ ] createPortal
+	- [ ] Dad Joke Break Portals
+- [ ] Layout Computation
+	- [ ] Intro to Layout Computation
+	- [ ] useLayoutEffect
+	- [ ] Dad Joke Break Layout Computation
+- [ ] Imperative Handles
+	- [ ] Intro to Imperative Handles
+	- [ ] useImperativeHandle
+	- [ ] Dad Joke Break Imperative Handles
+- [ ] Focus Management
+	- [ ] Intro to Focus Management
+	- [ ] flushSync
+	- [ ] Dad Joke Break Focus Management
+- [ ] Sync External State
+	- [ ] Intro to Sync External State
+	- [ ] useSyncExternalStore
+	- [ ] Make Store Utility
+	- [ ] Handling Server Rendering
+	- [ ] Dad Joke Break Sync External State
+- [ ] Outro to Advanced React APIs
+## React Suspense
+- [ ] React Suspense Intro
+- [ ] Data Fetching
+	- [ ] Intro to Data fetching
+	- [ ] Throwing Promises
+	- [ ] Error Handling
+	- [ ] Formal Status
+	- [ ] Utility
+	- [ ] use React
+	- [ ] Dad Joke Break Data fetching
+- [ ] Dynamic Promises
+	- [ ] Intro to Dynamic Promises
+	- [ ] Promise Cache
+	- [ ] useTransition
+	- [ ] Pending Flash
+	- [ ] Dad Joke Break Dynamic Promises
+- [ ] Optimistic UI
+	- [ ] Intro to Optimistic UI
+	- [ ] Optimistic UI
+	- [ ] Form Status
+	- [ ] Multi-step Actions
+	- [ ] Dad Joke Break Optimistic UI
+- [ ] Suspense img
+	- [ ] Intro to Suspense img
+	- [ ] Img Component
+	- [ ] Img Error Boundary
+	- [ ] Key prop
+	- [ ] Dad Joke Break Suspense img
+- [ ] Responsive
+	- [ ] Intro to Responsive
+	- [ ] useDeferredValue
+	- [ ] Dad Joke Break Responsive
+- [ ] Optimizations
+	- [ ] Intro to Optimizations
+	- [ ] Parallel Loading
+	- [ ] Server Cache
+	- [ ] Dad Joke Break Optimizations
+- [ ] Outro to React Suspense
+## Advanced React Patterns
+- [ ] Advanced React Patterns Intro
+- [ ] Composition
+	- [ ] Intro to Composition
+	- [ ] Composition and Layout Components
+	- [ ] Dad Joke Break Composition
+- [ ] Latest Ref
+	- [ ] Intro to Latest Ref
+	- [ ] Latest Ref
+	- [ ] Dad Joke Break Latest Ref
+- [ ] Compound Components
+	- [ ] Intro to Compound Components
+	- [ ] Compound Components
+	- [ ] Compound Components Validation
+	- [ ] Dad Joke Break Compound Components
+- [ ] Slots
+	- [ ] Intro to Slots
+	- [ ] Slot Context
+	- [ ] Generic Slot Components
+	- [ ] Slot Prop
+	- [ ] Dad Joke Break Slots
+- [ ] Prop Collections and Getters
+	- [ ] Intro to Prop Collections and Getters
+	- [ ] Prop Colleections
+	- [ ] Prop Getters
+	- [ ] Dad Joke Break Prop Collections and Getters
+- [ ] State Initializer
+	- [ ] Intro to State Initializer
+	- [ ] Initialize Toggle
+	- [ ] Stability
+	- [ ] Dad Joke Break State Initializer
+- [ ] State Reducer
+	- [ ] Intro to State Reducer
+	- [ ] State Reducer
+	- [ ] Default State Reducer
+	- [ ] Dad Joke Break State Reducer
+- [ ] Control Props
+	- [ ] Intro to Control Props
+	- [ ] Control Props
+	- [ ] Dad Joke Break Control Props
+- [ ] Outro to Advanced React Patterns
+## React Performance
+- [ ] React Performance Intro
+- [ ] Element Optimization
+	- [ ] Intro to Element Optimization
+	- [ ] Reusing Elements
+	- [ ] Element Props
+	- [ ] Context
+	- [ ] Memoize Elements
+	- [ ] Memoize Components
+	- [ ] Dad Joke Break Element Optimization
+- [ ] Optimize Context
+	- [ ] Intro to Optimize Context
+	- [ ] Memoize Context
+	- [ ] Provider Component
+	- [ ] Split Context
+	- [ ] Dad Joke Break Optimize Context
+- [ ] Concurrent Rendering
+	- [ ] Concurrent Rendering Intro
+	- [ ] useDeferredValue + memo
+	- [ ] Dad Joke Break Concurrent Rendering
+- [ ] Code Splitting
+	- [ ] Intro to Code Splitting
+	- [ ] lazy
+	- [ ] Eager Loading
+	- [ ] Transitions
+	- [ ] Dad Joke Break Code Splitting
+- [ ] Expensive Calculations
+	- [ ] Intro to Expensive Calculations
+	- [ ] useMemo
+	- [ ] Web Worker
+	- [ ] Async Results
+	- [ ] Dad Joke Break Expensive Calculations
+- [ ] Optimize Rendering
+	- [ ] Intro to Optimize Rendering
+	- [ ] Component Memoization
+	- [ ] Custom Comparator
+	- [ ] Primitives
+	- [ ] Dad Joke Break Optimize Rendering
+- [ ] Windowing
+	- [ ] Intro to Windowing
+	- [ ] Virtualizer
+	- [ ] Dad Joke Break Windowing
+- [ ] Outro to React Performance
+## React Server Components
+- [ ] React Server Components Intro
+- [ ] Warm Up
+	- [ ] Intro to Warm Up
+	- [ ] Static React App
+	- [ ] Dad Joke Break Warm Up
+- [ ] Server Components
+	- [ ] Intro to Server Components
+	- [ ] RSCs
+	- [ ] Async Components
+	- [ ] Streaming
+	- [ ] Server Context
+	- [ ] Dad Joke Break Server Components
+- [ ] Client Components
+	- [ ] Intro to Client Components
+	- [ ] Node.js Loader
+	- [ ] Module Resolution
+	- [ ] Dad Joke Break Client Components
+- [ ] Client Router
+	- [ ] Intro to Client Router
+	- [ ] Client Router
+	- [ ] Pending UI
+	- [ ] Race Conditions
+	- [ ] History
+	- [ ] Cache
+	- [ ] Dad Joke Break Client Router
+- [ ] Server Actions
+	- [ ] Intro to Server Actions
+	- [ ] Action Reference
+	- [ ] Client Side
+	- [ ] Server Side
+	- [ ] Revalidation
+	- [ ] History Revalidation
+	- [ ] Dad Joke Break Server Actions
+- [ ] Outro to React Server Components
+## Interviews with Experts
+- [ ] Getting into Open Source with Aakansha Doshi
+- [ ] Enhancing Forms using React 19 with Aurora Scharff
+- [ ] Jenna Smith on AI, Building Radix, and Tokenami
+- [ ] Evan Bacon brings React Server Components to React Native
+- [ ] Kateryna Porshnieva on Building Accessible Apps with React 19
+- [ ] React's Evolution: Past, Present, and Future with Lee Robinson
+- [ ] Matt Brophy on Remix, React Router, and Open-Source
+- [ ] Michelle Beckles on Community Building and Developer Health
+- [ ] Under the Hood of React 19 with Rick Hanlon
+- [ ] Sam Selikoff on React's Impact in Modern Web Development
+- [ ] Lydia Hallie on JavaScript, React, and the Future of Web Development
+- [ ] Sebastian Silbermann on Testing, Tooling, and Transitions With React 19
+- [ ] The Importance of Accessibility in Modern Web Development With Shruti Kapoor
+- [ ] Sunil Pai on Changing Lives with Powerful Software, PartyKit, and Durable Objects
+- [ ] Theo Browne on His Personal Experience as a Web Developer
+- [ ] Dominik Dorfmeister on His Open-Source Journey

@@ -1,0 +1,555 @@
+# Learn Rust
+https://rust-book.cs.brown.edu/
+
+ Improvements
+## Jetbrains
+- postfix completion
+	- Custom postfix completion
+- Structural Selection
+- Structural Search and Replace
+- Debugging
+	- Drop Frame
+- Recent
+	- Locations
+	- Changes
+	- Edited files
+	- Tool windows
+## General
+- Look into soft timeboxes
+- [[Better Vim Movement]]
+- Use [Daily Notes](https://help.obsidian.md/plugins/daily-notes)
+
+# AI
+- Demonstrated experience building and/or fine-tuning Machine Learning models using contemporary AI/ML frameworks such as Pytorch, Tensorflow, Ultralytics, or HuggingFace.
+- Sound understanding of different AI model architectures such as Transformers, CNNs and LLMs.
+- Willingness to source, annotate and augment/transform data for model development purposes.
+- Strong understanding of **machine learning principles**, including neural networks, transformers, and model evaluation metrics.
+- Practical experience with **AI/ML frameworks** such as PyTorch, TensorFlow, or Ultralytics, and familiarity with MLOps tools (MLflow, W&B).
+- Sound understanding of different AI model architectures such as Transformers, CNNs and LLMs.
+
+
+TODO:
+- Get books by Kent Beck:
+	- *Small Talk: Best Practice Patterns* and *Implementation Patterns*
+	- Extreme Programming Explained
+- Get books by Martin Fowler:
+	- Refactoring: Improving the Design of Existing Code, 2nd ed
+
+[[clean-agile-back-basics.pdf#page=210&selection=37,0,38,8|clean-agile-back-basics, page 210]]
+	
+	
+	AWS Courses:
+https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+https://portal.tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-practice-exams/
+Not Great:
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/
+
+
+Epic React Coursework
+https://www.reddit.com/r/reactjs/comments/j2la5p/here_is_how_to_access_kent_dodds_359_epic_react/
+
+Do Go Courses:
+- The Go Tour (official): [https://tour.golang.org](https://tour.golang.org) — Interactive, fast way to grasp syntax, types, methods, interfaces, and concurrency primitives.
+- Go by Example: [https://gobyexample.com](https://gobyexample.com) — Short, runnable examples that map concepts to code snippets.
+- Official Docs: [https://go.dev/doc](https://go.dev/doc) — Start with “How to Write Go Code,” “Effective Go,” and “FAQ.” These clarify idioms and gotchas early.
+
+# From Dad
+- Learn Calculus
+- Learn low-level C
+- Learn how to build an interface between tensor and Cuda cores.
+
+# Plan
+https://www.reddit.com/r/learnmachinelearning/comments/1ixx095/help_me_crowdsource_a_machine_learning_roadmap/?share_id=qrOz7peBGa6o3wjZHR5p0
+
+# Epic React
+##  [React Fundamentals](https://drive.google.com/drive/u/0/folders/1rZM7ocO6eL-0OrChZsvD91BmPfOVnm_Z)
+- [x] React Fundamentals Intro
+- [ ] Hello World in JS
+	- [x] Intro
+	- [x] Hello World in JS
+	- [ ] Generate the Root Node
+	- [ ] Dad Joke Break
+- [ ] Raw React APIs
+	- [ ] Intro to Raw React APIs
+	- [ ] Create React Elements
+	- [ ] Nesting Elements
+	- [ ] Deep Nesting Elements
+	- [ ] Dad Joke Break Raw React APIs
+- [ ] Using JSX
+	- [ ] Intro to Using JSX
+	- [ ] Compiling JSX
+	- [ ] Interpolation
+	- [ ] Spread props
+	- [ ] Nesting JSX
+	- [ ] Fragments
+	- [ ] Dad Joke Break Using JSX
+- [ ] Custom Components
+	- [ ] Intro to Custom Components
+	- [ ] Simple Function
+	- [ ] Raw API
+	- [ ] JSX Components
+	- [ ] Props
+	- [ ] Dad Joke Break Custom Components
+- [ ] TypeScript
+	- [ ] Intro to TypeScript
+	- [ ] Props
+	- [ ] Narrow Types
+	- [ ] Derive Types
+	- [ ] Default Props
+	- [ ] Reduce Duplication
+	- [ ] Satisfies
+	- [ ] Dad Joke Break TypeScript
+- [ ] Styling
+	- [ ] Intro to Styling
+	- [ ] Styling
+	- [ ] Custom Component
+	- [ ] Size Prop
+	- [ ] Dad Joke Break Styling
+- [ ] Forms
+	- [ ] Intro to Forms
+	- [ ] Form
+	- [ ] Form Action
+	- [ ] Input Types
+	- [ ] Submission
+	- [ ] Form Actions
+	- [ ] Dad Joke Break Forms
+- [ ] Inputs
+	- [ ] Intro to Inputs
+	- [ ] Checkbox
+	- [ ] Select
+	- [ ] Radios
+	- [ ] Hidden Inputs
+	- [ ] Default Value
+	- [ ] Dad Joke Break Inputs
+- [ ] Error Boundries
+	- [ ] Intro to Error Boundaries
+	- [ ] Composition
+	- [ ] Other Errors
+	- [ ] Reset
+	- [ ] Dad Joke Break Error Boundaries
+- [ ] Rendering Arrays
+	- [ ] Intro to Rendering Arrays
+	- [ ] Key prop
+	- [ ] Focus State
+	- [ ] Key Reset
+	- [ ] Dad Joke Break Rendering Arrays
+- [ ] Outro to React Fundamentals
+## [React Hooks](https://drive.google.com/drive/u/0/folders/1pUknHpl4XnJw6P5FA8dORL8Y1PX3O7Il)
+- [ ] React Hooks Intro
+- [ ] Managing UI State
+	- [ ] Intro to Managing UI State
+	- [ ] useState
+	- [ ] Controlling Inputs
+	- [ ] Derive State
+	- [ ] Initialize State
+	- [ ] Init Callback
+	- [ ] Dad Joke Break Managing UI State
+- [ ] Side-Effects
+	- [ ] Intro to Side-Effects
+	- [ ] useEffect
+	- [ ] Effect Cleanup
+	- [ ] Dad Joke Break Side-Effects
+- [ ] Lifting State
+	- [ ] Intro to Lifting State
+	- [ ] Lift State
+	- [ ] Lift More State
+	- [ ] Colocate State
+	- [ ] Dad Joke Break Lifting State
+- [ ] DOM Side-Effects
+	- [ ] Intro to DOM Side-Effects
+	- [ ] Refs
+	- [ ] Dependencies
+	- [ ] Primitive Dependencies
+	- [ ] Dad Joke Break DOM Side-Effects
+- [ ] Unique IDs
+	- [ ] Intro to Unique IDs
+	- [ ] useId
+	- [ ] Dad Joke Break Unique IDs
+- [ ] Tic Tac Toe
+	- [ ] Intro to Tic Tac Toe
+	- [ ] setState callback
+	- [ ] Preserve State in localStorage
+	- [ ] Add Game History Feature
+	- [ ] Dad Joke Break Tic Tac Toe
+- [ ] Outro to React Hooks
+## Advanced React APIs
+- [ ] Advanced React APIs Intro
+- [ ] Advanced State Management
+	- [ ] Intro to Advanced State Management
+	- [ ] New State
+	- [ ] Previous State
+	- [ ] State Object
+	- [ ] Action Function
+	- [ ] Traditional Reducer
+	- [ ] Real World
+	- [ ] Dad Joke Break Advanced State Management
+- [ ] State Optimization
+	- [ ] Intro to State Optimization
+	- [ ] Optimize state updates
+	- [ ] Dad Joke Break State Optimization
+- [ ] Custom Hooks
+	- [ ] Intro to Custom Hooks
+	- [ ] Hook Function
+	- [ ] useCallback
+	- [ ] Dad Joke Break Custom Hooks
+- [ ] Shared Context
+	- [ ] Intro to Shared Context
+	- [ ] Context Provider
+	- [ ] Context Hook
+	- [ ] Dad Joke Break Shared Context
+- [ ] Portals
+	- [ ] Intro to Portals
+	- [ ] createPortal
+	- [ ] Dad Joke Break Portals
+- [ ] Layout Computation
+	- [ ] Intro to Layout Computation
+	- [ ] useLayoutEffect
+	- [ ] Dad Joke Break Layout Computation
+- [ ] Imperative Handles
+	- [ ] Intro to Imperative Handles
+	- [ ] useImperativeHandle
+	- [ ] Dad Joke Break Imperative Handles
+- [ ] Focus Management
+	- [ ] Intro to Focus Management
+	- [ ] flushSync
+	- [ ] Dad Joke Break Focus Management
+- [ ] Sync External State
+	- [ ] Intro to Sync External State
+	- [ ] useSyncExternalStore
+	- [ ] Make Store Utility
+	- [ ] Handling Server Rendering
+	- [ ] Dad Joke Break Sync External State
+- [ ] Outro to Advanced React APIs
+## React Suspense
+- [ ] React Suspense Intro
+- [ ] Data Fetching
+	- [ ] Intro to Data fetching
+	- [ ] Throwing Promises
+	- [ ] Error Handling
+	- [ ] Formal Status
+	- [ ] Utility
+	- [ ] use React
+	- [ ] Dad Joke Break Data fetching
+- [ ] Dynamic Promises
+	- [ ] Intro to Dynamic Promises
+	- [ ] Promise Cache
+	- [ ] useTransition
+	- [ ] Pending Flash
+	- [ ] Dad Joke Break Dynamic Promises
+- [ ] Optimistic UI
+	- [ ] Intro to Optimistic UI
+	- [ ] Optimistic UI
+	- [ ] Form Status
+	- [ ] Multi-step Actions
+	- [ ] Dad Joke Break Optimistic UI
+- [ ] Suspense img
+	- [ ] Intro to Suspense img
+	- [ ] Img Component
+	- [ ] Img Error Boundary
+	- [ ] Key prop
+	- [ ] Dad Joke Break Suspense img
+- [ ] Responsive
+	- [ ] Intro to Responsive
+	- [ ] useDeferredValue
+	- [ ] Dad Joke Break Responsive
+- [ ] Optimizations
+	- [ ] Intro to Optimizations
+	- [ ] Parallel Loading
+	- [ ] Server Cache
+	- [ ] Dad Joke Break Optimizations
+- [ ] Outro to React Suspense
+## Advanced React Patterns
+- [ ] Advanced React Patterns Intro
+- [ ] Composition
+	- [ ] Intro to Composition
+	- [ ] Composition and Layout Components
+	- [ ] Dad Joke Break Composition
+- [ ] Latest Ref
+	- [ ] Intro to Latest Ref
+	- [ ] Latest Ref
+	- [ ] Dad Joke Break Latest Ref
+- [ ] Compound Components
+	- [ ] Intro to Compound Components
+	- [ ] Compound Components
+	- [ ] Compound Components Validation
+	- [ ] Dad Joke Break Compound Components
+- [ ] Slots
+	- [ ] Intro to Slots
+	- [ ] Slot Context
+	- [ ] Generic Slot Components
+	- [ ] Slot Prop
+	- [ ] Dad Joke Break Slots
+- [ ] Prop Collections and Getters
+	- [ ] Intro to Prop Collections and Getters
+	- [ ] Prop Colleections
+	- [ ] Prop Getters
+	- [ ] Dad Joke Break Prop Collections and Getters
+- [ ] State Initializer
+	- [ ] Intro to State Initializer
+	- [ ] Initialize Toggle
+	- [ ] Stability
+	- [ ] Dad Joke Break State Initializer
+- [ ] State Reducer
+	- [ ] Intro to State Reducer
+	- [ ] State Reducer
+	- [ ] Default State Reducer
+	- [ ] Dad Joke Break State Reducer
+- [ ] Control Props
+	- [ ] Intro to Control Props
+	- [ ] Control Props
+	- [ ] Dad Joke Break Control Props
+- [ ] Outro to Advanced React Patterns
+## React Performance
+- [ ] React Performance Intro
+- [ ] Element Optimization
+	- [ ] Intro to Element Optimization
+	- [ ] Reusing Elements
+	- [ ] Element Props
+	- [ ] Context
+	- [ ] Memoize Elements
+	- [ ] Memoize Components
+	- [ ] Dad Joke Break Element Optimization
+- [ ] Optimize Context
+	- [ ] Intro to Optimize Context
+	- [ ] Memoize Context
+	- [ ] Provider Component
+	- [ ] Split Context
+	- [ ] Dad Joke Break Optimize Context
+- [ ] Concurrent Rendering
+	- [ ] Concurrent Rendering Intro
+	- [ ] useDeferredValue + memo
+	- [ ] Dad Joke Break Concurrent Rendering
+- [ ] Code Splitting
+	- [ ] Intro to Code Splitting
+	- [ ] lazy
+	- [ ] Eager Loading
+	- [ ] Transitions
+	- [ ] Dad Joke Break Code Splitting
+- [ ] Expensive Calculations
+	- [ ] Intro to Expensive Calculations
+	- [ ] useMemo
+	- [ ] Web Worker
+	- [ ] Async Results
+	- [ ] Dad Joke Break Expensive Calculations
+- [ ] Optimize Rendering
+	- [ ] Intro to Optimize Rendering
+	- [ ] Component Memoization
+	- [ ] Custom Comparator
+	- [ ] Primitives
+	- [ ] Dad Joke Break Optimize Rendering
+- [ ] Windowing
+	- [ ] Intro to Windowing
+	- [ ] Virtualizer
+	- [ ] Dad Joke Break Windowing
+- [ ] Outro to React Performance
+## React Server Components
+- [ ] React Server Components Intro
+- [ ] Warm Up
+	- [ ] Intro to Warm Up
+	- [ ] Static React App
+	- [ ] Dad Joke Break Warm Up
+- [ ] Server Components
+	- [ ] Intro to Server Components
+	- [ ] RSCs
+	- [ ] Async Components
+	- [ ] Streaming
+	- [ ] Server Context
+	- [ ] Dad Joke Break Server Components
+- [ ] Client Components
+	- [ ] Intro to Client Components
+	- [ ] Node.js Loader
+	- [ ] Module Resolution
+	- [ ] Dad Joke Break Client Components
+- [ ] Client Router
+	- [ ] Intro to Client Router
+	- [ ] Client Router
+	- [ ] Pending UI
+	- [ ] Race Conditions
+	- [ ] History
+	- [ ] Cache
+	- [ ] Dad Joke Break Client Router
+- [ ] Server Actions
+	- [ ] Intro to Server Actions
+	- [ ] Action Reference
+	- [ ] Client Side
+	- [ ] Server Side
+	- [ ] Revalidation
+	- [ ] History Revalidation
+	- [ ] Dad Joke Break Server Actions
+- [ ] Outro to React Server Components
+## Interviews with Experts
+- [ ] Getting into Open Source with Aakansha Doshi
+- [ ] Enhancing Forms using React 19 with Aurora Scharff
+- [ ] Jenna Smith on AI, Building Radix, and Tokenami
+- [ ] Evan Bacon brings React Server Components to React Native
+- [ ] Kateryna Porshnieva on Building Accessible Apps with React 19
+- [ ] React's Evolution: Past, Present, and Future with Lee Robinson
+- [ ] Matt Brophy on Remix, React Router, and Open-Source
+- [ ] Michelle Beckles on Community Building and Developer Health
+- [ ] Under the Hood of React 19 with Rick Hanlon
+- [ ] Sam Selikoff on React's Impact in Modern Web Development
+- [ ] Lydia Hallie on JavaScript, React, and the Future of Web Development
+- [ ] Sebastian Silbermann on Testing, Tooling, and Transitions With React 19
+- [ ] The Importance of Accessibility in Modern Web Development With Shruti Kapoor
+- [ ] Sunil Pai on Changing Lives with Powerful Software, PartyKit, and Durable Objects
+- [ ] Theo Browne on His Personal Experience as a Web Developer
+- [ ] Dominik Dorfmeister on His Open-Source Journey
+
+# Calculus For Dummies
+- [ ] Part I: An Overview of Calculus (p. 5)
+	- [ ] Chapter 1: What Is Calculus? (p. 7)
+	- [ ] Chapter 2: The Two Big Ideas of Calculus: Differentiation and Integration — plus Infinite Series (p. 13)
+	- [ ] Chapter 3: Why Calculus Works (p. 21)
+- [ ] Part II: Warming Up with Calculus Prerequisites (p. 27)
+	- [ ] Chapter 4: Pre-Algebra and Algebra Review (p. 29)
+	- [ ] Chapter 5: Funky Functions and Their Groovy Graphs (p. 45)
+	- [ ] Chapter 6: The Trig Tango (p. 63)
+- [ ] Part III: Limits (p. 75)
+	- [ ] Chapter 7: Limits and Continuity (p. 77)
+	- [ ] Chapter 8: Evaluating Limits (p. 91)
+- [ ] Part IV: Differentiation (p. 107)
+	- [ ] Chapter 9: Differentiation Orientation (p. 109)
+	- [ ] Chapter 10: Differentiation Rules — Yeah, Man, It Rules (p. 129)
+	- [ ] Chapter 11: Differentiation and the Shape of Curves (p. 149)
+	- [ ] Chapter 12: Your Problems Are Solved: Differentiation to the Rescue! (p. 173)
+	- [ ] Chapter 13: More Differentiation Problems: Going Off on a Tangent (p. 195)
+- [ ] Part V: Integration and Infinite Series (p. 209)
+	- [ ] Chapter 14: Intro to Integration and Approximating Area (p. 211)
+	- [ ] Chapter 15: Integration: It’s Backwards Differentiation (p. 235)
+	- [ ] Chapter 16: Integration Techniques for Experts (p. 265)
+	- [ ] Chapter 17: Forget Dr. Phil: Use the Integral to Solve Problems (p. 289)
+	- [ ] Chapter 18: Taming the Infinite with Improper Integrals (p. 309)
+	- [ ] Chapter 19: Infinite Series (p. 321)
+
+- [ ] Neovim
+	- [x] Lesson 0
+	- [x] Lesson 1
+		- [x] Lesson 1.1: Moving the cursor
+		- [x] Lesson 1.2: Exiting Neovim
+		- [x] Lesson 1.3: Text editing: deletion
+		- [x] Lesson 1.4: Text editing: insertion
+		- [x] Lesson 1.5: Text editing: appending
+		- [x] Lesson 1.6: Editing a file
+	- [x] Lesson 2
+		- [x] Lesson 2.1: Deletion commands
+		- [x] Lesson 2.2: More deletion commands
+		- [x] Lesson 2.3: On operators and motions
+		- [x] Lesson 2.4: Using a count for a motion
+		- [x] Lesson 2.5: Using a count to delete more
+		- [x] Lesson 2.6: Operating on lines
+		- [x] Lesson 2.7: The undo command
+	- [x] Lesson 3
+		- [x] Lesson 3.1: The put command
+		- [x] Lesson 3.2: The replace command
+		- [x] Lesson 3.3: The change operator
+		- [x] Lesson 3.4: More changes using c
+	- [ ] Lesson 4
+		- [x] Lesson 4.1: Cursor location and file status
+		- [x] Lesson 4.2: The search command
+		- [ ] Lesson 4.3: Matching parentheses search
+		- [ ] Lesson 4.4: The substitute command
+	- [ ] Lesson 5
+		- [ ] Lesson 5.1: How to execute an external command
+		- [ ] Lesson 5.2: More on writing files
+		- [ ] Lesson 5.3: Selecting text to write
+		- [ ] Lesson 5.4: Retrieving and merging files
+	- [ ] Lesson 6
+		- [ ] Lesson 6.1: The open command
+		- [ ] Lesson 6.2: The append command
+		- [ ] Lesson 6.3: Another way to replace
+		- [ ] Lesson 6.4: Copy and paste text
+		- [ ] Lesson 6.5: Set option
+	- [ ] Lesson 7
+		- [ ] Lesson 7.1: Getting help
+		- [ ] Lesson 7.2: Completion
+		- [ ] Lesson 7.3: Configuring Nvim
+- [ ] React
+	- [ ] Do Epic React
+	- [ ] Learn the new features in React 20
+- [ ] C
+	- [ ] C: A Modern Approach
+	- [ ] The C programming language
+- [ ] Math
+	- [ ] Read Calculus for Dummies
+	- [ ] **Linear algebra**
+	    - [ ] Vectors, matrices, tensor notation and shapes
+	    - [ ] Matrix multiplication, transpose
+	    - [ ] Norms, dot product, cosine similarity
+	    - [ ] Rank, linear independence, projections (intuitive)
+	    - [ ] Eigenvalues / eigenvectors, SVD (intuitive)
+	- [ ] **Probability & statistics**
+	    - [ ] Random variables, common distributions (Bernoulli, categorical, Gaussian)
+	    - [ ] Joint / marginal / conditional distributions
+	    - [ ] Expectation, variance, covariance
+	    - [ ] Bayes’ rule conceptually
+	    - [ ] Cross entropy, KL divergence, perplexity
+	- [ ] **Calculus & optimization**
+	    - [ ] Partial derivatives, gradients for multivariate functions
+	    - [ ] Chain rule, backpropagation conceptually
+	    - [ ] Gradient descent, SGD, mini batch training
+	    - [ ] Intuition for Adam and learning rates
+	- [ ] **Information theory (light)**
+	    - [ ] Entropy
+	    - [ ] Cross entropy as a loss
+	    - [ ] KL divergence
+	- [ ] **Numerical & practical ML math**
+	    - [ ] Floating point issues, log sums, log softmax
+	    - [ ] Norms, regularization (L2 in particular)
+	    - [ ] Initialization and normalization concepts
+	- [ ] **Neural networks & transformers**
+	    - [ ] Linear layer = matrix multiplication + bias
+	    - [ ] Nonlinearities (ReLU, GELU)
+	    - [ ] Residual connections and layer norm
+	    - [ ] Attention: Q, K, V, scaled dot product, softmax, multi head
+	    - [ ] Positional encodings
+	    - [ ] Why transformers scale well
+
+- [ ] AWS
+	- [ ] Do AWS Certification
+- [ ] Chad Developer
+	- [ ] Set up Arch
+	- [ ] Learn Neovim
+		- [ ] do Neovim tutor
+		- [ ] set up Neovim
+			- [ ] LSP
+			- [ ] Autocomplete
+			- [ ] errors
+			- [ ] hints
+	- [ ] get good at git on command line
+		- [ ] figure out merging
+	- [ ] Get good at SQL on the command line
+- [ ] Make Personal Website
+- [ ] Make Projects
+	- [ ] Agent-Driven Spreadsheet Editing?
+	- [ ] AI Chatbot
+	- [ ] microservices
+- [ ] Theory
+	- [ ] Design Patterns
+	- [ ]  Algorithms
+	- [ ] Big-O Notation
+	- [ ] SOLID Principles
+- [x] Read Uncle Bob
+	- [x] Clean Code
+	- [x] Clean Coder
+	- [x] Clean Architecture
+	- [x] Clean Agile
+## Roadmaps
+- Full-Stack
+	- JavaScript
+	- TypeScript
+	- Data Structures
+- Frontend
+	- React
+- Backend
+- Node.JS
+- Devops
+	- AWS
+	- Docker
+	- System Design
+
+
+
+
+
+
+

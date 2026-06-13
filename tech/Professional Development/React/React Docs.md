@@ -1,0 +1,138 @@
+# React Docs
+Here's the full contents of the React Reference as an unordered checkbox list:
+
+- [ ] React (`react@19.2`)
+    - [x] Overview
+    - [ ] Hooks
+        - [ ] useActionState
+        - [ ] useCallback
+        - [ ] useContext
+        - [ ] useDebugValue
+        - [ ] useDeferredValue
+        - [ ] useEffect
+        - [ ] useEffectEvent
+        - [ ] useId
+        - [ ] useImperativeHandle
+        - [ ] useInsertionEffect
+        - [ ] useLayoutEffect
+        - [ ] useMemo
+        - [ ] useOptimistic
+        - [ ] useReducer
+        - [ ] useRef
+        - [ ] useState
+        - [ ] useSyncExternalStore
+        - [ ] useTransition
+    - [ ] Components
+        - [ ] `<Fragment>` (`<>`)
+        - [ ] `<Profiler>`
+        - [ ] `<StrictMode>`
+        - [ ] `<Suspense>`
+        - [ ] `<Activity>`
+        - [ ] `<ViewTransition>`
+    - [ ] APIs
+        - [ ] act
+        - [ ] addTransitionType
+        - [ ] cache
+        - [ ] cacheSignal
+        - [ ] captureOwnerStack
+        - [ ] createContext
+        - [ ] lazy
+        - [ ] memo
+        - [ ] startTransition
+        - [ ] use
+        - [ ] experimental_taintObjectReference
+        - [ ] experimental_taintUniqueValue
+    - [ ] Directives
+- [ ] React DOM (`react-dom@19.2`)
+    - [ ] Hooks
+        - [ ] useFormStatus
+    - [ ] Components
+        - [ ] Common (e.g. `<div>`)
+        - [ ] `<form>`
+        - [ ] `<input>`
+        - [ ] `<option>`
+        - [ ] `<progress>`
+        - [ ] `<select>`
+        - [ ] `<textarea>`
+        - [ ] `<link>`
+        - [ ] `<meta>`
+        - [ ] `<script>`
+        - [ ] `<style>`
+        - [ ] `<title>`
+    - [ ] APIs
+        - [ ] createPortal
+        - [ ] flushSync
+        - [ ] preconnect
+        - [ ] prefetchDNS
+        - [ ] preinit
+        - [ ] preinitModule
+        - [ ] preload
+        - [ ] preloadModule
+    - [ ] Client APIs
+        - [ ] createRoot
+        - [ ] hydrateRoot
+    - [ ] Server APIs
+        - [ ] renderToPipeableStream
+        - [ ] renderToReadableStream
+        - [ ] renderToStaticMarkup
+        - [ ] renderToString
+        - [ ] resume
+        - [ ] resumeToPipeableStream
+    - [ ] Static APIs
+        - [ ] prerender
+        - [ ] prerenderToNodeStream
+        - [ ] resumeAndPrerender
+        - [ ] resumeAndPrerenderToNodeStream
+- [ ] React Compiler
+    - [ ] Configuration
+        - [ ] compilationMode
+        - [ ] gating
+        - [ ] logger
+        - [ ] panicThreshold
+        - [ ] target
+    - [ ] Directives
+        - [ ] "use memo"
+        - [ ] "use no memo"
+    - [ ] Compiling Libraries
+- [ ] React DevTools
+    - [ ] React Performance tracks
+- [ ] ESLint Plugin React Hooks (`eslint-plugin-react-hooks`)
+    - [ ] Lints
+        - [ ] exhaustive-deps
+        - [ ] rules-of-hooks
+        - [ ] component-hook-factories
+        - [ ] config
+        - [ ] error-boundaries
+        - [ ] gating
+        - [ ] globals
+        - [ ] immutability
+        - [ ] incompatible-library
+        - [ ] preserve-manual-memoization
+        - [ ] purity
+        - [ ] refs
+        - [ ] set-state-in-effect
+        - [ ] set-state-in-render
+        - [ ] static-components
+        - [ ] unsupported-syntax
+        - [ ] use-memo
+- [ ] Rules of React
+    - [ ] Overview
+    - [ ] Components and Hooks must be pure
+    - [ ] React calls Components and Hooks
+    - [ ] Rules of Hooks
+- [ ] React Server Components
+    - [ ] Server Components
+    - [ ] Server Functions
+    - [ ] Directives
+        - [ ] 'use client'
+        - [ ] 'use server'
+- [ ] Legacy APIs
+    - [ ] Legacy React APIs
+        - [ ] Children
+        - [ ] cloneElement
+        - [ ] Component
+        - [ ] createElement
+        - [ ] createRef
+        - [ ] forwardRef
+        - [ ] isValidElement
+        - [ ] PureComponent

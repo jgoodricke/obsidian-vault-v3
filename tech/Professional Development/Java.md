@@ -1,0 +1,31 @@
+- [ ] Java
+	- [ ] Fundamentals
+		- [ ] Baeldung:
+			- [ ] https://www.baeldung.com/java-8-new-features
+			- [ ] https://www.baeldung.com/new-java-9
+			- [ ] https://www.baeldung.com/java-10-overview
+			- [ ] https://www.baeldung.com/java-11-new-features
+			- [ ] https://www.baeldung.com/java-12-new-features
+			- [ ] https://www.baeldung.com/java-13-new-features
+			- [ ] https://www.baeldung.com/java-14-new-features
+			- [ ] https://www.baeldung.com/java-15-new
+			- [ ] https://www.baeldung.com/java-16-new-features
+			- [ ] https://www.baeldung.com/java-17-new-features
+			- [ ] https://www.baeldung.com/java-20-new-features
+			- [ ] https://www.baeldung.com/java-lts-21-new-features
+		- [ ] Java 8:
+		- [ ] Java 9–11:
+		- [ ] Java 14–17:
+		- [ ] Java 19–21 (preview/final):
+	- [ ] Build tools
+		- [ ] “Maven in 5 Minutes”
+		- [ ] “Gradle User Guide”
+		- [ ] go deeper on one of these
+	- [ ] Testing stack
+		- [ ] Baeldung’s guides on JUnit 5, Mockito, AssertJ
+	- [ ] Spring
+		- [ ] https://spring.io/guides
+		- [ ] Baeldung’s “Building a REST API with Spring Boot” series
+	- [ ] Architecture 
+		- [ ] Effective Java (3rd edition, Joshua Bloch)
+		- [ ] Domain Driven Design book
