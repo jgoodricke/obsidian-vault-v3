@@ -83,3 +83,24 @@ https://www.ikea.com/au/en/p/malm-chest-of-6-drawers-black-brown-00617314
 ## Matress
 
 ## Jackson's Matress
+
+
+## Fujifilm Instax Square Film (40 Pack)
+
+Selling a Fujifilm Instax Square Film 40 Pack. The box has been opened, but the film is unused. We accidentally bought the wrong type of film for our instant camera, so we have no use for it.
+
+Features:  
+• Compatible with Fujifilm Instax Square cameras  
+• 40 instant prints included  
+• Film size: 86mm × 72mm  
+• Image size: 62mm × 62mm  
+• ISO 800 sensitivity  
+• Sharp, vibrant colours and excellent image quality  
+• Square format that's perfect for photos, scrapbooks, and creative projects
+
+The Instax Square film uses Fujifilm's high-quality instant photography technology, delivering accurate colour reproduction and crisp images that last for years.
+
+Pickup from Hawthorn East.
+
+Message me if you're interested or have any questions.
+http://jbhifi.com.au/products/fujifilm-instax-square-film-40-pack
