@@ -28,8 +28,8 @@ Selling our Haier 7.5kg front load washing machine (Model: HWF75AW1). It's clean
 Feel free to message me with any questions or to arrange an inspection.
 
 https://www.appliancesonline.com.au/ak/b/7/f/e/b7fe3d87bbec379a6b4f83a1c155e9d3ae6ffb4d_Haier_HWF75AW1_75_kg_Front_Load_Washing_Machine_Dimension_Image_high-high.jpeg?width=1200
-## Dog Ramp
-**Adjustable Pet Ramp - Excellent Condition**
+
+## Adjustable Pet Ramp - Excellent Condition
 
 Help your dog safely and comfortably reach beds, couches, or vehicles with this sturdy adjustable pet ramp.
 
@@ -45,7 +45,7 @@ Features:
 
 This ramp is ideal for helping pets get onto furniture or into the car without jumping, reducing strain on their joints and giving them more independence.
 
-Maximum weight capacity: up to 50-60kg (depending on manufacturer specifications).
+Maximum weight capacity: up to 60kg.
 
 Pickup from **Hawthorn East, VIC**.
 
