@@ -2,7 +2,7 @@
 
 Selling our Haier 7.5kg front load washing machine (Model: HWF75AW1). It's clean, well maintained and ready for its new home.
 
-**Key Features:**  
+Key Features:  
 ✅ 7.5kg washing capacity  
 ✅ 1200 RPM high-speed spin cycle (helps clothes dry faster)  
 ✅ 16 wash programs including Quick Wash, Delicate, Wool, Baby Care, Bedding and Hygiene Wash  
@@ -13,17 +13,17 @@ Selling our Haier 7.5kg front load washing machine (Model: HWF75AW1). It's clean
 ✅ Child Lock and Pause Function  
 ✅ Anti-bacterial door seal
 
-**Efficiency Ratings:**  
+Efficiency Ratings:  
 ⭐ 3.5 Star Energy Rating  
 ⭐ 4.5 Star Water Rating  
 💧 Uses approximately 63L per wash
 
-**Dimensions:**
+Dimensions:
 - Height: 845mm
 - Width: 595mm
 - Depth: 600mm
 
-**Pickup:** Hawthorn East, VIC
+Pickup: Hawthorn East, VIC
 
 Feel free to message me with any questions or to arrange an inspection.
 
@@ -47,7 +47,7 @@ This ramp is ideal for helping pets get onto furniture or into the car without j
 
 Maximum weight capacity: up to 60kg.
 
-Pickup from **Hawthorn East, VIC**.
+Pickup from Hawthorn East, VIC.
 
 Feel free to message with any questions.
 
@@ -55,7 +55,27 @@ Feel free to message with any questions.
 https://assets.woolworths.com.au/images/1005/1112967393.jpg?impolicy=wowsmkqiema
 https://www.woolworths.com.au/shop/productdetails/1119399725/petzly-foldable-dog-ramps-adjustable-height-pet-ramp-folding-portable-white
 https://www.woolworths.com.au/shop/productdetails/1112967393/pawz-dog-ramp-adjustable-height-stairs-foldable-white
-## Drawers
+## IKEA MALM Chest of 6 Drawers — Black-Brown
+
+Selling an IKEA MALM chest of 6 drawers in black-brown.
+
+Great storage unit with a clean, modern look. It has smooth-running drawers with pull-out stops and a generous 242L storage capacity.
+
+
+Dimensions:
+80 cm wide × 48 cm deep × 123 cm high
+ 
+Details:
+- 6 drawers
+- Black-brown finish
+- Real wood veneer look
+- Smooth-running drawers
+- Includes wall-anchoring kit
+- Not suitable for use as a TV stand
+
+RRP is $299 from IKEA.
+
+Available for pickup in Hawthorn East.
 
 ## Bed
 
