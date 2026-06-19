@@ -12,6 +12,7 @@
 - Code Review: claude requirements review
 - Code Review: testing review
 - Code Review: coderabbit review
+- Code Review: Run e2e tests
 - Code Review: human code review
 - Testing: generates QA plan
 - Testing: test locally
