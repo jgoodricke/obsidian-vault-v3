@@ -25,6 +25,9 @@ Universal SteamVR upscaler
  
   
 # Multiplayer
+Content Warning:
+https://thunderstore.io/c/content-warning/p/DaXcess/CWVR/
+
 Satisfactory:
 https://ficsit.app/mod/UEVREnhancements
 https://ficsit.app/mod/TrainInteriors
@@ -69,8 +72,51 @@ Morrowind: [https://steamcommunity.com/groups/mwmulti/announcements/detail/32082
 Risk of Rain 2: [https://thunderstore.io/package/DrBibop/VRMod/](https://thunderstore.io/package/DrBibop/VRMod/)  
   
 Valheim: [https://www.nexusmods.com/valheim/mods/847](https://www.nexusmods.com/valheim/mods/847)  
-  
+Outward
+https://github.com/cybensis/OutwardVR
 # Singleplayer
+Sunrise GP
+https://beyondflatscreen.vercel.app/games/sunrisegp-vr-mod
+Richard Burns Rally
+https://www.kegetys.fi/category/gaming/rbrmods/
+Horizon Chase Turbo (Not available on steam)
+https://beyondflatscreen.vercel.app/games/horizon-chase-turbo-vr-mod
+
+Slime Rancher
+https://github.com/Atmudia/SRVR
+
+Amnesia:
+https://www.moddb.com/mods/sclerosis-an-amnesia-vr-remake
+
+Saints Row 3
+https://zolika1351.pages.dev/mods/sr3menu
+
+Saints Row 5
+https://zolika1351.pages.dev/mods/sr5menu
+
+Road Redemption 
+https://github.com/AstienVR/Road_Redemption_VR_bHaptics
+
+Life Is Strange: Before The Storm VR Mod
+https://github.com/TrevTV/DawnVR
+
+Dino Trauma
+https://beyondflatscreen.vercel.app/games/dino-trauma-vr-mod
+
+Crysis
+https://github.com/fholger/crysis_vrmod
+
+Cruelty Squad:
+https://crus.cc/mod/VR/
+
+Reciever:
+https://beyondflatscreen.vercel.app/games/receiver-vr-mod
+
+The Witcher:
+https://www.nexusmods.com/witcher/mods/838
+
+
+
 Hogwarts Legacy
 https://mixed-news.com/en/hogwarts-legacy-vr-mod/
 

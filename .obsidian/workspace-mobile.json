@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-06-22.md",
+                "file": "personal/gaming/VR Mods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-22"
+              "title": "VR Mods"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "a8a77c8c47232cc5",
   "lastOpenFiles": [
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-06-22.md",
     "tech/Professional Development/Contents.md",
     "personal/PC & Laptop Specs.md",
     "tech/Professional Development/Rust Book.md",
@@ -236,7 +237,6 @@
     "job/webres/Carebridge/Analytics Dashboard/cbr-209 QA Plan.md",
     "gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-22.md",
-    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-13.md",
     "AI/llm-prompts",
     "gaming/Doom",
     "job/webres/Carebridge/Pen Test",
