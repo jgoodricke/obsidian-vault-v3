@@ -315,6 +315,31 @@ He also asked the owner to consider the information and reports already obtained
 Hearing with VCAT was held. David said that he is happy to have professionals clean the apartment, and was instructed to do so within 7 days by the VCAT member. I said that we are no longer seeking repairs for the apartment and would only like the apartment cleaned and appropriate compensation. I was instructed that the case would paused until the 9th July when it would be closed, and that I should negotiate compensation with the landlord, and if no agreement can be reached we would re-open the case.
 ## 10th June
 Mold specialists came to the apartment to clean it.
+
+# Compensation Claim
+## 13th June
+**James:** Email sent to Brett confirming that professional mould cleaning had been completed and requesting that the rental provider address the remaining compensation claim. We sought $6,515 in total, comprising $4,027 for mould-damaged or contaminated belongings and $2,488 for loss of amenity and reduced use and enjoyment of the premises from 29 December 2025 to 10 June 2026. The email explained that the claim had been updated from the earlier approximate VCAT/RDRV belongings claim after further assessment, requested a response by 19 June 2026, and clarified that the compensation claim was separate from the bond and final inspection process.
+
+| Item                                                    |     Amount |
+| ------------------------------------------------------- | ---------: |
+| Orthokinetic Grandeur Medium Mattress                   |     $1,290 |
+| Orthokinetic Classic Bed Frame                          |       $899 |
+| Leather jacket                                          |       $300 |
+| Philips 2000i Series Air Purifier                       |       $399 |
+| Winix Zero 4-stage Air Purifier                         |       $400 |
+| Michael Kors Tote Bag                                   |       $400 |
+| Michael Kors Crossbody Bag                              |       $300 |
+| HP K1500 Keyboard                                       |        $17 |
+| Dell Multimedia Corded Keyboard                         |        $22 |
+| **Subtotal – damaged belongings**                       | **$4,027** |
+| Loss of amenity / reduced use and enjoyment of premises |     $2,488 |
+| **Total compensation sought**                           | **$6,515** |
+
+## 19th June
+**Brett:** responded confirming that the compensation request had been forwarded to the rental provider. He stated that, based on the recent investigation and remediation reports, no building defects, water ingress issues or other underlying property faults had been identified, and that professional mould remediation had been completed. The rental provider denied liability for damage to personal belongings or loss of amenity and declined the $6,515 compensation claim. Brett noted that this position was without prejudice to either party’s rights in the existing VCAT/RDRV proceedings, and confirmed that the compensation claim remained separate from the bond and final inspection process.
+
+**James:** Email sent confirming that James and Christy did not accept the rental provider’s denial of liability or refusal to compensate them. The email restated that the mould-related damage and loss of amenity were linked to ongoing property issues and delayed remediation, and confirmed that they would ask VCAT to progress the compensation aspect of matter RT2611332. It also clarified that the claim remained separate from the bond and final inspection process.
+
 # Future Dates
 **3rd July:** Last day of tenancy
 **9 July:** Deadline to open compensation claim with VCAT
