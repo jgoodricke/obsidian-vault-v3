@@ -24,5 +24,7 @@
 - Get books by Kent Beck:
 	- *Small Talk: Best Practice Patterns* and *Implementation Patterns*
 	- Extreme Programming Explained
+	- Implementation Patterns
 - Get books by Martin Fowler:
 	- Refactoring: Improving the Design of Existing Code, 2nd ed
+- Get that design book by the Tailwind Team.

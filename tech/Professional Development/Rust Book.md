@@ -6,7 +6,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 - [x] Introduction
 - [ ] Getting Started
     - [x] 1.1. Installation
-    - [ ] 1.2. Hello, World!
+    - [x] 1.2. Hello, World!
     - [ ] 1.3. Hello, Cargo!
 - [ ] 2. Programming a Guessing Game
 - [ ] 3. Common Programming Concepts
