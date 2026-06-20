@@ -12,11 +12,7 @@ frontmatter-version: 1
 	- RealRTCW
 
 # To Check Out:  
-- Metal: Hellsinger  
-- Firewatch  
-- [Freespace](https://wiki.hard-light.net/index.php/Virtual_Reality)
-- [Wing Commander](https://wcrespace.com/media/) (Unfinished)
-- [Strike Commander](https://github.com/remileonard/libRealSpace)
+
 - [https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9](https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9)  
 - [https://www.youtube.com/watch?v=aR459G_Yp2Q](https://www.youtube.com/watch?v=aR459G_Yp2Q)
 
@@ -24,6 +20,11 @@ frontmatter-version: 1
 Content Warning:
 https://thunderstore.io/c/content-warning/p/DaXcess/CWVR/
 ### Check out: Singleplayer
+- Metal: Hellsinger  
+- Firewatch  
+- [Freespace](https://wiki.hard-light.net/index.php/Virtual_Reality)
+- [Wing Commander](https://wcrespace.com/media/) (Unfinished)
+- [Strike Commander](https://github.com/remileonard/libRealSpace)
 Sunrise GP
 https://beyondflatscreen.vercel.app/games/sunrisegp-vr-mod
 Richard Burns Rally
@@ -59,6 +60,8 @@ We Were Here:
 Palworld:  
 [https://www.youtube.com/watch?v=skh0Dx05fEo](https://www.youtube.com/watch?v=skh0Dx05fEo)  
 
+
+## Other
 UEVR  
 [https://github.com/praydog/UEVR](https://github.com/praydog/UEVR)  
 [https://uevr-profiles.com/](https://uevr-profiles.com/)  
