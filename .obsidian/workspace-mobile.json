@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/React/Epic React.md",
+                "file": "personal/Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epic React"
+              "title": "Plan"
             }
           },
           {
@@ -225,6 +225,7 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "tech/Professional Development/React/Epic React.md",
     "personal/Clothes Sizes.md",
     "personal/gaming/VR Mods.md",
     "tech/Professional Development/Rust Book.md",
@@ -250,7 +251,6 @@
     "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "gaming/Fallout4/Fallout 4 Mods.md",
     "job/webres/Carebridge/Analytics Dashboard/cbr-209 QA Plan.md",
-    "gaming/Epic Games Mobile Library.md",
     "AI/llm-prompts",
     "gaming/Doom",
     "job/webres/Carebridge/Pen Test",
