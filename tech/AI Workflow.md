@@ -11,7 +11,7 @@
 - Code Review: claude security review 
 - Code Review: claude requirements review
 - Code Review: testing review
-- Code Review: coderabbit review
+- Code Review: Generate PR Description.
 - Code Review: Run e2e tests
 - Code Review: human code review
 - Testing: generates QA plan
