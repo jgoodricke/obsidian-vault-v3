@@ -8,11 +8,12 @@
 - Execution: run agents
 - Code Review: smoke test
 - Code Review: human code review
-- Code Review: Thermo-Nuclear Review
+- Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
-- Code Review: claude review
 - Testing: test locally
+- Testing: Run e2e tests
+- Testing: Run CI
 - Deploy: create PR
 - Deploy: review PR feedback
 - Deploy: merge
