@@ -1,3 +1,27 @@
+# V2
+- Exploration: research (optional)
+- Exploration: create Linear ticket
+- Exploration: grill session
+- Exploration: prototyping (optional)
+- Planning: product requirements document (PRD)
+- Planning: implementation planning (kanban board)
+- Execution: run agents
+- Code Review: smoke test
+- Code Review: human code review
+- Code Review: Thermo-Nuclear Review
+- Testing: generates QA plan
+- Testing: Add automated tests
+- Code Review: claude review
+- Testing: test locally
+- Deploy: create PR
+- Deploy: review PR feedback
+- Deploy: merge
+
+## Before Deploying to Production
+- Code Review: Run e2e tests
+- Code Review: claude security review 
+
+# V1
 - Exploration: research (optional)
 - Exploration: create Linear ticket
 - Exploration: grill session
