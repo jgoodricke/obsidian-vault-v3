@@ -1,4 +1,5 @@
 # V2
+- DELETE THIS
 - Exploration: research (optional)
 - Exploration: create Linear ticket
 - Exploration: grill session
