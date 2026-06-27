@@ -1,3 +1,13 @@
+## Rust Materials
+### Learning Material 
+https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+The Rust Book
+Rust by Example
+Rustlings
+### News
+Read Rust
+This Week in Rust
+
 Bin Replacement Request:
 REQ2026-075276.97O3JL2Q
 
