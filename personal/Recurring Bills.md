@@ -13,7 +13,7 @@ $3076
 | ---------------- | ------- | ------------------------------------------- | ---- |
 | Rent             | $3076   |                                             |      |
 | Internet         | $79.00  |                                             |      |
-| Phone            | $25     |                                             |      |
+| Phone            | $25     | Pay from my account                         |      |
 | Health Insurance | $188.58 |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     |      |
