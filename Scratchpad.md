@@ -1,3 +1,6 @@
+Bin Replacement Request:
+REQ2026-075276.97O3JL2Q
+
 # Fixes for Thermonuclear code review
 - remove the repetition, make it more DRY
 - Focus a lot more in tests.
