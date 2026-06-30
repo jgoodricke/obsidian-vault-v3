@@ -71,7 +71,7 @@
 - Interiors Enhanced - Darker Ambient Light and Fog
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
 - TODO: Phylight and Phydark? Or Mod to make night darker?
-- TODO: Seasons Mod
+- TODO: Seasons Mod?
 ## Audio
 - Realistic Reverb and Ambience Overhaul 
 	- Ambient Wasteland 
