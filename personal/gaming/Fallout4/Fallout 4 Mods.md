@@ -195,7 +195,8 @@
 - Manufacturing Extended
 - Better Manufacturing
 - Nuclear Generators (Fision Version)
-- FIND/MAKE: Remove explosives from Chemistry workstation
+- FIND/MAKE: Remove explosives from Chemistry workstation, 
+	- and add alternative, less powerful home made versions.
 
 ### Factory Overhaul?
 - Update chance of getting scrap instead of component
