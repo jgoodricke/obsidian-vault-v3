@@ -130,7 +130,7 @@
 - Starved Concord Deathclaw
 - Some Assembly Required
 - FIND: Stronger miniguns
-- WAIT: Bastion - when porter to VR
+- WAIT: Bastion - when ported to VR
 
 ### Better Economy
 - Loot Logic and Reduction
