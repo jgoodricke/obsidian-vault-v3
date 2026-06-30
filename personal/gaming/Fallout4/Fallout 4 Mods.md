@@ -145,9 +145,14 @@
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
-- Recycle - Give Me My Leftovers Back
 - Cooking Overhaul
 - FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
+- TODO: Get Scrap back
+	- Recycle - Give Me My Leftovers Back
+	- Immersive Consumables and Recycling - Gimme Dat Can
+	- Food Scrap - Get Syringes from Stimpaks and more
+- FIND: More deadly radiation
+- FIND: mod to make pre-war food not radioactive, and increase radiation from normal food
 
 ### More Lively World
 - Random Encounters Framework
@@ -178,11 +183,20 @@
 - Settlement Progression:
 	- Automatron Robot Expert
 	- Settlement Progression?
-
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
 - Nuclear Generators (Fision Version)
+- FIND/MAKE: Remove explosives from Chemistry workstation
+
+### Factory Overhaul?
+- Update chance of getting scrap instead of component
+- Update chemistry recipes so they require containers instead of scrap
+- Also make a separate machine for making containers, or update the builder to build them.
+- Update food manufacturing so they require containers.
+- Make ammo crafting more like this:
+	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
+- Disable Power Armor Forge and Armor Forge
 
 
 ### Quests
