@@ -106,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Rust",
+            "query": "Fallout 4",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5ddcbb43d961d2cf",
@@ -169,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "personal/gaming/Fallout4/Fallout 4 Mods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -225,12 +225,23 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
-    "tech/Professional Development/Rust Book.md",
-    "tech/Professional Development/Contents.md",
-    "Scratchpad.md",
-    "personal/gaming/Epic Games Mobile Library.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
+    "tech/Professional Development/Contents.md",
+    "tech/Professional Development/Rust Book.md",
     "personal/gaming/Fallout4/Fallout 4 Mods 1.md",
+    "Scratchpad.md",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info/index.tsx.md",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel",
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components",
+    "home/james/Projects/portal/resources/js/pages/map/components/content",
+    "home/james/Projects/portal/resources/js/pages/map/components",
+    "home/james/Projects/portal/resources/js/pages/map",
+    "home/james/Projects/portal/resources/js/pages",
+    "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/2026-06-24 Cycle Scope.md",
     "personal/Plan.md",
     "tech/Professional Development/React/Epic React.md",
@@ -249,14 +260,6 @@
     "===.md",
     "personal/gaming/VR Games V2.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-05-29.md",
-    "tech/Omarchy Upgrade Checklist.md",
-    "gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
-    "AI/llm-prompts",
-    "gaming/Doom",
-    "job/webres/Carebridge/Pen Test",
-    "gaming/Elder Scrolls/Skyrim",
-    "gaming/Elder Scrolls",
-    "tech/Research",
-    "family"
+    "tech/Omarchy Upgrade Checklist.md"
   ]
 }

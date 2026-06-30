@@ -1,3 +1,15 @@
+## Childcare
+- good
+	- Everything looks new
+	- Kitchen well set up abd good meals
+	- Dedicated breakout rooms for when children need a break.
+- Not Good
+	- No App, all paper-based.
+	- Probably a new centre, not at full capacity yet.
+	- Shared playground with all age groups.
+	- Orientation was a bit short.
+- Two orientation days
+
 ## Rust Materials
 ### Learning Material 
 https://fasterthanli.me/articles/a-half-hour-to-learn-rust
