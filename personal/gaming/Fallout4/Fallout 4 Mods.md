@@ -212,5 +212,5 @@
 
 
 ## Misc
-- - Boyancy Fixes
-- FIND: Mod that restores The Wanderer to Diamond City Radio?
+- Boyancy Fixes
+- FIND: Restore The Wanderer to Diamond City Radio
