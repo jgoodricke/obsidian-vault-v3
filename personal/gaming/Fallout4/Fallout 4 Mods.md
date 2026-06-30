@@ -147,11 +147,11 @@
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - Cooking Overhaul
 - FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
-- TODO: Get Scrap back
-	- Give Me My Bottle Back
-	- Recycle - Give Me My Leftovers Back
-	- Immersive Consumables and Recycling - Gimme Dat Can
-	- Food Scrap - Get Syringes from Stimpaks and more
+- Give Me My Bottle Back (Immersive Version)
+	- Or one of these
+		- Recycle - Give Me My Leftovers Back
+		- Immersive Consumables and Recycling - Gimme Dat Can
+		- Food Scrap - Get Syringes from Stimpaks and more
 - FIND: More deadly radiation
 - FIND: mod to make pre-war food not radioactive, and increase radiation from normal food.
 
