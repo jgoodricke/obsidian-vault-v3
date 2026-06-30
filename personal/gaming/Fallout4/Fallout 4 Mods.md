@@ -136,7 +136,7 @@
 - Loot Logic and Reduction
 	- Vendor Diversity Overhaul
 	- NPC Loot Drop rebalance
-	- Scrounger Ammo Reduction
+	- Scrounger Ammo Reduction? May not be neccesary with Loot Logic Reduction
 - No Legendary Items From Creatures
 - Moon's Legendary Overhaul
 - DLC Weapons in Commonwealth (Injector)
