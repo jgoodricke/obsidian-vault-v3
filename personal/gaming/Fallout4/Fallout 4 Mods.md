@@ -146,9 +146,11 @@
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - TODO: Choose a food mod
-	- Cooking Overhaul
-	- Food Mod
-		- Needs to twee
+	- Moon's Food Balance Overhaul
+		- Needs to be tweaked to remove radiation from pre-war food (like in Food Mod).
+		- Or one of these alternatives
+			- Cooking Overhaul
+			- Food Mod
 - FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
 - Give Me My Bottle Back (Immersive Version)
 	- Or one of these
@@ -156,7 +158,9 @@
 		- Immersive Consumables and Recycling - Gimme Dat Can
 		- Food Scrap - Get Syringes from Stimpaks and more
 - FIND: More deadly radiation
-- FIND: mod to make pre-war food not radioactive, and increase radiation from normal food.
+- Decontamination Arch Requires Science Perk
+
+-
 
 ### More Lively World
 - Random Encounters Framework
