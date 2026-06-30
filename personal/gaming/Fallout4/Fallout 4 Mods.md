@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+=======
+
+# Wait for Mods
+- Enhancements
+	- Virtual Holsters - Artwork
+	- Virtual Reload
+
+# Check out:
+- These Mods: https://www.nexusmods.com/profile/Zzyxzz/mods?gameId=1151&sortBy=createdAt&page=3
+
+- Random Encounters Framework
+	- Commonwealth Encounter Pack
+	- Commonwealth broadcasting service
+		- Tales of the Commonwealth Patch
+	- Commonwealth Hit Squads
+	- Story Encounter Booster
+
+# TO FIND
+- Mod that restores The Wanderer to Diamond City Radio?
+- Add blood to enemies when wounded
+
+# Patches
+- Add Settlement Ambush Kit Monitor to Conquest
+
+## To Check
+- Refreshing Checkpoints
+
+>>>>>>> origin/main
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -119,6 +148,9 @@
 - SKK Combat Stalkers
 	- Don't forget my patch
 	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
+- TODO: Knockout Framework (when its released), 
+	- and the associated mods to go with it.
+	- The tranquilizer gun
 #### Early Game Fixes
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 - concord Rusty minigun
@@ -128,7 +160,7 @@
 - TODO: Bastion - when porter to VR
 
 ### Better Scavenging
-TODO
+- TODO: add those economy overhaul mods
 - Boyancy Fixes
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
