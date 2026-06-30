@@ -1,6 +1,3 @@
-
-
-
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -73,7 +70,8 @@
 - Vivid Weather's
 - Interiors Enhanced - Darker Ambient Light and Fog
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
-- Phylight and Phydark?
+- TODO: Phylight and Phydark? Or Mod to make night darker?
+- TODO: Seasons Mod
 ## Audio
 - Realistic Reverb and Ambience Overhaul 
 	- Ambient Wasteland 
@@ -106,13 +104,12 @@
 	- Make a patch for Nuka World Weapons
 - BetterLowHealth
 - Virtual Holsters
-	- TODO: Virtual Holsters Artwork (When finished)
+	- WAIT: Virtual Holsters Artwork (When finished)
 - Virtual Chems
-- TODO: Virtual Reload - When Released
-- TODO: Kabuto VR - when SKSE version comes out
+- WAIT: Virtual Reload - When Released
+- WAIT: Kabuto VR - when SKSE version comes out
 
 ### Action RPG
-- TODO
 - Weapons of Fate Redux (RobCo Patcher Edition)
 - Intimidation Perk Extend - Lore Friendly Improvements
 - Intimidation Perk Extend - Followerlike Commandable NPCs
@@ -122,26 +119,35 @@
 - SKK Combat Stalkers
 	- Don't forget my patch
 	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
-- TODO: Knockout Framework (when its released), 
+- WAIT: Knockout Framework (for VR), 
 	- and the associated mods to go with it.
 	- The tranquilizer gun
+- FIND: Mod that makes stimpacks and sleeping not heal limbs.
 #### Early Game Fixes
+- Rough Start Less Handouts
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 - concord Rusty minigun
 - Starved Concord Deathclaw
 - Some Assembly Required
-- TODO: Stronger minigun
-- TODO: Bastion - when porter to VR
+- FIND: Stronger miniguns
+- WAIT: Bastion - when porter to VR
 
-### Better Scavenging
-- TODO: add those economy overhaul mods
-- Boyancy Fixes
+### Better Economy
+- Loot Logic and Reduction
+	- Vendor Diversity Overhaul
+	- NPC Loot Drop rebalance
+	- Scrounger Ammo Reduction
+- No Legendary Items From Creatures
+- Moon's Legendary Overhaul
+- DLC Weapons in Commonwealth (Injector)
+- Scavenge Station Improvements (scrap and plants version)
+
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - Recycle - Give Me My Leftovers Back
 - Cooking Overhaul
-- TODO: Add Settlement Ambush Kit Monitor to Conquest
+- FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
 
 ### More Lively World
 - Random Encounters Framework
@@ -151,6 +157,7 @@
 	- Commonwealth Hit Squads
 - Story Encounter Booster
 - Refreshing Checkpoints
+- Better Bloatflies
 ### Settlement Manager
 - Sim Settlements
 	- Workshop Framework
@@ -169,12 +176,17 @@
 - We Have Names (and more) - All In One
 - Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
 - Immersive Teleportation 2
-- TODO: Find an alternative to security cameras from settlement ambush Kit. Maybe something like the Ghostwalk power from Skyrim, but don't allow walking.
+- Settlement Progression:
+	- Automatron Robot Expert
+	- Settlement Progression?
+
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
 - Nuclear Generators (Fision Version)
-- Scavenging station finds junk
+
+
+
 
 ### DLC Integration
 - Better Coastal Waves
@@ -190,7 +202,7 @@
 - FallUI - HUD VR
 	- Check installation instructions
 - FallUI - Inventory
-- TODO: Find mod to add blood to enemies when wounded
+- FIND: add blood to enemies when wounded
 #### Map
 - High Quality Pip-Boy Map
 	- Far Harbor - High Quality Pip-Boy Map
@@ -200,4 +212,5 @@
 
 
 ## Misc
-- Mod that restores The Wanderer to Diamond City Radio?
+- - Boyancy Fixes
+- FIND: Mod that restores The Wanderer to Diamond City Radio?
