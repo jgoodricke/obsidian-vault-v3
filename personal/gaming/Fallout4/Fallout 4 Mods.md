@@ -3,39 +3,21 @@
 - Enhancements
 	- Virtual Holsters - Artwork
 	- Virtual Reload
-- Tools
-	- Robco Patcher
 
 # Check out:
-- Heisenberg Physical interactions
+- These Mods: https://www.nexusmods.com/profile/Zzyxzz/mods?gameId=1151&sortBy=createdAt&page=3
+
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
 	- Commonwealth broadcasting service
 		- Tales of the Commonwealth Patch
 	- Commonwealth Hit Squads
 	- Story Encounter Booster
-- These Radio Stations
-	- https://www.nexusmods.com/profile/Brandoman/mods?sortBy=endorsements&gameId=1151&page=2
 - Old World Radio
-	- Galaxy News Radio - Boston Mass
-	- Cadillac Jack's Radio Shack
 	- Nuka World Radio (The Nuka-Cola Broadcast System)
 	- The Cat's Meow -Atom Cats Radio-
 	- Enclave National Broadcast
-	- other
-		- The French Connection
-		- The Adventures of MechaBetty
-		- Billy Bob's Bunker
-		- Agatha's Song Returns
-		- Civil Defense 'Conelrad'
-		- Radio FNGS
-		- Malt Shop Mayhem
-		- Red Rocket Radio Bop
-		- Tumbleweed Tunes
-		- Gopnik Radio
-		- Old World Tunes
-	- Faster Decompression
-	- Fallout 3 Styled Vaults
+
 # TO FIND
 - Mod that restores The Wanderer to Diamond City Radio?
 - Add blood to enemies when wounded
@@ -84,7 +66,7 @@
 - Makeshift Weapon Pack
 - Halloween Workshop Pack
 ### Other
-- Settlement Ambush Kit
+- Settlement Ambush Kit?
 - Virtual Workshop
 ## Bug Fixes
 ### Engine-Level Fixes
@@ -97,6 +79,7 @@
 - Private Profile Redirector
 - Simple Death Screen
 - VR Shadow Boost
+- Faster Decompression
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
@@ -118,11 +101,10 @@
 - [Face of Death F.O.D. SKull Bandana Retexture](https://www.nexusmods.com/fallout4/mods/1270)
 
 ### Lighting & Weather
-- NAC-X
-	- NAC-X VR Patch
-	- Darker NAC X Nights
+- Vivid Weather's
 - Interiors Enhanced - Darker Ambient Light and Fog
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
+- Phylight and Phydark?
 ## Audio
 - Realistic Reverb and Ambience Overhaul 
 	- Ambient Wasteland 
@@ -139,12 +121,10 @@
 - Fusion Core Eject Removal
 - Simple Everyone's Best Friend
 - FallUI - HUD VR
-
-## Weapon Fixes
-- Scrap Metal and Makeshift Welds
 ## Core Gameplay
 ### VR
 - FRIK
+- Heisenberg Physical interactions
 - Fallout 4 VR Compatibility Patch for DOOMBASED Weapons Merged
 	- also Disable DoomBased patch from misc section
 	- See-through scopes
@@ -158,16 +138,11 @@
 - BetterLowHealth
 - Virtual Holsters
 - Virtual Chems
-- Kabuto VR
+- Kabuto VR - WAIT FOR SKSE VERSION
 
 ### Action RPG
-- [Lunar Fallout Overhaul](https://www.nexusmods.com/fallout4/mods/34769)
-	- (also use LFO Difficulty Settings.esp - Hardcore version)
-	- [SS2 Patch](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [Tales of the Commonwealth Patch](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [Chem Redux patch](https://www.nexusmods.com/fallout4/mods/62679?tab=files)
-	- [Everyones Best Friend Patch](https://www.nexusmods.com/fallout4/mods/62679?tab=files)
-	- [UFO4P](https://www.nexusmods.com/fallout4/mods/62679?tab=files)
+- TODO
+- Weapons of Fate Redux (RobCo Patcher Edition)
 - Intimidation Perk Extend - Lore Friendly Improvements
 - Intimidation Perk Extend - Followerlike Commandable NPCs
 - Simple Everyone's Best Friend
@@ -180,16 +155,25 @@
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 - concord Rusty minigun
 - Starved Concord Deathclaw
+- Some Assembly Required
+- TODO: Stronger minigun
+- TODO: Bastion - when porter to VR
+
+### Better Scavenging
+TODO
+- Boyancy Fixes
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - Recycle - Give Me My Leftovers Back
+- Cooking Overhaul
 ### Settlement Manager
 - Sim Settlements
 	- Workshop Framework
 	- Sim Settlements 2 Chapter 2
 	- Sim Settlements 2 Chapter 3
 	- Wasteland Ventures
+	- SS2 VR Clipboard and Fixes
 - Place in Red VR (by rollingrock16)
 - Immersive Teleportation 2?
 - This is MY bed
@@ -197,7 +181,14 @@
 - Vault-Tec Workshop Overhaul Redux
 - Vault 88 Essentials
 - BetterNixieTubes?
+- Diverse Wasteland - The Diverse Series All-in-One
+- We Have Names (and more) - All In One
+- Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
+- Immersive Teleportation 2
+- TODO: Find an alternative to security cameras from settlement ambush Kit. Maybe something like the Ghostwalk power from Skyrim, but don't allow walking.
 ### Factory
+- Manufacturing Extended
+- Better Manufacturing
 - Nuclear Generators (Fision Version)
 - Scavenging station finds junk
 
