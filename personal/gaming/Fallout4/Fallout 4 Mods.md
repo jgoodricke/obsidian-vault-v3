@@ -145,7 +145,10 @@
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
-- Cooking Overhaul
+- TODO: Choose a food mod
+	- Cooking Overhaul
+	- Food Mod
+		- Needs to twee
 - FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
 - Give Me My Bottle Back (Immersive Version)
 	- Or one of these
