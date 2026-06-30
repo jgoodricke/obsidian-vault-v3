@@ -1,37 +1,3 @@
-
-# Wait for Mods
-- Enhancements
-	- Virtual Holsters - Artwork
-	- Virtual Reload
-
-# Check out:
-- These Mods: https://www.nexusmods.com/profile/Zzyxzz/mods?gameId=1151&sortBy=createdAt&page=3
-
-- Random Encounters Framework
-	- Commonwealth Encounter Pack
-	- Commonwealth broadcasting service
-		- Tales of the Commonwealth Patch
-	- Commonwealth Hit Squads
-	- Story Encounter Booster
-- Old World Radio
-	- Nuka World Radio (The Nuka-Cola Broadcast System)
-	- The Cat's Meow -Atom Cats Radio-
-	- Enclave National Broadcast
-
-# TO FIND
-- Mod that restores The Wanderer to Diamond City Radio?
-- Add blood to enemies when wounded
-
-# Patches
-- Add Settlement Ambush Kit Monitor to Conquest
-
-## To Check
-- Lunar Patches
-	- [CC Remnants](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [SS2](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [Tales of the Commonwealth](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-- Refreshing Checkpoints
-
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -137,8 +103,10 @@
 	- Make a patch for Nuka World Weapons
 - BetterLowHealth
 - Virtual Holsters
+	- TODO: Virtual Holsters Artwork (When finished)
 - Virtual Chems
-- Kabuto VR - WAIT FOR SKSE VERSION
+- TODO: Virtual Reload - When Released
+- TODO: Kabuto VR - when SKSE version comes out
 
 ### Action RPG
 - TODO
@@ -167,6 +135,15 @@ TODO
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - Recycle - Give Me My Leftovers Back
 - Cooking Overhaul
+- TODO: Add Settlement Ambush Kit Monitor to Conquest
+
+### More Lively World
+- Random Encounters Framework
+	- Commonwealth Encounter Pack
+	- Commonwealth broadcasting service
+		- Tales of the Commonwealth Patch
+	- Commonwealth Hit Squads
+	- Story Encounter Booster
 ### Settlement Manager
 - Sim Settlements
 	- Workshop Framework
@@ -206,6 +183,7 @@ TODO
 - FallUI - HUD VR
 	- Check installation instructions
 - FallUI - Inventory
+- TODO: Find mod to add blood to enemies when wounded
 #### Map
 - High Quality Pip-Boy Map
 	- Far Harbor - High Quality Pip-Boy Map
@@ -214,3 +192,5 @@ TODO
 - Get Lost (Player Map Marker Remover)
 
 
+## Misc
+- Mod that restores The Wanderer to Diamond City Radio?
