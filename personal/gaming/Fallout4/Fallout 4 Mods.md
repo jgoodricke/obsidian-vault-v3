@@ -152,7 +152,7 @@
 	- Immersive Consumables and Recycling - Gimme Dat Can
 	- Food Scrap - Get Syringes from Stimpaks and more
 - FIND: More deadly radiation
-- FIND: mod to make pre-war food not radioactive, and increase radiation from normal food
+- FIND: mod to make pre-war food not radioactive, and increase radiation from normal food.
 
 ### More Lively World
 - Random Encounters Framework
