@@ -148,6 +148,7 @@
 - Cooking Overhaul
 - FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
 - TODO: Get Scrap back
+	- Give Me My Bottle Back
 	- Recycle - Give Me My Leftovers Back
 	- Immersive Consumables and Recycling - Gimme Dat Can
 	- Food Scrap - Get Syringes from Stimpaks and more
