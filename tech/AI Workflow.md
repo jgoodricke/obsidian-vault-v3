@@ -9,6 +9,7 @@
 - Execution: run agents
 - Code Review: smoke test
 - Code Review: human code review
+- Code Review: remove any low-value tests
 - Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
