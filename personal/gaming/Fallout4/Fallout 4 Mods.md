@@ -166,7 +166,7 @@
 	- Wasteland Ventures
 	- SS2 VR Clipboard and Fixes
 - Place in Red VR (by rollingrock16)
-- TODO: Immersive Teleportation 2?
+- TODO: Immersive Teleportation 2
 - This is MY bed
 - Edmond's Settlement Attack Spawns Outside the Settlement
 - Vault-Tec Workshop Overhaul Redux
@@ -175,7 +175,6 @@
 - Diverse Wasteland - The Diverse Series All-in-One
 - We Have Names (and more) - All In One
 - Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
-- Immersive Teleportation 2
 - Settlement Progression:
 	- Automatron Robot Expert
 	- Settlement Progression?
