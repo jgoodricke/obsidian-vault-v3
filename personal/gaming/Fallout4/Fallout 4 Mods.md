@@ -136,13 +136,13 @@
 - Loot Logic and Reduction
 	- Vendor Diversity Overhaul
 	- NPC Loot Drop rebalance
-	- Scrounger Ammo Reduction? May not be neccesary with Loot Logic Reduction
+	- Scrounger Ammo Reduction? May not be necessary with Loot Logic Reduction
 - No Legendary Items From Creatures
 - Moon's Legendary Overhaul
-- DLC Weapons in Commonwealth (Injector)
 - Scavenge Station Improvements (scrap and plants version)
 
 ### Survival
+- Advanced Needs 76?
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - TODO: Choose a food mod
