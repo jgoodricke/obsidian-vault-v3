@@ -23,7 +23,7 @@
 	- Make nights and interiors darker to enhance tension.
 # Mods to Install
 ## Creation Club
-### Next Gen Update
+### Next Gen Update?
 - Enclave Remnants
 	- X-02 power armor
 	- Hellfire power armor
