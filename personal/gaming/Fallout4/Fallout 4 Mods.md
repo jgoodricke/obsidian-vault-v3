@@ -13,10 +13,6 @@
 		- Tales of the Commonwealth Patch
 	- Commonwealth Hit Squads
 	- Story Encounter Booster
-- Old World Radio
-	- Nuka World Radio (The Nuka-Cola Broadcast System)
-	- The Cat's Meow -Atom Cats Radio-
-	- Enclave National Broadcast
 
 # TO FIND
 - Mod that restores The Wanderer to Diamond City Radio?
@@ -26,10 +22,6 @@
 - Add Settlement Ambush Kit Monitor to Conquest
 
 ## To Check
-- Lunar Patches
-	- [CC Remnants](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [SS2](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
-	- [Tales of the Commonwealth](https://www.nexusmods.com/fallout4/mods/61804?tab=files)
 - Refreshing Checkpoints
 
 # Modding Philosophy
@@ -151,6 +143,9 @@
 - SKK Combat Stalkers
 	- Don't forget my patch
 	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
+- TODO: Knockout Framework (when its released), 
+	- and the associated mods to go with it.
+	- The tranquilizer gun
 #### Early Game Fixes
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 - concord Rusty minigun
@@ -160,7 +155,7 @@
 - TODO: Bastion - when porter to VR
 
 ### Better Scavenging
-TODO
+- TODO: add those economy overhaul mods
 - Boyancy Fixes
 ### Survival
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
