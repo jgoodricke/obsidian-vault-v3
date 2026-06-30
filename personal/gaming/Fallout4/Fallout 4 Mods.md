@@ -166,12 +166,12 @@
 	- Wasteland Ventures
 	- SS2 VR Clipboard and Fixes
 - Place in Red VR (by rollingrock16)
-- Immersive Teleportation 2?
+- TODO: Immersive Teleportation 2?
 - This is MY bed
 - Edmond's Settlement Attack Spawns Outside the Settlement
 - Vault-Tec Workshop Overhaul Redux
 - Vault 88 Essentials
-- BetterNixieTubes?
+- TODO: BetterNixieTubes?
 - Diverse Wasteland - The Diverse Series All-in-One
 - We Have Names (and more) - All In One
 - Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
@@ -186,10 +186,6 @@
 - Nuclear Generators (Fision Version)
 
 
-
-
-### DLC Integration
-- Better Coastal Waves
 ### Quests
 - [Atomic Radio and Tales from the Commonwealth](https://3dnpc.com/2016/06/13/tales-from-the-commonwealth-news-and-notes/)
 	- Tales of the Commonwealth
@@ -214,3 +210,4 @@
 ## Misc
 - Boyancy Fixes
 - FIND: Restore The Wanderer to Diamond City Radio
+- Better Coastal Waves
