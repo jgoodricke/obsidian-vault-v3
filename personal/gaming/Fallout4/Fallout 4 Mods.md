@@ -1,32 +1,6 @@
-<<<<<<< HEAD
-=======
 
-# Wait for Mods
-- Enhancements
-	- Virtual Holsters - Artwork
-	- Virtual Reload
 
-# Check out:
-- These Mods: https://www.nexusmods.com/profile/Zzyxzz/mods?gameId=1151&sortBy=createdAt&page=3
 
-- Random Encounters Framework
-	- Commonwealth Encounter Pack
-	- Commonwealth broadcasting service
-		- Tales of the Commonwealth Patch
-	- Commonwealth Hit Squads
-	- Story Encounter Booster
-
-# TO FIND
-- Mod that restores The Wanderer to Diamond City Radio?
-- Add blood to enemies when wounded
-
-# Patches
-- Add Settlement Ambush Kit Monitor to Conquest
-
-## To Check
-- Refreshing Checkpoints
-
->>>>>>> origin/main
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -175,7 +149,8 @@
 	- Commonwealth broadcasting service
 		- Tales of the Commonwealth Patch
 	- Commonwealth Hit Squads
-	- Story Encounter Booster
+- Story Encounter Booster
+- Refreshing Checkpoints
 ### Settlement Manager
 - Sim Settlements
 	- Workshop Framework
