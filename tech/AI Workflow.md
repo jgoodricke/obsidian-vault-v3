@@ -19,6 +19,7 @@
 - Deploy: create PR
 - Deploy: review PR feedback
 - Deploy: merge
+- Deploy: Review feedback
 
 ## Before Deploying to Production
 - Code Review: Run e2e tests
