@@ -34,6 +34,7 @@ Redguard:
 - FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire
 - M.I.N.T. - Mint-Issued National Tenders
 - C.O.I.N. - Coins of Interesting Nature
+- The Sigil Shop - Soul Proprietorship
 
 # Wait for
 - Boats - Operational Animated Travel

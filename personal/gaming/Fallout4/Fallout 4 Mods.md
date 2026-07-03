@@ -1,3 +1,8 @@
+TODO:
+Check this out, especially power armor rebalance:
+https://www.nexusmods.com/profile/WhiskyTangoFawks
+[Power Armor Damage Threshold](https://www.nexusmods.com/fallout4/mods/58614)
+
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -84,7 +89,6 @@
 - Keep Radiants in the Commonwealth
 - Companion Stealth Distance Fix
 - Faster Terminal Displays (5x)
-- Autosave Manager
 - Fusion Core Eject Removal
 - Simple Everyone's Best Friend
 - FallUI - HUD VR
@@ -110,27 +114,37 @@
 - WAIT: Kabuto VR - when SKSE version comes out
 
 ### Action RPG
+- Better Explosives Redux
+- Addiction Overhaul
+- Better Chems
+- Chemfluence
+- NPCs Use Items
 - Weapons of Fate Redux (RobCo Patcher Edition)
 - Intimidation Perk Extend - Lore Friendly Improvements
 - Intimidation Perk Extend - Followerlike Commandable NPCs
 - Simple Everyone's Best Friend
 - No Combat Boundaries - Revised and Renewed
-- No Adrenaline
 - SKK Combat Stalkers
 	- Don't forget my patch
 	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
 - WAIT: Knockout Framework (for VR), 
 	- and the associated mods to go with it.
 	- The tranquilizer gun
-- FIND: Mod that makes stimpacks and sleeping not heal limbs.
+- Realistic Crippled Limbs Effects
+- Stimpaks restore less limb damage
 #### Early Game Fixes
 - Rough Start Less Handouts
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 - concord Rusty minigun
 - Starved Concord Deathclaw
-- Some Assembly Required
-- FIND: Stronger miniguns
+### Power Armour and Minigun fixes
+- Instructions Not Included - A Some Assembly Required Redux
+- Improved Miniguns
+	- OR better miniguns
 - WAIT: Bastion - when ported to VR
+	- Or use Better Power Armor (original version).
+	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
+	- OR just use the LBPAC module for Instructions not Included.
 
 ### Better Economy
 - Loot Logic and Reduction
@@ -157,10 +171,14 @@
 		- Recycle - Give Me My Leftovers Back
 		- Immersive Consumables and Recycling - Gimme Dat Can
 		- Food Scrap - Get Syringes from Stimpaks and more
-- FIND: More deadly radiation
 - Decontamination Arch Requires Science Perk
-
--
+## Survival Fixes
+- SKK Dynamic Damage Manager
+	- outgoing damage: 150% (to compensate for loss of adrenaline).
+	- incoming damage to 400% (default for Survival mode) 
+	- Experience to 100% (rather than 200%)
+- No Adrenaline
+- Autosave Manager
 
 ### More Lively World
 - Random Encounters Framework
@@ -171,6 +189,7 @@
 - Story Encounter Booster
 - Refreshing Checkpoints
 - Better Bloatflies
+- Wasteland Illumination
 ### Settlement Manager
 - Sim Settlements
 	- Workshop Framework
@@ -233,3 +252,4 @@
 - Boyancy Fixes
 - FIND: Restore The Wanderer to Diamond City Radio
 - Better Coastal Waves
+- CROSS Crit Gore-verhaul 
