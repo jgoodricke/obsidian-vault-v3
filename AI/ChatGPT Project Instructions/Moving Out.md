@@ -85,7 +85,7 @@ Don't Have Receipts:
 * Orthokinetic Classic Bed Frame: $899
 * Leather jacket: $300
 * Philips 2000i Series Air Purifier: $399
-- Office Chair
+- Office Chair: 
 
 
 Current total: $4,027. Earlier VCAT/RDRV material referred to about $2,400. Treat $4,027 as the updated schedule requiring evidence and reconciliation.
