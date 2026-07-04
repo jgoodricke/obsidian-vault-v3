@@ -75,7 +75,7 @@ Have Recipes:
 * Orthokinetic Grandeur Medium Mattress: $1,390
 * Orthokinetic Classic Bed Frame: $599
 * Philips 2000i Series Air Purifier: $250
-* ÅFJÄLLFoam mattress - $129
+* ÅFJÄLLFoam mattress - $129 - 2024
 * KNAPSTAD Mattress pad - $299 - 2021
 
 Don't Have Receipts:
