@@ -70,10 +70,26 @@ For entry requests: prefer writing; ask for written notice stating legal ground,
 
 Focus on notice, inadequate action, causation, damage, loss and remedy. Current schedule:
 
+| Item                                      | Purchase Amount | Date of Purchase | Guarantee Period | Has Receipt |
+| ----------------------------------------- | --------------- | ---------------- | ---------------- | ----------- |
+| Zinus Joseph 15cm Single Bed Frame        | $106.99         | September 2025   | None             | Yes         |
+| Orthokinetic Grandeur Medium Mattress     | $1,390          | November 2019    | 15 years         | Yes         |
+| Orthokinetic Classic Bed Frame            | $599            | December 2021    | 10 years         | Yes         |
+| Philips 2000i Series Air Purifier         | $250            | July 2022        | None             | Yes         |
+| ÅFJÄLL Foam Mattress                      | $129            | 2024             | None             | Yes         |
+| KNAPSTAD Mattress Pad                     | $299            | 2021             | None             | Yes         |
+| Winix Zero 4-stage Air Purifier           | $400            | 2024             | None             | No          |
+| Michael Kors Tote Bag                     | $400            | 2022             | None             | No          |
+| Michael Kors Crossbody Bag                | $300            | 2023             | None             | No          |
+| HP K1500 Keyboard                         | $17             | 2021             | None             | No          |
+| Dell Multimedia Corded Keyboard           | $22             | 2023             | None             | No          |
+| Leather Jacket                            | $300            | 2023             | None             | No          |
+| Pago Matrix II Plus Heavy-Duty Ergo Chair | $321.10         | 2022             | 10 years         | No          |
+
 Have Recipes:
-- Zinus Joseph 15cm Single Bed Frame: $106.99
-* Orthokinetic Grandeur Medium Mattress: $1,390
-* Orthokinetic Classic Bed Frame: $599
+- Zinus Joseph 15cm Single Bed Frame: $106.99 - September 2025
+* Orthokinetic Grandeur Medium Mattress: $1,390  - November 2019 (15 year guarantee)
+* Orthokinetic Classic Bed Frame: $599- December 2021 (10 year guarantee) 
 * Philips 2000i Series Air Purifier: $250
 * ÅFJÄLLFoam mattress - $129 - 2024
 * KNAPSTAD Mattress pad - $299 - 2021
@@ -85,7 +101,7 @@ Don't Have Receipts:
 * HP K1500 Keyboard: $17 - 2021
 * Dell Multimedia Corded Keyboard: $22 - 2023
 * Leather jacket: $300 - 2023
-- Pago Matrix II Plus Heavy-Duty Ergo Chair - $321.10 - 2022
+- Pago Matrix II Plus Heavy-Duty Ergo Chair - $321.10 - 2022 (10 year warentee)
 
 
 ## Evidence management
