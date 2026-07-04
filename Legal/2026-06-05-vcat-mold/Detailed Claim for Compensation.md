@@ -51,14 +51,13 @@ TOTAL: $374
 TOTAL: $435
 
 
-### Loss of Amenit
+### Loss of Amenity
 
 $2,488 for loss of amenity / reduced use and enjoyment of the premises.
 
 Calculated as:
-daily rent × number of affected days × percentage loss of amenity
-
-101.13 x 164 x 15%
+- daily rent × number of affected days × percentage loss of amenity
+- 101.13 x 164 x 15%
 
 
 ## Note
