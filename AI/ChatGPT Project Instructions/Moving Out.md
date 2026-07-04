@@ -74,6 +74,7 @@ Have Recipes:
 - Zinus Joseph 15cm Single Bed Frame: $106.99
 * Orthokinetic Grandeur Medium Mattress: $1,390
 * Orthokinetic Classic Bed Frame: $599
+* Philips 2000i Series Air Purifier: $250
 
 Don't Have Receipts:
 * Winix Zero 4-stage Air Purifier: $400
@@ -83,10 +84,10 @@ Don't Have Receipts:
 * Dell Multimedia Corded Keyboard: $22
 * Leather jacket: $300
 
-
-
-* Philips 2000i Series Air Purifier: $399
 - Office Chair: 
+
+
+
 
 
 Current total: $4,027. Earlier VCAT/RDRV material referred to about $2,400. Treat $4,027 as the updated schedule requiring evidence and reconciliation.
