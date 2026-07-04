@@ -37,10 +37,7 @@ This claim arises from recurring mould at the premises, delayed and inadequate i
 | ------------------------------------- | ---------- | ---- |
 | GoEasy Rubbish Removal                | 27/06/2026 | $300 |
 | Whitehorse Recycling and Waste Center | 28/06/2026 | $74  |
-
-
 TOTAL: $374
-
 
 ### Cost of Moving
 
@@ -50,7 +47,6 @@ TOTAL: $374
 | Renting Moving Boxes | $85  |
 TOTAL: $435
 
-
 ### Loss of Amenity
 
 $2,488 for loss of amenity / reduced use and enjoyment of the premises.
@@ -58,7 +54,6 @@ $2,488 for loss of amenity / reduced use and enjoyment of the premises.
 Calculated as:
 - daily rent × number of affected days × percentage loss of amenity
 - 101.13 x 164 x 15%
-
 
 ## Note
 
