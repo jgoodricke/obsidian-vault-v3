@@ -72,6 +72,8 @@ Focus on notice, inadequate action, causation, damage, loss and remedy. Current 
 
 Have Recipes:
 - Zinus Joseph 15cm Single Bed Frame: $106.99
+* Orthokinetic Grandeur Medium Mattress: $1,390
+* Orthokinetic Classic Bed Frame: $599
 
 Don't Have Receipts:
 * Winix Zero 4-stage Air Purifier: $400
@@ -79,11 +81,10 @@ Don't Have Receipts:
 * Michael Kors Crossbody Bag: $300
 * HP K1500 Keyboard: $17
 * Dell Multimedia Corded Keyboard: $22
-
-
-* Orthokinetic Grandeur Medium Mattress: $1,290
-* Orthokinetic Classic Bed Frame: $899
 * Leather jacket: $300
+
+
+
 * Philips 2000i Series Air Purifier: $399
 - Office Chair: 
 
