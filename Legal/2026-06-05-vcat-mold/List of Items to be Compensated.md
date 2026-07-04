@@ -14,6 +14,9 @@
 | Dell Multimedia Corded Keyboard           |          $22.00 |             4 years |                   2.94 yrs |       $16.19 |             **$5.81** |
 | Leather Jacket                            |         $300.00 |            10 years |                   2.94 yrs |       $88.30 |           **$211.70** |
 | Pago Matrix II Plus Heavy-Duty Ergo Chair |         $321.10 |            10 years |                   3.94 yrs |      $126.59 |           **$194.51** |
+
+
+
 The depreciation calculation is provided to assist VCAT/RDRV. We have used a straight-line depreciation method from the purchase price to 10 June 2026. Where the exact purchase date is unavailable, we have used a reasonable midpoint estimate. Where a guarantee period exists, we have used that as evidence of useful life. For items without a guarantee, we have used a reasonable estimated useful life based on the type of item. We reserve the right to update this schedule if further receipts, bank records, photographs, product records, replacement quotes or other evidence become available.
 
 Because this is a mould-contaminated mattress, we say a second-hand replacement would not be a reasonable or hygienic substitute. We therefore claim the replacement cost. In the alternative, the depreciated value is set out in the schedule.
