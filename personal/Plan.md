@@ -1,3 +1,11 @@
+## Lead Up
+- Save as  much money as possible.
+- Do not spend any more money on her.
+
+
+
+## Financial
+
 Legal: $2000 to $5,000
 Lock for Door
 
@@ -7,7 +15,7 @@ Saving time: roughly 14 months
 
 
 
-Urgent calls to make
+## Urgent calls to make
 
 1. Immediate danger
 

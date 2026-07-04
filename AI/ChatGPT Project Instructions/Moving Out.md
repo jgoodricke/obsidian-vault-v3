@@ -79,6 +79,8 @@ Focus on notice, inadequate action, causation, damage, loss and remedy. Current 
 * Michael Kors Crossbody Bag: $300
 * HP K1500 Keyboard: $17
 * Dell Multimedia Corded Keyboard: $22
+- Office Chair
+- Bed Frame: 
 
 Current total: $4,027. Earlier VCAT/RDRV material referred to about $2,400. Treat $4,027 as the updated schedule requiring evidence and reconciliation.
 
