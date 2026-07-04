@@ -75,22 +75,18 @@ Have Recipes:
 * Orthokinetic Grandeur Medium Mattress: $1,390
 * Orthokinetic Classic Bed Frame: $599
 * Philips 2000i Series Air Purifier: $250
+* ÅFJÄLLFoam mattress - $129
+* KNAPSTAD Mattress pad - $299 - 2021
 
 Don't Have Receipts:
-* Winix Zero 4-stage Air Purifier: $400
-* Michael Kors Tote Bag: $400
-* Michael Kors Crossbody Bag: $300
-* HP K1500 Keyboard: $17
-* Dell Multimedia Corded Keyboard: $22
-* Leather jacket: $300
+* Winix Zero 4-stage Air Purifier: $400 - 2024
+* Michael Kors Tote Bag: $400 - 2022
+* Michael Kors Crossbody Bag: $300 2023
+* HP K1500 Keyboard: $17 - 2021
+* Dell Multimedia Corded Keyboard: $22 - 2023
+* Leather jacket: $300 - 2023
+- Pago Matrix II Plus Heavy-Duty Ergo Chair - $321.10 - 2022
 
-- Office Chair: 
-
-
-
-
-
-Current total: $4,027. Earlier VCAT/RDRV material referred to about $2,400. Treat $4,027 as the updated schedule requiring evidence and reconciliation.
 
 ## Evidence management
 
