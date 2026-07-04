@@ -1,3 +1,17 @@
+## Invoices to Find
+- [ ] Orthokinetic Grandeur Medium Mattress: $1,290
+- [ ] Orthokinetic Classic Bed Frame: $899
+- [ ] Leather jacket: $300
+- [ ] Philips 2000i Series Air Purifier: $399
+- [ ] Winix Zero 4-stage Air Purifier: $400
+- [ ] Michael Kors Tote Bag: $400
+- [ ] Michael Kors Crossbody Bag: $300
+- [ ] HP K1500 Keyboard: $17
+- [ ] Dell Multimedia Corded Keyboard: $22
+- [ ] Office Chair:
+- [x] Bed Frame: $106.99
+
+
 ## Childcare
 - good
 	- Everything looks new

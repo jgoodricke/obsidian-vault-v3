@@ -70,6 +70,10 @@ For entry requests: prefer writing; ask for written notice stating legal ground,
 
 Focus on notice, inadequate action, causation, damage, loss and remedy. Current schedule:
 
+Have Recipes:
+- Zinus Joseph 15cm Single Bed Frame: $106.99
+
+Don't Have Receipts:
 * Orthokinetic Grandeur Medium Mattress: $1,290
 * Orthokinetic Classic Bed Frame: $899
 * Leather jacket: $300
@@ -79,8 +83,8 @@ Focus on notice, inadequate action, causation, damage, loss and remedy. Current 
 * Michael Kors Crossbody Bag: $300
 * HP K1500 Keyboard: $17
 * Dell Multimedia Corded Keyboard: $22
-- Office Chair
-- Bed Frame: 
+- Office Chair:
+
 
 Current total: $4,027. Earlier VCAT/RDRV material referred to about $2,400. Treat $4,027 as the updated schedule requiring evidence and reconciliation.
 
