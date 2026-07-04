@@ -16,21 +16,24 @@ This claim arises from recurring mould at the premises, delayed and inadequate i
 ## List of Damages
 ### Personal Items Damaged by Mould
 
-| Item                                        | Purchase Amount | Assumed Useful Life | Approx. Age at 10 Jun 2026 | Depreciation | Suggested Claim Value |
-| ------------------------------------------- | --------------: | ------------------: | -------------------------: | -----------: | --------------------: |
-| Zinus Joseph 15cm Single Bed Frame          |         $106.99 |            10 years |                   0.73 yrs |        $7.85 |                $99.14 |
-| Orthokinetic Grandeur Medium Queen Mattress |       $1,390.00 |            15 years |                   6.57 yrs |      $608.64 |  1,390.00\* ($781.36) |
-| Orthokinetic Classic Queen Bed Frame        |         $599.00 |            10 years |                   4.48 yrs |      $268.63 |               $330.37 |
-| Philips 2000i Series Air Purifier           |         $250.00 |             5 years |                   3.90 yrs |      $195.21 |                $54.79 |
-| ÅFJÄLL Single Foam Mattress                 |         $129.00 |             7 years |                   1.94 yrs |       $35.77 |     129.00\* ($93.23) |
-| KNAPSTAD Mattress Pad                       |         $299.00 |             7 years |                   4.94 yrs |      $295.52 |                $87.99 |
-| Winix Zero 4-stage Air Purifier             |         $400.00 |             5 years |                   1.94 yrs |      $155.29 |               $244.71 |
-| Michael Kors Tote Bag                       |         $400.00 |             8 years |                   3.94 yrs |      $197.13 |               $202.87 |
-| Michael Kors Crossbody Bag                  |         $300.00 |             8 years |                   2.94 yrs |      $110.37 |               $189.63 |
-| Dell Multimedia Corded Keyboard             |          $22.00 |             4 years |                   2.94 yrs |       $16.19 |                 $5.81 |
-| Leather Jacket                              |         $300.00 |            10 years |                   2.94 yrs |       $88.30 |               $211.70 |
-| Pago Matrix II Plus Heavy-Duty Ergo Chair   |         $321.10 |            10 years |                   3.94 yrs |      $126.59 |               $194.51 |
-\*Because this is a mould-contaminated mattress, we say a second-hand replacement would not be a reasonable or hygienic substitute. We therefore claim the replacement cost. In the alternative, the depreciated value is set out in the schedule.
+| Item                                          | Purchase Amount | Assumed Useful Life | Approx. Age at 10 Jun 2026 | Depreciation | Suggested Claim Value |
+| --------------------------------------------- | --------------: | ------------------: | -------------------------: | -----------: | --------------------: |
+| Zinus Joseph 15cm Single Bed Frame            |         $106.99 |            10 years |                   0.73 yrs |        $7.85 |                $99.14 |
+| Orthokinetic Grandeur Medium Queen Mattress   |       $1,390.00 |            15 years |                   6.57 yrs |      $608.64 |  1,390.00\* ($781.36) |
+| Orthokinetic Classic Queen Bed Frame          |         $599.00 |            10 years |                   4.48 yrs |      $268.63 |               $330.37 |
+| ÅFJÄLL Single Foam Mattress                   |         $129.00 |             7 years |                   1.94 yrs |       $35.77 |     129.00\* ($93.23) |
+| KNAPSTAD Mattress Pad                         |         $299.00 |             7 years |                   4.94 yrs |      $295.52 |                $87.99 |
+| Philips 2000i Series Air Purifier\*\*         |         $250.00 |             5 years |                   3.90 yrs |      $195.21 |                $54.79 |
+| Winix Zero 4-stage Air Purifier\*\*           |         $400.00 |             5 years |                   1.94 yrs |      $155.29 |               $244.71 |
+| Michael Kors Tote Bag\*\*                     |         $400.00 |             8 years |                   3.94 yrs |      $197.13 |               $202.87 |
+| Michael Kors Crossbody Bag\*\*                |         $300.00 |             8 years |                   2.94 yrs |      $110.37 |               $189.63 |
+| Dell Multimedia Corded Keyboard\*\*           |          $22.00 |             4 years |                   2.94 yrs |       $16.19 |                 $5.81 |
+| Leather Jacket\*\*                            |         $300.00 |            10 years |                   2.94 yrs |       $88.30 |               $211.70 |
+| Pago Matrix II Plus Heavy-Duty Ergo Chair\*\* |         $321.10 |            10 years |                   3.94 yrs |      $126.59 |               $194.51 |
+\* Because this is a mould-contaminated mattress, we say a second-hand replacement would not be a reasonable or hygienic substitute. We therefore claim the replacement cost. In the alternative, the depreciated value is set out in the schedule.
+
+\*\* Receipts are provided where available. Where a receipt is unavailable, we have provided alternative proof of purchase where possible. We accept that VCAT may give different weight to items depending on the available evidence.
+
 ### Item Disposal Costs
 
 | Item                                  | Date       | Cost |
@@ -48,15 +51,26 @@ TOTAL: $374
 TOTAL: $435
 
 ### Loss of Amenity
-
 $2,488 for loss of amenity / reduced use and enjoyment of the premises.
-
-Calculated as:
-- daily rent × number of affected days × percentage loss of amenity
-- 101.13 x 164 x 15%
-
 ## Note
-
-Receipts are provided where available. Where a receipt is unavailable, we rely on photographs, ownership evidence, replacement value information, product details, bank records if available, and our statement. We accept that VCAT may give different weight to items depending on the available evidence.
-
+### Depreciation Calculation
 The depreciation calculation uses a straight-line method to 10 June 2026. Where exact purchase dates are unavailable, we have used reasonable estimates. Where an item was mould-contaminated and could not reasonably or hygienically be retained, cleaned or replaced second-hand, we claim the replacement cost. In the alternative, the depreciated value is shown.
+
+### Loss of Ammentiy Calculation
+We have calculated this amount using a conservative formula:
+
+daily rent × number of affected days × percentage loss of amenity
+
+The rent under the rental agreement was $3,076 per month, which is approximately $101.13 per day. We claim the affected period from 29 December 2025, when the mould issue resurfaced, to 10 June 2026, when the professional mould cleaning was completed. This is 164 days.
+
+We have applied a conservative 15% loss of amenity to reflect the recurring mould, odour, contamination concerns, repeated cleaning, disruption to ordinary use of the premises, and the impact on the main bedroom, living areas and our child’s bedroom.
+
+Calculation:
+$101.13 × 164 days × 15% = $2,487.80, rounded to $2,488.
+
+### Updated item schedule
+On 13 June 2026, we sent the agent an initial compensation request based on the mould-damaged or mould-contaminated items identified at that time. Since then, while preparing the VCAT/RDRV renewal and final evidence, we have reviewed our photos, receipts and moving/disposal records and identified additional mould-damaged or mould-contaminated items.
+
+This schedule replaces the earlier item list. It also updates some amounts to reflect the depreciation calculations requested by VCAT/RDRV. The additional items arise from the same mould issue at the premises, not from a separate claim.
+
+We provide this updated schedule before the renewed compensation claim is determined and before any hearing, so the rental provider has notice of the full claim and the supporting evidence.
