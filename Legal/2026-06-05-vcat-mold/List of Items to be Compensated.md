@@ -28,9 +28,8 @@ Because this is a mould-contaminated mattress, we say a second-hand replacement 
 | ------------------------------------- | ---------- | ---- |
 | GoEasy Rubbish Removal                | 27/06/2026 | $300 |
 | Whitehorse Recycling and Waste Center | 28/06/2026 | $74  |
-| Windham Cituy Council                 | 03/07/2026 | $30  |
-| Boorondara City Council               | 29/06/2026 | $34  |
-TOTAL: $434
+
+TOTAL: $374
 
 
 ## Moving Costs
