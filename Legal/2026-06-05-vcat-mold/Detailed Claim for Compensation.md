@@ -51,7 +51,7 @@ TOTAL: $374
 TOTAL: $435
 
 
-### Other
+### Loss of Amenit
 
 $2,488 for loss of amenity / reduced use and enjoyment of the premises.
 
