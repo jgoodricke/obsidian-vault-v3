@@ -1,15 +1,13 @@
-## Invoices to Find
-- [ ] Orthokinetic Grandeur Medium Mattress: $1,290
-- [ ] Orthokinetic Classic Bed Frame: $899
-- [ ] Leather jacket: $300
-- [ ] Philips 2000i Series Air Purifier: $399
-- [ ] Winix Zero 4-stage Air Purifier: $400
-- [ ] Michael Kors Tote Bag: $400
-- [ ] Michael Kors Crossbody Bag: $300
-- [ ] HP K1500 Keyboard: $17
-- [ ] Dell Multimedia Corded Keyboard: $22
-- [ ] Office Chair:
-- [x] Bed Frame: $106.99
+## Games
+- Upload Showcase Bundle - $28.25
+	- Zero Caliber 2 - $2.28
+	- Metro Awakening - $10.35
+	- Thief VR - $4.46
+	- **Ancient Dungeon - $1.57**
+- Creature Features Bundle
+	- **Light Brigade - $3.18**
+	- **Crime Shop Simulator - $2.99**
+	- **Dearly Delivery - $1.46**
 
 
 ## Childcare
