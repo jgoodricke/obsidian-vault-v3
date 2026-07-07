@@ -7,7 +7,7 @@
 	- [ ] Learn the new features in React 20
 - [ ] Rust
 	- [ ] No Boilerplate
-		- [ ] Read Ultralearning
+		- [ ] Read Ultra-learning
 		- [ ] Read the rust book once fast
 		- [ ] Read the rust book again at normal pace, do Rustings at the same time.
 		- [ ] Do Rust by Example
