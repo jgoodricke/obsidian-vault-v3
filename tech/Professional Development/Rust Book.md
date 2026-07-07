@@ -14,7 +14,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
     - [ ] 3.3. Functions
     - [ ] 3.4. Comments
     - [ ] 3.5. Control Flow
-- [ ] 2. Programming a Guessing Game
+- [x] 2. Programming a Guessing Game
 - [ ] 4. Understanding Ownership
     - [ ] 4.1. What is Ownership?
     - [ ] 4.2. References and Borrowing

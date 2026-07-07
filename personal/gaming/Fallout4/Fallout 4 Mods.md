@@ -42,6 +42,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ## Bug Fixes
 ### Engine-Level Fixes
 - Daytripper 4
+	- Creation Club Update for Fallout 4 VR -LITE-​
 	- VR Address Library
 	- Buffout 4 NG
 		- xSE PluginPreloader F4 (V0.2.5.1)
@@ -189,16 +190,18 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Story Encounter Booster
 - Refreshing Checkpoints
 - Better Bloatflies
-- Wasteland Illumination
-### Settlement Manager
-- Sim Settlements
+- Wasteland Illuminatiln
+### Better Settlements
+- [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/73394?tab=files)
+	- [Installation Guide](https://simsettlements.com/site/index.php?threads/fo4-vr-ss2-2026-guide-recommendations.33601/#post-226945)
 	- Workshop Framework
-	- Sim Settlements 2 Chapter 2
-	- Sim Settlements 2 Chapter 3
 	- Wasteland Ventures
+	- Fallout 4 VR Compatibility Patch for Sim Settlements 2
 	- SS2 VR Clipboard and Fixes
+	- Settlement Management Terminal
 - Place in Red VR (by rollingrock16)
 - TODO: Immersive Teleportation 2
+- Longer Power Lines
 - This is MY bed
 - Edmond's Settlement Attack Spawns Outside the Settlement
 - Vault-Tec Workshop Overhaul Redux
@@ -210,6 +213,9 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Settlement Progression:
 	- Automatron Robot Expert
 	- Settlement Progression?
+- Alias
+- Handmade Turrets
+	- Scrappy Turret Replacer
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
