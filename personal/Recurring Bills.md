@@ -6,13 +6,10 @@ frontmatter-version: 1
 # Joint Account
 
 ## Monthly Bills
-Rent:
-$3076
 
 | Item             | Price   | Note                                        | Paid |
 | ---------------- | ------- | ------------------------------------------- | ---- |
-| Rent             | $3076   |                                             |      |
-| Internet         | $79.00  |                                             |      |
+| Internet         | $80.00  |                                             |      |
 | Phone            | $25     | Pay from my account                         |      |
 | Health Insurance | $188.58 |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
