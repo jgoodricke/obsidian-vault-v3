@@ -16,6 +16,9 @@ frontmatter-version: 1
 | ChatGPT          | $32     | $20 USD                                     |      |
 **TOTAL:** $304.83
 
+## Other Bills
+Electricity: Alinta Energy
+Gas: Energy Locals
 
 # My Account
 Allowance (Monthly): $700
