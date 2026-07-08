@@ -1,16 +1,18 @@
 
+- Desk 1
+	- Jordan
+	- Me
+	- Darryn
+	- Atish
 
-Jordan
-Darryn
-Atish
-
-Zac
-Josh
-Samantha
-Evelyn
+- Desk 2
+	- Josh
+	- Zac
+	- ???
+	- (Evelyn) Samantha
 
 Alex?
-Chris
+Chris?
 
 
 

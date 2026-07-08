@@ -1,3 +1,7 @@
+## TODO
+- Look into removing passive healing mod.
+- check out Interactive Door Actions - VR
+
 Redguard:
 - Desert Trader
 - Patch to add redguard clothes to Npcs (and add color variants from that other creation kit mod).

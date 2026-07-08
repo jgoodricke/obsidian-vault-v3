@@ -169,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personal/gaming/Fallout4/Fallout 4 Mods.md",
+            "file": "personal/gaming/Epic Games Mobile Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,13 +226,14 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "personal/gaming/Fallout4/Fallout 4 Mods.md",
+    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
+    "personal/gaming/Epic Games Mobile Library.md",
+    "tech/Professional Development/Rust Book.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-03.md",
     "job/webres/Carebridge/Meetings/2026-03-26 - Carebridge Meeting.md",
     "job/webres/Carebridge/Meetings/2025-06-30 - CBR-182 - Catch Up.md",
-    "personal/gaming/Fallout4/Fallout 4 Mods.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/Professional Development/Contents.md",
-    "tech/Professional Development/Rust Book.md",
     "personal/gaming/Fallout4/Fallout 4 Mods 1.md",
     "Scratchpad.md",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info/index.tsx.md",
@@ -245,7 +247,6 @@
     "home/james/Projects/portal/resources/js/pages/map/components",
     "home/james/Projects/portal/resources/js/pages/map",
     "home/james/Projects/portal/resources/js/pages",
-    "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/2026-06-24 Cycle Scope.md",
     "personal/Plan.md",
     "tech/Professional Development/React/Epic React.md",
