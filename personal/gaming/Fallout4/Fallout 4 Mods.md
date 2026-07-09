@@ -52,6 +52,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Simple Death Screen
 - VR Shadow Boost
 - Faster Decompression
+- AutoSave F4SEVR
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
@@ -179,7 +180,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
 - No Adrenaline
-- Autosave Manager
 
 ### More Lively World
 - Random Encounters Framework
