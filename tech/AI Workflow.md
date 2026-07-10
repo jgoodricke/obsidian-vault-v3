@@ -9,13 +9,13 @@
 - Execution: run agents
 - Code Review: smoke test
 - Code Review: human code review
-- Code Review: remove any low-value tests
 - Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
 - Testing: test locally
 - Testing: Run e2e tests
 - Testing: Run CI
+- Testing: remove any low-value tests
 - Deploy: create PR
 - Deploy: review PR feedback
 - Deploy: merge
