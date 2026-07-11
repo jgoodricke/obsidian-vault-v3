@@ -11,9 +11,7 @@
 		- [x] Bank of Melbourne
 	- [x] Uni Super
 	- [x] Eastlink
-	- [ ] Paypal
-	- [ ] Ebay
-	- [ ] Aussie Broadband
+	- [x] Paypal
 	- [ ] Amazon
 	- [ ] Rewards
 		- [ ] Woolworths
