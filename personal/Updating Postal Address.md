@@ -9,13 +9,17 @@
 		- [x] ING
 		- [x] NAB
 		- [x] Bank of Melbourne
-	- [ ] Uni Super
-	- [ ] Eastlink
+	- [x] Uni Super
+	- [x] Eastlink
 	- [ ] Paypal
 	- [ ] Ebay
 	- [ ] Aussie Broadband
 	- [ ] Amazon
-	- [ ] Health Insurance
 	- [ ] Rewards
 		- [ ] Woolworths
 		- [ ] Coles
+	- [ ] Insurance
+		- [x] Health Insurance
+		- [ ] Home insurance
+		- [ ] Car Insurance - James
+		- [ ] Car Insurance - Christy
