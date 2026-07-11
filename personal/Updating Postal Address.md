@@ -12,12 +12,13 @@
 	- [x] Uni Super
 	- [x] Eastlink
 	- [x] Paypal
-	- [ ] Amazon
-	- [ ] Rewards
-		- [ ] Woolworths
-		- [ ] Coles
+	- [x] Amazon
+	- [x] MyGov
 	- [ ] Insurance
 		- [x] Health Insurance
-		- [ ] Home insurance
+		- [x] Home insurance
 		- [ ] Car Insurance - James
 		- [ ] Car Insurance - Christy
+	- [x] Rewards
+		- [x] Woolworths
+		- [x] Coles
