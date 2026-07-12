@@ -1,0 +1,24 @@
+- [x] Cancel Old Accounts
+	- [x] Electricity (Cancel)
+	- [x] Aussie Broadband (Move)
+	- [x] Yarra Valley Water (Cancel and Move)
+- [ ] Update Address
+	- [x] Australian Electoral Commission
+	- [x] VicRoads
+	- [x] Bank
+		- [x] ING
+		- [x] NAB
+		- [x] Bank of Melbourne
+	- [x] Uni Super
+	- [x] Eastlink
+	- [x] Paypal
+	- [x] Amazon
+	- [x] MyGov
+	- [ ] Insurance
+		- [x] Health Insurance
+		- [x] Home insurance
+		- [ ] Car Insurance - James
+		- [ ] Car Insurance - Christy
+	- [x] Rewards
+		- [x] Woolworths
+		- [x] Coles
