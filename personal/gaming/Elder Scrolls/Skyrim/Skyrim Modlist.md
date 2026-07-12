@@ -1,6 +1,11 @@
 ## TODO
-- Look into removing passive healing mod.
+- Look into removing passive healing mod?
 - check out Interactive Door Actions - VR
+- Check out Aegis
+- consider installing Reliquary of Myth and Unique Items Tweaks
+- Install Shield of Stamina.
+- Shield Of Stamina
+- Khajiit Has Tents
 
 Redguard:
 - Desert Trader
