@@ -145,13 +145,13 @@ Interested (Cross-Play)
 | Project Wingman                                             | No                 | Yes             |             | N/A        |       | Waiting for Better PC | HOTAS             | no    |
 | Psychonauts in the Rhombus of Ruin                          | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | QUAKE                                                       | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
-| Quake 4                                                     | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
+| Quake 4                                                     | Yes                | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | QUAKE II                                                    | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | QUAKE III Arena                                             | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | Raw Data                                                    | No                 | Yes             |             | N/A        |       | Not Playing           | Touch Controls    | yes   |
 | RESIDENT EVIL 7 biohazard                                   | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | Resident Evil Village                                       | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
-| Return to Castle Wolfenstein                                | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
+| Return to Castle Wolfenstein                                | Yes                | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | Rick and Morty Virtual Rick-ality                           | No                 | Yes             |             | N/A        |       | Not Playing           | Touch Controls    | yes   |
 | Robinson: The Journey                                       | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
 | Run Of Mydan                                                | No                 | Yes             |             | N/A        |       | Not Playing           | Touch             | no    |
@@ -268,8 +268,8 @@ Interested (Cross-Play)
 | Nano                                                        | Yes                | No              | N/A         | 96         | 96    | Not Playing           | Touch Controls    | No    |
 | Prey                                                        | Yes                | No              | 79          | N/A        | 79    | Not Playing           | Touch Controls    | yes   |
 | Doom 3                                                      | Yes                | No              | 81          | N/A        | 81    | Not Playing           | Touch Controls    | yes   |
-| Quake 4                                                     | Yes                | No              | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
-| Tomb Raider                                                 | Yes                | No              | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
+| Quake 4                                                     | Yes                | Yes             | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
+| Tomb Raider                                                 | Yes                | Yes             | 85          | N/A        | 85    | Not Playing           | Touch Controls    | yes   |
 | Return to Castle Wolfenstein                                | Yes                | No              | 89          | N/A        | 89    | Not Playing           | Touch Controls    | yes   |
 | Iron Lung                                                   | Yes                | No              | 92          | N/A        | 92    | Not Playing           | Touch Controls    | yes   |
 | Quake 2                                                     | Yes                | No              | 92          | N/A        | 92    | Not Playing           | Touch Controls    | yes   |
@@ -371,6 +371,7 @@ Interested (Cross-Play)
 | Jedi Knight 2                                               | Yes                | Yes             | 76          | N/A        | 76    | Playing               | Touch             | yes   |
 | Pixel Ripped 1989                                           | Yes                | Yes             | 85          | N/A        | 85    | Not Playing           | Touch             | no    |
 | Roboquest VR                                                | Yes                | Yes             | 87          | N/A        | 87    | Not Playing           | Touch             | no    |
+| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | N/A         | N/A        | N/A   | Not Playing           | Touch             | No    |
 
 
 - Action Hero
