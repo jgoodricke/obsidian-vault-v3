@@ -1,7 +1,7 @@
 ## Book to Read
 - Pandora's star by peter F Hamilton, and Judas Unchained
 - Silver Ships by Jucha
-- First Colony by Ken Lozito
+- First Colony by Ken LozitoB
 
 
 ## Childcare
