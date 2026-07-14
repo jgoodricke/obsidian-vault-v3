@@ -2,7 +2,8 @@ TODO:
 Check this out, especially power armor rebalance:
 https://www.nexusmods.com/profile/WhiskyTangoFawks
 [Power Armor Damage Threshold](https://www.nexusmods.com/fallout4/mods/58614)
-
+- Check out Commonwealth Iguanas
+- Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.

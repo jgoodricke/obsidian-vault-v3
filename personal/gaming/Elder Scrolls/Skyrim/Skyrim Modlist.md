@@ -6,6 +6,7 @@
 - Install Shield of Stamina.
 - Shield Of Stamina
 - Khajiit Has Tents
+- Audio Occlusion
 
 Redguard:
 - Desert Trader

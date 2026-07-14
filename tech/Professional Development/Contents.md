@@ -39,3 +39,5 @@
 - Get books by Martin Fowler:
 	- Refactoring: Improving the Design of Existing Code, 2nd ed
 - Get that design book by the Tailwind Team.
+- Don Knuth
+	- Literate programming

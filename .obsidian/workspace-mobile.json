@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
+                "file": "tech/Professional Development/Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skyrim Modlist"
+              "title": "Contents"
             }
           },
           {
@@ -169,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personal/gaming/Epic Games Mobile Library.md",
+            "file": "tech/Professional Development/Contents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -226,6 +226,8 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "personal/gaming/Fallout4/Fallout 4 Mods.md",
+    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Updating Postal Address.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Rust/Rust Lightsaber.md",
@@ -235,9 +237,7 @@
     "tech/Professional Development/Rust",
     "personal/Chats/Chat 2026-09-07.md",
     "personal/Chats/Plan.md",
-    "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "job/webres/Carebridge/Analytics Dashboard/Suburb Data.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-03.md",
     "job/webres/Carebridge/Meetings/2026-03-26 - Carebridge Meeting.md",
     "job/webres/Carebridge/Meetings/2025-06-30 - CBR-182 - Catch Up.md",
