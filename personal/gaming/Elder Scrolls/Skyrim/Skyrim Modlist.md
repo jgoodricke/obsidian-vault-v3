@@ -1,10 +1,63 @@
+## TODO
+- Look into removing passive healing mod?
+- check out Interactive Door Actions - VR
+- Check out Aegis
+- consider installing Reliquary of Myth and Unique Items Tweaks
+- Install Shield of Stamina.
+- Shield Of Stamina
+- Khajiit Has Tents
+
+Redguard:
+- Desert Trader
+- Patch to add redguard clothes to Npcs (and add color variants from that other creation kit mod).
+- Patch to add the special armor to the Alakir.
+
+# To Add
+- Locational Damage AE (SKSE Plugin)
+- Modern Lighting Overhaul 2 (MLO2)
+- Skyrim Revoiced
+- Stress and Fear - Make compatible with Last Seed
+	- Dirt and Blood
+	- Skyrim's Got Tallent
+	- Skyrim on Skooma?
+- Missives
+	- Missives - Quest Expansion
+- Fancy Fishing  (adds better VR support)
+- Fishing Preview
+- Simple Fishing Overhaul
+- From Rods to Riches
+- ISPVR - Immersive Spellcasting VR
+- HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
+- Follower Dialogue Expansion - Marcurio (FDE)
+- Wildfire?
+- Immersive Reading
+- Elemental Fury VR
+- Attacks Cost Stamina VR
+- Spellbending VR
+- VR Climbing
+- Pull Arrows VR
+- Ultimate Telekinesis VR
+	- Teleharvest VR
+- Better weapon collisions for VR
+- ISPVR - Immersive Spellcasting
+- FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire
+- M.I.N.T. - Mint-Issued National Tenders
+- C.O.I.N. - Coins of Interesting Nature
+- The Sigil Shop - Soul Proprietorship
+
+# Wait for
+- Boats - Operational Animated Travel
+- Herbalism by CylonSurfer - wait for release
+- Interactive Activators VR
+- interactive water (Spell interactions)
 # Philosophy
 ## Player Character
 - Discrased noblemans son and budding mage, looking to start a new life in Skyrim and potentially seeking redemption through making a name for himself.
+
 ## Type of Game
-- Narrative Focus
+- Story-Driven
 - Action-RPG
-- Survival Game
+- Hypothermia Survival Game
 - Focus on Exploration
 ## Core Goals
 - Add needs, hypothermia and seasons.
@@ -21,6 +74,51 @@
 - Rebalance economy to make accumulating wealth harder, except through doing quests.
 - Rebalance game difficulty around having two companions?
 
+# To Find
+- Mod that changes artifact power based on Wintersun Affinity.
+- Mod that Gives Aranea robes
+- Mod that gives the Argonian Knight Ancient Argonian Armor.
+- [ ] Mod to make dungeons darker.
+- [x] Lighting mod?
+
+
+# TODO
+- Make mod to distribute armour to Argonians.
+	- Stormhold Warrior Armor SSE - Port Plus
+	- Rormasu heavy armor
+	- Ancient Argonian Armor
+- Make SPID to give Argonian Dockworkers Different clothes
+- Modify immersive tree chopping so punching trees will give kindling?
+- Add this to gray cowl CC:
+	- The Gray Cowl of Nocturnal - Bounty fix…and More
+
+# Check Out
+- Argonian Apparel Integration.
+	- Good start, but needs more.
+- https://www.nexusmods.com/skyrimspecialedition/mods/56359
+- Armor for Ysgramor
+- Argonian (Saxhleel) Weapon pack - SPID and CID
+	- Make my own version
+- Simple Taxes
+- Taxes of the Nine Holds
+- EVG CLAMBER - Slope Animations
+- EVG Animation Variance
+- Bosmer Clothes
+	- The Southbound Scouts
+	- Rogue Light Elven Armor
+	- Bosmeri Swallowtail Armour - SPID Distribution
+- Complex Parallax Materials
+- Extra Encounters Reborn SE
+- Extended Encounters and Wintersun - Vigilants Hunt True Daedra Worshippers
+- Immersive World Encounters - A High Poly Overhaul
+	- OR Immersive World Encounters AddOn - High Poly Uniques
+- USSEP Patches By Celaker
+- TO FIND: Consistant voices mods.
+- Verified Creations
+	- https://moddinghaven.com/mediawiki/index.php/The_Elder_Scrolls_V:_Skyrim_mods
+	- https://gamer-mods.ru/load/skyrim_se/creation_club/verified_creations/174-1-0-15555
+- Hidden Hideouts of Skyrim Cities.
+	- Needs a patch to stop people using them - see comments.
 # Modlist
 ## Creation Club
 - Free content
@@ -307,109 +405,6 @@
 	- [ ] Hearthfire
 	- [ ] Yorvaskr
 	- [ ] Thalmor
-
-
----
-## TODO
-- Look into removing passive healing mod?
-- check out Interactive Door Actions - VR
-- Check out Aegis
-- consider installing Reliquary of Myth and Unique Items Tweaks
-- Install Shield of Stamina.
-- Shield Of Stamina
-- Khajiit Has Tents
-
-Redguard:
-- Desert Trader
-- Patch to add redguard clothes to Npcs (and add color variants from that other creation kit mod).
-- Patch to add the special armor to the Alakir.
-
-# To Add
-- Locational Damage AE (SKSE Plugin)
-- Modern Lighting Overhaul 2 (MLO2)
-- Skyrim Revoiced
-- Stress and Fear - Make compatible with Last Seed
-	- Dirt and Blood
-	- Skyrim's Got Tallent
-	- Skyrim on Skooma?
-- Missives
-	- Missives - Quest Expansion
-- Fancy Fishing  (adds better VR support)
-- Fishing Preview
-- Simple Fishing Overhaul
-- From Rods to Riches
-- ISPVR - Immersive Spellcasting VR
-- HOUSE OF WARRIORS - Immersive Dialogue Expansion - Jorrvaskr (Companions)
-- Follower Dialogue Expansion - Marcurio (FDE)
-- Wildfire?
-- Immersive Reading
-- Elemental Fury VR
-- Attacks Cost Stamina VR
-- Spellbending VR
-- VR Climbing
-- Pull Arrows VR
-- Ultimate Telekinesis VR
-	- Teleharvest VR
-- Better weapon collisions for VR
-- ISPVR - Immersive Spellcasting
-- FAMILY LIFE - Immersive Dialogue Expansion - Hearthfire
-- M.I.N.T. - Mint-Issued National Tenders
-- C.O.I.N. - Coins of Interesting Nature
-- The Sigil Shop - Soul Proprietorship
-
-# Wait for
-- Boats - Operational Animated Travel
-- Herbalism by CylonSurfer - wait for release
-- Interactive Activators VR
-- interactive water (Spell interactions)
-
-
-# To Find
-- Mod that changes artifact power based on Wintersun Affinity.
-- Mod that Gives Aranea robes
-- Mod that gives the Argonian Knight Ancient Argonian Armor.
-- [ ] Mod to make dungeons darker.
-- [x] Lighting mod?
-
-
-# TODO
-- Make mod to distribute armour to Argonians.
-	- Stormhold Warrior Armor SSE - Port Plus
-	- Rormasu heavy armor
-	- Ancient Argonian Armor
-- Make SPID to give Argonian Dockworkers Different clothes
-- Modify immersive tree chopping so punching trees will give kindling?
-- Add this to gray cowl CC:
-	- The Gray Cowl of Nocturnal - Bounty fix…and More
-
-# Check Out
-- Argonian Apparel Integration.
-	- Good start, but needs more.
-- https://www.nexusmods.com/skyrimspecialedition/mods/56359
-- Armor for Ysgramor
-- Argonian (Saxhleel) Weapon pack - SPID and CID
-	- Make my own version
-- Simple Taxes
-- Taxes of the Nine Holds
-- EVG CLAMBER - Slope Animations
-- EVG Animation Variance
-- Bosmer Clothes
-	- The Southbound Scouts
-	- Rogue Light Elven Armor
-	- Bosmeri Swallowtail Armour - SPID Distribution
-- Complex Parallax Materials
-- Extra Encounters Reborn SE
-- Extended Encounters and Wintersun - Vigilants Hunt True Daedra Worshippers
-- Immersive World Encounters - A High Poly Overhaul
-	- OR Immersive World Encounters AddOn - High Poly Uniques
-- USSEP Patches By Celaker
-- TO FIND: Consistant voices mods.
-- Verified Creations
-	- https://moddinghaven.com/mediawiki/index.php/The_Elder_Scrolls_V:_Skyrim_mods
-	- https://gamer-mods.ru/load/skyrim_se/creation_club/verified_creations/174-1-0-15555
-- Hidden Hideouts of Skyrim Cities.
-	- Needs a patch to stop people using them - see comments.
-
 
 
 
