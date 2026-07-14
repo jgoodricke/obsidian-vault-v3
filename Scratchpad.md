@@ -1,17 +1,7 @@
 ## Book to Read
-- Pandora's star by peter F Hamalton, and Judas Unchained
-
-
-## Games
-- Upload Showcase Bundle - $28.25
-	- Zero Caliber 2 - $2.28
-	- Metro Awakening - $10.35
-	- Thief VR - $4.46
-	- **Ancient Dungeon - $1.57**
-- Creature Features Bundle
-	- **Light Brigade - $3.18**
-	- **Crime Shop Simulator - $2.99**
-	- **Dearly Delivery - $1.46**
+- Pandora's star by peter F Hamilton, and Judas Unchained
+- Silver Ships by Jucha
+- First Colony by Ken Lozito
 
 
 ## Childcare
