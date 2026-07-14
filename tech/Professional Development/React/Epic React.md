@@ -3,6 +3,18 @@ Epic React - Learn React 19 with Epic React by Kent C. Dodds ...
 
 https://drive.google.com/drive/folders/1lQpZgR7sBU3e_z6QFVn-s9btrRDafePb
 ##  [React Fundamentals](https://drive.google.com/drive/u/0/folders/1rZM7ocO6eL-0OrChZsvD91BmPfOVnm_Z)
+- [ ] Prerequisites
+	- [ ] [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures)
+		- [ ] Lexical scoping
+			- [ ] Intro
+			- [ ] Scoping with let and const
+		- [ ] Closure
+		- [ ] Practical closures
+		- [ ] Emulating private methods with closures
+		- [ ] Closure scope chain
+		- [ ] Creating closures in loops: A common mistake
+		- [ ] Performance considerations
+	- [ ] [JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
 - [x] React Fundamentals Intro
 - [ ] Hello World in JS
 	- [x] Intro
