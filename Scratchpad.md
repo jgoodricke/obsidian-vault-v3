@@ -1,3 +1,7 @@
+## Book to Read
+- Pandora's star by peter F Hamalton, and Judas Unchained
+
+
 ## Games
 - Upload Showcase Bundle - $28.25
 	- Zero Caliber 2 - $2.28
