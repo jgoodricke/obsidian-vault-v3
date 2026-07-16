@@ -13,6 +13,8 @@
 - Testing: generates QA plan
 - Testing: Add automated tests
 - Testing: test locally
+- Testing: Confirm no slow queries
+- Testing: Confirm no console errors
 - Testing: Run e2e tests
 - Testing: Run CI
 - Testing: remove any low-value tests
