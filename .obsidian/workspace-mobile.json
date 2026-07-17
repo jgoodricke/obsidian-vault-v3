@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "personal/gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Epic Games Mobile Library"
             }
           },
           {
@@ -226,12 +226,14 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-16.md",
+    "job/webres/Carebridge/Analytics Dashboard/Suburb Data Spike Results.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist 1.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/Updating Postal Address.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Rust/Rust Lightsaber.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/React/Epic React.md",
@@ -259,8 +261,6 @@
     "personal/Clothes Sizes.md",
     "personal/gaming/VR Mods.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-06-22.md",
-    "personal/PC & Laptop Specs.md",
-    "Temp/Facebook Marketplace Listings.md",
-    "personal/Recurring Bills.md"
+    "personal/PC & Laptop Specs.md"
   ]
 }
