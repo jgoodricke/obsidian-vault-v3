@@ -1,32 +1,3 @@
-# Philosophy
-## Player Character
-- Discrased noblemans son and budding mage, looking to start a new life in Skyrim and potentially seeking redemption through making a name for himself.
-
-## Type of Game
-- Story-Driven
-- Action-RPG
-- Hypothermia Survival Game
-- Focus on Exploration
-## Core Goals
-- Add needs, hypothermia and seasons.
-	- Make the overworld more dynamic and interesting to travel through.
-- Add new characters and make existing ones more interesting.
-- Add interesting gameplay mechanics.
-	- Particularly focussed on magic.
-- Improve VR mechanics.
-## Other Goals
-- Improve visual fidelity.
-- Improve VR Performance
-- Minimise HUD, communicate to player through other means.
-- Improve followers.
-- Rebalance economy to make accumulating wealth harder, except through doing quests.
-- Rebalance game difficulty around having two companions?
-
-
-
-
-
----
 ## TODO
 - Look into removing passive healing mod?
 - check out Interactive Door Actions - VR
@@ -80,6 +51,29 @@ Redguard:
 - Herbalism by CylonSurfer - wait for release
 - Interactive Activators VR
 - interactive water (Spell interactions)
+# Philosophy
+## Player Character
+- Discrased noblemans son and budding mage, looking to start a new life in Skyrim and potentially seeking redemption through making a name for himself.
+
+## Type of Game
+- Story-Driven
+- Action-RPG
+- Hypothermia Survival Game
+- Focus on Exploration
+## Core Goals
+- Add needs, hypothermia and seasons.
+	- Make the overworld more dynamic and interesting to travel through.
+- Add new characters and make existing ones more interesting.
+- Add interesting gameplay mechanics.
+	- Particularly focussed on magic.
+- Improve VR mechanics.
+## Other Goals
+- Improve visual fidelity.
+- Improve VR Performance
+- Minimise HUD, communicate to player through other means.
+- Improve followers.
+- Rebalance economy to make accumulating wealth harder, except through doing quests.
+- Rebalance game difficulty around having two companions?
 
 # To Find
 - Mod that changes artifact power based on Wintersun Affinity.
@@ -182,7 +176,6 @@ Redguard:
 - [ ] LeveledList Crash Fix VR
 - [ ] Skypatcher
 - [ ] Death Idle Fix
-- [ ] No Menu Fade Out VR
 ## Performance
 - [ ] VR FPS Stabiliser
 - [ ] Private Profile Redirector
