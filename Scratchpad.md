@@ -1,3 +1,9 @@
+## Todo
+- Make plan
+- Discuss plan with Jordan
+- Send plan to Vykas for 
+
+
 ## Notes
 - Is Supabase DB separate from main DB? how are they stayiung in sinc?
 
