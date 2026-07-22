@@ -1,3 +1,253 @@
+## Notes
+- Is Supabase DB separate from main DB? how are they stayiung in sinc?
+
+## 1. Whether ngrok is actually necessary
+
+This is probably the highest-value thing to investigate before the call.
+
+Microsoft SQL MCP Server supports both hosted HTTP and local `stdio` transport, and Microsoft recommends `stdio` for local development. Claude Desktop also supports locally configured MCP servers. That suggests that, for a **single user running everything on one workstation**, there may be a way to connect Claude Desktop directly to SQL MCP Server without exposing an HTTP endpoint through ngrok at all. You would need to confirm compatibility with his exact Claude Desktop configuration, but I would raise this immediately. citeturn822141search10turn822141search18turn466678search13
+
+Research:
+
+- Can his current DAB/SQL MCP configuration run using `stdio`?
+- Can his Claude Desktop setup consume that local MCP server directly?
+- Is he using a **remote custom connector** specifically, which would explain the need for ngrok?
+- What functionality, if any, would he lose by switching from HTTP to local `stdio`?
+
+My likely position would be: **for a single-user local setup, eliminate the public tunnel if possible**. For a genuinely shared service, move to a properly hosted and authenticated endpoint rather than treating ngrok as permanent infrastructure.
+
+---
+
+## 2. Exactly what protects the current MCP endpoint
+
+Ask whether the ngrok URL itself requires authentication.
+
+There are two different authentication boundaries:
+
+**Claude/MCP client → SQL MCP Server**
+
+and:
+
+**SQL MCP Server → SQL Server**
+
+Microsoft explicitly supports inbound authentication for SQL MCP Server using JWT/OAuth, including Entra ID, or recommends placing an authenticating gateway in front when another authentication scheme is required. citeturn822141search2
+
+ngrok itself can also apply controls including authentication, IP restrictions and mutual TLS. citeturn460614search3turn460614search18
+
+Research or ask:
+
+- Is DAB currently configured for anonymous access?
+- Does possession of the ngrok URL effectively give someone access to the MCP tools?
+- Is there OAuth, JWT validation or another authentication mechanism?
+- Are ngrok access logs enabled?
+- Is the endpoint automatically disabled when not being used?
+
+A **temporary and difficult-to-guess URL is not an authentication mechanism**.
+
+---
+
+## 3. The SQL login is broader than the DAB whitelist
+
+This is one point I would definitely bring into the discussion.
+
+The client says the dedicated login has `db_datareader`. Microsoft documents that members of `db_datareader` can read **all data from all user tables and views** in that database. citeturn882758search0turn882758search6
+
+Therefore:
+
+> The DAB entity whitelist restricts what can normally be accessed through DAB, but the underlying database credential itself is not restricted to those entities.
+
+For a proof of concept this may be acceptable, particularly against a test environment. For production, research whether they could instead:
+
+- expose purpose-built reporting views;
+- grant the SQL account `SELECT` only on those views or approved tables;
+- exclude sensitive columns at the database boundary;
+- use separate credentials for this workload.
+
+This creates another security boundary if the DAB configuration is incorrect or the MCP service itself is compromised.
+
+Also remember that **a restored production database still contains production data**. Calling the database "TEST" does not reduce the sensitivity of the information inside it.
+
+---
+
+## 4. What data actually reaches Claude
+
+You need to understand the complete flow:
+
+**User question → Claude → MCP call → SQL MCP Server → SQL → result → SQL MCP Server → Claude/Anthropic → response**
+
+Find out:
+
+- Does Claude receive entire database rows?
+- Could a broad question retrieve thousands of records?
+- Are names, email addresses, financial information or other personal information included?
+- Are there particularly sensitive ERP tables that should never be exposed?
+- Can reporting views return aggregated or minimised data instead?
+
+This matters more than simply whether the SQL connection is read-only.
+
+Your key question should be:
+
+> **What is the most sensitive piece of information Claude could receive through the currently exposed entities?**
+
+Until you know that, it is difficult to judge whether the controls are proportionate.
+
+---
+
+## 5. The exact Claude product and account being used
+
+Do not let the discussion simply say "Anthropic's API". Establish precisely:
+
+- Claude Free, Pro or Max?
+- Claude Team or Enterprise?
+- Direct Anthropic API?
+- A company-managed account or his personal account?
+
+The distinction materially affects the data-handling discussion. Anthropic states that commercial-product inputs and outputs are not used for model training by default, and standard API inputs and outputs are generally deleted from its backend within 30 days, subject to stated exceptions. Zero-data-retention arrangements are also available for qualifying organisations. Consumer Claude products have separate policies. citeturn715848search10turn715848search34turn822141search1turn715848search2
+
+I would **not provide a definitive privacy assessment until you know exactly which Claude product he is using**.
+
+---
+
+## 6. Australian privacy and organisational requirements
+
+Before discussing production data, determine whether the ERP contains personal information and whether the organisation is covered by the Privacy Act.
+
+The OAIC's guidance says that organisations using commercially available AI products need to consider their Privacy Act obligations when personal information is involved. Overseas disclosure may also raise APP 8 considerations depending on the circumstances. citeturn460614search7turn460614search8
+
+Research or ask:
+
+- Does the ERP contain customer or employee personal information?
+- Is there sensitive information?
+- Does the organisation already have an approved AI usage policy?
+- Are employees permitted to submit company data to third-party AI providers?
+- Does the organisation have a contract or data-processing agreement with Anthropic?
+- Does it have data residency requirements?
+- Has whoever owns information security/privacy approved this use case?
+
+You do not need to give legal advice. You can say this requires organisational confirmation rather than treating it as solely a technical security question.
+
+---
+
+## 7. What a proper multi-user version would require
+
+A shared version is substantially different from the current proof of concept.
+
+Microsoft's DAB architecture supports authenticated users, role-based permissions, policies and row-level restrictions. SQL MCP Server also supports inbound authentication. citeturn715848search0turn715848search4turn822141search2
+
+Research these components at a high level:
+
+**Identity**
+- Individual users authenticate through something like Entra ID.
+
+**Authorisation**
+- Users should not necessarily see every exposed entity or every row.
+- Access should reflect their normal ERP permissions where appropriate.
+
+**Hosting**
+- A centrally managed SQL MCP Server rather than instances running on employee laptops.
+
+**Network**
+- Private/internal hosting where possible, or a strongly authenticated public endpoint.
+
+**Auditability**
+- Who asked what?
+- Which MCP tools were invoked?
+- What database queries were generated?
+- What information was returned?
+
+**Secrets**
+- Centrally managed credentials rather than database passwords on individual machines.
+
+You probably do not need to design this today. The useful distinction is:
+
+> **The current architecture is a personal proof of concept. A shared deployment needs to become a managed application with identity, authorisation, auditing and operational ownership.**
+
+---
+
+## 8. Query controls and data exfiltration limits
+
+Being read-only prevents modification but does not prevent someone from extracting the entire permitted dataset.
+
+Research or raise:
+
+- maximum records returned per query;
+- pagination limits;
+- query timeouts;
+- rate limiting;
+- whether users can perform unrestricted aggregation;
+- whether particularly sensitive fields can be excluded;
+- whether MCP tools need access to every currently exposed entity.
+
+DAB supports permission-aware access and policies around entities and data access, so there is scope for considerably finer controls than simply exposing an entity as readable. citeturn715848search0turn715848search1
+
+---
+
+## 9. Logging and monitoring
+
+Ask him what is currently logged at each layer:
+
+- SQL Server;
+- DAB/SQL MCP Server;
+- ngrok;
+- Claude.
+
+Then consider an important secondary risk: **do the logs themselves contain ERP data?**
+
+A production solution should make it possible to investigate who accessed what without unnecessarily creating additional copies of sensitive query results.
+
+---
+
+## 10. Accuracy and appropriate usage
+
+Finally, separate **database retrieval accuracy** from **AI interpretation accuracy**.
+
+Even if SQL MCP retrieves the correct records, Claude can still:
+
+- misunderstand the question;
+- summarise results incorrectly;
+- draw unsupported conclusions;
+- omit relevant qualifications.
+
+Ask what decisions people intend to make from the answers.
+
+For general exploratory reporting, human verification may be sufficient. For financial, regulatory or operational decisions, you may want reproducible reports or the ability to inspect the underlying records behind an answer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Book to Read
 - Pandora's star by peter F Hamilton, and Judas Unchained
 - Silver Ships by Jucha
