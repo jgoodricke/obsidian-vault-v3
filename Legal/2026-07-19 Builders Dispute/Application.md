@@ -1,4 +1,4 @@
-## Things to Prepare
+#ao# Things to Prepare
 - [x] Property and Timber Pest Inspection Report dated 9 June 2026.
 - [x] Your original email notifying Symmetric Homes of the defects.
 - [x] The builder’s initial response denying responsibility.
