@@ -7,3 +7,4 @@
 - Currently in Supabase, being synced with the main database using some sort of cron job (he referred to them as "actions").
 - One-way sync, so no concern about data integrity.
 - Any database updates will be done on the main DB through API calls, currently not implemented.
+
