@@ -1,3 +1,23 @@
+Carebridge login incident — findings summary (22 Jul 2026)
+
+Three independent problems, not one root cause. The DB error the client forwarded is a red herring — harmless, and only visible because the admin was editing accounts to fix them.
+
+1 · Password-wipe bug (Irene + systemic) — HIGH.
+On login, the app treats "no password_reset_tokens row" as "first-time login" and silently overwrites the user's password with a temp value, then forces a reset. It's the intended onboarding flow, but keyed off a transient table — so any onboarded user who reaches login without a token row gets their working password destroyed → "credentials don't match."
+- Irene (irene.tapu@ibis.care) — resolved. Real password, protected by a token row; the reported irene@ was a typo.
+- Wider blast radius: 7 users locked out right now (unreported); 485/976 (~50%) exposed on their next login.
+- Fix: durable password_set_at flag instead of the token check, never clobber a valid password, backfill existing users. Remediate the 7 now; plan the 485.
+
+2 · 2FA lockout (Annette) — MEDIUM, cause not yet pinned.
+Confirmed: password fine; she authenticates but is stuck at 2FA (session has web-guard login, no user_2fa); no successful 2FA since February. Cause (delivery latency vs stale code vs mis-entry) still needs the prod mail-provider log (no creds locally) or a live repro tomorrow. Fix (confirm-first): explicit tunable expires_at, longer window, clearer resend messaging, add send/failed-attempt logging. Rate-limit + single-use → separate security ticket.
+
+Next actions: remediate 7 locked users + plan the 485 · pull Annette's mail logs / live repro · file P1/P2/P3 + security ticket · client reply (qualitative + proactive).
+
+
+
+
+
+
 ## Todo
 - Make plan
 - Discuss plan with Jordan
