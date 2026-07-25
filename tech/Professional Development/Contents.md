@@ -15,6 +15,8 @@
 			- [ ] Learn You A Haskell
 			- [ ] Real World Haskell
 	- [ ] [[Rust Book]]
+	- [ ] [[Rust by Example]]
+	- [ ] Rustings
 	- [ ] **Dioxus**: Full-stack, component-based Rust framework that can target web, desktop, and mobile.
 - [ ] Rejex
 - [ ] Lifestyle

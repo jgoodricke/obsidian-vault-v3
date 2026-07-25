@@ -1,6 +1,6 @@
 - [ ]  [**1.** Hello World](https://doc.rust-lang.org/stable/rust-by-example/hello.html)
     - [x]  [Activity](https://doc.rust-lang.org/stable/rust-by-example/hello.html#activity)
-    - [ ]  [**1.1.** Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html)
+    - [x]  [**1.1.** Comments](https://doc.rust-lang.org/stable/rust-by-example/hello/comment.html)
     - [ ]  [**1.2.** Formatted print](https://doc.rust-lang.org/stable/rust-by-example/hello/print.html)
         - [ ]  [**1.2.1.** Debug](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_debug.html)
         - [ ]  [**1.2.2.** Display](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html)
