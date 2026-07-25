@@ -57,3 +57,4 @@
 - TMNT: Shredders Revenge
 - Princess Farmer
 - The Oroboros King
+- Foretales

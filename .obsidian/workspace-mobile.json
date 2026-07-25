@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/Clothes Sizes.md",
+                "file": "personal/gaming/Epic Games Mobile Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clothes Sizes"
+              "title": "Epic Games Mobile Library"
             }
           },
           {
@@ -106,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Clothes",
+            "query": "Epic games",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,6 +226,15 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "personal/Clothes Sizes.md",
+    "job/webres/Focus Machinery/Meetings/2026-07-22 - Discuss Setting Up MCP Server.md",
+    "job/webres/Focus Machinery/Claude MCP/Original Email.md",
+    "job/webres/Focus Machinery/Claude MCP/ERP SQL MCP Connector.md",
+    "job/webres/Focus Machinery/Meetings",
+    "job/webres/Focus Machinery/Claude MCP",
+    "job/webres/Focus Machinery",
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-30.md",
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-23.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Elder Scrolls/Oblivion/Oblivion Modlist.md",
@@ -248,19 +257,10 @@
     "job/webres/Carebridge/Analytics Dashboard/Suburb Data.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-03.md",
     "job/webres/Carebridge/Meetings/2026-03-26 - Carebridge Meeting.md",
-    "job/webres/Carebridge/Meetings/2025-06-30 - CBR-182 - Catch Up.md",
-    "personal/gaming/Fallout4/Fallout 4 Mods 1.md",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info/index.tsx.md",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components",
-    "home/james/Projects/portal/resources/js/pages/map/components/content",
-    "home/james/Projects/portal/resources/js/pages/map/components",
-    "job/webres/Carebridge/Meetings/2026-06-24 Cycle Scope.md",
-    "personal/Plan.md",
-    "personal/Clothes Sizes.md"
+    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel"
   ]
 }
