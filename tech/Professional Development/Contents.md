@@ -32,6 +32,8 @@
 - [ ] SOLID Principles
 
 # Books to Read
+- [Pro Git Book](https://git-scm.dev/book/en/v2)
+- The Cathedral and the Bazzar
 - Get books by Kent Beck:
 	- *Small Talk: Best Practice Patterns* and *Implementation Patterns*
 	- Extreme Programming Explained
