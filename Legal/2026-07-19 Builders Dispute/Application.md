@@ -7,9 +7,9 @@
 - [x] Your final follow-up with the 15 July deadline.
 - [x] The builder’s latest response denying responsibility.
 - [x] A note that the claimed inspection summary and photographs were not attached.
-- [ ] Photos/videos of 
-	- [ ] the garage slab cracks, 
-	- [ ] external wall cracks 
+- [x] Photos/videos of 
+	- [x] the garage slab cracks, 
+	- [x] external wall cracks 
 	- [x] water pooling.
 - [ ] Any crack measurements or rain and pooling logs.
 - [ ] Occupancy permit, building permit, plans and other records you currently hold.
