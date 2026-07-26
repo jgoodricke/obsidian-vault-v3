@@ -13,7 +13,7 @@
 	- [x] water pooling.
 - [ ] Any crack measurements or rain and pooling logs.
 - [ ] Occupancy permit, building permit, plans and other records you currently hold.
-- [ ] A short defect schedule identifying each issue and the outcome requested.
+- [x] A short defect schedule identifying each issue and the outcome requested.
 
 
 ## Description of the dispute (TODO)
