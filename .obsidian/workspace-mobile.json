@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Scratchpad"
             }
           },
           {
@@ -106,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Rust manual",
+            "query": "Playgr",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -226,6 +226,7 @@
   },
   "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/gaming/Epic Games Mobile Library.md",
@@ -238,7 +239,6 @@
     "job/webres/Focus Machinery",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-30.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-23.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "personal/gaming/Elder Scrolls/Oblivion/Oblivion Modlist.md",
     "personal/PC & Laptop Specs.md",
     "personal/gaming/Elder Scrolls/Oblivion",
