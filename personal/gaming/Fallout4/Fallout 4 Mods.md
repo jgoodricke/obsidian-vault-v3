@@ -88,6 +88,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- High Fidelity Music Project
 	- High Fidelity Sounds Project
 - Pipboy Valve Mod - True pip-boy speaker emulation
+- Power Armor Heavy Bullet Impact Sounds
 ## Quality of Life
 - Keep Radiants in the Commonwealth
 - Companion Stealth Distance Fix
@@ -220,7 +221,8 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
-- Nuclear Generators (Fision Version)
+- Alt Power
+	- OR Nuclear Generator
 - FIND/MAKE: Remove explosives from Chemistry workstation, 
 	- and add alternative, less powerful home made versions.
 
