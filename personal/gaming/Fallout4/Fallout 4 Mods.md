@@ -4,6 +4,20 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 [Power Armor Damage Threshold](https://www.nexusmods.com/fallout4/mods/58614)
 - Check out Commonwealth Iguanas
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
+- Check out 
+	- Reputation VR
+	- Slower Levelling (0.5) OR XP GEM
+	- Partial Perk Points Per Intelligence?
+	- Lucky Loot? Check comparability with Loot Logic and Reduction
+	- Scrap Heap - A Junk Mod
+	- Homemade Explosives
+	- Hit those explosives
+	- Faster Load Screens
+	- XP - GEM (Global Experience Multiplier)
+	- Remote Explosives - C4 with Detonators and More
+	- Less Flashy Museum of Freedom (When Freedom Calls)?
+	- XP - GECK
+	- Concord - Supermutant Boss instead of Deathclaw
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -182,6 +196,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
 - No Adrenaline
+- Survival XP Gain Same As Other Difficulties
 
 ### More Lively World
 - Random Encounters Framework
