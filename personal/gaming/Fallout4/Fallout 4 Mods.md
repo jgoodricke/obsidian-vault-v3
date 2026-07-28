@@ -13,11 +13,12 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Homemade Explosives
 	- Hit those explosives
 	- Faster Load Screens
-	- XP - GEM (Global Experience Multiplier)
 	- Remote Explosives - C4 with Detonators and More
 	- Less Flashy Museum of Freedom (When Freedom Calls)?
 	- XP - GECK
 	- Concord - Supermutant Boss instead of Deathclaw
+	- OR less Flashy Museum of Freedom
+	- Fat Man Radiation Hazard
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -68,6 +69,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - VR Shadow Boost
 - Faster Decompression
 - AutoSave F4SEVR
+- [Skip](https://www.nexusmods.com/fallout4/mods/88418)
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
@@ -151,10 +153,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Realistic Crippled Limbs Effects
 - Stimpaks restore less limb damage
 #### Early Game Fixes
-- Rough Start Less Handouts
+- Remove 10mm Pistols from Vault 111 and Early Game
+- Less Flashy Museum of Freedom
+	- OR the following:
+		- No Free Power Armor?
+		- concord Rusty minigun
+		- Starved Concord Deathclaw
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
-- concord Rusty minigun
-- Starved Concord Deathclaw
 ### Power Armour and Minigun fixes
 - Instructions Not Included - A Some Assembly Required Redux
 - Improved Miniguns
