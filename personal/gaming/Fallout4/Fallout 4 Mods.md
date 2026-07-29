@@ -149,12 +149,12 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Food Mod
 - Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
-## Survival Fixes
-- SKK Dynamic Damage Manager
-	- outgoing damage: 150% (to compensate for loss of adrenaline).
-	- incoming damage to 400% (default for Survival mode) 
-	- Experience to 100% (rather than 200%)
+#### Survival Fixes
+- Survival XP Gain Same As Other Difficulties
+- Kaptain's Tweaked Difficulty Damage Scaling
 - No Adrenaline
+- XP - GEM (x0.5)
+- NX Encounter Zones
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -237,7 +237,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
 - - [Conquest](https://www.nexusmods.com/fallout4/mods/12511): Not compatible with SIM Settlements 2
-- Survival XP Gain Same As Other Difficulties: SKK Dynamic Damage Manager already covers this 
+
 - Bastion - when ported to VR
 	- Or use Better Power Armor (original version).
 	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
@@ -251,7 +251,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Give Me My Bottle Back (Immersive Version)
 	- Immersive Consumables and Recycling - Gimme Dat Can
 	- Food Scrap - Get Syringes from Stimpaks and more
-
+- SKK Dynamic Damage Manager (Overly complex for what I need)
+	- outgoing damage: 150% (to compensate for loss of adrenaline).
+	- incoming damage to 400% (default for Survival mode) 
+	- Experience to 100% (rather than 200%)
 
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
