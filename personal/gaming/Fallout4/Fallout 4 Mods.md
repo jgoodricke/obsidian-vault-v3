@@ -152,10 +152,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Instructions Not Included - A Some Assembly Required Redux
 - Improved Miniguns
 	- OR better miniguns
-- WAIT: Bastion - when ported to VR
-	- Or use Better Power Armor (original version).
-	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
-	- OR just use the LBPAC module for Instructions not Included.
+
 
 ### Better Economy
 - Loot Logic and Reduction
@@ -168,7 +165,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 ### Survival
 - Advanced Needs 76?
-- [Conquest](https://www.nexusmods.com/fallout4/mods/12511)
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - TODO: Choose a food mod
 	- Moon's Food Balance Overhaul
@@ -176,7 +172,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 		- Or one of these alternatives
 			- Cooking Overhaul
 			- Food Mod
-- FIND/MAKE: Add Settlement Ambush Kit Monitor to Conquest
 - Give Me My Bottle Back (Immersive Version)
 	- Or one of these
 		- Recycle - Give Me My Leftovers Back
@@ -189,14 +184,14 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
 - No Adrenaline
-- Survival XP Gain Same As Other Difficulties
+
 
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
 	- Commonwealth broadcasting service
 		- Tales of the Commonwealth Patch
-	- Commonwealth Hit Squads
+	- Reputation VR
 - Story Encounter Booster
 - Refreshing Checkpoints
 - Better Bloatflies
@@ -271,6 +266,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Better Explosives Redux: Requires too many patches for other explosives mods
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
+- - [Conquest](https://www.nexusmods.com/fallout4/mods/12511): Not compatible with SIM Settlements 2
+- Survival XP Gain Same As Other Difficulties: SKK Dynamic Damage Manager already covers this 
+- Bastion - when ported to VR
+	- Or use Better Power Armor (original version).
+	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
+	- OR just use the LBPAC module for Instructions not Included.
+
 ### Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap
@@ -279,3 +281,4 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Make ammo crafting more like this:
 	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
 - Disable Power Armor Forge and Armor Forge
+- 
