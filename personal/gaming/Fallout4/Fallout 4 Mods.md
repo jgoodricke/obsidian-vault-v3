@@ -6,18 +6,14 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
 - Check out 
 	- Reputation VR
-	- Slower Levelling (0.5) OR XP GEM
+	- XP GEM
 	- Partial Perk Points Per Intelligence?
 	- Lucky Loot? Check comparability with Loot Logic and Reduction
-	- Scrap Heap - A Junk Mod
-	- Homemade Explosives
+	- Homemade Explosives?
+		- Or Little Boom
 	- Hit those explosives
 	- Faster Load Screens
 	- Remote Explosives - C4 with Detonators and More
-	- Less Flashy Museum of Freedom (When Freedom Calls)?
-	- XP - GECK
-	- Concord - Supermutant Boss instead of Deathclaw
-	- OR less Flashy Museum of Freedom
 	- Fat Man Radiation Hazard
 # Modding Philosophy
 - Character:
@@ -134,7 +130,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - WAIT: Kabuto VR - when SKSE version comes out
 
 ### Action RPG
-- Better Explosives Redux
 - Addiction Overhaul
 - Better Chems
 - Chemfluence
@@ -147,18 +142,11 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - SKK Combat Stalkers
 	- Don't forget my patch
 	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
-- WAIT: Knockout Framework (for VR), 
-	- and the associated mods to go with it.
-	- The tranquilizer gun
 - Realistic Crippled Limbs Effects
-- Stimpaks restore less limb damage
+- Stimpaks restore less limb damage? Or find a mod that makes them not work at all.
 #### Early Game Fixes
 - Remove 10mm Pistols from Vault 111 and Early Game
 - Less Flashy Museum of Freedom
-	- OR the following:
-		- No Free Power Armor?
-		- concord Rusty minigun
-		- Starved Concord Deathclaw
 - Less Loot - Assorted Locations and Quest Mod Patches for Survival
 ### Power Armour and Minigun fixes
 - Instructions Not Included - A Some Assembly Required Redux
@@ -222,7 +210,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- SS2 VR Clipboard and Fixes
 	- Settlement Management Terminal
 - Place in Red VR (by rollingrock16)
-- TODO: Immersive Teleportation 2
+- Immersive Teleportation 2
 - Longer Power Lines
 - This is MY bed
 - Edmond's Settlement Attack Spawns Outside the Settlement
@@ -241,21 +229,9 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
-- Alt Power
-	- OR Nuclear Generator
+- Nuclear Generator
 - FIND/MAKE: Remove explosives from Chemistry workstation, 
 	- and add alternative, less powerful home made versions.
-
-### Factory Overhaul?
-- Update chance of getting scrap instead of component
-- Update chemistry recipes so they require containers instead of scrap
-- Also make a separate machine for making containers, or update the builder to build them.
-- Update food manufacturing so they require containers.
-- Make ammo crafting more like this:
-	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
-- Disable Power Armor Forge and Armor Forge
-
-
 ### Quests
 - [Atomic Radio and Tales from the Commonwealth](https://3dnpc.com/2016/06/13/tales-from-the-commonwealth-news-and-notes/)
 	- Tales of the Commonwealth
@@ -275,10 +251,31 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Nuka-World - High Quality Pip-Boy Map
 - Simply Smaller Map Markers
 - Get Lost (Player Map Marker Remover)
-
-
 ## Misc
 - Boyancy Fixes
 - FIND: Restore The Wanderer to Diamond City Radio
 - Better Coastal Waves
 - CROSS Crit Gore-verhaul 
+
+
+# Won't Use
+- Less Flashy Museum of Freedom Alternatives:
+	- No Free Power Armor?
+	- concord Rusty minigun
+	- Starved Concord Deathclaw
+	- Concord - Supermutant Boss instead of Deathclaw
+- SKK Fast Start new game: Skip does the same thing without scripts
+- Select Blaster: Looks cool, but a bit overly complex and hard to integrate
+- Knockout Framework: Buggy with flying enemies
+- Alt Power: Nuclear Generator does what I need I think.
+- Better Explosives Redux: Requires too many patches for other explosives mods
+- Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
+- Any mod that adds new weapons - probably won't work with the reload mod.
+### Factory Overhaul?
+- Update chance of getting scrap instead of component
+- Update chemistry recipes so they require containers instead of scrap
+- Also make a separate machine for making containers, or update the builder to build them.
+- Update food manufacturing so they require containers.
+- Make ammo crafting more like this:
+	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
+- Disable Power Armor Forge and Armor Forge
