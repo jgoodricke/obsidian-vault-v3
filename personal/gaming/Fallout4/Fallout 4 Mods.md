@@ -157,7 +157,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Kaptain's Tweaked Difficulty Damage Scaling
 - No Adrenaline
 - XP - GEM (x0.5)
-- NX Encounter Zones?
+- NX Encounter Zones
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
