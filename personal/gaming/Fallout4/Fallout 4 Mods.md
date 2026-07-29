@@ -153,11 +153,11 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
 #### Survival Fixes
-- No Adrenaline
 - Survival XP Gain Same As Other Difficulties
 - Kaptain's Tweaked Difficulty Damage Scaling
 - No Adrenaline
-- NX Encounter Zones
+- XP - GEM (x0.5)
+- NX Encounter Zones?
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
