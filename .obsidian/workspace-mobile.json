@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/gaming/Fallout4/Fallout 4 Mods.md",
+                "file": "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fallout 4 Mods"
+              "title": "Skyrim Modlist"
             }
           },
           {
@@ -106,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Fallout ",
+            "query": "Skyrim",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -224,12 +224,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4223005a1018366b",
+  "active": "4fac1da60f2fb334",
   "lastOpenFiles": [
+    "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "Scratchpad.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Contents.md",
-    "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "personal/Clothes Sizes.md",
     "job/webres/Focus Machinery/Meetings/2026-07-22 - Discuss Setting Up MCP Server.md",

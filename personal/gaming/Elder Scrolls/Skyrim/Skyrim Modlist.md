@@ -74,6 +74,7 @@ Redguard:
 - M.I.N.T. - Mint-Issued National Tenders
 - C.O.I.N. - Coins of Interesting Nature
 - The Sigil Shop - Soul Proprietorship
+- Physical Collision VR (replace pseudo physical weapon collisions?)
 
 # Wait for
 - Boats - Operational Animated Travel

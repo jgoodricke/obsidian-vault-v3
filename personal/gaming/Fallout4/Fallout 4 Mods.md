@@ -5,16 +5,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Check out Commonwealth Iguanas
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
 - Check out 
-	- Reputation VR
-	- XP GEM
 	- Partial Perk Points Per Intelligence?
 	- Lucky Loot? Check comparability with Loot Logic and Reduction
 	- Homemade Explosives?
-		- Or Little Boom
+		- Or Little Boom?
 	- Hit those explosives
 	- Faster Load Screens
 	- Remote Explosives - C4 with Detonators and More
-	- Fat Man Radiation Hazard
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -220,9 +217,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Get Lost (Player Map Marker Remover)
 ## Misc
 - Boyancy Fixes
-- FIND: Restore The Wanderer to Diamond City Radio
 - Better Coastal Waves
-- CROSS Crit Gore-verhaul 
+- CROSS Crit Gore-verhaul
+- Fat Man Radiation Hazard
+- Wanderer Song Restored (may not be necessary, unless I copy the BA2 files from AE).
 
 
 # Won't Use
