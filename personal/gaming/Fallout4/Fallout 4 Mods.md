@@ -88,7 +88,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 ### Lighting & Weather
 - Vivid Weather's
-- Interiors Enhanced - Darker Ambient Light and Fog
+
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
 - TODO: Phylight and Phydark? Or Mod to make night darker?
 - TODO: Seasons Mod?
@@ -141,9 +141,8 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - No Combat Boundaries - Revised and Renewed
 - SKK Combat Stalkers
 	- Don't forget my patch
-	- Also install SKK Dynamic workshop time, but leave the time as default. This prevents attacks when building.
 - Realistic Crippled Limbs Effects
-- Stimpaks restore less limb damage? Or find a mod that makes them not work at all.
+- Stimpaks restore less limb damage (use 10% version).
 #### Early Game Fixes
 - Remove 10mm Pistols from Vault 111 and Early Game
 - Less Flashy Museum of Freedom
@@ -151,8 +150,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ### Power Armour and Minigun fixes
 - Instructions Not Included - A Some Assembly Required Redux
 - Improved Miniguns
-	- OR better miniguns
-
 
 ### Better Economy
 - Loot Logic and Reduction
@@ -166,17 +163,8 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ### Survival
 - Advanced Needs 76?
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
-- TODO: Choose a food mod
-	- Moon's Food Balance Overhaul
-		- Needs to be tweaked to remove radiation from pre-war food (like in Food Mod).
-		- Or one of these alternatives
-			- Cooking Overhaul
-			- Food Mod
-- Give Me My Bottle Back (Immersive Version)
-	- Or one of these
-		- Recycle - Give Me My Leftovers Back
-		- Immersive Consumables and Recycling - Gimme Dat Can
-		- Food Scrap - Get Syringes from Stimpaks and more
+- Food Mod
+- Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
 ## Survival Fixes
 - SKK Dynamic Damage Manager
@@ -272,8 +260,18 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Or use Better Power Armor (original version).
 	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
 	- OR just use the LBPAC module for Instructions not Included.
+- better miniguns: Improved Miniguns is more balanced.
+- Interiors Enhanced - Darker Ambient Light and Fog (Conflicts with Fog Remover)
+- Alternatives to Food Mod
+	- Moon's Food Balance Overhaul- Needs to be tweaked to remove radiation from pre-war food (like in Food Mod).
+	- Cooking Overhaul: A bit overly complex
+- Alternatives to Recycle:
+	- Give Me My Bottle Back (Immersive Version)
+	- Immersive Consumables and Recycling - Gimme Dat Can
+	- Food Scrap - Get Syringes from Stimpaks and more
 
-### Factory Overhaul?
+
+## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap
 - Also make a separate machine for making containers, or update the builder to build them.
@@ -281,4 +279,4 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Make ammo crafting more like this:
 	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
 - Disable Power Armor Forge and Armor Forge
-- 
+
