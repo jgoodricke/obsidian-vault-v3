@@ -152,14 +152,12 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Food Mod
 - Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
-## Survival Fixes
+#### Survival Fixes
 - No Adrenaline
 - Survival XP Gain Same As Other Difficulties
-- SKK Dynamic Damage Manager
-	- outgoing damage: 150% (to compensate for loss of adrenaline).
-	- incoming damage to 400% (default for Survival mode) 
-	- Experience to 100% (rather than 200%)
+- Kaptain's Tweaked Difficulty Damage Scaling
 - No Adrenaline
+- NX Encounter Zones
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -255,7 +253,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Give Me My Bottle Back (Immersive Version)
 	- Immersive Consumables and Recycling - Gimme Dat Can
 	- Food Scrap - Get Syringes from Stimpaks and more
-
+- SKK Dynamic Damage Manager (Overly complex for what I need)
+	- outgoing damage: 150% (to compensate for loss of adrenaline).
+	- incoming damage to 400% (default for Survival mode) 
+	- Experience to 100% (rather than 200%)
 
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
