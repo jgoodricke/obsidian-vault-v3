@@ -5,16 +5,16 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Check out Commonwealth Iguanas
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
 - Check out 
-	- Reputation VR
-	- XP GEM
-	- Partial Perk Points Per Intelligence?
-	- Lucky Loot? Check comparability with Loot Logic and Reduction
-	- Homemade Explosives?
-		- Or Little Boom
-	- Hit those explosives
-	- Faster Load Screens
-	- Remote Explosives - C4 with Detonators and More
-	- Fat Man Radiation Hazard
+- Reputation VR
+- XP GEM
+- Partial Perk Points Per Intelligence?
+- Lucky Loot? Check comparability with Loot Logic and Reduction
+- Homemade Explosives?
+	- Or Little Boom
+- Hit those explosives
+- Faster Load Screens
+- Remote Explosives - C4 with Detonators and More
+- Fat Man Radiation Hazard
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -153,6 +153,8 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
 ## Survival Fixes
+- No Adrenaline
+- Survival XP Gain Same As Other Difficulties
 - SKK Dynamic Damage Manager
 	- outgoing damage: 150% (to compensate for loss of adrenaline).
 	- incoming damage to 400% (default for Survival mode) 
@@ -239,7 +241,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
 - - [Conquest](https://www.nexusmods.com/fallout4/mods/12511): Not compatible with SIM Settlements 2
-- Survival XP Gain Same As Other Difficulties: SKK Dynamic Damage Manager already covers this 
+
 - Bastion - when ported to VR
 	- Or use Better Power Armor (original version).
 	- OR Power Armor Damage Threshold (needs the DT bug dll to be ported).
