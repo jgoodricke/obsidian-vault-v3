@@ -75,6 +75,7 @@ Redguard:
 - C.O.I.N. - Coins of Interesting Nature
 - The Sigil Shop - Soul Proprietorship
 - Physical Collision VR (replace pseudo physical weapon collisions?)
+- Rebalanced Encounter Zones and Leveled Actors? Might conflict with Arena.
 
 # Wait for
 - Boats - Operational Animated Travel

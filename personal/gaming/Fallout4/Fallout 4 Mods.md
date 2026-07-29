@@ -11,7 +11,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 		- Or Little Boom?
 	- Hit those explosives
 	- Faster Load Screens
-	- Remote Explosives - C4 with Detonators and More
+	
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -151,10 +151,11 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Decontamination Arch Requires Science Perk
 #### Survival Fixes
 - Survival XP Gain Same As Other Difficulties
-- Kaptain's Tweaked Difficulty Damage Scaling
+- Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
+- OR Global Damage Multipliers for all Difficulties
 - No Adrenaline
 - XP - GEM (x0.5)
-- NX Encounter Zones
+
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -237,6 +238,8 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
 - - [Conquest](https://www.nexusmods.com/fallout4/mods/12511): Not compatible with SIM Settlements 2
+- NX Encounter Zones - Slower levelling should do the trick on its own.
+- Reduced Level-Up Speeds: Same as GEM
 
 - Bastion - when ported to VR
 	- Or use Better Power Armor (original version).
@@ -255,6 +258,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- outgoing damage: 150% (to compensate for loss of adrenaline).
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
+- Remote Explosives: doesn't work in VR.
 
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
