@@ -39,18 +39,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Improve visual clarity.
 	- Make nights and interiors darker to enhance tension.
 # Mods to Install
-## Creation Club
-### Next Gen Update?
-- Enclave Remnants
-	- X-02 power armor
-	- Hellfire power armor
-	- Heavy incinerator
-	- Tesla cannon
-- Makeshift Weapon Pack
-- Halloween Workshop Pack
-### Other
-- Settlement Ambush Kit?
-- Virtual Workshop
+
 ## Bug Fixes
 ### Engine-Level Fixes
 - Daytripper 4
@@ -88,7 +77,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 ### Lighting & Weather
 - Vivid Weather's
-
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
 - TODO: Phylight and Phydark? Or Mod to make night darker?
 - TODO: Seasons Mod?
@@ -150,7 +138,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 ### Power Armour and Minigun fixes
 - Instructions Not Included - A Some Assembly Required Redux
 - Improved Miniguns
-
 ### Better Economy
 - Loot Logic and Reduction
 	- Vendor Diversity Overhaul
@@ -159,7 +146,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - No Legendary Items From Creatures
 - Moon's Legendary Overhaul
 - Scavenge Station Improvements (scrap and plants version)
-
 ### Survival
 - Advanced Needs 76?
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
@@ -172,8 +158,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
 - No Adrenaline
-
-
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -264,7 +248,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Interiors Enhanced - Darker Ambient Light and Fog (Conflicts with Fog Remover)
 - Alternatives to Food Mod
 	- Moon's Food Balance Overhaul- Needs to be tweaked to remove radiation from pre-war food (like in Food Mod).
-	- Cooking Overhaul: A bit overly complex
+	- Cooking Overhaul
 - Alternatives to Recycle:
 	- Give Me My Bottle Back (Immersive Version)
 	- Immersive Consumables and Recycling - Gimme Dat Can
@@ -280,3 +264,17 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- F.N.V.A.C. - Fallout New Vegas Ammo Crafting
 - Disable Power Armor Forge and Armor Forge
 
+
+
+## Creation Club
+### Next Gen Update?
+- Enclave Remnants
+	- X-02 power armor
+	- Hellfire power armor
+	- Heavy incinerator
+	- Tesla cannon
+- Makeshift Weapon Pack
+- Halloween Workshop Pack
+### Other
+- Settlement Ambush Kit?
+- Virtual Workshop
