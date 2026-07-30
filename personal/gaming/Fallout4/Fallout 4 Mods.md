@@ -10,15 +10,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 		- Or Little Boom?
 	- Hit those explosives
 	- Faster Load Screens
-	- realistic mines
-		- No Glowing Mines and Realistic Tripwires
-		- Hardcore Mine Defusing
 	- Enemies Don't Shoot So Good No More
 	- No combat music
 	- No More EXP for Crafting
 	- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
 	- Darker Nights
 	- Interiors Enhanced - Darker Ambient Light and Fog
+	- Shaikujin's Better warning for settlements being attacked
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -150,23 +148,19 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Loot Logic and Reduction
 	- Vendor Diversity Overhaul
 	- NPC Loot Drop rebalance
-	- Scrounger Ammo Reduction? May not be necessary with Loot Logic Reduction
+	- Scrounger Ammo Reduction
 - No Legendary Items From Creatures
 - Moon's Legendary Overhaul
 - Scavenge Station Improvements (scrap and plants version)
 ### Survival
-- Advanced Needs 76?
-- [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)?
 - Food Mod
 - Recycle - Give Me My Leftovers Back
 - Decontamination Arch Requires Science Perk
 #### Survival Fixes
 - Survival XP Gain Same As Other Difficulties
 - Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
-- OR Global Damage Multipliers for all Difficulties
+- OR Global Damage Multipliers for all Difficulties (2.0)
 - No Adrenaline
-
-
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -190,18 +184,15 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Longer Power Lines
 - This is MY bed
 - Edmond's Settlement Attack Spawns Outside the Settlement
-- Vault-Tec Workshop Overhaul Redux
 - Vault 88 Essentials
-- TODO: BetterNixieTubes?
+	- Vault-Tec Workshop Overhaul Redux
+- Automatron Robot Expert
+#### Settlers
 - Diverse Wasteland - The Diverse Series All-in-One
 - We Have Names (and more) - All In One
 - Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
-- Settlement Progression:
-	- Automatron Robot Expert
-	- Settlement Progression?
 - Alias
-- Handmade Turrets
-	- Scrappy Turret Replacer
+
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
@@ -236,6 +227,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 
 # Won't Use
+- Handmade Turrets
+	- Scrappy Turret Replacer
+- Settlement Progression
+
+- BetterNixieTubes
+- Advanced Needs 76
+- [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)
 - Less Flashy Museum of Freedom Alternatives:
 	- No Free Power Armor?
 	- concord Rusty minigun
@@ -250,6 +248,9 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Any mod that adds new weapons - probably won't work with the reload mod.
 - NX Encounter Zones - Slower levelling should do the trick on its own.
 - Reduced Level-Up Speeds: Same as GEM
+- realistic mines: people seem to like the way mines work.
+		- No Glowing Mines and Realistic Tripwires
+		- Hardcore Mine Defusing
 
 - Bastion - when ported to VR
 	- Or use Better Power Armor (original version).
