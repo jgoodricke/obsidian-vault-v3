@@ -45,5 +45,7 @@
 - Get that design book by the Tailwind Team.
 - Don Knuth
 	- Literate programming
-- systems performance by brendan gregg
+- [systems performance by brendan gregg](https://m.youtube.com/playlist?list=PLYO0GRl5l33A)
+- [Designing Data-Intensive applications](https://m.youtube.com/playlist?list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+	- 
