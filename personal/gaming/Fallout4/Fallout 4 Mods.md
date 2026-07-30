@@ -11,7 +11,11 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 		- Or Little Boom?
 	- Hit those explosives
 	- Faster Load Screens
-	
+	- realistic mines
+	- Enemies Don't Shoot So Good No More
+	- No combat music
+	- No More EXP for Crafting
+	- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -36,6 +40,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Improve visual clarity.
 	- Make nights and interiors darker to enhance tension.
 # Mods to Install
+
+## Creation Club
+- Settlement Ambush Kit
+- Virtual Workshop
 
 ## Bug Fixes
 ### Engine-Level Fixes
@@ -237,7 +245,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Better Explosives Redux: Requires too many patches for other explosives mods
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
-- - [Conquest](https://www.nexusmods.com/fallout4/mods/12511): Not compatible with SIM Settlements 2
 - NX Encounter Zones - Slower levelling should do the trick on its own.
 - Reduced Level-Up Speeds: Same as GEM
 
@@ -259,7 +266,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- incoming damage to 400% (default for Survival mode) 
 	- Experience to 100% (rather than 200%)
 - Remote Explosives: doesn't work in VR.
-
+- Level Cap (50): it's hard to get past 50 aside from min-maxing.
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap
