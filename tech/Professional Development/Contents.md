@@ -45,3 +45,4 @@
 - Get that design book by the Tailwind Team.
 - Don Knuth
 	- Literate programming
+- systems performance by brendan gregg
