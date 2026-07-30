@@ -5,17 +5,20 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Check out Commonwealth Iguanas
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
 - Check out 
-	- Partial Perk Points Per Intelligence?
 	- Lucky Loot? Check comparability with Loot Logic and Reduction
 	- Homemade Explosives?
 		- Or Little Boom?
 	- Hit those explosives
 	- Faster Load Screens
 	- realistic mines
+		- No Glowing Mines and Realistic Tripwires
+		- Hardcore Mine Defusing
 	- Enemies Don't Shoot So Good No More
 	- No combat music
 	- No More EXP for Crafting
 	- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
+	- Darker Nights
+	- Interiors Enhanced - Darker Ambient Light and Fog
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -162,7 +165,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
 - OR Global Damage Multipliers for all Difficulties
 - No Adrenaline
-- XP - GEM (x0.5)
+
 
 ### More Lively World
 - Random Encounters Framework
@@ -267,6 +270,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Experience to 100% (rather than 200%)
 - Remote Explosives: doesn't work in VR.
 - Level Cap (50): it's hard to get past 50 aside from min-maxing.
+- XP - GEM (x0.5): Removing exp for crafting seems like the better approach.
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap
