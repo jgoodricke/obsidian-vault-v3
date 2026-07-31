@@ -98,9 +98,7 @@ The OAuth client ID and secret will be supplied securely to the approved users. 
 Hands-on setup for additional users can be handled through the existing support arrangement.
 
 ### 5. Technical Verification and Handover
-
 Verify that:
-
 - The MCP endpoint is reachable through Claude Desktop.
 - An assigned user can complete Entra authentication.
 - An unassigned or unauthenticated user is rejected.
@@ -133,13 +131,13 @@ If a material assumption is incorrect, Webres will confirm the effect on scope a
 
 ## Estimated Effort and Costs
 
-| Area | Indicative effort |
-| --- | ---: |
-| DAB 2.0 preparation and compatibility | 2–3 hours |
-| App Service deployment and database connectivity | 3–4 hours |
-| Entra ID and native MCP OAuth | 4–6 hours |
-| Verification, one-user setup, and documentation | 3–5 hours |
-| **Total** | **Approximately 2–3 engineering days** |
+| Area                                             | Indicative effort |
+| ------------------------------------------------ | ----------------: |
+| DAB 2.0 preparation and compatibility            |           4 hours |
+| App Service deployment and database connectivity |           6 hours |
+| Entra ID and native MCP OAuth                    |           8 hours |
+| Verification, one-user setup, and documentation  |           6 hours |
+| **Total**                                        |          24 hours |
 
 The estimate includes a modest allowance for ordinary deployment, OAuth, and configuration issues.
 
@@ -214,8 +212,7 @@ App Service will provide:
 - Protected runtime configuration for secrets.
 - Basic application and authentication logs.
 
-The rollout will use one small instance. App Service does not provide the scale-to-zero behavior described in the earlier Container Apps design.
-
+The rollout will use one small instance.
 ### A.3 Microsoft Entra OAuth
 
 The OAuth design uses two single-tenant registrations.
@@ -249,13 +246,9 @@ Required hosting and security changes are:
 DAB will continue to generate deterministic database queries through its entity abstraction. It will not accept arbitrary SQL from Claude.
 
 ### A.5 Network Controls
-
-App Service access restrictions will allow Anthropic's current published outbound IP ranges. Temporary Webres access may be enabled during deployment and removed after verification.
-
-The outbound connection from App Service to the reporting database will use the database's approved Azure endpoint and firewall rules.
-
-If the database requires a private endpoint, VPN, VNet redesign, or cross-tenant network work, that work will be estimated separately.
-
+- App Service access restrictions will allow Anthropic's current published outbound IP ranges. 
+- The outbound connection from App Service to the reporting database will use the database's approved Azure endpoint and firewall rules.
+- If the database requires a private endpoint, VPN, VNet redesign, or cross-tenant network work, that work will be estimated separately.
 ### A.6 Secrets
 
 The database connection string and App Service authentication secret will be held in protected App Service configuration.
