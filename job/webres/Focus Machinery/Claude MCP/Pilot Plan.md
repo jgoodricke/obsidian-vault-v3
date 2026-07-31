@@ -1,561 +1,303 @@
-# Cloud-Hosted ERP MCP Server Pilot
+# Azure-Hosted ERP MCP Server — Limited Rollout
 
-## Objective
+## Proposal Summary
 
-Move the client's existing ERP MCP proof of concept from a local workstation into Azure so that it can be used by a small group of approximately 3–4 users through Claude Code.
+Webres will move the client's existing Data API Builder (DAB) SQL MCP Server from a local workstation to Azure.
 
-The implementation will retain the existing read-only and whitelist-based security model while replacing the local DAB/ngrok setup with a centrally hosted HTTPS endpoint protected by Microsoft Entra ID authentication.
+The hosted service will support an initial group of approximately 3–4 users through Claude Desktop. It may remain limited to that group or be expanded later under a separate scope.
 
-The pilot is intended to minimise initial implementation effort and cost while providing a secure and practical shared deployment.
+The solution will preserve the existing read-only database access and DAB entity allowlist while replacing the workstation and ngrok dependency with a centrally managed Azure service.
 
-## Existing Proof of Concept
+## Recommended Solution
 
-The current proof of concept uses Microsoft's Data API Builder (DAB) SQL MCP Server to provide Claude with controlled, read-only access to ERP data.
+The supplied DAB configuration will be deployed to Azure App Service and connected to the existing test/reporting database.
 
-The existing implementation already includes several useful controls:
+Users will connect through a Claude Desktop custom connector. Microsoft Entra ID will provide individual browser-based authentication, and only named users will be assigned access.
 
-- Only explicitly configured database entities are exposed to Claude.
-    
-- Create, update and delete MCP tools are disabled.
-    
-- Database access uses a dedicated read-only account.
-    
+```text
+Rollout user
+    │
+    │ Claude Desktop
+    ▼
+Anthropic connector infrastructure
+    │
+    │ HTTPS + Microsoft Entra OAuth
+    ▼
+Azure App Service
+    │
+    │ Authenticated MCP requests
+    ▼
+Data API Builder / SQL MCP Server
+    │
+    │ Existing read-only database account
+    ▼
+Existing test/reporting database
+```
+
+Azure App Service is recommended because its authentication integration supports the OAuth discovery flow required by remote MCP clients such as Claude Desktop.
+
+The service will use a small, single-instance deployment. Formal high availability, disaster recovery, and uptime commitments are not part of this limited rollout.
+
+## Security Controls
+
+The deployment will retain or introduce the following controls:
+
+- A single-tenant Microsoft Entra application restricted to named rollout users.
+- Browser-based OAuth authentication for each user, using their existing Microsoft identity.
+- HTTPS enforced by Azure App Service.
+- App Service ingress restricted to Anthropic's published outbound IP ranges.
+- DAB entity access changed from `anonymous:read` to `authenticated:read`.
+- Only the entities already present in the supplied DAB configuration exposed.
+- Create, update, delete, and execute MCP tools disabled.
+- REST and GraphQL endpoints disabled.
+- The existing database account retained with read-only access.
+- The connection limited to the existing test/reporting database.
+- Database and App Service authentication secrets stored in protected App Service configuration.
+- The Claude OAuth client secret distributed only through an approved secure channel.
+- Azure operational and error logging enabled for support purposes.
+
+The client has already approved sending query results from the production-derived reporting database through Anthropic's Claude service.
+
+Per-user query auditing is not included. Entra and Azure logs will support authentication and operational troubleshooting, but will not provide a formal user-to-query audit trail.
+
+## Scope and Deliverables
+
+### 1. Pre-deployment Validation
+
+- Confirm that the nominated Claude account supports remote custom connectors.
+- Confirm the database engine, endpoint, database name, and read-only credential.
+- Verify the available network path from Azure App Service to the reporting database.
+- Validate the supplied DAB configuration against a pinned DAB 2.0 release.
+
+Database connectivity is currently unverified. Simple firewall or access-list changes are included; private networking or material network redesign is not.
+
+### 2. Azure App Service Deployment
+
+- Create or configure the required App Service resources in the client's Azure environment.
+- Deploy a pinned, current stable DAB 2.0 runtime with the supplied entity configuration.
+- Configure HTTPS, runtime settings, secrets, and basic operational logging.
+- Restrict inbound MCP traffic to Anthropic's published outbound IP ranges.
+- Connect DAB to the existing test/reporting database using the existing read-only account.
+
+### 3. Microsoft Entra and MCP OAuth
+
+- Create a single-tenant Entra resource registration for the MCP service.
+- Create a separate OAuth client registration for the Claude connector.
+- Configure the MCP authorization scope and OAuth discovery metadata.
+- Require authentication and reject unauthenticated requests.
+- Require user assignment and grant access only to the named rollout users.
+- Configure a time-limited OAuth client secret for the individual Claude accounts.
+- Update DAB to use App Service identity and `authenticated:read` entity permissions.
+
+The OAuth client ID and secret will be supplied securely to the approved users. The secret authenticates the connector client, while Entra sign-in and server-side user assignment still control access.
+
+### 4. Claude Desktop Setup
+
+- Add and authenticate the custom connector for one nominated Claude Desktop user.
+- Verify the complete connection flow from Claude Desktop to DAB.
+- Provide concise setup instructions for the remaining approved users.
+
+Hands-on setup for additional users can be handled through the existing support arrangement.
+
+### 5. Technical Verification and Handover
+
+Verify that:
+
+- The MCP endpoint is reachable through Claude Desktop.
+- An assigned user can complete Entra authentication.
+- An unassigned or unauthenticated user is rejected.
+- The supplied entities can be discovered.
+- A representative read operation reaches the reporting database.
+- Create, update, delete, and execute tools are unavailable.
+- REST and GraphQL remain disabled.
+- The service recovers after an App Service restart.
+- Anthropic IP restrictions are active.
+
+Provide a short handover covering the Azure resources, secrets, OAuth registrations, user assignment, connector setup, and basic troubleshooting.
+
+Business-query accuracy, reporting logic, and ERP entity design are the client's responsibility and are not acceptance criteria for this work.
+
+## Responsibilities and Assumptions
+
+Webres already administers the client's Azure and Entra environments and will perform the required cloud and identity configuration.
+
+The estimate assumes:
+
+- The supplied DAB entity configuration can be deployed without redesign.
+- Only compatibility and authentication changes are required.
+- The existing test/reporting database remains the target.
+- The existing database credential remains valid and read-only.
+- The database is reachable through a straightforward Azure network path.
+- Each rollout user has an eligible Claude account and an identity in the client's Entra tenant.
+- The users can receive the OAuth client details through an approved secure channel.
+
+If a material assumption is incorrect, Webres will confirm the effect on scope and effort before proceeding with additional work.
+
+## Estimated Effort and Costs
+
+| Area | Indicative effort |
+| --- | ---: |
+| DAB 2.0 preparation and compatibility | 2–3 hours |
+| App Service deployment and database connectivity | 3–4 hours |
+| Entra ID and native MCP OAuth | 4–6 hours |
+| Verification, one-user setup, and documentation | 3–5 hours |
+| **Total** | **Approximately 2–3 engineering days** |
+
+The estimate includes a modest allowance for ordinary deployment, OAuth, and configuration issues.
+
+It excludes delays waiting for access and material work involving private networking, tenant restrictions, database changes, or custom OAuth middleware.
+
+Recurring Azure consumption charges are not included. The App Service cost will be confirmed from the client's subscription, region, network requirements, and any suitable existing App Service Plan before deployment.
+
+## Out of Scope
+
+- Changes to DAB entities, relationships, descriptions, or reporting logic.
+- New reporting views or database schema changes.
+- Business-query design, validation, or acceptance testing.
+- Changes to the database synchronisation process.
+- Database write access or write APIs.
+- Replacing the existing database-wide read account with view-level grants.
+- Private endpoints, VPNs, or material Azure network redesign.
+- Per-user query auditing or formal audit-log retention.
+- Hands-on onboarding for more than one nominated Claude Desktop user.
+- High availability, disaster recovery, load testing, or an uptime commitment.
+- Azure API Management or a custom authentication gateway.
+- A custom domain or certificate.
+- Recurring Azure charges.
+- Ongoing support, which remains covered by the existing support arrangement.
+
+## Constraints and Risks
+
+- Claude custom connectors are currently a beta feature and may change over time.
+- Database connectivity from App Service must be confirmed before deployment.
+- OAuth compatibility will be validated early because it is essential to the Claude Desktop design.
+- Individual Claude accounts require the shared OAuth client details to be entered separately.
+- The existing database account can read more objects than DAB exposes. The DAB entity allowlist remains the primary surface restriction for this rollout.
+- Upgrading DAB may require minor configuration changes, but entity redesign is excluded.
+
+## Next Steps
+
+1. Approve this proposal and the indicative 2–3-day effort range.
+2. Nominate the first Claude Desktop user and confirm their connector eligibility.
+3. Confirm the reporting database endpoint and read-only credential.
+4. Select or approve the Azure App Service Plan and recurring cost.
+5. Schedule the deployment and technical verification.
+
+## Appendix A — Technical Design
+
+### A.1 Request and Data Flow
+
+Claude Desktop remote connectors are brokered through Anthropic's cloud infrastructure. Requests do not originate directly from the user's workstation.
+
+The App Service endpoint must therefore be publicly addressable to Anthropic while remaining protected by Entra OAuth and IP restrictions.
+
+For each MCP operation:
+
+1. The user asks Claude Desktop a question.
+2. Claude invokes the configured remote MCP tool through Anthropic's connector infrastructure.
+3. Anthropic presents the user's Entra access token to Azure App Service.
+4. App Service validates the token and forwards the authenticated request to DAB.
+5. DAB checks its tool and entity permissions.
+6. DAB queries the reporting database using the existing read-only account.
+7. Results return through DAB and Anthropic to Claude for summarisation.
+
+### A.2 Azure App Service
+
+DAB will be deployed using Microsoft's App Service deployment pattern and pinned to a tested DAB 2.0 release.
+
+The deployment package will contain the DAB runtime and configuration, but no database or OAuth secrets.
+
+App Service will provide:
+
+- Managed HTTPS and TLS termination.
+- Microsoft Entra authentication through App Service Authentication.
+- OAuth protected-resource metadata for MCP client discovery.
+- A stable Azure hostname for the custom connector.
+- Protected runtime configuration for secrets.
+- Basic application and authentication logs.
+
+The rollout will use one small instance. App Service does not provide the scale-to-zero behavior described in the earlier Container Apps design.
+
+### A.3 Microsoft Entra OAuth
+
+The OAuth design uses two single-tenant registrations.
+
+The resource registration represents the MCP API. It exposes the scope requested by Claude and is used by App Service to validate access tokens.
+
+The client registration represents Claude as the OAuth client. Its redirect URI will use Claude's documented MCP callback URL.
+
+The client registration will use a time-limited client secret because Microsoft Entra does not provide MCP dynamic client registration.
+
+The Enterprise Application will require assignment. Only the named rollout users will be assigned, preventing other tenant users from obtaining access merely because they can authenticate.
+
+The OAuth client will be pre-authorised or consented to the MCP scope as required by the client's Entra policies.
+
+App Service will return `401 Unauthorized` for unauthenticated requests and publish the protected-resource metadata required for Claude's OAuth discovery.
+
+### A.4 DAB Runtime Configuration
+
+The supplied entity list will remain unchanged unless a compatibility issue prevents deployment.
+
+Required hosting and security changes are:
+
+- Upgrade and pin a current stable DAB 2.0 version.
+- Set the DAB authentication provider to `AppService`.
+- Change configured entity permissions from `anonymous:read` to `authenticated:read`.
+- Keep the MCP `read-records` tool enabled.
+- Disable MCP create, update, delete, and execute tools.
+- Keep REST and GraphQL disabled.
+- Load the database connection string from an App Service setting.
+
+DAB will continue to generate deterministic database queries through its entity abstraction. It will not accept arbitrary SQL from Claude.
+
+### A.5 Network Controls
+
+App Service access restrictions will allow Anthropic's current published outbound IP ranges. Temporary Webres access may be enabled during deployment and removed after verification.
+
+The outbound connection from App Service to the reporting database will use the database's approved Azure endpoint and firewall rules.
+
+If the database requires a private endpoint, VPN, VNet redesign, or cross-tenant network work, that work will be estimated separately.
+
+### A.6 Secrets
+
+The database connection string and App Service authentication secret will be held in protected App Service configuration.
+
+The Claude OAuth client secret will be held in Entra and supplied to approved users through a secure channel for entry into their connector settings.
+
+No secret values will be included in source-controlled files or deployment packages.
+
+The OAuth client secret will have a defined expiry. Its storage and future rotation will be recorded in the handover for management under the existing support arrangement.
+
+### A.7 Logging
+
+App Service authentication and application logs will support deployment checks and fault diagnosis. DAB logging will be set to an operational level suitable for the limited rollout.
+
+The deployment will not intentionally log returned database rows. Formal per-user query attribution, audit retention, and audit review are outside scope.
+
+### A.8 Verification Checklist
+
+- DAB starts successfully on the pinned version.
+- The supplied configuration validates.
+- The App Service endpoint enforces HTTPS.
+- MCP OAuth discovery metadata is available.
+- An assigned user completes the Claude-to-Entra OAuth flow.
+- Unassigned and unauthenticated requests are rejected.
+- App Service forwards an authenticated identity to DAB.
+- DAB evaluates the request as `authenticated`.
+- The configured entity list is visible through MCP.
+- A read request succeeds against the reporting database.
+- Create, update, delete, and execute tools are absent.
 - REST and GraphQL endpoints are disabled.
-    
-- Claude accesses the MCP server over HTTP via an ngrok HTTPS tunnel.
-    
-- The MCP server currently runs on a user's workstation rather than as a shared service.
-    
-
-These controls should be retained where applicable in the hosted version.
-
-The client has specifically identified centralised hosting and multi-user access as areas they would like addressed before broader use of the proof of concept.
-
----
-
-# Proposed Solution
-
-## Architecture
-
-Deploy the existing Data API Builder MCP server as a standalone application in **Azure Container Apps**.
-
-The proposed request flow is:
-
-```text
-User workstation
-      │
-      │ Claude Code
-      │
-      │ HTTPS + Entra bearer token
-      ▼
-Azure Container Apps
-      │
-      │ Microsoft Entra authentication
-      ▼
-Data API Builder / MCP Server
-      │
-      │ Read-only database connection
-      ▼
-Existing cloud database
-```
-
-Azure Container Apps provides the public HTTPS endpoint and TLS termination. Microsoft specifically supports securing standalone MCP servers hosted in Container Apps using its built-in Microsoft Entra ID authentication.
-
-The MCP server itself will remain responsible for controlling which database entities Claude can query, while the database credentials will remain restricted to read-only access.
-
----
-
-# Azure Hosting
-
-## Azure Container Apps
-
-The existing DAB server will be packaged as a container and deployed to Azure Container Apps.
-
-The deployment will include:
-
-- Data API Builder / SQL MCP Server
-    
-- Existing MCP entity configuration
-    
-- HTTPS external ingress
-    
-- Microsoft Entra authentication
-    
-- Environment-specific database configuration
-    
-- Database credentials stored as Azure Container Apps secrets rather than embedded in the image or source-controlled configuration
-    
-- Application logging through Azure
-    
-
-Container Apps is suitable for the pilot because it has relatively little infrastructure to manage and can scale down when the service is not being used.
-
-By default, Container Apps can scale to zero replicas. This reduces ongoing compute cost for an MCP server that may only receive occasional requests, although the first request after a period of inactivity can experience a cold start. Microsoft notes that this can typically add approximately 10–30 seconds to the first request.
-
-For this pilot, scale-to-zero is acceptable in exchange for keeping the ongoing hosting cost low.
-
----
-
-# Database Connection
-
-The hosted MCP server will connect directly to the client's existing cloud-accessible database rather than relying on a database running or accessible only from an individual workstation.
-
-The existing DAB configuration will be reviewed against the cloud database and adjusted as required so that the same intended ERP entities remain available.
-
-The existing principles will be retained:
-
-- Read-only database credentials
-    
-- Only approved entities exposed through DAB
-    
-- No create, update or delete MCP tools
-    
-- No database write functionality
-    
-- Sensitive or unnecessary entities excluded from the MCP configuration
-    
-
-Microsoft Data API Builder supports SQL Server, Azure SQL, PostgreSQL and other supported database platforms, including PostgreSQL-based databases.
-
-Changes to the client's database synchronisation process, database schema or write APIs are outside the scope of this implementation.
-
----
-
-# Authentication
-
-## Microsoft Entra ID
-
-The Azure Container App will be protected using its built-in Microsoft Entra ID authentication.
-
-Unauthenticated requests will receive an HTTP `401` response and will not reach the MCP server. Microsoft documents this as the supported authentication model for standalone MCP servers hosted in Azure Container Apps.
-
-An Entra application registration will be created for the MCP service.
-
-Because the initial pilot has only a small number of users, access can be granted directly to the individual pilot users rather than introducing a more complex group or role structure.
-
-This provides:
-
-- Individual user authentication
-    
-- Existing Microsoft account security and MFA where configured
-    
-- Ability to revoke a single user's access
-    
-- No shared MCP password
-    
-- No long-lived API key distributed between users
-    
-- An Entra sign-in record for each user
-    
-
-The database connection will remain separate from user authentication. DAB will continue to connect using its restricted application-level database credential rather than each user authenticating individually against the database.
-
-This avoids introducing unnecessary database permission management for the pilot.
-
----
-
-# Claude Code Authentication
-
-To minimise initial implementation effort, the pilot will not implement the complete native MCP OAuth browser-login flow.
-
-Instead, each user's workstation will use the **Azure CLI** to obtain a short-lived Microsoft Entra access token.
-
-Microsoft documents token retrieval for a secured Container Apps MCP server using:
-
-```bash
-az account get-access-token \
-    --resource api://<MCP_APP_ID> \
-    --query accessToken \
-    -o tsv
-```
-
-Claude Code supports a `headersHelper` configuration that can execute a local command when establishing an MCP connection and use its output to populate HTTP headers. Anthropic specifically documents this mechanism for short-lived credentials and internal authentication systems.
-
-A small PowerShell script will therefore obtain the current Entra token and return it to Claude Code as:
-
-```http
-Authorization: Bearer <token>
-```
-
-The Claude MCP configuration will be similar to:
-
-```json
-{
-  "mcpServers": {
-    "erp": {
-      "type": "http",
-      "url": "https://<container-app>.azurecontainerapps.io/mcp",
-      "headersHelper": "powershell.exe -NoProfile -File C:\\Tools\\erp-mcp\\auth.ps1"
-    }
-  }
-}
-```
-
-Claude Code runs the helper when establishing or re-establishing the MCP connection. Current Claude Code versions will also rerun the helper following a `401` or `403` response before retrying the connection, allowing expired access tokens to be refreshed automatically.
-
-### User Workstation Setup
-
-Each pilot user's initial setup will consist of:
-
-1. Install Azure CLI if it is not already installed.
-    
-2. Sign in using:
-    
-
-```bash
-az login
-```
-
-3. Add the supplied authentication helper script.
-    
-4. Add the supplied Claude Code MCP configuration.
-    
-5. Verify the MCP server connects successfully.
-    
-
-After the initial Azure login, normal use should not require users to manually obtain or copy access tokens.
-
-Expected workstation setup is approximately **10–20 minutes per user**, assuming their Microsoft account and Azure CLI installation work normally.
-
----
-
-# Security Model
-
-The resulting solution uses several independent security layers.
-
-```text
-Microsoft Entra ID
-        │
-        │ Controls who may connect
-        ▼
-Azure Container Apps
-        │
-        │ HTTPS + authenticated ingress
-        ▼
-Data API Builder
-        │
-        │ Controls which entities and MCP tools exist
-        ▼
-Read-only database account
-        │
-        │ Prevents modification of source data
-        ▼
-Database
-```
-
-This retains the defence-in-depth principles already present in the client's proof of concept while removing the existing reliance on a temporary public ngrok URL.
-
-### Authentication Boundary
-
-Azure Container Apps will be responsible for authenticating users before requests reach DAB.
-
-For the pilot, DAB does not need to perform a second independent authentication flow because all externally accessible traffic passes through the authenticated Container Apps ingress.
-
-Microsoft's DAB documentation explicitly supports deployments where an upstream trusted service handles authentication before requests reach DAB.
-
-This keeps the configuration simple and allows the existing DAB entity permissions to be reused with minimal change.
-
----
-
-# Implementation Tasks
-
-## 1. Prepare MCP Server for Hosting
-
-- Review the existing DAB configuration.
-    
-- Update DAB to an appropriate current supported version.
-    
-- Validate configured MCP entities against the target cloud database.
-    
-- Confirm create, update and delete MCP functionality remains disabled.
-    
-- Package the MCP server and configuration for container deployment.
-    
-- Move database credentials into environment/secrets configuration.
-    
-
-**Estimated effort: 2–3 hours**
-
-## 2. Azure Deployment
-
-- Create the required Azure Container Apps resources.
-    
-- Deploy the MCP container.
-    
-- Configure external HTTPS ingress.
-    
-- Configure database connectivity.
-    
-- Configure application secrets.
-    
-- Configure scale-to-zero behaviour.
-    
-- Confirm `/mcp` is reachable through the Azure endpoint.
-    
-
-**Estimated effort: 2–3 hours**
-
-## 3. Authentication
-
-- Create the Microsoft Entra application registration.
-    
-- Expose the MCP application scope.
-    
-- Enable Microsoft Entra authentication on the Container App.
-    
-- Configure unauthenticated requests to return `401`.
-    
-- Restrict access to the pilot users.
-    
-- Verify valid and invalid authentication behaviour.
-    
-
-**Estimated effort: 1–2 hours**
-
-## 4. Claude Code Authentication Helper
-
-- Create the PowerShell token helper.
-    
-- Configure Azure CLI token acquisition.
-    
-- Configure Claude Code `headersHelper`.
-    
-- Test token renewal and reconnection behaviour.
-    
-- Create reusable configuration for the pilot users.
-    
-
-**Estimated effort: 1–2 hours**
-
-## 5. Testing and Handover Documentation
-
-Test:
-
-- MCP connectivity from outside Azure
-    
-- Authorised user access
-    
-- Unauthorised user rejection
-    
-- Database read operations
-    
-- Entity restrictions
-    
-- Write operations remain unavailable
-    
-- Token renewal
-    
-- Container restart
-    
-- Scale-from-zero behaviour
-    
-
-Provide short instructions covering:
-
-- Azure CLI installation
-    
-- Microsoft login
-    
-- Claude Code MCP configuration
-    
-- Basic connection troubleshooting
-    
-
-**Estimated effort: 1–2 hours**
-
----
-
-# Estimated Implementation Effort
-
-Assuming the existing MCP configuration can largely be reused and the required Azure, Entra and database access is available:
-
-|Area|Estimated effort|
-|---|--:|
-|MCP/container preparation|2–3 hours|
-|Azure deployment|2–3 hours|
-|Entra authentication|1–2 hours|
-|Claude Code authentication setup|1–2 hours|
-|Testing and documentation|1–2 hours|
-|**Total**|**Approximately 1–1.5 engineering days**|
-
-A small amount of contingency may be required if there are restrictions around the client's Microsoft Entra tenant, Azure permissions or network access to the database.
-
-The authentication component itself is expected to represent approximately **3–5 hours** of the implementation.
-
----
-
-# Out of Scope
-
-The following are not required for the initial pilot:
-
-- Changes to the existing database synchronisation process
-    
-- Database schema changes
-    
-- Write access from Claude
-    
-- API implementation for updating the primary ERP database
-    
-- Per-user database accounts
-    
-- Per-user or row-level database permissions
-    
-- Complex DAB role management
-    
-- Azure API Management
-    
-- Private VPN connectivity
-    
-- Native MCP OAuth discovery/browser authentication
-    
-- Changes to the client's broader Claude or AI governance arrangements
-    
-
----
-
-# Alternatives Considered
-
-## Native MCP OAuth with Microsoft Entra ID
-
-Claude Code supports OAuth 2.0 authentication for remote HTTP MCP servers, including browser-based authentication, stored credentials, token refresh and preconfigured OAuth clients.
-
-This would provide the cleanest user experience:
-
-```text
-Claude Code
-    │
-    ▼
-Microsoft login in browser
-    │
-    ▼
-MCP Server
-```
-
-However, implementing the complete MCP OAuth discovery and client-registration flow introduces additional configuration and testing that provides limited benefit for a pilot involving only a few users.
-
-The Azure CLI token helper gives the pilot effectively the same individual Entra authentication boundary with substantially less implementation work.
-
-**Decision:** Not selected for the pilot because of the additional initial setup cost.
-
-**Potential later use:** Good option if the service is eventually distributed to a significantly larger user base and completely seamless onboarding becomes worthwhile.
-
----
-
-## Azure App Service
-
-Azure App Service can also host DAB and provides mature Microsoft Entra EasyAuth integration.
-
-It would be technically suitable, but Container Apps is a better fit for a small standalone containerised service and provides flexible consumption-based scaling, including scale-to-zero.
-
-**Decision:** Container Apps is preferred because it better matches the low-usage pilot and minimises unnecessary hosting infrastructure.
-
----
-
-## Azure API Management
-
-Azure API Management could sit in front of the MCP server and provide centralised authentication, rate limiting, logging and API governance.
-
-Architecture:
-
-```text
-Claude Code
-    │
-    ▼
-Azure API Management
-    │
-    ▼
-MCP Server
-```
-
-This would be useful where an organisation operates several MCP services or needs centralised governance policies.
-
-For one internal read-only MCP endpoint serving only a few users, it introduces additional Azure resources, configuration and implementation effort without solving a problem the pilot currently has.
-
-**Decision:** Not selected because it would over-engineer the initial deployment.
-
-**Potential later use:** Appropriate if the client eventually operates multiple MCP services or requires centralised API/MCP governance.
-
----
-
-## Shared API Key
-
-A shared API key would appear simpler from the user's perspective because Claude Code can send static authentication headers.
-
-However, Azure's API-key-based MCP authentication is associated with its platform-managed Dynamic Sessions MCP offering rather than arbitrary standalone Container Apps. A standalone DAB deployment would therefore require a custom proxy or authentication layer to implement an opaque shared API key. Microsoft recommends Entra bearer authentication for standalone Container Apps MCP servers.
-
-A shared key would also:
-
-- Provide no individual user identity.
-    
-- Need to be distributed securely.
-    
-- Need to be rotated for all users if compromised.
-    
-- Need to be rotated when a user should lose access.
-    
-
-**Decision:** Not selected because Entra authentication is both more secure and simpler to operate using Azure's built-in functionality.
-
----
-
-## Continue Using ngrok and a Local Workstation
-
-The existing proof of concept runs DAB locally and exposes it through a temporary ngrok tunnel.
-
-This has been useful for validating the concept, but it is not appropriate as the shared pilot architecture because:
-
-- The service depends on a particular workstation being available.
-    
-- DAB and ngrok must be started manually.
-    
-- The endpoint can change unless a static ngrok domain is configured.
-    
-- Authentication currently relies primarily on the obscurity of the endpoint and downstream database restrictions.
-    
-- Availability depends on the workstation and local internet connection.
-    
-
-**Decision:** Not selected because the main purpose of this project is to remove the local-workstation dependency and provide a centrally accessible service.
-
----
-
-## VPN-Only / Private Network Access
-
-The MCP endpoint could instead be exposed only through a private Azure network or corporate VPN.
-
-This would provide a strong additional network boundary but would require every pilot user's machine to have suitable VPN or private network connectivity.
-
-Given the endpoint will already be HTTPS-only and protected by individual Microsoft Entra authentication, the extra workstation configuration and network infrastructure is not justified for the initial pilot.
-
-**Decision:** Not selected because it increases initial deployment and user setup effort without being necessary for the current scale.
-
----
-
-# Summary
-
-The recommended pilot deployment is:
-
-```text
-Claude Code
-      │
-      │ Azure CLI-generated Entra token
-      │ HTTPS
-      ▼
-Azure Container Apps
-      │
-      │ Microsoft Entra authentication
-      ▼
-Data API Builder MCP Server
-      │
-      │ Read-only connection
-      ▼
-Existing cloud database
-```
-
-This approach provides a centrally hosted MCP service without introducing substantial new authentication infrastructure.
-
-It retains the strongest parts of the existing proof of concept, including read-only database access and an explicit DAB entity whitelist, while replacing the local workstation and ngrok dependency with a managed Azure HTTPS endpoint.
-
-For a pilot involving only a small number of users, it provides a practical balance between security, implementation effort and ongoing operating cost.
-
-**Indicative implementation effort: approximately 1–1.5 engineering days.**
+- Database and OAuth secrets are absent from deployment files.
+- Anthropic IP restrictions are enabled.
+- The service reconnects after an App Service restart.
+
+### A.9 References
+
+- [Deploy Data API Builder to Azure App Service](https://learn.microsoft.com/azure/data-api-builder/deployment/azure-app-service)
+- [Configure App Service authentication for Data API Builder](https://learn.microsoft.com/azure/data-api-builder/concept/security/authenticate-easy-auth)
+- [Configure MCP server authorization in Azure App Service](https://learn.microsoft.com/azure/app-service/configure-authentication-mcp)
+- [Model Context Protocol authorization specification](https://modelcontextprotocol.io/specification/2025-11-25/basic/authorization)
+- [Claude custom connectors using remote MCP](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp)
+- [Anthropic IP addresses](https://platform.claude.com/docs/en/api/ip-addresses)
+- [SQL MCP Server overview](https://learn.microsoft.com/azure/data-api-builder/mcp/overview)
