@@ -10,7 +10,7 @@ The solution will preserve the existing read-only database access and DAB entity
 
 ## Recommended Solution
 
-The supplied DAB configuration will be deployed to Azure App Service and connected to the existing test/reporting database.
+The supplied DAB configuration will be deployed to Azure App Service and connected to the existing reporting database.
 
 Users will connect through a Claude Desktop custom connector. Microsoft Entra ID will provide individual browser-based authentication, and only named users will be assigned access.
 
@@ -36,7 +36,7 @@ Existing test/reporting database
 
 Azure App Service is recommended because its authentication integration supports the OAuth discovery flow required by remote MCP clients such as Claude Desktop.
 
-The service will use a small, single-instance deployment. Formal high availability, disaster recovery, and uptime commitments are not part of this limited rollout.
+The service will use a small, single-instance deployment.
 
 ## Security Controls
 
@@ -56,8 +56,6 @@ The deployment will retain or introduce the following controls:
 - The Claude OAuth client secret distributed only through an approved secure channel.
 - Azure operational and error logging enabled for support purposes.
 
-The client has already approved sending query results from the production-derived reporting database through Anthropic's Claude service.
-
 Per-user query auditing is not included. Entra and Azure logs will support authentication and operational troubleshooting, but will not provide a formal user-to-query audit trail.
 
 ## Scope and Deliverables
@@ -69,7 +67,7 @@ Per-user query auditing is not included. Entra and Azure logs will support authe
 - Verify the available network path from Azure App Service to the reporting database.
 - Validate the supplied DAB configuration against a pinned DAB 2.0 release.
 
-Database connectivity is currently unverified. Simple firewall or access-list changes are included; private networking or material network redesign is not.
+Database connectivity is currently unverified. Simple firewall or access-list changes are included; private networking or material network redesign is out of scope.
 
 ### 2. Azure App Service Deployment
 
@@ -154,13 +152,13 @@ Recurring Azure consumption charges are not included. The App Service cost will 
 - Changes to DAB entities, relationships, descriptions, or reporting logic.
 - New reporting views or database schema changes.
 - Business-query design, validation, or acceptance testing.
-- Changes to the database synchronisation process.
+- Changes to the database synchronization process.
 - Database write access or write APIs.
 - Replacing the existing database-wide read account with view-level grants.
 - Private endpoints, VPNs, or material Azure network redesign.
 - Per-user query auditing or formal audit-log retention.
 - Hands-on onboarding for more than one nominated Claude Desktop user.
-- High availability, disaster recovery, load testing, or an uptime commitment.
+- High availability, disaster recovery, load testing, or an uptime contingencies.
 - Azure API Management or a custom authentication gateway.
 - A custom domain or certificate.
 - Recurring Azure charges.
@@ -171,7 +169,7 @@ Recurring Azure consumption charges are not included. The App Service cost will 
 - Claude custom connectors are currently a beta feature and may change over time.
 - Database connectivity from App Service must be confirmed before deployment.
 - OAuth compatibility will be validated early because it is essential to the Claude Desktop design.
-- Individual Claude accounts require the shared OAuth client details to be entered separately.
+- Individual personal Claude accounts require the shared OAuth client details to be entered separately.
 - The existing database account can read more objects than DAB exposes. The DAB entity allowlist remains the primary surface restriction for this rollout.
 - Upgrading DAB may require minor configuration changes, but entity redesign is excluded.
 
