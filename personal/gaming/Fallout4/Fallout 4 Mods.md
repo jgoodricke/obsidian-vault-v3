@@ -9,14 +9,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Homemade Explosives?
 		- Or Little Boom?
 	- Hit those explosives
-	- Faster Load Screens
-	- Enemies Don't Shoot So Good No More
-	- No combat music
-	- No More EXP for Crafting
 	- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
-	- Darker Nights
-	- Interiors Enhanced - Darker Ambient Light and Fog
-	- Shaikujin's Better warning for settlements being attacked
+	- Worthwhile Eyebot Pods
+	- More Ammo from Eyebot Pods
+	
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -61,15 +57,15 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Faster Decompression
 - AutoSave F4SEVR
 - [Skip](https://www.nexusmods.com/fallout4/mods/88418)
+- Faster Load Screens
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
 - Community Fixes Merged VR
+- Shaikujin's Better warning for settlements being attacked
 ### Performance 
 - FAR - Faraway Area Reform
 - Insignificant Object Remover
-- Fog Remover - Performance Enhancer
-- Fog Remover - Performance Enhancer II
 - VR Performance Light Fix
 - Lucid Institute - Performance Optimization - VR Compatible
 ## Visuals
@@ -82,10 +78,12 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - [Face of Death F.O.D. SKull Bandana Retexture](https://www.nexusmods.com/fallout4/mods/1270)
 
 ### Lighting & Weather
-- Vivid Weather's
+- Vivid Weathers
+- Darker Nights
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
 - TODO: Phylight and Phydark? Or Mod to make night darker?
 - TODO: Seasons Mod?
+- Interiors Enhanced - Darker Ambient Light and Fog
 ## Audio
 - Realistic Reverb and Ambience Overhaul 
 	- Ambient Wasteland 
@@ -137,6 +135,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 	- Don't forget my patch
 - Realistic Crippled Limbs Effects
 - Stimpaks restore less limb damage (use 10% version).
+- Enemies Don't Shoot So Good No More (50%)
 #### Early Game Fixes
 - Remove 10mm Pistols from Vault 111 and Early Game
 - Less Flashy Museum of Freedom
@@ -161,6 +160,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
 - OR Global Damage Multipliers for all Difficulties (2.0)
 - No Adrenaline
+- No More EXP for Crafting
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -192,7 +192,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - We Have Names (and more) - All In One
 - Fallout 3 and New Vegas Outfits - SPID - Generic NPC Add-On
 - Alias
-
 ### Factory
 - Manufacturing Extended
 - Better Manufacturing
@@ -227,6 +226,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 
 # Won't Use
+- No combat music: easier to just mute music
 - Handmade Turrets
 	- Scrappy Turret Replacer
 - Settlement Progression
