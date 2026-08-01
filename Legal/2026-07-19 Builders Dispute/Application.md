@@ -1,21 +1,3 @@
-# Things to Prepare
-- [x] Property and Timber Pest Inspection Report dated 9 June 2026.
-- [x] Your original email notifying Symmetric Homes of the defects.
-- [x] The builder’s initial response denying responsibility.
-- [ ] Correspondence arranging and limiting access for the 2 July inspection.
-- [x] Your first follow-up requesting the inspector’s findings.
-- [x] Your final follow-up with the 15 July deadline.
-- [x] The builder’s latest response denying responsibility.
-- [x] A note that the claimed inspection summary and photographs were not attached.
-- [x] Photos/videos of 
-	- [x] the garage slab cracks, 
-	- [x] external wall cracks 
-	- [x] water pooling.
-- [ ] Any crack measurements or rain and pooling logs.
-- [ ] Occupancy permit, building permit, plans and other records you currently hold.
-- [x] A short defect schedule identifying each issue and the outcome requested.
-
-
 ## Description of the dispute (TODO)
 We are the current owners of 9 Furness Close, Wyndham Vale. The dwelling was constructed by Symmetric Homes.
 
