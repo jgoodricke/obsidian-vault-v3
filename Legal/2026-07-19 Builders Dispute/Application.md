@@ -11,6 +11,8 @@ Following repeated written requests for its findings, Symmetric Homes acknowledg
 
 Symmetric Homes has not provided the requested inspection summary or photographs, measurements of the cracking, level surveys, practical-completion photographs or level records, original drainage records, or other material substantiating its causation conclusion. Although its correspondence stated that an inspection summary and photographs were attached, no such attachments were provided.
 
+Symmetric Homes has asserted that the dwelling is more than six years old and is therefore no longer covered by warranty. We dispute that assertion. The occupancy permit was issued on 20 April 2021, meaning that, as at 1 August 2026, the building work is approximately five years and three months old. In addition, we understand that the six-year period may relate to domestic building insurance coverage for structural defects and is not necessarily the expiry of the builder’s statutory implied warranties or responsibility for defective domestic building work. We request that the BPC consider the applicable warranty and limitation provisions.
+
 The parties therefore dispute:
 
 1. whether the garage slab cracking, external wall cracking, movement, drainage and moisture conditions arise from defective or incomplete original building work;
