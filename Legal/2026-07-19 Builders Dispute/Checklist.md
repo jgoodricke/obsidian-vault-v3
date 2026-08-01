@@ -2,7 +2,7 @@
 - [x] Property and Timber Pest Inspection Report dated 9 June 2026.
 - [x] Your original email notifying Symmetric Homes of the defects.
 - [x] The builder’s initial response denying responsibility.
-- [ ] Correspondence arranging and limiting access for the 2 July inspection.
+- [x] Correspondence arranging and limiting access for the 2 July inspection.
 - [x] Your first follow-up requesting the inspector’s findings.
 - [x] Your final follow-up with the 15 July deadline.
 - [x] The builder’s latest response denying responsibility.
