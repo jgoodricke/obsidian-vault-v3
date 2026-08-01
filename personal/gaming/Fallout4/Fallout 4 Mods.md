@@ -1,18 +1,8 @@
-TODO:
-Check this out, especially power armor rebalance:
-https://www.nexusmods.com/profile/WhiskyTangoFawks
-[Power Armor Damage Threshold](https://www.nexusmods.com/fallout4/mods/58614)
-- Check out Commonwealth Iguanas
-- Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
-- Check out 
-	- Lucky Loot? Check comparability with Loot Logic and Reduction
-	- Homemade Explosives?
-		- Or Little Boom?
-	- Hit those explosives
-	- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
-	- Worthwhile Eyebot Pods
-	- More Ammo from Eyebot Pods
-	
+TODO: 
+- [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
+- Simple Locational Damage Tweaks
+	- [DLC Patch](https://www.nexusmods.com/fallout4/mods/60501?tab=files&file_id=308516)
+- TODO: see if there's a mod that makes the effects of Addicto temporary.
 # Modding Philosophy
 - Character:
 	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
@@ -40,7 +30,7 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 ## Creation Club
 - Settlement Ambush Kit
-- Virtual Workshop
+- Virtual Workshop?
 
 ## Bug Fixes
 ### Engine-Level Fixes
@@ -53,7 +43,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Disk Cache Enabler - F4VR
 - Private Profile Redirector
 - Simple Death Screen
-- VR Shadow Boost
 - Faster Decompression
 - AutoSave F4SEVR
 - [Skip](https://www.nexusmods.com/fallout4/mods/88418)
@@ -64,9 +53,9 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Community Fixes Merged VR
 - Shaikujin's Better warning for settlements being attacked
 ### Performance 
+- VR Shadow Boost
 - FAR - Faraway Area Reform
 - Insignificant Object Remover
-- VR Performance Light Fix
 - Lucid Institute - Performance Optimization - VR Compatible
 ## Visuals
 ### Textures
@@ -78,12 +67,13 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - [Face of Death F.O.D. SKull Bandana Retexture](https://www.nexusmods.com/fallout4/mods/1270)
 
 ### Lighting & Weather
+- Phylight and Phydark
+	- 128
 - Vivid Weathers
 - Darker Nights
 - Let the weather in - Wasteland Weather for Diamond City and Goodneighbor
-- TODO: Phylight and Phydark? Or Mod to make night darker?
-- TODO: Seasons Mod?
-- Interiors Enhanced - Darker Ambient Light and Fog
+- TODO: Seasons Mod
+
 ## Audio
 - Realistic Reverb and Ambience Overhaul 
 	- Ambient Wasteland 
@@ -120,12 +110,10 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Virtual Chems
 - WAIT: Virtual Reload - When Released
 - WAIT: Kabuto VR - when SKSE version comes out
-
+- Immersive Flashlight VR
 ### Action RPG
 - Addiction Overhaul
 - Better Chems
-- Chemfluence
-- NPCs Use Items
 - Weapons of Fate Redux (RobCo Patcher Edition)
 - Intimidation Perk Extend - Lore Friendly Improvements
 - Intimidation Perk Extend - Followerlike Commandable NPCs
@@ -151,6 +139,9 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - No Legendary Items From Creatures
 - Moon's Legendary Overhaul
 - Scavenge Station Improvements (scrap and plants version)
+- Worthwhile Eyebot Pods
+	- More Ammo from Eyebot Pods
+
 ### Survival
 - Food Mod
 - Recycle - Give Me My Leftovers Back
@@ -158,7 +149,6 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 #### Survival Fixes
 - Survival XP Gain Same As Other Difficulties
 - Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
-- OR Global Damage Multipliers for all Difficulties (2.0)
 - No Adrenaline
 - No More EXP for Crafting
 ### More Lively World
@@ -226,11 +216,22 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 
 
 # Won't Use
+- Check out Commonwealth Iguanas
+- Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
+
+- Lucky Loot? Check comparability with Loot Logic and Reduction
+- Homemade Explosives?
+	- Or Little Boom?
+- Hit those explosives
+- Chemfluence - breaks melee combat behaviour.
+	- NPCs Use Items
+- Better Explosives Redux: completely destroys game balance.
+- Interiors Enhanced - Darker Ambient Light and Fog - Use Phylight instead.
+- VR Performance Light Fix - try phydark 128 and see if that works instead 
 - No combat music: easier to just mute music
 - Handmade Turrets
 	- Scrappy Turret Replacer
 - Settlement Progression
-
 - BetterNixieTubes
 - Advanced Needs 76
 - [Food Spoilage](https://www.nexusmods.com/fallout4/mods/83069)
@@ -272,6 +273,12 @@ https://www.nexusmods.com/profile/WhiskyTangoFawks
 - Remote Explosives: doesn't work in VR.
 - Level Cap (50): it's hard to get past 50 aside from min-maxing.
 - XP - GEM (x0.5): Removing exp for crafting seems like the better approach.
+- Global Damage Multipliers for all Difficulties (2.0): doesn't modify base game difficulty
+- Addiction Requires Doctor - not sure if this is actually a problem.
+- Sleep Doesn't Heal (for survival mode) - modifies the HC_ManagerScript
+- Unbogus Health Scaling
+- Unbogus Lunchboxes
+- Worthwhile Caps Stashes
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap

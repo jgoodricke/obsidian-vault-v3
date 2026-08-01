@@ -15,6 +15,7 @@ https://m.youtube.com/watch?v=ifaLk5v3W90&list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSE
 - SQL Framework: [SQLX](https://crates.io/crates/sqlx)
 - Datetimes: [Chrono](https://crates.io/crates/chrono)
 
+
 ## Clippy Sensible Defaults
 ```
 cargo clippy --fix -- \
@@ -23,3 +24,10 @@ cargo clippy --fix -- \
 -W clippy::unwrap_used \
 -W clippy::expect_used
 ```
+
+### Tests
+
+Source: https://m.youtube.com/watch?v=JIvKgSyvtxI
+- DocTests
+- Proptest - deterministic tests
+- sqlx - useful for integration testing
