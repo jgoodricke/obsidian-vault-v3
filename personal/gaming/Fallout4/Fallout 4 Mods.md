@@ -86,10 +86,8 @@ TODO:
 - Power Armor Heavy Bullet Impact Sounds
 ## Quality of Life
 - Keep Radiants in the Commonwealth
-- Companion Stealth Distance Fix
 - Faster Terminal Displays (5x)
 - Fusion Core Eject Removal
-- Simple Everyone's Best Friend
 - FallUI - HUD VR
 ## Core Gameplay
 ### VR
@@ -113,14 +111,24 @@ TODO:
 - WAIT: Kabuto VR - when SKSE version comes out
 - Immersive Flashlight VR
 ### Improved Combat
-- Weapons of Fate Redux (RobCo Patcher Edition)
-- Realistic Crippled Limbs Effects
 - Stimpaks restore less limb damage (use 10% version).
-- Enemies Don't Shoot So Good No More (50%)
 - Better Bloatflies
 - No Combat Boundaries - Revised and Renewed
+- Better Chems
+- CROSS Crit Gore-verhaul
+- Fat Man Radiation Hazard
+### Better FPS
+- Weapons of Fate Redux (RobCo Patcher Edition)
+- Realistic Crippled Limbs Effects
+- Enemies Don't Shoot So Good No More (50%)
 - Sensible Locational Damage Tweaks
-
+### Companions
+- Simple Everyones best friend
+- [Atomic Radio and Tales from the Commonwealth](https://3dnpc.com/2016/06/13/tales-from-the-commonwealth-news-and-notes/)
+	- Tales of the Commonwealth
+	- Settlers of the Commonwealth
+- Intimidation Perk Extend - Lore Friendly Improvements
+- Intimidation Perk Extend - Followerlike Commandable NPCs
 #### Early Game Fixes
 - Remove 10mm Pistols from Vault 111 and Early Game
 - Less Flashy Museum of Freedom
@@ -147,6 +155,7 @@ TODO:
 - Kaptain's Tweaked Difficulty Damage Scaling (1.5) 
 - No Adrenaline
 - No More EXP for Crafting
+- NX Encounter Zones (Hardcore) 
 ### More Lively World
 - Random Encounters Framework
 	- Commonwealth Encounter Pack
@@ -157,6 +166,11 @@ TODO:
 - Refreshing Checkpoints
 - SKK Combat Stalkers
 	- Don't forget my patch
+- [Publick Occurrences Expanded](https://www.nexusmods.com/fallout4/mods/15804)
+- Commonwealth Iguanas
+- Squirrels of the Commonwealth
+	- Docile version
+	- Need to make a patch that removes all types except normal.
 ### Better Settlements
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/73394?tab=files)
 	- [Installation Guide](https://simsettlements.com/site/index.php?threads/fo4-vr-ss2-2026-guide-recommendations.33601/#post-226945)
@@ -184,12 +198,6 @@ TODO:
 - Nuclear Generator
 - FIND/MAKE: Remove explosives from Chemistry workstation, 
 	- and add alternative, less powerful home made versions.
-### Quests
-- [Atomic Radio and Tales from the Commonwealth](https://3dnpc.com/2016/06/13/tales-from-the-commonwealth-news-and-notes/)
-	- Tales of the Commonwealth
-	- Settlers of the Commonwealth
-- [Publick Occurrences Expanded](https://www.nexusmods.com/fallout4/mods/15804)
-
 ### UI
 #### HUD
 - Huide VR
@@ -206,19 +214,14 @@ TODO:
 ## Misc
 - Boyancy Fixes
 - Better Coastal Waves
-- CROSS Crit Gore-verhaul
-- Fat Man Radiation Hazard
 - Wanderer Song Restored (may not be necessary, unless I copy the BA2 files from AE).
-- Better Chems
-- Intimidation Perk Extend - Lore Friendly Improvements
-- Intimidation Perk Extend - Followerlike Commandable NPCs
+
+
 
 # Won't Use
 - Addiction Overhaul - a bit much
 - Wasteland Illuminatiln - doesn't really fit the theme
-- Check out Commonwealth Iguanas
-- Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
-- Simple Everyone's Best Friend - UCF covers this
+- Unlimited Companion Framework - lots of complaints about bugs 
 - Lucky Loot? Check comparability with Loot Logic and Reduction
 - Homemade Explosives?
 	- Or Little Boom?
@@ -244,10 +247,8 @@ TODO:
 - Select Blaster: Looks cool, but a bit overly complex and hard to integrate
 - Knockout Framework: Buggy with flying enemies
 - Alt Power: Nuclear Generator does what I need I think.
-- Better Explosives Redux: Requires too many patches for other explosives mods
 - Power Armor Damage Threshold: Has a bug where taking low damage heals power armor, has a DLL fix, but it doesn't work with VR.
 - Any mod that adds new weapons - probably won't work with the reload mod.
-- NX Encounter Zones - Slower levelling should do the trick on its own.
 - Reduced Level-Up Speeds: Same as GEM
 - realistic mines: people seem to like the way mines work.
 		- No Glowing Mines and Realistic Tripwires
@@ -281,6 +282,8 @@ TODO:
 - Worthwhile Caps Stashes
 - Simple Locational Damage Tweaks - sensible version is more extensive.
 	- [DLC Patch](https://www.nexusmods.com/fallout4/mods/60501?tab=files&file_id=308516)
+- Companion Stealth Distance Fix - tbh I don't really see the point
+- Dogmeat - Doors are NOT for Dogs (No Door Opening) - breaks an early quest
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap
