@@ -25,7 +25,7 @@
 
 6. **Uneven or incomplete garage paintwork**
    - Location: Garage walls
-   - Issue: Uneven paint patches were observed, suggesting previous repairs or incomplete painting.
+   - Issue: Uneven paint patches were observed.
    - Recommended action in report: Prepare and repaint the affected wall areas to provide a consistent finish.
 
 7. **Soil erosion**
