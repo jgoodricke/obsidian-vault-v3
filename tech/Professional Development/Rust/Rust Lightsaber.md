@@ -30,4 +30,5 @@ cargo clippy --fix -- \
 Source: https://m.youtube.com/watch?v=JIvKgSyvtxI
 - DocTests
 - Proptest - deterministic tests
-- sqlx - useful for integration testing
+- sqlx - useful for integration testing (including mocking the database)
+- pact_consumer - integration testing

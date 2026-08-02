@@ -1,11 +1,9 @@
 TODO: 
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
-- Simple Locational Damage Tweaks
-	- [DLC Patch](https://www.nexusmods.com/fallout4/mods/60501?tab=files&file_id=308516)
-- TODO: see if there's a mod that makes the effects of Addicto temporary.
+
 # Modding Philosophy
 - Character:
-	- I am a senior engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
+	- I am an engineer who worked on the vaults, who has high intelligence but almost no experience fighting.
 - Type of Game
 	- Action RPG
 	- Survival Game 
@@ -42,11 +40,7 @@ TODO:
 			- Make edit to xSE PluginPreloader.xml: `<LoadMethod Name="ImportAddressHook"> -> <LoadMethod Name="_﻿_OnProcessAttach">`.
 - Disk Cache Enabler - F4VR
 - Private Profile Redirector
-- Simple Death Screen
 - Faster Decompression
-- AutoSave F4SEVR
-- [Skip](https://www.nexusmods.com/fallout4/mods/88418)
-- Faster Load Screens
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
@@ -57,6 +51,13 @@ TODO:
 - FAR - Faraway Area Reform
 - Insignificant Object Remover
 - Lucid Institute - Performance Optimization - VR Compatible
+### Other Fixes
+- Dead Body Collision by Ald4rLake
+- Simple Death Screen
+- AutoSave F4SEVR
+- [Skip](https://www.nexusmods.com/fallout4/mods/88418)
+- Faster Load Screens
+- Unlimited Companion Framework
 ## Visuals
 ### Textures
 - Fallout 4 HD Overhaul 2k
@@ -111,19 +112,15 @@ TODO:
 - WAIT: Virtual Reload - When Released
 - WAIT: Kabuto VR - when SKSE version comes out
 - Immersive Flashlight VR
-### Action RPG
-- Addiction Overhaul
-- Better Chems
+### Improved Combat
 - Weapons of Fate Redux (RobCo Patcher Edition)
-- Intimidation Perk Extend - Lore Friendly Improvements
-- Intimidation Perk Extend - Followerlike Commandable NPCs
-- Simple Everyone's Best Friend
-- No Combat Boundaries - Revised and Renewed
-- SKK Combat Stalkers
-	- Don't forget my patch
 - Realistic Crippled Limbs Effects
 - Stimpaks restore less limb damage (use 10% version).
 - Enemies Don't Shoot So Good No More (50%)
+- Better Bloatflies
+- No Combat Boundaries - Revised and Renewed
+- Sensible Locational Damage Tweaks
+
 #### Early Game Fixes
 - Remove 10mm Pistols from Vault 111 and Early Game
 - Less Flashy Museum of Freedom
@@ -141,7 +138,6 @@ TODO:
 - Scavenge Station Improvements (scrap and plants version)
 - Worthwhile Eyebot Pods
 	- More Ammo from Eyebot Pods
-
 ### Survival
 - Food Mod
 - Recycle - Give Me My Leftovers Back
@@ -159,8 +155,8 @@ TODO:
 	- Reputation VR
 - Story Encounter Booster
 - Refreshing Checkpoints
-- Better Bloatflies
-- Wasteland Illuminatiln
+- SKK Combat Stalkers
+	- Don't forget my patch
 ### Better Settlements
 - [Sim Settlements 2](https://www.nexusmods.com/fallout4/mods/73394?tab=files)
 	- [Installation Guide](https://simsettlements.com/site/index.php?threads/fo4-vr-ss2-2026-guide-recommendations.33601/#post-226945)
@@ -213,12 +209,16 @@ TODO:
 - CROSS Crit Gore-verhaul
 - Fat Man Radiation Hazard
 - Wanderer Song Restored (may not be necessary, unless I copy the BA2 files from AE).
-
+- Better Chems
+- Intimidation Perk Extend - Lore Friendly Improvements
+- Intimidation Perk Extend - Followerlike Commandable NPCs
 
 # Won't Use
+- Addiction Overhaul - a bit much
+- Wasteland Illuminatiln - doesn't really fit the theme
 - Check out Commonwealth Iguanas
 - Squirrels of the Commonwealth and Squirrels of the Commonwealth -NERFED-
-
+- Simple Everyone's Best Friend - UCF covers this
 - Lucky Loot? Check comparability with Loot Logic and Reduction
 - Homemade Explosives?
 	- Or Little Boom?
@@ -279,6 +279,8 @@ TODO:
 - Unbogus Health Scaling
 - Unbogus Lunchboxes
 - Worthwhile Caps Stashes
+- Simple Locational Damage Tweaks - sensible version is more extensive.
+	- [DLC Patch](https://www.nexusmods.com/fallout4/mods/60501?tab=files&file_id=308516)
 ## Factory Overhaul?
 - Update chance of getting scrap instead of component
 - Update chemistry recipes so they require containers instead of scrap

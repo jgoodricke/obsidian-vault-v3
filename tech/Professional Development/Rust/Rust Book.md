@@ -1,5 +1,10 @@
 https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
+
+Up to: 
+Quiz above https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html#rust-avoids-simultaneous-aliasing-and-mutation
+
+
 - [x] What's Different About This Book?
 - [x] The Rust Programming Language
 - [x] Foreword
