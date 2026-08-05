@@ -9,3 +9,4 @@
 	- [ ] Fix existing Wayfinder issues
 	- [ ] Update code to use Wayfinder properly
 	- [ ] Refactor existing tests.
+	- [ ] Add tests to the CI/CD pipeline
