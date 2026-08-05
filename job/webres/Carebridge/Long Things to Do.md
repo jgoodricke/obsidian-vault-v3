@@ -1,12 +1,14 @@
 
 - [ ] Simple
-	- [ ] Add Larastan and ide-helper
+	- [x] Add Larastan and ide-helper
 	- [ ] Add Wayfinder
+		- [ ] Wait for it to leave Beta
+		- [ ] Migrate from Yarn to Vite.
 - [ ] Hard
 	- [ ] Implement Browser Tests
 	- [ ] Migrate from EpicReact
 	- [ ] Implement Endpoint Tests
 	- [ ] Fix existing Wayfinder issues
-	- [ ] Update code to use Wayfinder properly
 	- [ ] Refactor existing tests.
 	- [ ] Add tests to the CI/CD pipeline
+	- [ ] Update code to use Wayfinder more effectively.
