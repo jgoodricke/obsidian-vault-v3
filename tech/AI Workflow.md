@@ -12,9 +12,10 @@
 - Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
-- Testing: test locally
-- Testing: Confirm no slow queries
-- Testing: Confirm no console errors
+- QA: test locally
+- QA: Confirm no slow queries
+- QA: Confirm no console errors
+- QA: confirm no failed jobs (/failed-jobs)
 - Testing: Run e2e tests
 - Testing: Run CI
 - Testing: remove any low-value tests
