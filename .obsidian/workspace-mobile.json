@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "personal/Clothes Sizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Clothes Sizes"
             }
           }
         ],
@@ -150,7 +150,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Rust",
+            "query": "Clothes",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -270,10 +270,10 @@
   },
   "active": "97fb17bc134249a4",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Contents.md",
     "personal/Recurring Bills.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "Rust Manual.md",
     "tech/Professional Development/Rust/Rust Lightsaber.md",

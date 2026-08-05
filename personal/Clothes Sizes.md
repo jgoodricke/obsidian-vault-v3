@@ -1,3 +1,5 @@
+Pillow: Anko Dual Support Foam Core Pillow
+
 Jeans: 34 Bootcut or Classic Slim, 32 classic
 
 32 OR 34 waist, 32 legs
