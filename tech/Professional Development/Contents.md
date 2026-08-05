@@ -18,6 +18,9 @@
 	- [ ] [[Rust by Example]]
 	- [ ] Rustings
 	- [ ] **Dioxus**: Full-stack, component-based Rust framework that can target web, desktop, and mobile.
+	- [ ] toy projects
+		- [ ] [Make A Lisp](https://github.com/kanaka/mal#rust-138)
+		- [ ] web server
 - [ ] Rejex
 - [ ] Lifestyle
 	- [ ] Practical Zen

@@ -36,6 +36,10 @@
 - Shield Of Stamina
 - Khajiit Has Tents
 - Audio Occlusion
+- Swap Drop and Hold Redux - VR
+- Dremora Revoiced
+- Also these revoiced mods: https://www.nexusmods.com/profile/LeoMaximus/mods?gameId=1704&sortBy=createdAt
+- Skyrim Revoiced
 
 Redguard:
 - Desert Trader
@@ -325,6 +329,10 @@ Redguard:
 - [ ] Simple Realistic Archery VR
 	- [ ] No Arrow Auto Equip VR
 	- [ ] Seamless Arrow Nocking VR
+- [ ] Immersive NPC Dialogue - VR
+- [ ]  Dialogue Movement Enabler VR 
+- [ ] No Menu Fade Out
+- [ ] Biting Axes and Swords VR (BETA)
 
 ### Action-RPG
 - [ ] Arena - an Encounter Zone Overhaul
