@@ -8,3 +8,4 @@
 	- [ ] Implement Endpoint Tests
 	- [ ] Fix existing Wayfinder issues
 	- [ ] Update code to use Wayfinder properly
+	- [ ] Refactor existing tests.
