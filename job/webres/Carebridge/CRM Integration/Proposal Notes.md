@@ -77,18 +77,14 @@ Each supported CRM would have its own adapter.
 - AWS Cloudwatch for logging/monitoring services.
 
 ## Suggested Delivery
-
 1. Build the Integration / Sync Core and interfaces.
 2. Implement one Application Connector and one CRM Adapter end-to-end.
 3. Validate bidirectional synchronisation and record mappings.
 4. Add additional CRM Adapters.
 5. Add the second internal application.
 6. Add operational/admin tooling as required.
-
 ## Questions for Lisa/Rob
 - Can we get access to the ScheduleMee codebase to have a look?
 - Where is Schedule Mee hosted?
-
-
 ### ToDo
 - Data Matching
