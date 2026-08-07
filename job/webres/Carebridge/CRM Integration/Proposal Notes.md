@@ -88,8 +88,10 @@ Each supported CRM would have its own adapter.
 5. Add the second internal application.
 6. Add operational/admin tooling as required.
 ## Questions for Lisa/Rob
+- We should discuss the data matching issue.
+	- Most of the data in the CRMs we saw was bespoke, meaning it will be very difficult to match that with our data, and will have to Facility to facility basis.
 - Can we get access to the ScheduleMee codebase to have a look?
-- Where is Schedule Mee hosted?i
+- Where is Schedule Mee hosted?
 - How do we get the API keys from the Providers? Need to do when onboarding.
 - It looks like all of the fields in the CRM are custom, which means we will need a way to map the fields manually.
 ### ToDo
