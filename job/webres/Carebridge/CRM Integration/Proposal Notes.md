@@ -74,7 +74,7 @@ Each supported CRM would have its own adapter.
 - Rust.
 - RDS for configuration, record mappings and sync state.
 - AWS Secrets Manager for CRM credentials.
-- AWS Cloudwatch for logging/monitoring services?
+- AWS Cloudwatch for logging/monitoring services? Or Build a bespoke UI?
 
 ## Suggested Delivery
 
@@ -85,6 +85,6 @@ Each supported CRM would have its own adapter.
 5. Add the second internal application.
 6. Add operational/admin tooling as required.
 
-## Questions for Lisa
+## Questions for Lisa/Rob
 - Can we get access to the ScheduleMee codebase to have a look?
 - Where is Schedule Mee hosted?
