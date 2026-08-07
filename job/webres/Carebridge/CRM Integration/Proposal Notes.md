@@ -74,7 +74,7 @@ Each supported CRM would have its own adapter.
 - RDS for configuration, record mappings and sync state 
 	- Use existing Carebridge Instance.
 - AWS Secrets Manager for CRM credentials.
-- AWS Cloudwatch for logging/monitoring services? Or Build a bespoke UI?
+- AWS Cloudwatch for logging/monitoring services.
 
 ## Suggested Delivery
 
