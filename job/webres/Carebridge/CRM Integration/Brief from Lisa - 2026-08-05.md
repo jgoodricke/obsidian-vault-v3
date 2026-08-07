@@ -59,6 +59,7 @@ As a starting point, below is a list of what we would be looking at for Schedule
 - Service completion rate
 
 - Refusal trends
+
 - Outstanding services
 
 ### Carebridge to CRM
