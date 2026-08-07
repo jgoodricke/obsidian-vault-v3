@@ -35,6 +35,9 @@ Responsibilities:
 
 The Core should manage integration behaviour without containing application-specific or CRM-specific business logic.
 
+### WebUI
+- TODO
+
 ### CRM Adapters
 
 Provide a standard interface between the integration service and individual CRM platforms.
