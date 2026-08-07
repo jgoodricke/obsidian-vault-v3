@@ -85,6 +85,7 @@ Each supported CRM would have its own adapter.
 6. Add operational/admin tooling as required.
 ## Questions for Lisa/Rob
 - Can we get access to the ScheduleMee codebase to have a look?
-- Where is Schedule Mee hosted?
+- Where is Schedule Mee hosted?i
+- How do we get the API keys from the Providers? Need to do when onboarding.
 ### ToDo
 - Data Matching
