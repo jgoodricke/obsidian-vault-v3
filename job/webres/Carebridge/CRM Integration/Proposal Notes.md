@@ -37,7 +37,7 @@ The Core should manage integration behaviour without containing application-spec
 
 ### WebUI
 - Oath login.
-- bespoke monitoring, down the tra
+- bespoke monitoring, down the track.
 
 ### CRM Adapters
 
