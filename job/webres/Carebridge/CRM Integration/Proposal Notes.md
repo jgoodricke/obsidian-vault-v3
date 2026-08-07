@@ -50,7 +50,6 @@ Responsibilities:
 - Exposing platform capabilities and limitations.
 
 Each supported CRM would have its own adapter.
-
 ## Key Benefits
 - Reduces duplicated CRM integration code across Carebridge and Schedule Mee.
 - Keeps CRM-specific behaviour out of the internal applications.
@@ -59,7 +58,6 @@ Each supported CRM would have its own adapter.
 - Improves reliability through asynchronous processing.
 - Provides a single place to troubleshoot integration failures.
 - Separates internal application changes from CRM API changes.
-
 ## Disadvantages / Risks
 - Introduces another production application to deploy and maintain.
 - Creates additional architectural complexity.
