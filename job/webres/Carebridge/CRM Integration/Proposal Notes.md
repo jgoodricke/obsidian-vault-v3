@@ -36,7 +36,8 @@ Responsibilities:
 The Core should manage integration behaviour without containing application-specific or CRM-specific business logic.
 
 ### WebUI
-- TODO
+- Oath login.
+- bespoke monitoring, down the tra
 
 ### CRM Adapters
 
@@ -90,5 +91,6 @@ Each supported CRM would have its own adapter.
 - Can we get access to the ScheduleMee codebase to have a look?
 - Where is Schedule Mee hosted?i
 - How do we get the API keys from the Providers? Need to do when onboarding.
+- It looks like all of the fields in the CRM are custom, which means we will need a way to map the fields manually.
 ### ToDo
 - Data Matching
