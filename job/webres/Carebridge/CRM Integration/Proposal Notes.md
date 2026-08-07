@@ -50,7 +50,9 @@ Responsibilities:
 - Exposing platform capabilities and limitations.
 
 Each supported CRM would have its own adapter.
-## Key Benefits
+
+## Benefits and Risks
+### Advantages
 - Reduces duplicated CRM integration code across Carebridge and Schedule Mee.
 - Keeps CRM-specific behaviour out of the internal applications.
 - Makes future CRM integrations easier to add.
@@ -58,52 +60,31 @@ Each supported CRM would have its own adapter.
 - Improves reliability through asynchronous processing.
 - Provides a single place to troubleshoot integration failures.
 - Separates internal application changes from CRM API changes.
-## Disadvantages / Risks
+### Disadvantages
 - Introduces another production application to deploy and maintain.
 - Creates additional architectural complexity.
 - Requires good monitoring and correlation between systems.
-## Important Boundary
-The integration service should remain focused on integration responsibilities.
+### Caveats
+- The integration service should remain focused on integration responsibilities.
+- Business rules should remain within Carebridge and Schedule Mee.
+- CRM-specific behaviour should remain within CRM Adapters.
+- Avoid attempting to create a universal business model covering all applications and CRMs.
 
-Business rules should remain within Carebridge and Schedule Mee.
-
-CRM-specific behaviour should remain within CRM Adapters.
-
-Avoid attempting to create a universal business model covering all applications and CRMs.
-
-## Suggested Implementation
-
-Start with a single modular application rather than multiple microservices.
-
-Potential stack:
+## Suggested Stack
 - Rust.
 - RDS for configuration, record mappings and sync state.
 - AWS Secrets Manager for CRM credentials.
-- AWS logging/monitoring services.
+- AWS Cloudwatch for logging/monitoring services?
 
 ## Suggested Delivery
 
 1. Build the Integration / Sync Core and interfaces.
 2. Implement one Application Connector and one CRM Adapter end-to-end.
 3. Validate bidirectional synchronisation and record mappings.
-4. Add the second internal application.
-5. Add additional CRM Adapters.
+4. Add additional CRM Adapters.
+5. Add the second internal application.
 6. Add operational/admin tooling as required.
-
-## Recommendation
-
-Use the shared integration service approach.
-
-There are already two internal applications and three initial CRM platforms, with additional CRMs expected in future.
-
-Without the integration layer, each application/CRM combination could require its own integration implementation.
-
-The proposed Connector → Core → Adapter model provides a more maintainable and scalable approach while keeping application and CRM concerns separated.
-
 
 ## Questions for Lisa
 - Can we get access to the ScheduleMee codebase to have a look?
 - Where is Schedule Mee hosted?
-
-## Questions for Jordan
-- How should the DB work in this case?
