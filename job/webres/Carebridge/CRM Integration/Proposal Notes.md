@@ -31,8 +31,7 @@ Responsibilities:
 - Idempotency and duplicate prevention.
 - Source-of-truth and conflict rules.
 - Scheduled synchronisation and reconciliation.
-- Integration configuration.
-- Logging, monitoring and audit history.
+- Logging, monitoring.
 
 The Core should manage integration behaviour without containing application-specific or CRM-specific business logic.
 
@@ -63,7 +62,6 @@ Each supported CRM would have its own adapter.
 ### Disadvantages
 - Introduces another production application to deploy and maintain.
 - Creates additional architectural complexity.
-- Requires good monitoring and correlation between systems.
 ### Caveats
 - The integration service should remain focused on integration responsibilities.
 - Business rules should remain within Carebridge and Schedule Mee.
@@ -71,8 +69,10 @@ Each supported CRM would have its own adapter.
 - Avoid attempting to create a universal business model covering all applications and CRMs.
 
 ## Suggested Stack
-- Rust.
-- RDS for configuration, record mappings and sync state.
+- Rust
+	- TODO: Look into server frameworks and crates.
+- RDS for configuration, record mappings and sync state 
+	- Use existing Carebridge Instance.
 - AWS Secrets Manager for CRM credentials.
 - AWS Cloudwatch for logging/monitoring services? Or Build a bespoke UI?
 
@@ -88,3 +88,7 @@ Each supported CRM would have its own adapter.
 ## Questions for Lisa/Rob
 - Can we get access to the ScheduleMee codebase to have a look?
 - Where is Schedule Mee hosted?
+
+
+### ToDo
+- Data Matching

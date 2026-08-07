@@ -63,20 +63,15 @@ As a starting point, below is a list of what we would be looking at for Schedule
 - Outstanding services
 
 ### Carebridge to CRM
-
 - New referrals
 - Referral updates
 - Documents
 - Patient demographics
-
 - Clinical summary
-
 - Messaging (comments added to enquiry by hospital)
 
 ### CRM to Carebridge
-
 - Enquiry status changes
 - Admission outcome
 - Date admitted
-
 - Information requests and messaging (comments added to enquiry by provider)
