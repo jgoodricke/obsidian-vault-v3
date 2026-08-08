@@ -1,0 +1,51 @@
+- [ ]  **Hospital documents already in your possession**  
+    Discharge summary, emergency department paperwork, surgical discharge paperwork, operation information, appointment letters and any other documents you were given at the hospital.
+    
+- [ ]  **Plastic surgeon / specialist documents already in your possession**  
+    Clinic letters, treatment instructions, scar-management advice, follow-up appointment information and anything stating that further monitoring or treatment is required.  
+    **Do not delay the initial Guild response to obtain a specially prepared medical report.**
+    
+- [ ]  **GP and dental records you already have**  
+    Any referral letters, certificates, treatment summaries or invoices relating specifically to the injury. There is no need to request the child's entire medical history.
+    
+- [ ]  **Medical and treatment expenses**  
+    Receipts/invoices for hospital, surgeon, anaesthetist, GP, pharmacy, dental treatment, scar products and other injury-related treatment. Keep evidence of Medicare/private health rebates as well so the actual out-of-pocket cost can eventually be calculated.
+    
+- [ ]  **Current photographs of the injury/scar**  
+    Even if you have no photographs from 15 June, take clear photographs now. If you have any earlier phone photos from the recovery period, include those too. Keep the original files rather than screenshots where possible.
+    
+- [ ]  **Any messages/photos sent to family or friends during the recovery period**  
+    Check WhatsApp, Messenger, SMS, KakaoTalk, Google Photos/iCloud, etc. You may discover contemporaneous photographs or messages documenting Jackson's condition that you have forgotten about.
+    
+- [ ]  **Christy's work/leave evidence**  
+    Payslips, leave records, emails/messages with her employer, roster information and dates she could not work because she needed to care for Jackson. Identify separately whether the absence involved unpaid leave, paid carer's leave, annual leave or another arrangement.
+    
+- [ ]  **James's work/leave evidence, if applicable**  
+    The same information if James also lost work, used leave or incurred some other measurable financial loss.
+    
+- [ ]  **Childcare invoices/account statements**  
+    Statements showing what Maples charged after the incident, what was actually paid, the promised 50% reduction, any CCS adjustment, withdrawal charges and the eventual final account. Maples' policy ordinarily requires payment during absences and four weeks' notice for withdrawal, so the actual account history will be more useful than arguing about the policy in the abstract. 
+    
+- [ ]  **A simple list of every expense caused by the incident**  
+    Don't worry about legal categories yet. Write down anything you think would not have been incurred but for the accident, including medical costs, medication, travel/parking, childcare charges and work-related loss. Put "`amount not yet known`" beside anything still outstanding rather than guessing.
+    
+- [ ]  **James's written recollection of 15 June**  
+    Particularly: the phone call from Maples, what he was told, Jackson's condition when he arrived, what staff said about the injury and fall, Jackson's clothing, what treatment staff said had been provided, and what happened from collection through to medical treatment.
+    
+- [ ]  **Christy's separate written recollection**  
+    Include what she was told by Maples, Jackson's condition afterwards, the surgery and recovery, feeding restrictions, pain/distress, home care required, work disruption and what treating clinicians told you at the time. These can be informal notes for now, not legal witness statements.
+    
+- [ ]  **A brief recovery timeline**  
+    Approximate dates are sufficient where exact dates aren't known: injury, first medical assessment, surgery, stitches, soft-food period, follow-up appointments, scar treatment and Jackson's current condition.
+    
+- [ ]  **Regulator correspondence**  
+    Gather any emails, letters, complaint/reference numbers or notes of conversations with the regulator, particularly the communication saying there was insufficient evidence to substantiate wrongdoing. Keep the regulator's exact wording rather than paraphrasing it from memory. Maples has separately stated that notification `NOT-00310277` was lodged on 16 June and closed on 24 July. 
+    
+- [ ]  **All CCTV preservation/access correspondence**  
+    You already have important evidence here. Your 24 June email specifically requested preservation, and Maples responded that day confirming that it **had the footage of the incident**.  Keep that correspondence prominent. Their policy says ordinary CCTV retention is up to 14 days, but your preservation request occurred within that period. 
+    
+- [ ]  **The original incident record and Maples' later explanations**  
+    These are already in the project and should remain part of the evidence bundle. The incident report records the fall, cheek penetration, that Jackson appeared "quite unbalanced and quiet", concussion monitoring, and the educator's inability to stop the fall while assisting the child ahead of him.  Maples subsequently provided considerably more detail about the supervision arrangements and changes to the logs. 
+    
+- [ ]  **Guild's 5 August email**  
+    This is effectively the checklist we ultimately have to answer: alleged negligence, compensation sought, supporting documents and any additional relevant information.
