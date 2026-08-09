@@ -21,6 +21,8 @@ Electricity: Alinta Energy
 Gas: Energy Locals
 
 # My Account
+
+ 
 Allowance (Monthly): $700
 Minus Student Loan: $390
 Total: $310
@@ -29,10 +31,13 @@ Allowance (bi-weekly): $323.08
 Minus Student Loan: $180
 Total: $143
 
-
 Allowance (bi-weekly): $323.08
 Pay: $2959.02 - check this
 Amount to Pay: 
+
+Allowance NEW (bi-weekly): $584
+
+
 ## Monthly
 **Note:** Re-Check and Reset every October
 
