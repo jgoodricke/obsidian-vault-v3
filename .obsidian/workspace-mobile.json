@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Skyrim Modlist"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "Recurring Bills"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,10 +267,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2e7c1c3da6c57768",
+  "active": "53cbe7c3c9204bc0",
   "lastOpenFiles": [
-    "personal/gaming/VR Games V2.md",
+    "Legal/2026-08-08 Jacksons Incident Claim/Checklist.md",
     "tech/Professional Development/Rust/Rust Book.md",
+    "personal/gaming/VR Games V2.md",
     "personal/Recurring Bills.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/Rust/Rust Lightsaber.md",
@@ -299,7 +299,6 @@
     "tech/Browser Settings.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-16.md",
     "job/webres/Carebridge/Analytics Dashboard/Suburb Data Spike Results.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist 1.md",
     "tech/Professional Development/Rust",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components",
