@@ -96,3 +96,4 @@ Each supported CRM would have its own adapter.
 - It looks like all of the fields in the CRM are custom, which means we will need a way to map the fields manually.
 ### ToDo
 - Data Matching
+- Get access to the Resident Select API documentation.
