@@ -183,16 +183,12 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 - Provides a single place to troubleshoot integration failures.
 - Separates internal application changes from CRM API changes.
 - Provides a consistent onboarding and mapping process for providers.
-
 ### Disadvantages
-
 - Introduces another production application to deploy, secure and maintain.
 - Creates additional architectural and operational complexity.
 - Requires configuration and support processes for provider-specific mappings.
 - Becomes shared infrastructure whose failures may affect multiple applications or providers.
-
 ### Caveats
-
 - The integration service should remain focused on integration responsibilities.
 - Business rules should remain within Carebridge and Schedule Mee.
 - CRM-specific behaviour should remain within CRM Adapters.
@@ -204,19 +200,17 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 ## Suggested Stack
 
 - **Rust**
-  - Dioxus
-  - Axum
-	  - Axum
-  - SQLX
-- **Amazon RDS**
-  - Store configuration, record mappings, mapping versions, synchronisation state and audit metadata.
-  - A dedicated database or schema is preferable, even if the existing Carebridge RDS instance is reused initially, to preserve service ownership and simplify future separation.
-- **AWS Secrets Manager**
-  - Store CRM credentials, client secrets and refresh tokens.
-- **AWS queueing service**
-  - Use asynchronous jobs for synchronisation, retries and reconciliation. The specific service should be selected during technical design.
-- **Amazon CloudWatch**
-  - Centralise application logs, metrics, alerts and operational dashboards.
+	- Dioxus
+	- Axum
+		- Axum::routing
+		- Axum OpenAPI 3?
+	 - SQLX
+	 - Tokyo 
+- AWS
+	- **ECS**
+	- **RDS**
+	- **Secrets Manager**
+	- **CloudWatch**
 
 ## Suggested Delivery
 
@@ -245,7 +239,6 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 ## Decisions and Information Required from Lisa and Rob
 
 - Which provider and workflow should be used for the first end-to-end pilot?
-- Can access be provided to the Schedule Mee codebase and technical documentation?
 - Where is Schedule Mee hosted, and what APIs, events or database interfaces are available?
 - Can API documentation, sandbox access and vendor contacts be obtained for Resident Select?
 - Which CRM products, editions and deployment models are used by the initial providers?
