@@ -204,7 +204,10 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 ## Suggested Stack
 
 - **Rust**
-  - Select the HTTP framework, queue integration and supporting crates during the technical design stage.
+  - Dioxus
+  - Axum
+	  - Axum
+  - SQLX
 - **Amazon RDS**
   - Store configuration, record mappings, mapping versions, synchronisation state and audit metadata.
   - A dedicated database or schema is preferable, even if the existing Carebridge RDS instance is reused initially, to preserve service ownership and simplify future separation.
