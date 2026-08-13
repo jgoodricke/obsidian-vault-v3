@@ -6,12 +6,15 @@
 - Exploration: prototyping (optional)
 - Planning: product requirements document (PRD)
 - Planning: implementation planning (kanban board)
+- Push Beads
 - Execution: run agents
+- Push Beads
 - Code Review: smoke test
 - Code Review: human code review
 - Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
+- Push Beads
 - QA: test locally
 - QA: Confirm no slow queries
 - QA: Confirm no console errors
