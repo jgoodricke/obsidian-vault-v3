@@ -19,7 +19,6 @@
 - QA: Confirm no slow queries
 - QA: Confirm no console errors
 - QA: confirm no failed jobs (/failed-jobs)
-- Testing: Run e2e tests
 - Testing: Run CI
 - Testing: remove any low-value tests
 - Deploy: create PR
