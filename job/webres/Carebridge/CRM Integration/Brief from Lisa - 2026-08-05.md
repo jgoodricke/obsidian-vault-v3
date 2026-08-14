@@ -70,7 +70,7 @@ As a starting point, below is a list of what we would be looking at for Schedule
 - Clinical summary
 - Messaging (comments added to enquiry by hospital)
 
-### CRM to Carebridge
+### CRM to Carebridge (Nice-to-Have, we can do this the other way isntead if easier)
 - Enquiry status changes
 - Admission outcome
 - Date admitted
