@@ -41,6 +41,7 @@
 - Also these revoiced mods: https://www.nexusmods.com/profile/LeoMaximus/mods?gameId=1704&sortBy=createdAt
 - Skyrim Revoiced
 - Physical Collision VR
+- Dragonboard
 
 Redguard:
 - Desert Trader
