@@ -2,7 +2,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to: 
-https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html#references-and-borrowing
+Do Quiz: https://rust-book.cs.brown.edu/ch04-03-fixing-ownership-errors.html#fixing-a-safe-program-mutating-different-array-elements
 
 - [x] What's Different About This Book?
 - [x] The Rust Programming Language
@@ -19,9 +19,9 @@ https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html#references-
     - [x] 3.3. Functions
     - [x] 3.4. Comments
     - [x] 3.5. Control Flow
-- [ ] 4. Understanding Ownership
-    - [ ] 4.1. What is Ownership?
-    - [ ] 4.2. References and Borrowing
+- [ ] 4. Understanding Ownership (Read 4.1 and 4.2 again)
+    - [x] 4.1. What is Ownership?
+    - [x] 4.2. References and Borrowing
     - [ ] 4.3. Fixing Ownership Errors
     - [ ] 4.4. The Slice Type
     - [ ] 4.5. Ownership Recap

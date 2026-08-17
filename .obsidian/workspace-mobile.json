@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/gaming/Epic Games Mobile Library.md",
+                "file": "tech/Professional Development/Rust/Rust Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Epic Games Mobile Library"
+              "title": "Rust Book"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Lightsaber.md",
+                "file": "Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Lightsaber"
+              "title": "Scratchpad"
             }
           },
           {
@@ -119,7 +119,8 @@
               "title": "Recurring Bills"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Epic games",
+            "query": "Rust",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -200,7 +201,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "5ddcbb43d961d2cf",
@@ -267,17 +268,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "53cbe7c3c9204bc0",
+  "active": "4223005a1018366b",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
+    "personal/Chats/Discussion 2026-08-15.md",
+    "tech/Professional Development/Rust/Rust Lightsaber.md",
+    "family/Infant Toddler Temprement Tool.md",
+    "personal/gaming/Epic Games Mobile Library.md",
     "personal/Tea brewing Times.md",
     "personal/gaming/VR Mods.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
-    "tech/Professional Development/Rust/Rust Lightsaber.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "Legal/2026-08-08 Jacksons Incident Claim/Checklist.md",
     "personal/gaming/VR Games V2.md",
     "personal/Recurring Bills.md",
-    "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/Contents.md",
     "job/webres/Carebridge/CRM Integration/Proposal Notes.md",
     "personal/Clothes Sizes.md",
@@ -296,9 +299,7 @@
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-30.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-07-23.md",
     "personal/gaming/Elder Scrolls/Oblivion/Oblivion Modlist.md",
-    "personal/PC & Laptop Specs.md",
     "personal/gaming/Elder Scrolls/Oblivion",
-    "tech/Browser Settings.md",
     "tech/Professional Development/Rust",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info",
     "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components",

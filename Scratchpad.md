@@ -1,3 +1,8 @@
+## Workflow 
+- Herdr
+- plannotator
+
+
 Carebridge login incident — findings summary (22 Jul 2026)
 
 Three independent problems, not one root cause. The DB error the client forwarded is a red herring — harmless, and only visible because the admin was editing accounts to fix them.
