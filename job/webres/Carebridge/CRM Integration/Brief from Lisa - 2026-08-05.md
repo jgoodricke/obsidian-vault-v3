@@ -137,3 +137,115 @@ As a starting point, below is a list of what we would be looking at for Schedule
 - Admission outcome
 - Date admitted
 - Information requests and messages
+
+
+
+---
+
+
+Hi Will and Chris,
+
+Thanks again for your time today.
+
+As discussed, I’ve put together the initial list of data we’re looking to exchange between Resident Select, ScheduleMe and Carebridge as part of the integration.
+
+### Resident Select → ScheduleMe
+
+**Resident Details**
+
+- First name
+    
+- Last name
+    
+- Room number
+    
+- Facility
+    
+- Wing
+    
+- Date of birth
+    
+- Gender
+    
+- Admission date
+    
+- Expected discharge date, where applicable
+    
+- About Me profile
+    
+
+**Service Information**
+
+- Service name
+    
+- Service frequency
+    
+- Commencement date
+    
+- End date, where applicable
+    
+
+### ScheduleMe → Resident Select
+
+**Service History**
+
+- Resident name
+    
+- Service name
+    
+- Service date
+    
+- Service time
+    
+- Service status
+    
+- Service notes
+    
+
+**Analytics / Reporting**
+
+- Services delivered this month
+    
+- Missed, refused, incomplete and cancelled visits
+    
+- Companion hours
+    
+- Service completion rate
+    
+- Refusal trends
+    
+- Outstanding services
+    
+
+### Carebridge → Resident Select
+
+- New referrals
+    
+- Referral updates
+    
+- Documents
+    
+- Patient demographics
+    
+- Clinical summary
+    
+- Messages/comments added to the enquiry by the hospital
+    
+
+### Resident Select → Carebridge
+
+The following would be nice to have as part of the integration:
+
+- Enquiry status changes
+    
+- Admission outcome
+    
+- Date admitted
+    
+- Information requests and messages
+    
+
+Please let me know if you have any questions about any of the above, or if there’s anything else you need from us at this stage.
+
+Thanks,  
+James
