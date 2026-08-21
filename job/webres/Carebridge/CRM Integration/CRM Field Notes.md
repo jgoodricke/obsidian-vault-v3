@@ -483,7 +483,8 @@ This pilot will validate schema discovery, configuration, record identity and op
 - Has the provider's CRM product, contract and security configuration been approved for the relevant personal and health information?
 - ResidentSelect
 	- How do users get their API keys?
-	- What is the expiration date on the API keys?
+	- What is the expiration date on the API keys?i
+- Where is the ScheduleMee system hosted?
 
 ## Sources
 
