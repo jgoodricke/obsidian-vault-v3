@@ -24,7 +24,7 @@ frontmatter-version: 1.1
 	 * [x] Shadows of Self
 	 * [ ] The Bands of Mourning
 	 * [ ] Mistborn: Secret History
-	 * [ ] The Lost Metal (read after stormlight archives)
+	 * [ ] The Lost Metal (read after Rhythm of War)
  * [ ] Stormlight Archives
 	 * [x] The Way of Kings
 	 * [x] Words of Radiance
@@ -32,12 +32,14 @@ frontmatter-version: 1.1
 	 * [x] Oathbringer
 	 * [ ] Dawnshard
 	* [ ] Rhythm of War
- * [ ] Wind and Truth
+	 * [ ] Wind and Truth
+- [ ]  Hoid's Travails
+	 * [ ] Tress of the Emerald Sea
+	 * [ ] Yumi and the Nightmare Painter
+	 * [ ] The Fires of December
  * [ ] The Sunlit Man
- * [ ] Yumi and the Nightmare Painter
- * [ ] Tress of the Emerald Sea
  * [ ] Isles of Emberdark
-
+- [ ] Arcanum Unbound
 
 # Author's Recommended Reading Order
 - [x] Mistborn

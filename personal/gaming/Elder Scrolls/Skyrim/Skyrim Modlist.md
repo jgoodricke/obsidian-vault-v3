@@ -42,6 +42,7 @@
 - Skyrim Revoiced
 - Physical Collision VR
 - Dragonboard
+- Immersive Harvesting VR
 
 Redguard:
 - Desert Trader
