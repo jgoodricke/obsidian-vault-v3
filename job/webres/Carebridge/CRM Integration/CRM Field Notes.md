@@ -226,13 +226,13 @@ It is a **single slot per person**. If the provider already uses it, for an Epic
 
 #### Write constraints to confirm
 
-| Item | Documented position | Action |
-|---|---|---|
-| Contact updates | `POST /contacts` exists but no `PATCH` is documented | Confirm whether Contacts can be updated at all. If not, a Contact created in error can only be corrected inside RS. |
-| Delete endpoints | The API key configuration offers an "API Delete Permission" granting access to "all DELETE API endpoints", but no `DELETE` endpoint is documented for any resource | Confirm whether undocumented delete endpoints exist. Until confirmed, issue keys without delete permission. |
-| Client Contacts | Read-only | Confirm whether next of kin can be created through any supported route. |
-| Multi-site residents | Create accepts only one `site_id` | Confirm the process for a resident who moves between Sites. |
-| Rate limits | Not documented | Obtain limits before setting polling frequency, given that polling is the only change-detection mechanism. |
+| Item                 | Documented position                                                                                                                                                | Action                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Contact updates      | `POST /contacts` exists but no `PATCH` is documented                                                                                                               | Confirm whether Contacts can be updated at all. If not, a Contact created in error can only be corrected inside RS. |
+| Delete endpoints     | The API key configuration offers an "API Delete Permission" granting access to "all DELETE API endpoints", but no `DELETE` endpoint is documented for any resource | Confirm whether undocumented delete endpoints exist. Until confirmed, issue keys without delete permission.         |
+| Client Contacts      | Read-only                                                                                                                                                          | Confirm whether next of kin can be created through any supported route.                                             |
+| Multi-site residents | Create accepts only one `site_id`                                                                                                                                  | Confirm the process for a resident who moves between Sites.                                                         |
+| Rate limits          | Not documented                                                                                                                                                     | Obtain limits before setting polling frequency, given that polling is the only change-detection mechanism.          |
 
 #### Sensitive data
 
