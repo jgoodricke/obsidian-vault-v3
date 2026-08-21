@@ -8,17 +8,17 @@ This document records how the proposed Schedule Mee and Carebridge integration d
 - Reporting values that should be derived from underlying records rather than stored as fields.
 - Sensitive-data and product constraints that must be resolved before implementation.
 
-This is a proposed integration model, not a final provider configuration. The actual objects, fields, permissions and values must be discovered and confirmed against each connected HubSpot account or SugarCRM instance during onboarding.
+This is a proposed integration model, not a final provider configuration. The actual objects, fields, permissions and values must be discovered and confirmed against each connected HubSpot account, SugarCRM instance or Resident Select organisation during onboarding.
 
 ## Key Conclusions
 
-- Only a small number of resident fields have direct, stable equivalents in both CRMs. First name, last name and date of birth are the main examples.
+- Only a small number of resident fields have direct, stable equivalents across the connected CRMs. First name, last name and date of birth are the main examples.
 - Most aged-care, admission, referral and clinical concepts are not native CRM fields.
-- HubSpot custom properties are account-specific. SugarCRM custom fields are instance-specific and normally end in `_c`.
+- HubSpot custom properties are account-specific. SugarCRM custom fields are instance-specific and normally end in `_c`. Resident Select has no custom-field mechanism at all, so gaps there cannot be closed by configuration.
 - Standard objects and modules do not eliminate mapping. Pipelines, stages, dropdown values, relationships and semantic use still need to be agreed per connected account or instance.
 - Provider-specific mapping should be scoped per CRM account or instance, not automatically per facility. Facilities can reuse a mapping where they share the same schema and workflow.
 - Service analytics are derived metrics. They should normally be calculated from appointment or meeting records rather than copied into repeatedly overwritten Contact fields.
-- Clinical summaries, health-related workflow data and documents require separate privacy, contractual and product approval. Technical API support alone is insufficient.
+- Clinical summaries, health-related workflow data and documents require separate privacy, contractual and product approval. Technical API support alone is insufficient. Resident Select is the exception in kind rather than degree: it is built to hold this data, so the constraint there is minimising what Webres reads rather than obtaining approval to write.
 
 ## Classification
 
@@ -29,11 +29,12 @@ This is a proposed integration model, not a final provider configuration. The ac
 | **Conditional stock field** | HubSpot defines the field, but availability or suitability must be checked in the connected account.                    |
 | **Bespoke**                 | A custom property, field, relationship, module, pipeline value or interpretation is required.                           |
 | **Derived**                 | The value should be calculated from underlying records rather than treated as an individual CRM field.                  |
+| **No API equivalent**       | The platform has a fixed schema with no custom-field mechanism, so the concept cannot be represented at all.            |
 | **Approval required**       | The technical mapping is possible, but privacy, contractual, licensing or security approval is unresolved.              |
 
 ## Mapping Conventions
 
-The tables use proposed canonical integration keys such as `resident.first_name`. These keys belong to the integration contract and should remain independent of either CRM.
+The tables use proposed canonical integration keys such as `resident.first_name`. These keys belong to the integration contract and should remain independent of any connected CRM.
 
 CRM mappings must use internal API identifiers, not display labels:
 
@@ -41,8 +42,201 @@ CRM mappings must use internal API identifiers, not display labels:
 |---|---|---|
 | HubSpot | HubSpot-defined object and property names such as `contacts`, `firstname` and `hs_appointment_start` | Custom property names, pipeline IDs, stage IDs, custom association labels and enumeration values |
 | SugarCRM | Stock module and field names such as `Contacts`, `first_name`, `Meetings` and `date_start` | Custom fields ending in `_c`, package-prefixed custom modules, relationship link names and dropdown item names |
+| Resident Select | Vendor-defined, fixed object and attribute names such as `clients`, `first_name`, `person_sites[].room_number` and `sites` | No custom fields. Provider-specific values are the numeric IDs in the organisation's lookup tables, such as `site_id`, `person_status_id`, `archive_reason_id` and `gender_id` |
 
-Example custom names in this document, such as `webres_room_number` or `room_number_c`, are illustrative only. They must not be assumed to exist in a provider's CRM.
+Example custom names in this document, such as `webres_room_number` or `room_number_c`, are illustrative only. They must not be assumed to exist in a provider's CRM. Resident Select is the exception: its attribute names below are taken from the vendor's published API documentation and are fixed for every organisation, but the ID values behind them are not.
+
+### Resident Select
+
+Resident Select (RS) publishes a documented REST API. Unlike HubSpot and SugarCRM it is a fixed-schema, aged-care-specific product: there is no Studio, no custom-property mechanism and no user-defined field capability anywhere in the documentation. Where a canonical concept has no RS attribute it cannot be created, so the **Bespoke** classification used for the other two CRMs does not apply. Those rows are classified **No API equivalent** instead.
+
+The API is also read-rich and write-poor. Every documented endpoint except three is `GET` only. Only these three accept writes:
+
+| Operation | Endpoint | Effect |
+|---|---|---|
+| Create Client | `POST /clients` | Creates a person with `person_type_id` 1 as a **Prospect** against exactly one Site. |
+| Update Client | `PATCH /clients/[id]` | Updates demographic, eligibility and Home Care attributes only. |
+| Create Contact | `POST /contacts` | Creates a person with `person_type_id` 2 as a Prospect against exactly one Site. No update endpoint is documented. |
+
+This has two structural consequences for the integration model. There is no writable target for Schedule Mee service occurrences, so the Schedule Mee to CRM direction cannot be implemented against RS as specified. And the Carebridge to CRM direction can only create a Prospect: status, room, referral progression, documents and notes are all read-only.
+
+#### API conventions
+
+| Convention | Detail |
+|---|---|
+| Base URL | `https://app.residentselect.com.au/api/v1` |
+| Authentication | HTTP Basic. `Authorization: Basic ` followed by `base64(api_key:secret_key)`. |
+| Credential scope | API keys are issued per **Organisation** and grant access only to that Organisation's data. |
+| Key permissions | Separate Read (`GET`), Write (`POST`/`PATCH`) and Delete permissions, plus optional IP allowlisting, set per key in Organisation Settings. The secret key is displayed once and cannot be retrieved afterwards. |
+| Request encoding | Form-encoded requests, JSON-encoded responses. |
+| Datetimes | Always UTC, `YYYY-MM-DD HH:MM:SS`. |
+| Dates | `YYYY-MM-DD`. |
+| Pagination | `limit` (default and maximum 500) and `offset`. Responses are wrapped in `from`, `to`, `total`, `offset`, `max_offset`, `limit` and `data`. |
+| Sorting | `sort=attribute`, prefixed with `-` for descending, comma-separated for multiple keys. |
+| Filtering | `filter[attribute]=value`. Comma-separated values are OR; separate `filter[]` parameters are AND. Name, postcode and phone filters are `%LIKE%`; identifier filters are `=` or `IN`. |
+| Errors | Conventional HTTP status codes with a `{"code": …, "error": …}` body. |
+| Change notification | **None.** No webhooks, callbacks or event subscriptions are documented. Change detection must poll `filter[updated_start_date]` and `filter[updated_end_date]`, which are available on Activities, Aged Care Quotes, Clients, Client Contacts, Clinical Reviews, Contacts, Contracts, Home Care Quotes and Relations. |
+| Rate limits | Not documented. Must be confirmed with the vendor before designing polling frequency. |
+
+#### Object model
+
+RS uses a single person model split across three endpoints by `person_type_id`: Client (1), Contact (2) and Client Contact (3). A resident is a **Client**. Next of kin and other related parties are **Client Contacts**, joined through the `/relations` endpoint using `relation_type_id`.
+
+The attributes that matter most to this integration are not on the Client itself. They sit in `person_sites`, an array on the Client (and Contact) representing that person's state at each Site:
+
+| `person_sites[]` attribute | Meaning |
+|---|---|
+| `site_id` | The Site (facility). Resolve through the Site object for `name` and `service_id`. |
+| `person_status_id` | Lifecycle status at that Site. Refer Client Status object. |
+| `archive_reason_id` | Set when the status becomes Archived. Refer Archive Reason object. |
+| `referrer_id` | The referral source record. |
+| `room_number` | Room at that Site. **Per site, not per person.** |
+| `prospect_date`, `permanent_waitlist_date`, `permanent_resident_date`, `respite_waitlist_date`, `respite_resident_date`, `archived_date` | The date each lifecycle stage was reached. |
+| `current_status_date` | The date of the current status. |
+| `is_prospect_status` | Whether the current status is a prospect status. |
+
+A Site is the RS equivalent of a facility: `id`, `name` and `service_id`, where the Service is Aged Care (1), Home Care (2) or RV (3). Because `room_number` and status are per `person_site`, a Client present at more than one Site has more than one room and more than one status, and the integration must select the correct `person_site` rather than assuming a single value per resident.
+
+#### Resident details (Resident Select)
+
+| Integration field | Canonical key | Resident Select mapping | Classification | Provider-specific work |
+|---|---|---|---|---|
+| First name | `resident.first_name` | Client `first_name` | **Stock field** | Writable. Required on create. |
+| Last name | `resident.last_name` | Client `last_name` | **Stock field** | Writable. Required on create. |
+| Room number | `resident.room_number` | Client `person_sites[].room_number` | **Stock field, read-only** | Select the correct `person_site` by `site_id`. Cannot be written back. Do not confuse with Clinical Review `bed_number`, which is the offered bed during assessment rather than the occupied room. |
+| Facility | `resident.facility_id` | Client `person_sites[].site_id`, resolved through Site `id`, `name` and `service_id` | **Standard structure** | Map by `site_id`, never by Site name. Confirm whether the provider's Schedule Mee facilities are one-to-one with RS Sites. |
+| Wing | `resident.wing_id` | None | **No API equivalent** | RS has no wing, unit, house or neighbourhood concept and no custom field to hold one. Either drop the field for RS providers or derive it from `room_number` using a provider-supplied convention, which must be agreed and documented. |
+| Date of birth | `resident.date_of_birth` | Client `date_of_birth` | **Stock field** | Writable. Date only, `YYYY-MM-DD`. |
+| Gender | `resident.gender` | Client `gender_id`, resolved through the Gender object | **Stock field plus value mapping** | Writable. Documented values are Female (1), Male (2), Not Specified (3) and Indeterminate/Intersex/Unspecified (4). Confirm IDs at runtime rather than hard-coding them. |
+| Admission date (expected) | `resident.admission_date` | Client `expected_admission_date`, or Contract `admission_date` | **Stock field, semantic check required** | `expected_admission_date` is writable on the Client. Contract `admission_date` is documented as the *expected* admission date and is read-only. Agree which is authoritative. |
+| Admission date (actual) | `resident.admission_date` | Client `person_sites[].permanent_resident_date` or `respite_resident_date` | **Stock field, read-only** | The actual admission is the date the person reached Permanent Resident or Respite Resident status at the Site. Permanent and respite are distinct dates and must not be collapsed into one field without agreement. |
+| Expected discharge date | `resident.expected_discharge_date` | None | **No API equivalent** | `person_sites[].archived_date` is not a discharge date. Archiving covers outcomes such as admission elsewhere, no vacancy and death, and is recorded when the record is closed rather than when a departure is planned. Retain this field in Schedule Mee or Carebridge. |
+| About Me profile | `resident.about_me` | Client `notes`, `other_information`, or the Home Care `hc_notes_*` category fields | **Stock field, semantic check required** | `notes` is documented as generic aged care notes and `hc_notes` as generic home care notes. Both are shared operational fields already used by RS staff, so writing an About Me profile into them risks overwriting provider content. Confirm ownership, maximum length and whether a shared field is acceptable before use. |
+
+RS also exposes resident attributes with no counterpart in the current canonical model. They are listed here so the integration contract can decide explicitly whether to consume them, not because they are in scope:
+
+| Group | Client attributes |
+|---|---|
+| Contact details | `email`, `phone`, `mobile`, `address1`, `address2`, `suburb`, `state_id`, `zip` |
+| Identity | `nationality_id`, `is_aboriginal_origin`, `aged_care_recipient_id`, `external_id` |
+| Assessment and eligibility | `received_aged_care_assessment`, `aged_care_assessment_date`, `approved_for_permanent_care`, `approved_for_respite`, `completed_centrelink_assessment`, `centrelink_assessment_date`, `permanent_referral_code`, `respite_referral_code`, `timeline_required_for_care_id` |
+| Financial | `aged_care_financial_status_id`, `pension_number`, `pension_status_id`, `an_acc`, `private_health_provider`, `private_health_member_number`, `expected_room_price`, `likelihood_of_admission` |
+| Health identifiers | `medicare_number`, `medicare_card_position`, `medicare_expiry_year`, `medicare_expiry_month` |
+| General practitioner | `gp_name`, `gp_clinic_name`, `gp_phone`, `gp_email`, `gp_address`, `gp_suburb`, `gp_zip`, `gp_state_id` |
+| Home Care | `user_id`, `mac_assessment_status_id`, `hc_funding_type_id`, `hc_package_id`, `hc_interim_package_id`, `hc_package_wait_time_id`, the `hc_package_*` and `hc_chsp_*` approval and expiry dates, and nineteen `hc_notes_*` service-category fields covering allergies, cleaning, communication, continence, delivered meals, domestic assistance, exercise physiology, gardening, home modifications, meal preparation, medication, mobility, nursing, occupational therapy, personal care, physiotherapy, respite, social and transport |
+| External integration | `epicor_id`, `epicor_customer_number`, `epicor_status` |
+
+The `epicor_*` attributes indicate that RS already supports at least one ERP integration. Confirm whether the provider uses it before assuming Webres owns the integration surface.
+
+#### Service information (Resident Select)
+
+RS has no service-enrolment object for individual care services. There is no equivalent of a HubSpot Service or a Sugar Purchased Line Item, and no per-service commencement or end date.
+
+| Integration field | Canonical key | Resident Select mapping | Classification | Provider-specific work |
+|---|---|---|---|---|
+| Service name | `service_enrolment.service_name` | Site `service_id`, resolved through the Service object as Aged Care, Home Care or RV | **Programme only, not a service** | The Service object identifies which programme a Site belongs to. It is not a catalogue of deliverable services and must not be mapped as one. |
+| Service category | `service_enrolment.service_name` | The nineteen `hc_notes_*` Home Care fields | **Approximation, Home Care only** | These are free-text note fields per category, not enrolment records. They indicate which categories a Home Care client has notes against; they do not establish that a service is enrolled or active. |
+| Service frequency | `service_enrolment.frequency` | None | **No API equivalent** | Must remain in Schedule Mee. |
+| Commencement date | `service_enrolment.commencement_date` | For Home Care packages only: `hc_package_assigned_date`, `hc_chsp_date_approved` | **Package-level, not service-level** | These are funding milestones for the package, not the commencement of an individual service. |
+| End date | `service_enrolment.end_date` | For Home Care packages only: `hc_package_expiry_date`, `hc_package_extension_expiry_date`, `hc_chsp_expiry_date` | **Package-level, not service-level** | As above. Do not present a package expiry as a service end date. |
+
+Service enrolment should therefore remain authoritative in Schedule Mee for RS providers. RS can supply funding context, but it cannot hold the enrolment itself.
+
+#### Service history (Resident Select)
+
+**This direction is blocked for Resident Select.** There is no writable endpoint for a service occurrence.
+
+The nearest object is the Activity, which records `activity_type_id` or `system_activity_type_id`, `site_id`, `user_id`, `person_id`, `referrer_id`, `activity_date`, `description`, `date_completed`, `created_by`, `created_at` and `updated_at`. It is `GET` only, and its Activity Types are sales and administration events such as Application pack given, Charter signed and Contract created rather than delivered care. System Activity Types are generated by RS itself and are explicitly documented as not manually creatable.
+
+Activities should not be mapped to `service_visit`. Doing so would misrepresent both the write feasibility and the meaning of the record. Service history for RS providers must stay in Schedule Mee, with reporting derived there.
+
+The consequence for the Analytics and Reporting table is that every derived metric must be calculated in Schedule Mee for RS providers. There is no RS-side record set to count and no field to write a cached metric into.
+
+#### Referral, enquiry and admission outcome
+
+| Integration information | Canonical key or contract | Resident Select mapping | Classification | Provider-specific work |
+|---|---|---|---|---|
+| New referrals into RS | `referral.created` | `POST /clients` with `first_name`, `last_name` and `site_id` required | **Standard structure, constrained** | Creates the person as a Prospect at exactly one Site. Multiple sites require multiple calls or manual work in RS. `prospect_date` defaults to today if omitted. Set `referrer_id` on create; the documentation recommends it and it cannot be corrected later through the API. |
+| Referral status updates | `referral.updated` | Client `person_sites[].person_status_id` | **Read-only** | Status cannot be written. RS is authoritative for lifecycle status and the integration can only observe it. |
+| Enquiry status changes | `enquiry.status` | Client `person_sites[].person_status_id` and `current_status_date` | **Read-only, value mapping required** | Poll with `filter[person_status_id]` and the `updated_*` date filters. |
+| Admission outcome | `enquiry.admission_outcome` | Client `person_sites[].person_status_id`, plus `archive_reason_id` for negative outcomes | **Read-only, value mapping required** | Archive Reasons carry the outcome detail, for example "Admission to one of our other homes", "Another facility had availability" and "Discharge - gone back home". The published list is truncated, so retrieve it in full per Organisation. |
+| Date admitted | `enquiry.date_admitted` | Client `person_sites[].permanent_resident_date` or `respite_resident_date` | **Read-only** | Distinguish permanent from respite. |
+| Referral source | `referral.provider_id`, `referral.facility_id` | Client `person_sites[].referrer_id`, resolved against Referrer Organisations, Referrer People, Referrer Events, Referrer Campaigns or Miscellaneous Referrers | **Standard structure, polymorphic** | `referrer_id` is a single identifier resolved across five separate endpoints with independent ID spaces. The referrer type must be known to resolve it correctly. All five are read-only. |
+| Documents | `referral.document` | Contract `unsigned_pdf_url` and `signed_pdf_url`; Aged Care Quote `signed_pdf_url`; Home Care Quote `pdf_url` | **Read-only, not storable as links** | These are AWS S3 presigned URLs valid for 60 minutes (Contracts and Aged Care Quotes) or 10 minutes (Home Care Quotes), and only returned when retrieving an individual record. They cannot serve as the durable secure link the Documents row recommends. No document upload endpoint exists. |
+| Agreements | `enquiry.admission_outcome` supporting detail | Contract `contract_type_id`, `contract_status_id`, `admission_date`, `accepted_at`, `is_using_docusign`, `docusign_envelope_id` | **Read-only** | Contract Types are Residential (1), Additional Services Agreement (2), Respite (3) and Home Care (4). |
+| Clinical assessment | `referral.clinical_summary` | Clinical Review `status`, `status_date`, `bed_type`, `bed_number`, `bed_offer_status`, `offer_date`, `client_response` | **Read-only, health information** | Values are documented string literals rather than ID lookups. Read only what the approved data-minimisation scope permits. |
+| Messages or comments | `enquiry_message.created` | None | **No API equivalent** | Activities are read-only and Client `notes` is a shared operational field. There is no message or comment object. |
+
+#### Status and outcome values
+
+Client Statuses are per Service, so the same label appears with different IDs for Aged Care and Home Care. The published Aged Care example shows Prospect (1), Permanent Waitlist (2), Permanent Resident (3) and Respite Waitlist (4), then truncates; a worked example elsewhere in the documentation shows Archived as 6, and Home Care begins at Prospect (7). Respite Resident is not shown with an ID. Treat the full list as unknown until retrieved from the endpoint. Contact Statuses are a separate list, with Prospect (1) and Archived (6) for Aged Care and Prospect (7) and Archived (9) for Home Care.
+
+| Canonical concept | Resident Select representation | Mapping requirement |
+|---|---|---|
+| Enquiry received | Client Status Prospect, with `prospect_date` | The only status the API can create. |
+| Waitlisted | Permanent Waitlist or Respite Waitlist, with the matching date attribute | Permanent and respite are separate statuses and must not be merged. |
+| Admitted | Permanent Resident or Respite Resident, with the matching date attribute | Read-only. Use `current_status_date` to detect the transition. |
+| Not proceeding | Archived, qualified by `archive_reason_id` | The reason carries the outcome. Map reasons per organisation. |
+| In progress or intermediate | No general equivalent | Clinical Review `bed_offer_status` and `client_response` are the closest signals during assessment, and are health information. |
+
+Because both status and archive reason are read-only, RS is the authoritative source for the enquiry lifecycle. Any provider workflow that expects the CRM to accept a status update from Carebridge or Schedule Mee is not supported by this API and must be resolved as a process question rather than a mapping question.
+
+#### Schema and value discovery
+
+RS has a fixed schema, so property discovery of the HubSpot or SugarCRM kind is neither available nor necessary. What must be discovered per Organisation is the contents of the lookup tables. The published examples are truncated with `{...}`, and the documentation does not state that the ID space is stable across organisations, so the values must be retrieved rather than assumed.
+
+The adapter should retrieve and cache, at minimum:
+
+```http
+GET /sites
+GET /services
+GET /client-statuses
+GET /contact-statuses
+GET /person-types
+GET /genders
+GET /nationalities
+GET /archive-reasons
+GET /relation-types
+GET /activity-types
+GET /system-activity-types
+GET /aged-care-timelines
+GET /aged-care-financial-statuses
+GET /aged-care-quote-statuses
+GET /contract-statuses
+GET /contract-types
+GET /home-care/funding-types
+GET /home-care/packages
+GET /home-care/package-wait-times
+GET /home-care/mac-assessment-statuses
+GET /users
+```
+
+Two gaps must be raised with the vendor. The Client object references a **State object** and a **Pension Status object**, but no `/states` or `/pension-statuses` endpoint is documented, so `state_id`, `gp_state_id` and `pension_status_id` cannot be resolved to labels through the API. Runtime discovery is therefore mandatory but incomplete.
+
+#### Identity and idempotency
+
+RS provides `external_id` on Clients, Contacts and Client Contacts, described as a field for storing a value corresponding to a record in a separate system. It is writable on `POST /clients` and `PATCH /clients/[id]` and filterable with `filter[external_id]=`, which makes it the correct anchor for idempotent upsert.
+
+It is a **single slot per person**. If the provider already uses it, for an Epicor or other integration, Webres cannot also own it. The rules are therefore:
+
+- Store the RS `id` against the Schedule Mee or Carebridge record in the Integration Core. This is the durable link and does not depend on `external_id`.
+- Confirm during onboarding whether `external_id` is already in use, and agree a single owner per Organisation.
+- Where `external_id` is unavailable, fall back to Integration Core mapping only. Do not match residents on name, and note that name, postcode, phone and mobile filters are `%LIKE%` rather than exact, so they can only ever produce match candidates.
+- `person_sites[].id` identifies a person's record at a specific Site and is the correct key for room, status and status-date synchronisation.
+
+#### Write constraints to confirm
+
+| Item | Documented position | Action |
+|---|---|---|
+| Contact updates | `POST /contacts` exists but no `PATCH` is documented | Confirm whether Contacts can be updated at all. If not, a Contact created in error can only be corrected inside RS. |
+| Delete endpoints | The API key configuration offers an "API Delete Permission" granting access to "all DELETE API endpoints", but no `DELETE` endpoint is documented for any resource | Confirm whether undocumented delete endpoints exist. Until confirmed, issue keys without delete permission. |
+| Client Contacts | Read-only | Confirm whether next of kin can be created through any supported route. |
+| Multi-site residents | Create accepts only one `site_id` | Confirm the process for a resident who moves between Sites. |
+| Rate limits | Not documented | Obtain limits before setting polling frequency, given that polling is the only change-detection mechanism. |
+
+#### Sensitive data
+
+The sensitivity position is the reverse of the SugarCRM one. RS is purpose-built for Australian aged care and already holds Medicare numbers, pension details, ACAT and Centrelink assessment outcomes, GP details, `is_aboriginal_origin` and clinical review outcomes by design, so the question is not whether the platform may receive health information but how little of it Webres should read: data minimisation applies on read, and the adapter should request only the attributes the approved scope requires rather than storing whole Client objects.
 
 ## CRM to Schedule Mee
 
@@ -311,6 +505,18 @@ This pilot will validate schema discovery, configuration, record identity and op
 - [SugarCRM Meetings REST endpoint example](https://support.sugarcrm.com/documentation/sugar_developer/sugar_developer_guide_14.0/integration/web_services/rest_api/endpoints/meetings_post/)
 - [SugarCRM REST API collection](https://rest.apidocs.sugarcrm.com/)
 - [SugarCRM Customer Terms](https://www.sugarcrm.com/wp-content/uploads/legal/Customer-Terms-of-Service-English.pdf)
+
+### Resident Select
+
+- [Resident Select API documentation](https://app.residentselect.com.au/api/v1/documentation/)
+- [Resident Select Clients endpoint](https://app.residentselect.com.au/api/v1/documentation/clients)
+- [Resident Select Contacts endpoint](https://app.residentselect.com.au/api/v1/documentation/contacts)
+- [Resident Select Activities endpoint](https://app.residentselect.com.au/api/v1/documentation/activities)
+- [Resident Select Clinical Reviews endpoint](https://app.residentselect.com.au/api/v1/documentation/clinical-reviews)
+- [Resident Select Contracts endpoint](https://app.residentselect.com.au/api/v1/documentation/contracts)
+- [Resident Select Sites endpoint](https://app.residentselect.com.au/api/v1/documentation/sites)
+- [Resident Select Client Statuses endpoint](https://app.residentselect.com.au/api/v1/documentation/client-statuses)
+- [Resident Select Archive Reasons endpoint](https://app.residentselect.com.au/api/v1/documentation/archive-reasons)
 
 ### Australian privacy context
 
