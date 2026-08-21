@@ -171,13 +171,13 @@ The consequence for the Analytics and Reporting table is that every derived metr
 
 Client Statuses are per Service, so the same label appears with different IDs for Aged Care and Home Care. The published Aged Care example shows Prospect (1), Permanent Waitlist (2), Permanent Resident (3) and Respite Waitlist (4), then truncates; a worked example elsewhere in the documentation shows Archived as 6, and Home Care begins at Prospect (7). Respite Resident is not shown with an ID. Treat the full list as unknown until retrieved from the endpoint. Contact Statuses are a separate list, with Prospect (1) and Archived (6) for Aged Care and Prospect (7) and Archived (9) for Home Care.
 
-| Canonical concept | Resident Select representation | Mapping requirement |
-|---|---|---|
-| Enquiry received | Client Status Prospect, with `prospect_date` | The only status the API can create. |
-| Waitlisted | Permanent Waitlist or Respite Waitlist, with the matching date attribute | Permanent and respite are separate statuses and must not be merged. |
-| Admitted | Permanent Resident or Respite Resident, with the matching date attribute | Read-only. Use `current_status_date` to detect the transition. |
-| Not proceeding | Archived, qualified by `archive_reason_id` | The reason carries the outcome. Map reasons per organisation. |
-| In progress or intermediate | No general equivalent | Clinical Review `bed_offer_status` and `client_response` are the closest signals during assessment, and are health information. |
+| Canonical concept           | Resident Select representation                                           | Mapping requirement                                                                                                             |
+| --------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| Enquiry received            | Client Status Prospect, with `prospect_date`                             | The only status the API can create.                                                                                             |
+| Waitlisted                  | Permanent Waitlist or Respite Waitlist, with the matching date attribute | Permanent and respite are separate statuses and must not be merged.                                                             |
+| Admitted                    | Permanent Resident or Respite Resident, with the matching date attribute | Read-only. Use `current_status_date` to detect the transition.                                                                  |
+| Not proceeding              | Archived, qualified by `archive_reason_id`                               | The reason carries the outcome. Map reasons per organisation.                                                                   |
+| In progress or intermediate | No general equivalent                                                    | Clinical Review `bed_offer_status` and `client_response` are the closest signals during assessment, and are health information. |
 
 Because both status and archive reason are read-only, RS is the authoritative source for the enquiry lifecycle. Any provider workflow that expects the CRM to accept a status update from Carebridge or Schedule Mee is not supported by this API and must be resolved as a process question rather than a mapping question.
 
