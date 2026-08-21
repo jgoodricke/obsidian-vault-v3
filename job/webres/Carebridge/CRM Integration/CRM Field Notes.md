@@ -1,3 +1,4 @@
+
 ## Purpose
 
 This document records how the proposed Schedule Mee and Carebridge integration data could be represented in HubSpot and SugarCRM. It identifies:
@@ -480,6 +481,9 @@ This pilot will validate schema discovery, configuration, record identity and op
 - What definitions should be used for Completed, Cancelled, Missed, Refused, Incomplete and Outstanding?
 - Are clinical summaries, service notes and documents required in the CRM, or will secure Carebridge links meet the business need?
 - Has the provider's CRM product, contract and security configuration been approved for the relevant personal and health information?
+- ResidentSelect
+	- How do users get their API keys?
+	- What is the expiration date on the API keys?
 
 ## Sources
 
