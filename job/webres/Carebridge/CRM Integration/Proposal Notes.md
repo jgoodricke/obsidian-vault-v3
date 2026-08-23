@@ -203,14 +203,23 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 	- Dioxus
 	- Axum
 		- Axum::routing
-		- Axum OpenAPI 3?
 	 - SQLX
-	 - Tokyo 
+	 - Rayon/Tokyo
 - AWS
 	- **ECS**
 	- **RDS**
 	- **Secrets Manager**
 	- **CloudWatch**
+
+### Suggested Architecture
+- A layyered architecture
+	- adaptors for connecting to Carebridge and ScheduleMee
+	- An integration and Sync core, which handles syncing data back and forth between the two systems. As well as logic for retries and handling mapping logic.
+	- Adaptors for connecting to each of the CRMs, which contain the logic for connecting the the CRM endpoints, as well as fetching the field mapping from our database.
+- It will also include a basic frontend where
+	- Carebridge admins can log in and see which data has been synced.
+	- CRM Admins can log in and set up the connection (adding Oath or API keys depending on the requirements).
+The system will sync data between the systems rather than using webhooks to push data back and forth. The queries will be written in such a way that only the data since the last sync will be captured, in order to avoid unneccesary load on the system by fetching too much data to process.
 
 ## Suggested Delivery
 
@@ -234,23 +243,9 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
    - Add sensitive or document flows only after contractual, security and privacy approval.
 8. **Add additional CRM Adapters and the second internal application**
    - Reuse the proven contracts and onboarding process without assuming identical provider schemas.
-9. **Add operational and provider-facing tooling as required**
-
-## Decisions and Information Required from Lisa and Rob
-
-- Which provider and workflow should be used for the first end-to-end pilot?
-- Where is Schedule Mee hosted, and what APIs, events or database interfaces are available?
-- Can API documentation, sandbox access and vendor contacts be obtained for Resident Select?
-- Which CRM products, editions and deployment models are used by the initial providers?
-- Should onboarding map existing provider fields, create Webres-managed fields, or support both approaches?
-- Who will approve provider-specific field, pipeline and value mappings?
-- Which system is authoritative for each bidirectional field?
-- Are clinical summaries and documents required in the CRM, or would identifiers and secure Carebridge links meet the business need?
-- Has each CRM been contractually and technically approved to store the proposed personal and health information?
-- What provider onboarding process will be used to authorise OAuth connections or securely provision API credentials?
-
+1. **Add operational and provider-facing tooling as required**
 ## Recommendation
 
 Proceed with the shared integration-service architecture, but treat CRM onboarding, schema mapping and sensitive-data approval as first-class parts of the product.
 
-The first milestone should be a deliberately narrow pilot using one internal application, one CRM, one provider account and a non-clinical data flow. This will validate the architecture and operational model before Webres commits to bidirectional synchronisation, clinical documents or multiple CRM adapters.
+The first milestone should be a deliberately narrow pilot using ScheduleMee, ResidentSelect, one provider account and a non-clinical data flow. 
