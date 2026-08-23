@@ -54,11 +54,11 @@ Provide the configuration and operational interface required to onboard and supp
 
 Initial responsibilities:
 
-- OAuth authorisation and connection management where supported.
+- Allowing CRM administrators to configure connections using OAuth or API credentials, depending on the platform.
+- Allowing Carebridge administrators to view connection and synchronisation status.
 - Credential setup status for integrations that do not use OAuth.
 - Object, field, pipeline and value mapping configuration.
 - Mapping validation and connection testing.
-- Visibility of connection and synchronisation status.
 
 Possible later responsibilities:
 
@@ -82,7 +82,13 @@ Responsibilities:
 - Validating configured mappings against the current CRM schema.
 - Exposing platform, edition and subscription limitations.
 
-Each supported CRM would have its own adapter.
+Each supported CRM would have its own adapter. The adapter should load provider-specific configuration from the integration database rather than embedding mappings in code.
+
+### Synchronisation Model
+
+The initial system should use scheduled incremental synchronisation rather than depend on webhooks. Each connector should request only records changed since its last successful checkpoint, with periodic full reconciliation to detect missed changes.
+
+For Resident Select this is mandatory because no webhook mechanism is documented. Polling must use the resources that expose `updated_start_date` and `updated_end_date`, respect the maximum page size of 500, and use overlap or another safe boundary strategy so records updated at a checkpoint are not skipped. Polling frequency cannot be finalised until the vendor confirms rate limits.
 
 ## Data Mapping Approach
 
@@ -219,18 +225,6 @@ Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude 
 	- **RDS**
 	- **Secrets Manager**
 	- **CloudWatch**
-
-### Suggested Architecture
-
-- Use a layered architecture:
-  - Adapters for connecting to Carebridge and Schedule Mee.
-  - An Integration and Synchronisation Core for routing, mappings, checkpoints, identifiers, retries and reconciliation.
-  - An adapter for each CRM, containing its API-specific logic and loading the provider configuration from the integration database.
-- Include a basic frontend where:
-  - Carebridge administrators can see synchronisation status.
-  - CRM administrators can configure a connection using OAuth or API credentials, depending on the platform.
-
-The initial system should use scheduled incremental synchronisation rather than depend on webhooks. Each connector should request only records changed since its last successful checkpoint, with periodic full reconciliation to detect missed changes. For Resident Select this is mandatory because no webhook mechanism is documented; polling must use the resources that expose `updated_start_date` and `updated_end_date`, respect the maximum page size of 500, and use overlap or another safe boundary strategy so records updated at a checkpoint are not skipped. Polling frequency cannot be finalised until the vendor confirms rate limits.
 
 ## Suggested Delivery
 
