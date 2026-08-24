@@ -110,21 +110,22 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
 
 13. You can also configure some optional parameters in **CDS - Autoscaling**:
 
-    | Field | Description | Default setting |
-    | :--- | :--- | ---: |
-    | `AutoscalingEnabled` | Enables or disables autoscaling. | `true` |
-    | `ScannerAutoscalingMinCapacity` | Sets the minimum number of workers to deploy for on-access monitoring. | `1` |
-    | `ScannerAutoscalingMaxCapacity` | Sets the maximum number of workers to deploy for on-access monitoring. | `10` |
-    | `FSScannerAutoscalingMinCapacity` | Sets the minimum capacity of workers to deploy for on-demand full-bucket scanning. | `0` |
-    | `FSScannerAutoscalingMaxCapacity` | Sets the maximum capacity of workers to deploy for on-demand full-bucket scanning. | `10` |
+
+| Field                             | Description                                                                        | Default setting |
+| --------------------------------- | ---------------------------------------------------------------------------------- | --------------- |
+| `AutoscalingEnabled`              | Enables or disables autoscaling.                                                   | `true`          |
+| `ScannerAutoscalingMinCapacity`   | Sets the minimum number of workers to deploy for on-access monitoring.             | `1`             |
+| `ScannerAutoscalingMaxCapacity`   | Sets the maximum number of workers to deploy for on-access monitoring.             | `10`            |
+| `FSScannerAutoscalingMinCapacity` | Sets the minimum capacity of workers to deploy for on-demand full-bucket scanning. | `0`             |
+| `FSScannerAutoscalingMaxCapacity` | Sets the maximum capacity of workers to deploy for on-demand full-bucket scanning. | `10`            |
 
 14. If you are deploying to an environment that requires a proxy, configure the **CDS - Proxy** settings:
 
-    | Field | Description |
-    | :--- | :--- |
-    | `HttpProxy` | Configures an HTTP proxy for workload containers. Use the format `http://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
-    | `HttpsProxy` | Configures an HTTPS proxy for workload containers. Use the format `https://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
-    | `NoProxy` | Configures the no-proxy parameter for workload containers. Use the format `host1,host2,host3`. |
+| Field          | Description                                                                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `HttpProxy`    | Configures an HTTP proxy for workload containers. Use the format `http://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
+| `HttpsProxy`   | Configures an HTTPS proxy for workload containers. Use the format `https://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
+| `NoProxy`      | Configures the no-proxy parameter for workload containers. Use the format `host1,host2,host3`.                                |
 
 15. Click **I acknowledge that AWS CloudFormation might create IAM resources with custom names**, and then click **Create stack**.
 
@@ -242,13 +243,13 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
    > **Note**
    > We recommend using the default settings unless different settings are necessary for your environment. Some variables that users change are:
 
-   | Field | Description | Default setting |
-   | :--- | :--- | ---: |
-   | `is_autoscaling_enabled` | Enables or disables autoscaling. | `true` |
-   | `scanner_autoscaling_min_capacity` | Sets the minimum capacity for autoscaling. | `1` |
-   | `scanner_autoscaling_max_capacity` | Sets the maximum capacity for autoscaling. | `10` |
-   | `fs_scanner_autoscaling_min_capacity` | Sets the minimum capacity for full-bucket scanner autoscaling. | `0` |
-   | `fs_scanner_autoscaling_max_capacity` | Sets the maximum capacity for full-bucket scanner autoscaling. | `10` |
+| Field                                      | Description                                                 | Default setting |
+| ------------------------------------------ | ----------------------------------------------------------- | --------------- |
+| `is_autoscaling_enabled`                   | Enables or disables autoscaling.                            | `true`          |
+| `scanner_autoscaling_min_capacity`         | Sets the minimum capacity for autoscaling.                  | `1`             |
+| `scanner_autoscaling_max_capacity`         | Sets the maximum capacity for autoscaling.                  | `10`            |
+| `fs_scanner_autoscaling_min_capacity`      | Sets the minimum capacity for full-bucket scanner autoscaling. | `0`             |
+| `fs_scanner_autoscaling_max_capacity`      | Sets the maximum capacity for full-bucket scanner autoscaling. | `10`            |
 
    For example, to increase the value for the full-bucket scanner autoscaling maximum capacity to 15, copy `fs_scanner_autoscaling_max_capacity` from the `variables.tf` file, paste it into the `terraform.tfvars` file, and set it equal to 15.
 
