@@ -8,8 +8,6 @@ You can manually install the Threat Detection for Datastores - S3 Agent on your 
 
 If you have buckets that are encrypted with Amazon's server-side encryption, you can configure AWS Key Management Service (KMS) keys to let Threat Detection for Datastores - S3 scan your encrypted files.
 
-*Figure: Threat Detection for Datastores - S3 high-level architecture*
-
 ## How It Works
 
 The Threat Detection for Datastores - S3 Agent is deployed to an Amazon Elastic Kubernetes Service (EKS) cluster or Amazon Elastic Container Service (ECS) cluster in your cloud environment. The Threat Detection for Amazon S3 agent needs to be deployed on a scalable, managed container cluster. This makes it easier to manage and scale the agent as it scans objects in your S3 buckets. ECS deployment, the default in newer versions of the agent, is simpler and faster than EKS deployment.
@@ -23,11 +21,6 @@ The Threat Detection for Datastores - S3 Agent monitors the SQS queue events and
 If an object is suspicious or malicious, the Agent encrypts the object and moves it to a quarantined bucket where it is safe and inaccessible by other users.
 
 Threats detected by Threat Detection for Datastores - S3 show in the Threats page of the Management Console.
-
----
-Source: [Threat Detection for Datastores - S3 overview](https://community.sentinelone.com/s/article/000006085)
-
----
 
 ## Deploying Threat Detection for Datastores scanner to S3 with ECS
 
@@ -117,21 +110,21 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
 
 13. You can also configure some optional parameters in **CDS - Autoscaling**:
 
-    | Field | Description | Default Setting |
-    |---|---|---|
-    | AutoscalingEnabled | Enables or disables autoscaling. | true |
-    | ScannerAutoscalingMinCapacity | Sets the minimum number of workers to deploy for on-access monitoring. | 1 |
-    | ScannerAutoscalingMaxCapacity | Sets the maximum number of workers to deploy for on-access monitoring. | 10 |
-    | FSScannerAutoscalingMinCapacity | Sets the minimum capacity of workers to deploy for on-demand full-bucket scanning. | 0 |
-    | FSScannerAutoscalingMaxCapacity | Sets the maximum capacity of workers to deploy for on-demand full-bucket scanning. | 10 |
+    | Field | Description | Default setting |
+    | :--- | :--- | ---: |
+    | `AutoscalingEnabled` | Enables or disables autoscaling. | `true` |
+    | `ScannerAutoscalingMinCapacity` | Sets the minimum number of workers to deploy for on-access monitoring. | `1` |
+    | `ScannerAutoscalingMaxCapacity` | Sets the maximum number of workers to deploy for on-access monitoring. | `10` |
+    | `FSScannerAutoscalingMinCapacity` | Sets the minimum capacity of workers to deploy for on-demand full-bucket scanning. | `0` |
+    | `FSScannerAutoscalingMaxCapacity` | Sets the maximum capacity of workers to deploy for on-demand full-bucket scanning. | `10` |
 
 14. If you are deploying to an environment that requires a proxy, configure the **CDS - Proxy** settings:
 
     | Field | Description |
-    |---|---|
-    | HttpProxy | Configures a HTTP proxy to use for workload containers. The HTTP proxy should be written in the format `http://USER:PASS@HOST:PORT` where USER and PASS are optional. |
-    | HttpsProxy | Configures HTTPS proxy to use for workload containers. The HTTPS proxy should be written in the format `https://USER:PASS@HOST:PORT` where USER and PASS are optional. |
-    | NoProxy | Configures no proxy parameter for use in the workload containers. Should be written in the format `host1,host2,host3`. |
+    | :--- | :--- |
+    | `HttpProxy` | Configures an HTTP proxy for workload containers. Use the format `http://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
+    | `HttpsProxy` | Configures an HTTPS proxy for workload containers. Use the format `https://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
+    | `NoProxy` | Configures the no-proxy parameter for workload containers. Use the format `host1,host2,host3`. |
 
 15. Click **I acknowledge that AWS CloudFormation might create IAM resources with custom names**, and then click **Create stack**.
 
@@ -249,13 +242,13 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
    > **Note**
    > We recommend using the default settings unless different settings are necessary for your environment. Some variables that users change are:
 
-   | Field | Description | Default Setting |
-   |---|---|---|
-   | is_autoscaling_enabled | Enables or disables autoscaling. | true |
-   | scanner_autoscaling_min_capacity | Sets the minimum capacity for autoscaling. | 1 |
-   | scanner_autoscaling_max_capacity | Sets the maximum capacity for autoscaling. | 10 |
-   | fs_scanner_autoscaling_min_capacity | Sets the minimum capacity for full-bucket scanner autoscaling. | 0 |
-   | fs_scanner_autoscaling_max_capacity | Sets the maximum capacity for full-bucket scanner autoscaling. | 10 |
+   | Field | Description | Default setting |
+   | :--- | :--- | ---: |
+   | `is_autoscaling_enabled` | Enables or disables autoscaling. | `true` |
+   | `scanner_autoscaling_min_capacity` | Sets the minimum capacity for autoscaling. | `1` |
+   | `scanner_autoscaling_max_capacity` | Sets the maximum capacity for autoscaling. | `10` |
+   | `fs_scanner_autoscaling_min_capacity` | Sets the minimum capacity for full-bucket scanner autoscaling. | `0` |
+   | `fs_scanner_autoscaling_max_capacity` | Sets the maximum capacity for full-bucket scanner autoscaling. | `10` |
 
    For example, to increase the value for the full-bucket scanner autoscaling maximum capacity to 15, copy `fs_scanner_autoscaling_max_capacity` from the `variables.tf` file, paste it into the `terraform.tfvars` file, and set it equal to 15.
 
