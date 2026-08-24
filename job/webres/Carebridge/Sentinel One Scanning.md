@@ -267,6 +267,6 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
 
 4. Save changes to the `terraform.tfvars` file.
 
-Sources:
+## Sources
 - [Threat Detection for Datastores - S3 overview](https://community.sentinelone.com/s/article/000006085)
 - [Deploying Threat Detection for Datastores scanner to S3 with ECS](https://community.sentinelone.com/s/article/000010758)
