@@ -97,76 +97,15 @@ You can deploy Threat Detection for Amazon S3 with ECS by using AWS CloudFormati
 
 14. If you are deploying to an environment that requires a proxy, configure the **CDS - Proxy** settings:
 
-| Field          | Description                                                                                                                     |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `HttpProxy`    | Configures an HTTP proxy for workload containers. Use the format `http://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
-| `HttpsProxy`   | Configures an HTTPS proxy for workload containers. Use the format `https://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
-| `NoProxy`      | Configures the no-proxy parameter for workload containers. Use the format `host1,host2,host3`.                                |
+| Field        | Description                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| `HttpProxy`  | Configures an HTTP proxy for workload containers. Use the format `http://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional.   |
+| `HttpsProxy` | Configures an HTTPS proxy for workload containers. Use the format `https://USER:PASS@HOST:PORT`, where `USER` and `PASS` are optional. |
+| `NoProxy`    | Configures the no-proxy parameter for workload containers. Use the format `host1,host2,host3`.                                         |
 
 15. Click **I acknowledge that AWS CloudFormation might create IAM resources with custom names**, and then click **Create stack**.
 
     The deployment can take several minutes to complete. You can see the status of your deployment under **Stacks** on the CloudFormation console.
-### Deploying with Terraform:
-
-1. At the top left of the Console, click the arrow to open the Scopes panel and select a scope.
-2. Select a Site or an Account.
-3. Click **Settings > Integrations > AWS Accounts**.
-   The Deploy Threat Detection for Amazon S3 window opens.
-4. Select the type of account to which to deploy Threat Detection for Datastores - S3:
-   - Account for Organization
-   - Standalone Account
-
-   For more information, see Connecting AWS accounts for CWS in the Management Console.
-
-5. In **Account**, select the account to which to deploy Threat Detection for Datastores - S3.
-6. Click **Next**.
-
-   The Deploy Threat Detection for Datastores - S3 window opens.
-
-7. In **1. Select a template**, select **Terraform**.
-8. Click **Download**.
-
-   The archived folder downloads to your local downloads folder.
-
-9. In your downloads folder, navigate to the downloaded archived folder, and extract the files.
-10. Open the extracted folder in your terminal or command line. For example, if the folder is named `cds 111`, run the following command:
-
-    ```bash
-    cd ~/Downloads/cds\ 111/
-    ```
-
-11. Run a command to view the file contents.
-
-    ```bash
-    ls
-    ```
-
-12. Run `terraform init` to initialize the providers that terraform needs to deploy the resources needed for the Threat Detection for Datastores - S3 Agent.
-
-    ```bash
-    terraform init
-    ```
-
-    Terraform initialization starts and usually lasts several minutes. When the initialization is complete, you will see the message `Terraform has been successfully initialized!` After Terraform has been successfully initialized, you can export your AWS credentials for the account.
-13. Optional: Configure the variables in the Terraform deployment to override the default settings and optimize the deployment for your needs.
-14. When Terraform has been successfully initialized, enter your AWS credentials or profile in the terminal.
-15. Run the `terraform apply` command to proceed with the deployment.
-
-    ```bash
-    terraform apply
-    ```
-
-    Terraform prompts for required parameters.
-
-16. Use the values you copied from the Amazon VPC dashboard for the required parameters.
-    - `var.subnet_id` - Enter the subnet ID to which to deploy Threat Detection for Datastores - S3.
-    - `var.vpc_id` - Enter the ID of the VPC to which to deploy Threat Detection for Datastores - S3.
-    - `var.assign_public_ip` - Set to `false` if deploying into a private subnet. Set to `true` if deploying into a public subnet.
-
-17. After you enter the parameters, Terraform shows you an overview of the resources it will create as part of deployment.
-18. For the prompt, `Do you want to perform these actions?`, enter `yes`.
-    Terraform runs, creates the required resources, and deploys the Agent to Amazon S3 buckets. This process can take several minutes.
-
 
 ## Sources
 - [Threat Detection for Datastores - S3 overview](https://community.sentinelone.com/s/article/000006085)
