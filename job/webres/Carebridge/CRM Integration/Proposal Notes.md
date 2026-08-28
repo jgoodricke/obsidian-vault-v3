@@ -1,259 +1,197 @@
-# CRM Integration Service Proposal
+# Carebridge–Resident Select Integration Proposal
 
-## Summary
+## Approval requested
 
-Introduce a shared integration service between Schedule Mee, Carebridge and external CRM platforms such as HubSpot, Resident Select and SugarCRM.
+Approve the design and delivery of an Initial Production Release of the Webres Integration Platform.
 
-Rather than building separate CRM integrations directly into each internal application, the service would centralise common integration responsibilities and provide a reusable foundation for additional applications and CRM platforms.
+The release will be a production application that clients can use. It will connect one Webres Internal Application, Carebridge, to one Connected Platform, Resident Select. Initial delivery and acceptance will cover the first Carebridge Provider Company, one Resident Select Organisation and its agreed Sites.
 
-The recommended approach is to validate one low-risk, end-to-end integration before committing to the complete data scope. CRM schemas, licences and rules for storing health information vary between providers, so field mapping and data-governance checks must be treated as onboarding requirements rather than implementation details.
+The service will be designed so that later projects can add other Internal Applications and Connected Platforms. ScheduleMee, HubSpot, SugarCRM and additional Resident Select Connections are not part of this release.
 
-## Proposed Architecture
+## Business outcome
 
-![[Drawing 2026-08-07 11.17.12.excalidraw]]
+The release will reduce duplicate referral administration between Carebridge and Resident Select.
 
-### Application Connectors
+For a mapped Provider and Site, it will:
 
-Provide a standard interface between each internal application and the integration service.
+- Read existing active and newly submitted Carebridge Applications and Enquiries.
+- Find and manually link an existing Resident Select Client where one already represents the person.
+- Create a Resident Select Prospect from a Carebridge Enquiry after an authorised review.
+- Keep approved, non-empty Carebridge demographic values current in Resident Select.
+- Read Resident Select workflow progress.
+- Propose and apply legal Carebridge Enquiry transitions with approval and audit controls.
+- Give authorised users the tools to configure, operate and support the Connection.
 
-Responsibilities:
+## Proposed solution
 
-- Communicating with the application API.
-- Authenticating with the application.
-- Receiving application events and changes.
-- Retrieving the application data required for synchronisation.
-- Translating application-specific data into standard integration contracts.
-- Translating inbound integration requests into application-specific operations.
-- Exposing application capabilities and limitations.
+Build a standalone, multi-tenant Integration Platform rather than embedding Resident Select-specific orchestration in Carebridge.
 
-Each internal application would have its own connector. Application-specific business rules should remain within Carebridge and Schedule Mee rather than being moved into the integration service.
+The platform will contain:
 
-### Integration and Synchronisation Core
+- **Carebridge Application Connector** — service-authenticated resource APIs and domain transition commands that preserve Carebridge rules and side effects.
+- **Resident Select Platform Adapter** — API authentication, polling, pagination, lookups, Prospect creation and supported Client updates.
+- **Integration Core** — Connections, mappings, Record Links, workflow evidence, Proposed Actions, checkpoints, retries, reconciliation and audit records.
+- **Administration application** — invitation-only user access for configuration, approval and operational support.
+- **Carebridge–Resident Select Integration Flow** — versioned rules for the records, fields and workflow states in this release.
 
-Acts as the central orchestration layer.
+The Core will communicate with Carebridge only through its API. It will not access the Carebridge MySQL database.
 
-Responsibilities:
+## Production scope
 
-- Routing information between systems.
-- Queueing and asynchronous processing.
-- Storing cross-system record identifiers and associations.
-- Storing account-specific object, field and value mappings.
-- Tracking synchronisation state and checkpoints.
-- Retry and failure handling.
-- Idempotency and duplicate prevention.
-- Applying agreed source-of-truth and conflict-resolution rules.
-- Scheduled synchronisation and reconciliation.
-- Audit logging, operational logging and monitoring.
-- Detecting invalid or incompatible mappings.
+### Connection boundary
 
-The Core should manage integration behaviour without containing application-specific or CRM-specific business logic. Its standard contracts should cover the information that must be exchanged, but should not attempt to create a universal business model for every application and CRM.
+Initial delivery includes:
 
-### Web UI and Administration
+- One Carebridge Provider Company.
+- One Resident Select Organisation.
+- An agreed set of Carebridge Facility to Resident Select Site mappings.
+- Existing active Carebridge Applications and Enquiries from an agreed cutoff date.
+- New and changed in-scope records after the Connection is enabled.
+- Live-data onboarding, reconciliation and validation for the first Connection.
 
-Provide the configuration and operational interface required to onboard and support a connected provider.
+The release does not include all historical records, bulk data cleansing or onboarding additional Providers.
 
-Initial responsibilities:
+### Carebridge to Resident Select
 
-- Allowing CRM administrators to configure connections using OAuth or API credentials, depending on the platform.
-- Allowing Carebridge administrators to view connection and synchronisation status.
-- Credential setup status for integrations that do not use OAuth.
-- Object, field, pipeline and value mapping configuration.
-- Mapping validation and connection testing.
+A Carebridge Enquiry for a mapped Facility can create a Resident Select Client as a Prospect at the mapped Site.
 
-Possible later responsibilities:
+Production acceptance requires these core fields:
 
-- Failed-record inspection and controlled retry.
-- Synchronisation history and audit views.
-- Provider-facing monitoring and support tools.
+- First name.
+- Last name.
+- Mapped Site.
+- Prospect date.
 
-### CRM Adapters
+The estimate will conservatively allow for these optional deterministic fields:
 
-Provide a standard interface between the integration service and each CRM platform.
+- Date of birth.
+- Gender.
+- Street address, suburb and postcode.
+- State.
+- Financial status.
+- Care timeframe.
 
-Responsibilities:
+An optional field can be deferred if Resident Select does not support it reliably or if it would add disproportionate cost without blocking the main client workflow. Clinical summaries, contacts, documents and free-text notes are excluded.
 
-- Communicating with the CRM API.
-- CRM authentication, OAuth and token handling.
-- Discovering the connected account's objects, fields, relationships, pipelines and supported capabilities where the platform allows it.
-- Retrieving organisation-specific lookup values and capability limits for fixed-schema platforms.
-- Translating standard integration contracts into CRM-specific objects and fields.
-- Translating CRM webhooks, events or incrementally polled changes into standard integration events.
-- Handling CRM-specific pagination, polling, rate limits, retries and errors.
-- Validating configured mappings against the current CRM schema.
-- Exposing platform, edition and subscription limitations.
+Before creating a Prospect, the platform will search for possible existing Clients and require an authorised user to confirm a link or approve creation. It will not match people automatically. Resident Select `external_id` will not be read, written or reserved.
 
-Each supported CRM would have its own adapter. The adapter should load provider-specific configuration from the integration database rather than embedding mappings in code.
+### Resident Select to Carebridge
 
-### Synchronisation Model
+The platform will read Site lifecycle, Clinical Review and Contract evidence and use it to propose supported Carebridge Enquiry states, including:
 
-The initial system should use scheduled incremental synchronisation rather than depend on webhooks. Each connector should request only records changed since its last successful checkpoint, with periodic full reconciliation to detect missed changes.
+- Clinical Review.
+- Clinically Approved.
+- Waitlisted.
+- Bed Accepted.
+- Contract Complete.
+- Placed.
+- Unsuccessful or No Longer Required where an approved mapping provides the required evidence.
 
-For Resident Select this is mandatory because no webhook mechanism is documented. Polling must use the resources that expose `updated_start_date` and `updated_end_date`, respect the maximum page size of 500, and use overlap or another safe boundary strategy so records updated at a checkpoint are not skipped. Polling frequency cannot be finalised until the vendor confirms rate limits.
+Carebridge remains responsible for deciding whether a transition is legal. The platform will not write raw status identifiers or manufacture intermediate history.
 
-## Data Mapping Approach
+Placed, Unsuccessful and No Longer Required transitions always require approval. Other safe mappings can progress from observation to approval and then to automatic processing after validation.
 
-The integration cannot assume that every provider uses the same CRM objects, fields, pipelines or values. Mappings should be scoped to each connected CRM account or instance. They only need to differ by facility when facilities genuinely use different schemas or workflows within the same account.
+## Administration scope
 
-The mapping model should support:
+The production application includes:
 
-- **Object or module mappings**, such as a Carebridge enquiry to a HubSpot Deal or SugarCRM Case.
-- **Field mappings**, such as `resident.first_name` to HubSpot `firstname` or SugarCRM `first_name`.
-- **Value mappings**, such as Carebridge `accepted` to a provider-specific pipeline stage identifier.
-- **Relationship mappings**, such as linking a resident to a facility, service or enquiry.
-- **Direction and ownership rules**, including one-way fields and the authoritative source for bidirectional fields.
-- **Transformations**, including date formats, identifiers, enumeration values and null handling.
-
-Mappings should use stable internal API names rather than user-facing labels. For configurable CRMs such as HubSpot and SugarCRM, the adapter should retrieve the connected schema during onboarding, expose available fields and values for selection, and periodically validate that the configuration remains compatible. Resident Select is different: its schema and attribute names are fixed, but each Organisation's lookup IDs and supported operations must still be discovered and cached.
-
-Where commercially and operationally acceptable, the HubSpot and SugarCRM integrations could create and manage a known set of Webres-owned CRM fields. This would reduce manual mapping but may duplicate fields that a provider already uses. Their onboarding process should therefore support both approaches:
-
-1. Map existing provider fields.
-2. Create integration-managed fields where no appropriate field exists.
-
-Resident Select has no documented custom-field mechanism. If a canonical concept has no Resident Select attribute, the mapping must omit it, retain it in Schedule Mee or Carebridge, or use an explicitly agreed derivation; onboarding cannot create a field to close the gap.
-
-Derived analytics should normally be calculated from synchronised service or appointment records rather than repeatedly written to resident or contact fields. This includes service completion rates, outstanding services, companion hours and refusal trends. For Resident Select, these calculations must remain in Schedule Mee because Resident Select has no service-occurrence record set to synchronise or count.
-
-## Initial CRM Findings
-
-### HubSpot
-
-HubSpot provides fixed internal names for standard properties and account-specific internal names for custom properties. The generic `properties` object in API responses is only a container; its keys are the stable internal property names used by integrations.
-
-Relevant findings:
-
-- First name and last name are standard Contact properties.
-- Date of birth and gender are HubSpot-defined properties, but their availability and accepted values should be confirmed against the connected account.
-- Room, wing, admission dates, discharge dates and most aged-care concepts will normally require custom properties or relationships.
-- HubSpot provides standard Services, Appointments, Notes, Files, Deals and Tickets structures, but their availability and suitability depend on the account and agreed workflow.
-- Pipeline stages, custom fields and enumeration values require account-specific mapping.
-- Reporting values such as completion rate and refusal trends are derived metrics rather than standard fields.
-- Sensitive or highly sensitive data requires suitable HubSpot licensing, configuration and OAuth scopes.
-- Clinical documents require separate validation because general HubSpot file storage does not receive all Sensitive Data protections.
-
-HubSpot is technically suitable for configurable integration, but it should not be assumed that providers share a common schema.
-
-### SugarCRM
-
-SugarCRM provides fixed internal names for stock fields. Custom fields created through Studio are instance-specific and conventionally end in `_c`. The adapter can retrieve module and field metadata from each connected instance.
-
-Relevant findings:
-
-- First name, last name and date of birth are stock Contact fields.
-- Gender, room, wing, admission dates, discharge dates and most aged-care concepts require custom fields or relationships.
-- Accounts, Meetings, Cases, Notes, Documents, Purchases and Purchased Line Items may provide useful standard structures, but several are only semantic approximations of the proposed aged-care workflows.
-- Statuses, dropdown values, relationships and custom modules require instance-specific mapping.
-- Reporting values should normally be derived from individual service records.
-- Product, edition and licence differences may affect module availability.
-- SugarCRM's current standard customer terms appear to restrict certain sensitive-information categories. Because Australian health information is sensitive information, contractual approval is required before sending clinical or patient data to SugarCRM.
-
-The SugarCRM adapter is technically feasible, but health-data synchronisation should be treated as blocked until the provider's deployment, contract and permitted data classifications are confirmed in writing.
-
-### Resident Select
-
-Resident Select publishes a documented REST API at `https://app.residentselect.com.au/api/v1`. It is a fixed-schema, aged-care-specific platform rather than a configurable general CRM. There is no documented custom-field mechanism, so unsupported canonical fields cannot be added during onboarding.
-
-Relevant findings:
-
-- Authentication uses an API key and secret over HTTP Basic authentication. Credentials are scoped to one Organisation, can have separate read, write and delete permissions, and may be IP allowlisted.
-- The API documents no webhooks, callbacks or event subscriptions. Changes must be detected by polling supported `updated_start_date` and `updated_end_date` filters and maintaining per-resource checkpoints. Rate limits remain undocumented.
-- Almost the entire API is read-only. The only documented writes are `POST /clients`, `PATCH /clients/[id]` and `POST /contacts`.
-- Creating a Client always creates a **Prospect** against exactly one Site. Lifecycle status, archive reason, room, referral progression, documents, activities and clinical reviews are read-only.
-- A resident is a Client. Facility, room and lifecycle state are held in `person_sites[]` per Site, so the adapter must select the correct `person_site` by `site_id`; it cannot assume one room or status per person.
-- Resident Select has no service-enrolment object and no writable record for a scheduled or delivered service. Schedule Mee service history, per-service enrolment and derived service analytics cannot be synchronised into Resident Select and must remain authoritative in Schedule Mee.
-- Carebridge can create a new referral only as a Prospect. Resident Select then becomes authoritative for enquiry status and admission outcome, which the integration can poll and return to Carebridge. Status updates, durable document links, document uploads and messages cannot be written through the documented API.
-- `external_id` is writable and filterable on Clients and is the best available idempotency key, but it is a single shared slot that may already belong to another integration. The Integration Core must always store Resident Select record IDs and must not match people by name.
-- Site, status, archive-reason, gender and other lookup IDs must be retrieved per Organisation rather than hard-coded. The published examples are incomplete, and no endpoints are documented for the referenced State and Pension Status lookups.
-- Resident Select is designed to hold aged-care and health information. The primary data-governance constraint is therefore data minimisation: read and retain only the attributes approved for the integration rather than ingesting complete Client records.
-
-The adapter is feasible for resident and referral reads and for constrained Prospect creation. It is not capability-equivalent to HubSpot or SugarCRM, and its unsupported write directions must be visible in configuration rather than treated as mapping errors.
-
-## Security and Data Governance
-
-The proposed data includes personal information, health information and potentially clinical documents. CRM field availability alone does not establish that the data can be stored there.
-
-Before enabling each data flow, confirm:
-
-- The provider's CRM product, edition, deployment region and contract.
-- Whether the CRM is approved to store the relevant data classification.
-- Required consent, retention, deletion and audit requirements.
-- Encryption and access-control requirements.
-- Appropriate OAuth scopes or API-user permissions.
-- Whether documents may be copied into the CRM or should remain in Carebridge.
-- For Resident Select, the minimum attributes Webres is permitted to read and retain, whether `external_id` is already owned by another integration, and which Organisation and Sites the credential may access.
-
-The initial implementation should follow data minimisation. Until sensitive-data handling is approved, keep clinical summaries and documents in Carebridge and synchronise only the minimum workflow data, external identifiers and secure links required by the provider. Resident Select document URLs are short-lived presigned links, not durable links, and its API has no documented document-upload operation.
-
-Credentials and tokens should be held in AWS Secrets Manager. Logs must exclude access tokens, clinical content and unnecessary personal information.
-
-## Benefits and Risks
-
-### Advantages
-
-- Reduces duplicated CRM integration code across Carebridge and Schedule Mee.
-- Keeps CRM-specific behaviour out of the internal applications.
-- Makes additional CRM integrations easier to add.
-- Centralises retries, logging, monitoring and record mappings.
-- Improves reliability through asynchronous processing.
-- Provides a single place to troubleshoot integration failures.
-- Separates internal application changes from CRM API changes.
-- Provides a consistent onboarding and mapping process for providers.
-### Disadvantages
-- Introduces another production application to deploy, secure and maintain.
-- Creates additional architectural and operational complexity.
-- Requires configuration and support processes for provider-specific mappings.
-- Becomes shared infrastructure whose failures may affect multiple applications or providers.
-### Caveats
-- The integration service should remain focused on integration responsibilities.
-- Business rules should remain within Carebridge and Schedule Mee.
-- CRM-specific behaviour should remain within CRM Adapters.
-- Avoid creating a universal business model covering every application and CRM.
-- Do not assume that matching display labels have equivalent meaning.
-- Do not enable sensitive-data flows based only on technical API capability.
-- A new CRM adapter will still require discovery, mapping, testing and operational support.
-
-## Suggested Stack
-
-- **Rust**
-  - Dioxus
-  - Axum
-    - `axum::routing`
-  - SQLx
-  - Rayon / Tokio
-- AWS
-	- **ECS**
-	- **RDS**
-	- **Secrets Manager**
-	- **CloudWatch**
-
-## Suggested Delivery
-
-1. **Complete feasibility and data-governance discovery**
-   - Obtain Resident Select test credentials and confirm credential provisioning, expiry or rotation, rate limits, test-environment availability and the undocumented State and Pension Status lookups.
-   - Confirm whether the pilot provider already uses Resident Select `external_id` and identify the Organisation, Sites and lookup values in scope.
-   - Confirm HubSpot and SugarCRM licences, deployment details and permitted data classifications for later providers.
-   - Agree which information may be copied into each CRM and, for Resident Select, the minimum data Webres may read.
-2. **Define the initial integration contracts and mapping model**
-   - Select the first application, CRM and workflow.
-   - Define record ownership, identifiers, conflict rules and failure behaviour.
-   - Define object, field, relationship and value mappings.
-3. **Build the Integration and Synchronisation Core interfaces**
-   - Implement configuration, queueing, state tracking, idempotency, retry and audit foundations.
-4. **Implement the Schedule Mee Connector and Resident Select Adapter end-to-end**
-   - Start with a low-risk, one-way Resident Select to Schedule Mee resident flow, such as identity, Site and room data.
-   - Store Client and `person_site` identifiers in the Core and implement checkpointed polling and reconciliation.
-5. **Validate the pilot**
-   - Test record identity, multi-Site selection, duplicate prevention, lookup changes, polling boundaries, failures, reconciliation and provider onboarding.
-6. **Add supported reverse or bidirectional flows**
-   - Add Prospect creation or Carebridge status ingestion only where Resident Select exposes the required operation. Do not plan Schedule Mee service-history writes or Resident Select lifecycle-status writes against the current API.
-7. **Expand the approved data scope**
-   - Add sensitive reads only after security and privacy approval. Resident Select documents and clinical records remain read-only and should be excluded unless specifically required.
-8. **Add additional CRM Adapters and the second internal application**
-   - Reuse the proven contracts and onboarding process without assuming identical provider schemas or capabilities.
-9. **Add operational and provider-facing tooling as required**
+- Connection setup, lifecycle and health.
+- Write-only credential entry, replacement and testing.
+- Facility-to-Site and bounded value mappings.
+- Invitation-only local accounts and tenant-restricted roles.
+- Existing Resident Select Client review and manual linking.
+- Proposed Action review, approval, rejection and supersession.
+- Conflict and failure inspection.
+- Explicit safe retry.
+- Resolution of creates whose outcome is unknown.
+- Redacted synchronisation history and audit views.
+- Non-personal operational notifications that link to the authenticated application.
+
+Raw Resident Select payloads will not be stored or displayed.
+
+## Carebridge work
+
+Carebridge needs a new generic machine API. This is a substantial workstream in the delivery estimate and includes:
+
+- Scoped Application and Enquiry read projections.
+- Stable incremental polling contracts and reconciliation support.
+- A non-interactive Integration Principal authenticated with Laravel Sanctum.
+- Policy enforcement for the Provider Company and mapped Facilities.
+- Enquiry transition commands that use existing Carebridge business rules.
+- Idempotency and optimistic concurrency.
+- Native histories, notifications, required data and the Placed-Elsewhere Cascade.
+- Automated API and domain-side-effect tests.
+
+## Reliability and data handling
+
+The platform will:
+
+- Use scheduled polling because Resident Select has no documented webhooks.
+- Store durable work, checkpoints and retries in PostgreSQL.
+- Reconcile periodically to detect missed changes.
+- Prevent concurrent workers from processing the same Connection.
+- Stop automatic calls when credentials are invalid.
+- Require manual resolution when Resident Select may have accepted a create request but its response was lost.
+- Keep stable identifiers, mappings, workflow projections, audit events and redacted failures.
+- Never persist raw Connected Platform payloads or transient demographics for unlinked Clients.
+- Never propagate deletion between Carebridge and Resident Select.
+
+## Deployment
+
+Deploy one Rust and Dioxus application image to AWS ECS Fargate with:
+
+- A dedicated PostgreSQL RDS instance.
+- AWS Secrets Manager for Connection and Carebridge credentials.
+- Redacted CloudWatch logs, metrics and alerts.
+- An Application Load Balancer with TLS for production.
+- Static outbound network access where Resident Select requires IP allowlisting.
+- Separate staging and production storage, secrets, credentials and administration accounts.
+
+Staging will remain non-public and will not use the production load balancer. Deployment automation and both environments are part of the delivery. Recurring AWS and Resident Select costs will be shown separately from development labour.
+
+## Delivery assumptions
+
+The estimate will assume:
+
+- One initial Provider Connection and its agreed Sites.
+- Existing active Carebridge records from an agreed cutoff date.
+- No bulk migration of all historical records.
+- No large-scale manual data-cleansing service.
+- A production release and first live Connection, not a prototype.
+- Conservative contingency for Resident Select API and test-environment unknowns.
+- Optional fields can be deferred without blocking acceptance when vendor behaviour or cost is disproportionate.
+
+Resident Select test access, polling behaviour, lookup values and rate limits remain vendor dependencies. They will be resolved during delivery and included as estimate uncertainty rather than placed in a separate quoted discovery release.
+
+## Exclusions
+
+The Initial Production Release excludes:
+
+- ScheduleMee, HubSpot, SugarCRM and other Connected Platforms.
+- Additional live Provider onboarding.
+- Creation of Carebridge Applications or Enquiries from Resident Select-only Clients.
+- Resident Select lifecycle, room, Clinical Review, Contract, Activity or document writes.
+- Client Contact creation or linking.
+- Clinical content, documents, representative details and free-text notes.
+- Bulk historical migration and data cleansing.
+- Arbitrary field expressions or a general-purpose mapping language.
+- SQS, EventBridge and a Carebridge transactional outbox.
+
+## Main delivery risks
+
+- Resident Select test Organisation and credential availability.
+- Detection of nested Site Association changes.
+- Pagination consistency while Resident Select records change.
+- Resident Select lookup values and undocumented validation behaviour.
+- Resident Select Client creation has no documented idempotency mechanism.
+- Carebridge requires a new generic machine API before the complete Flow can operate.
+
+The estimate will carry conservative contingency for these risks. Unsupported optional fields can be deferred, but the core Prospect and workflow path must work before production acceptance.
+
+## Acceptance outcome
+
+The release is complete when the first Provider can use the production application to configure its Connection, reconcile existing active Carebridge records, link or create Resident Select Clients, observe Resident Select workflow progress, apply controlled Carebridge transitions, inspect failures and audit the resulting activity.
 
 ## Recommendation
 
-Proceed with the shared integration-service architecture, but treat CRM onboarding, schema mapping and sensitive-data approval as first-class parts of the product.
-
-The first milestone should be a deliberately narrow pilot using Schedule Mee, Resident Select, one provider Organisation and a non-clinical, one-way Resident Select to Schedule Mee resident flow. This validates fixed-schema mapping, per-Site identity, incremental polling and reconciliation without depending on API operations Resident Select does not provide.
+Proceed with the Initial Production Release for Carebridge and Resident Select. Keep the first release narrow in participating systems and data fields, but deliver the administration, reliability and deployment controls required for real client use.
