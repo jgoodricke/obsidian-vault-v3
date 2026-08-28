@@ -45,11 +45,12 @@ Allowance NEW (bi-weekly): $584
 | ------- | ------ | ------- |
 | Audible | $8.99  |         |
 | Sunsama | $30.65 | $20 USD |
-| Claude  | $30.65 | $20 USD |
+| Grok    | $43.47 |         |
+| Phone   | $25    |         |
 
 
 
-Total: $71
+Total: $110
 
 # Weekly
 | Item           | Price | Note |
