@@ -1,39 +1,39 @@
 # Things to gather now
 ## Existing Maples documents and correspondence
 - [ ] **Jackson's Incident, Injury, Trauma and Illness Record**
-- [ ] **Maples' emails describing how the incident occurred**
-- [ ] **Maples' email describing its subsequent review and changes to the balancing logs**
-- [ ] **Maples' correspondence concerning childcare fees and the offered 50% reduction**
-- [ ] **Maples' confirmation that the matter was referred to Guild Insurance**
+- [x] **Maples' emails describing how the incident occurred**
+- [x] **Maples' email describing its subsequent review and changes to the balancing logs**
+- [x] **Maples' correspondence concerning childcare fees and the offered 50% reduction**
+- [x] **Maples' confirmation that the matter was referred to Guild Insurance**
 
 These are particularly important because Maples' own records say that the educator was assisting the child ahead of Jackson when he stepped forward and fell, and that the educator was unable to reach the fall in time. Maples subsequently said it conducted a risk assessment and decided to lower the balancing logs and place cut halves between them.
 
 ## Hospital and surgical documents already in your possession
-- [ ] Discharge summary
-- [ ] Emergency department paperwork
-- [ ] Surgical discharge paperwork
-- [ ] Operation information
-- [ ] Appointment letters
-- [ ] Other documents you were given by the hospital relating to Jackson's injury
+- [x] Discharge summary
+- [x] Emergency department paperwork
+- [x] Surgical discharge paperwork
+- [x] Operation information
+- [x] Appointment letters
+- [x] Other documents you were given by the hospital relating to Jackson's injury
 
 Do **not** delay the email while requesting additional hospital records if you already have enough documentation to establish the injury and surgery.
 
 ## Plastic surgeon / specialist documents already in your possession
 
-- [ ] Clinic letters
-- [ ] Treatment instructions
-- [ ] Scar-management advice
-- [ ] Follow-up appointment information
-- [ ] Anything stating that further treatment or monitoring is required
+- [x] Clinic letters
+- [x] Treatment instructions
+- [x] Scar-management advice
+- [x] Follow-up appointment information
+- [x] Anything stating that further treatment or monitoring is required
 
 Jackson's treatment and scar monitoring were already described as ongoing in your correspondence with Maples, so it is reasonable to tell Guild that the medical position is not yet final.
 
 ## GP and dental documents already in your possession
 
-- [ ] Injury-specific referral letters
-- [ ] Injury-specific treatment summaries
-- [ ] Injury-specific certificates
-- [ ] Injury-specific invoices
+- [x] Injury-specific referral letters
+- [x] Injury-specific treatment summaries
+- [x] Injury-specific certificates
+- [x] Injury-specific invoices
 
 Only collect what you **already have readily available**. There is no need to request Jackson's complete GP or dental history before replying.
 
