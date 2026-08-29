@@ -15,9 +15,11 @@
 			- [ ] Learn You A Haskell
 			- [ ] Real World Haskell
 	- [ ] [[Rust Book]]
+	- [ ] Articles
+		- [ ] [Rust Typestate Pattern](https://cliffle.com/blog/rust-typestate/)
+		- [ ] [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/)
 	- [ ] [[Rust by Example]]
 	- [ ] Rustings
-	- [ ] [Rust Typestate Pattern](https://cliffle.com/blog/rust-typestate/)
 	- [ ] **Dioxus**: Full-stack, component-based Rust framework that can target web, desktop, and mobile.
 	- [ ] toy projects
 		- [ ] [Make A Lisp](https://github.com/kanaka/mal#rust-138)
@@ -26,6 +28,11 @@
 - [ ] Lifestyle
 	- [ ] Practical Zen
 	- [ ] those power lifting books
+### Steps to Learning Rust
+1. Don't use references (use ownership and share nothing)
+2. Copy and Clone Everything ()
+3. Obey the Compiler (use references only when the compiler tells you)
+4. Learn Async (i.e. learn everything else).
 # Infra
 - [ ] AWS
 - [ ] Speed Run the Neovim Manual
@@ -54,4 +61,5 @@
 - [Designing Data-Intensive applications](https://m.youtube.com/playlist?list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Shape Up](https://basecamp.com/books#shapeup)
-- 
+- Structure and Interpretation of Computer Programs
+- Computer Systems: A Programmer's Perspective

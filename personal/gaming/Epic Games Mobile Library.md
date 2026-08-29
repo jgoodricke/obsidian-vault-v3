@@ -61,3 +61,5 @@
 - Mutazione
 - A guidebook and babel
 - Beholder: Conductor
+- Caravan SandWitch
+- Down in Bermuda
