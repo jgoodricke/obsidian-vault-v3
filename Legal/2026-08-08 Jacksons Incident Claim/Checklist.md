@@ -9,7 +9,6 @@
 These are particularly important because Maples' own records say that the educator was assisting the child ahead of Jackson when he stepped forward and fell, and that the educator was unable to reach the fall in time. Maples subsequently said it conducted a risk assessment and decided to lower the balancing logs and place cut halves between them.
 
 ## Hospital and surgical documents already in your possession
-
 - [ ] Discharge summary
 - [ ] Emergency department paperwork
 - [ ] Surgical discharge paperwork
