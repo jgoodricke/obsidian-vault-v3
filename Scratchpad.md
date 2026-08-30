@@ -1,3 +1,13 @@
+- [x] Maples’ Incident, Injury, Trauma and Illness Record, including the injury photographs and follow-up note.
+- [ ] The June 2026 email correspondence containing Maples’ account and the CCTV screenshots.
+- [ ] The July 2026 correspondence concerning the regulatory notification and insurance claim.
+- [x] Dr Justin Parr’s letter dated 15 July 2026.
+- [x] Our chronology of events.
+- [x] Our interim expense schedule 
+	- [x] and supporting receipts.
+- [x] James’s telephone call record.
+
+
 ## Workflow 
 - Herdr
 - plannotator
