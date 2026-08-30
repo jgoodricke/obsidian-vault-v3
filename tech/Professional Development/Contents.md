@@ -67,6 +67,6 @@
 - [Vim as your Editor](https://www.youtube.com/watch?v=X6AR2RMB5tE&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R)
 -  Ben Dicken Reads
 	- [Systems Performance](https://www.youtube.com/watch?v=RBpIzmOcPmw&list=PLYO0GRl5l33A)
-	- [Database Internals](https://www.youtube.com/watch?v=HibHalGlIes&list=PLhgFs9q2EVg91l17UXoPdzsEhJrokLiMx)
+	- [Database Internals](https://www.youtube.com/watch?v=HibHalGlIes&list=PLhgFs9q2EVg91l17UXoPdzsEhJrokLiMx) - After listening to Audiobook
 	- [Designing Data Intensive Applications](https://www.youtube.com/watch?v=G7iU2s7LUzA&list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h)
 - [NixOS](https://www.youtube.com/playlist?list=PLko9chwSoP-3MLKgbuwh3n_x3HVzoZujp)
