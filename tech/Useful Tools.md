@@ -3,7 +3,9 @@ tags: [Knowlege, Leaf]
 frontmatter-version: 1.0
 ---
 # Check Out
+- Use fzf natively (ctrl + T?)
 - JQ Json pretififier and interpretor
+- yt-dlp: download youtube videos, mp3s etc
 - Herdr: modern alternative to tmux.
 - github CLIapp
 - doppler CLI (Secrets Management)
