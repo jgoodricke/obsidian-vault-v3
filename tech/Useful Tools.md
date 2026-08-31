@@ -3,6 +3,7 @@ tags: [Knowlege, Leaf]
 frontmatter-version: 1.0
 ---
 # Check Out
+- JQ Json pretififier and interpretor
 - Herdr: modern alternative to tmux.
 - github CLIapp
 - doppler CLI (Secrets Management)
