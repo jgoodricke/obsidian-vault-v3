@@ -2,8 +2,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to: 
-https://doc.rust-lang.org/stable/book/ch05-03-method-syntax.html#wheres-the---operator
-
+https://doc.rust-lang.org/stable/book/ch06-01-defining-an-enum.html#enum-values
 
 ## First Read
 
@@ -28,10 +27,10 @@ https://doc.rust-lang.org/stable/book/ch05-03-method-syntax.html#wheres-the---op
     - [x] 4.3. Fixing Ownership Errors
     - [x] 4.4. The Slice Type
     - [x] 4.5. Ownership Recap
-- [ ] 5. Using Structs to Structure Related Data
+- [x] 5. Using Structs to Structure Related Data
     - [x] 5.1. Defining and Instantiating Structs
     - [x] 5.2. An Example Program Using Structs
-    - [ ] 5.3. Methods
+    - [x] 5.3. Methods
 - [ ] 6. Enums and Pattern Matching
     - [ ] 6.1. Defining an Enum
     - [ ] 6.2. The match Control Flow Construct
