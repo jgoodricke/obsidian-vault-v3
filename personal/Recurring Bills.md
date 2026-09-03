@@ -18,12 +18,9 @@ frontmatter-version: 1
 **TOTAL:** $304.83
 
 ## Tax
-### Upfront payment
-$429.60 on 07/09/2026
-## Schedule
-3 fortnightly instalments of $429.60 on 21/09/2026
-## Final payment
-A final instalment of $429.60 on 02/11/2026
+- Upfront payment of $429.60 on 17/09/2026
+- 3 monthly instalments of $429.60 on 19/10/2026
+- A final instalment of $429.60 on 18/01/2027
 
 ## Other Bills
 Electricity: Alinta Energy
