@@ -14,7 +14,16 @@ frontmatter-version: 1
 | Health Insurance | $182.75 |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     |      |
+| Tax              | 429.60  | See Below                                   |      |
 **TOTAL:** $304.83
+
+## Tax
+### Upfront payment
+$429.60 on 07/09/2026
+## Schedule
+3 fortnightly instalments of $429.60 on 21/09/2026
+## Final payment
+A final instalment of $429.60 on 02/11/2026
 
 ## Other Bills
 Electricity: Alinta Energy
