@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Useful Tools.md",
+                "file": "tech/Professional Development/Contents.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Useful Tools"
+              "title": "Contents"
             }
           },
           {
@@ -201,7 +211,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Useful tools",
+            "query": "Rust",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": true,
@@ -321,8 +331,9 @@
   },
   "active": "53cbe7c3c9204bc0",
   "lastOpenFiles": [
-    "personal/Tea brewing Times.md",
     "tech/Professional Development/Rust/Rust Book.md",
+    "tech/Useful Tools.md",
+    "personal/Tea brewing Times.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Analytics Dashboard/Overview V3.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-03.md",
@@ -346,7 +357,6 @@
     "job/webres/Focus Machinery/Claude MCP/Pilot Plan.md",
     "job/webres/Focus Machinery/Claude MCP/Client MVP - ERP SQL MCP Connector.md",
     "job/webres/Carebridge/Password Reset Bug Affected Users.md",
-    "job/webres/Focus Machinery/Meetings/2026-07-22 - Discuss Setting Up MCP Server.md",
     "job/webres/Focus Machinery/Meetings",
     "job/webres/Focus Machinery/Claude MCP",
     "job/webres/Focus Machinery",

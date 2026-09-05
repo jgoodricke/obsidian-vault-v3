@@ -7,6 +7,7 @@
 	- [ ] Learn the new features in React 20
 - [ ] Rust
 	- [ ] No Boilerplate
+		- [ ] [Async Rust](https://github.com/NamtaoProductions/namtao-com/blob/main/src/site/notes/Async%20isn't%20real%20and%20can't%20hurt%20you.md#solutions)
 		- [ ] Read Ultra-learning
 		- [ ] Read the rust book once fast
 		- [ ] Read the rust book again at normal pace, do Rustings at the same time.
@@ -18,6 +19,7 @@
 	- [ ] Articles
 		- [ ] [Rust Typestate Pattern](https://cliffle.com/blog/rust-typestate/)
 		- [ ] [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/)
+ 		- [ ] [Async Rust](https://github.com/NamtaoProductions/namtao-com/blob/main/src/site/notes/Async%20isn't%20real%20and%20can't%20hurt%20you.md#solutions)
 	- [ ] [[Rust by Example]]
 	- [ ] Rustings
 	- [ ] **Dioxus**: Full-stack, component-based Rust framework that can target web, desktop, and mobile.
