@@ -22,7 +22,6 @@ select facilities.id,
        facilities.benevolent_provider,
        facilities.carers_gateway,
        facilities.dementia_care,
-       facilities.removed,
        facilities.refreshed_at,
        facilities.created_at,
        facilities.updated_at
