@@ -1,5 +1,5 @@
 ```sql
-## Facilities
+## facilities
 select facilities.id,
        facilities.company_id,
        companies.name as company_name,
@@ -27,7 +27,8 @@ select facilities.id,
        facilities.created_at,
        facilities.updated_at
 from facilities
-         inner join companies on facilities.company_id = companies.id;
+         inner join companies on facilities.company_id = companies.id
+where facilities.removed = 0;
 
 
 ## facilities.accommodation_types
