@@ -65,7 +65,6 @@ select
     vacancies.id,
     vacancies.name,
     vacancies.carers_gateway,
-    vacancies.company_id,
     vacancies.facility_id,
     vacancies.cbc_engaged_provider,
     vacancies.dementia_care,
