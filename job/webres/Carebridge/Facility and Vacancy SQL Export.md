@@ -63,7 +63,9 @@ where type_name = 'room_types';
 # vacancies
 select
     vacancies.id,
-    vacancies.name,
+    facilities.id as facility_id,
+    facilities.name as facility_name,
+    vacancies.benevolent_provider,
     vacancies.carers_gateway,
     vacancies.facility_id,
     vacancies.cbc_engaged_provider,
@@ -75,7 +77,14 @@ select
     vacancies.govt_subsidised,
     vacancies.created_at,
     vacancies.updated_at
-from vacancies;
+from vacancies
+inner join facilities on vacancies.facility_id = facilities.id
+where vacancies.removed = 0
+  and vacancies.updated_at >= (
+    convert_tz(utc_timestamp(), '+00:00', 'Australia/Sydney')
+        - interval 10 day
+    );
+
 
 # vacancies.accommodation_types
 select vacancies_relationships.vacancy_id,
@@ -103,5 +112,6 @@ select vacancies_relationships.vacancy_id,
 from vacancies_relationships
          inner join specific_service_deliveries on vacancies_relationships.type_id = specific_service_deliveries.id
 where vacancies_relationships.type_name = 'specific_service_deliveries';
+
 
 ```
