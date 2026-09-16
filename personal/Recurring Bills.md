@@ -54,14 +54,12 @@ Allowance NEW (bi-weekly): $584
 | Grok    | $43.47 |         |
 | Phone   | $25    |         |
 
+Total: $120
+
 Pay Back
 KMart 10
 Coles: 41.77
 AFP Check: $56.0
-
-
-
-Total: $110
 
 # Weekly
 | Item           | Price | Note |
