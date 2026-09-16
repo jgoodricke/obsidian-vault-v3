@@ -14,8 +14,9 @@ frontmatter-version: 1
 | Health Insurance | $182.75 |                                             |      |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     |      |
+| Eastlink         | $45     |                                             |      |
 | Tax              | 429.60  | See Below                                   |      |
-**TOTAL:** $304.83
+**TOTAL:** $779.43
 
 ## Tax
 - Upfront payment of $429.60 on 17/09/2026
