@@ -64,3 +64,5 @@
 - Caravan SandWitch
 - Down in Bermuda
 - Evan's Remains
+- Mindcop
+- Cardpocalipse

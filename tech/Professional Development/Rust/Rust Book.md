@@ -1,8 +1,15 @@
+finish setting up Rust on Phone
+https://practical.li/neovim/termux/setup/#configure-freedesktoporg-xdg-locations
+
+https://www.geeksforgeeks.org/installation-guide/how-to-install-rust-on-termux/
+
+https://pi.dev/docs/latest/termux
+
 https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to: 
-https://doc.rust-lang.org/stable/book/ch06-01-defining-an-enum.html#enum-values
+https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
 
 ## First Read
 
@@ -31,13 +38,12 @@ https://doc.rust-lang.org/stable/book/ch06-01-defining-an-enum.html#enum-values
     - [x] 5.1. Defining and Instantiating Structs
     - [x] 5.2. An Example Program Using Structs
     - [x] 5.3. Methods
-- [ ] 6. Enums and Pattern Matching
-    - [ ] 6.1. Defining an Enum
-    - [ ] 6.2. The match Control Flow Construct
-    - [ ] 6.3. Concise Control Flow with if let and let...else
-    - [ ] 6.4. Ownership Inventory #1
+- [x] 6. Enums and Pattern Matching
+    - [x] 6.1. Defining an Enum
+    - [x] 6.2. The match Control Flow Construct
+    - [x] 6.3. Concise Control Flow with if let and let...else
 - [ ] 7. Packages, Crates, and Modules
-    - [ ] 7.1. Packages and Crates
+    - [x] 7.1. Packages and Crates
     - [ ] 7.2. Control Scope and Privacy with Modules
     - [ ] 7.3. Paths for Referring to an Item in the Module Tree
     - [ ] 7.4. Bringing Paths Into Scope with the use Keyword

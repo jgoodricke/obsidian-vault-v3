@@ -1,5 +1,12 @@
 TODO: 
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
+- Knockout Framework (Death Alternative) VR
+	- Perfect Pacify Knockout
+	- Non-Lethal Armory
+	- Select Blaster (move to starting vault)
+- RobCo PALM - VR Wheel Menu
+- Commonwealth Squirrels
+- Commonwealth Iguanas
 
 # Modding Philosophy
 - Character:
@@ -41,6 +48,7 @@ TODO:
 - Disk Cache Enabler - F4VR
 - Private Profile Redirector
 - Faster Decompression
+- No Menu Fade Out Fallout VR
 ### Patches
 - Unofficial Fallout 4 Patch
 	- Unofficial Fallout 4 VR Fix
@@ -58,6 +66,7 @@ TODO:
 - [Skip](https://www.nexusmods.com/fallout4/mods/88418)
 - Faster Load Screens
 - Unlimited Companion Framework
+- Fallsouls VR
 ## Visuals
 ### Textures
 - Fallout 4 HD Overhaul 2k
@@ -110,6 +119,7 @@ TODO:
 - WAIT: Virtual Reload - When Released
 - WAIT: Kabuto VR - when SKSE version comes out
 - Immersive Flashlight VR
+- ROCK - Realistic Overengineered 
 ### Improved Combat
 - Stimpaks restore less limb damage (use 10% version).
 - Better Bloatflies

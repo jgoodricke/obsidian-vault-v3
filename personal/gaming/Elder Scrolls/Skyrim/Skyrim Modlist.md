@@ -43,6 +43,13 @@
 - Physical Collision VR
 - Dragonboard
 - Immersive Harvesting VR
+- Immersive Pickpocket VR
+- Open Container VR
+- True Wield VR
+- Physical Collision VR
+- Immersive Weapon Penetration VR
+- Voiced Narrative - The Cause
+- Voiced Narrative - Ghosts of the Tribunal
 
 Redguard:
 - Desert Trader
@@ -421,11 +428,14 @@ Redguard:
 	- [ ] Eola
 	- [ ] Borgakh the Steel Heart
 	- [ ] Roggi Knot-Beard
+	- [ ] Marcurio
+	- [ ] Calder
 - [ ] Immersive Dialogue Expansion
 	- [ ] Stormcloaks
 	- [ ] Hearthfire
 	- [ ] Yorvaskr
 	- [ ] Thalmor
+	- [ ] Dawnguard and Vigilants
 
 
 
