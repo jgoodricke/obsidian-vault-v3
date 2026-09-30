@@ -1,3 +1,16 @@
+## NixOS Todo
+- [ ] Push changes to Git
+- [ ] Get Pi set up
+- [ ] get builder.io ai set up
+- [ ] Set up Stylix
+- [ ] Enable Flakes
+- [ ] Set up the Dendritic Pattern
+- [ ] Add agents.md
+- [ ] Set up Nix Wrappers
+- [ ] Set up Neovim and Nixvim
+
+
+
 - [x] Maples’ Incident, Injury, Trauma and Illness Record, including the injury photographs and follow-up note.
 - [x] The June 2026 email correspondence containing Maples’ account and the CCTV screenshots.
 - [x] The July 2026 correspondence concerning the regulatory notification and insurance claim.

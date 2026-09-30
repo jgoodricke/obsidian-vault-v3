@@ -7,7 +7,6 @@
 	- [ ] Learn the new features in React 20
 - [ ] Rust
 	- [ ] No Boilerplate
-		- [ ] [Async Rust](https://github.com/NamtaoProductions/namtao-com/blob/main/src/site/notes/Async%20isn't%20real%20and%20can't%20hurt%20you.md#solutions)
 		- [ ] Read Ultra-learning
 		- [ ] Read the rust book once fast
 		- [ ] Read the rust book again at normal pace, do Rustings at the same time.
@@ -16,16 +15,18 @@
 			- [ ] Learn You A Haskell
 			- [ ] Real World Haskell
 	- [ ] [[Rust Book]]
+	- [ ] [[Rust by Example]]
+	- [ ] [[Rustlings]]
+	- [ ] [[Dioxus]]
 	- [ ] Articles
 		- [ ] [Rust Typestate Pattern](https://cliffle.com/blog/rust-typestate/)
 		- [ ] [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/)
+		- [ ] [Your Clippy config should be stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/)
  		- [ ] [Async Rust](https://github.com/NamtaoProductions/namtao-com/blob/main/src/site/notes/Async%20isn't%20real%20and%20can't%20hurt%20you.md#solutions)
-	- [ ] [[Rust by Example]]
-	- [ ] Rustings
-	- [ ] **Dioxus**: Full-stack, component-based Rust framework that can target web, desktop, and mobile.
 	- [ ] toy projects
 		- [ ] [Make A Lisp](https://github.com/kanaka/mal#rust-138)
 		- [ ] web server
+	- [ ] [No Boilerplate Defaults](https://www.namtao.com/rust/)
 - [ ] Rejex
 - [ ] Lifestyle
 	- [ ] Practical Zen
@@ -72,3 +73,33 @@
 	- [Database Internals](https://www.youtube.com/watch?v=HibHalGlIes&list=PLhgFs9q2EVg91l17UXoPdzsEhJrokLiMx) - After listening to Audiobook
 	- [Designing Data Intensive Applications](https://www.youtube.com/watch?v=G7iU2s7LUzA&list=PLhgFs9q2EVg_rB-XT1zaJ3k9z0KVGrR2h)
 - [NixOS](https://www.youtube.com/playlist?list=PLko9chwSoP-3MLKgbuwh3n_x3HVzoZujp)
+
+
+## No Boilerplate Videos
+- Rust: Your code can be PERFECT
+- Rust makes you feel like a GENIUS
+- Rust: Turtles all the way down
+- Rust for the impatient
+- Stop writing Rust
+- Build your Rust lightsaber
+- Rust is not a faster horse
+- Building a space station in Rust
+- Rust on Rails
+- Rust & Wasm
+- Rust makes cents
+- Web-native Rust apps PART 2
+- Rust Is Boring
+- Rust Is Easy
+- Rust Tests Itself (kind of!)
+- Rust's Witchcraft
+- How to Learn Rust
+- Rust Data Modelling Without Classes
+- How To Speak Rust
+- Statically Typed APIs with Poem and Rust
+- In Search of Code Purity
+- Compiler-Driven Development in Rust
+- [Rust is the New C](https://www.namtao.com/rust-is-the-new-c/)
+- [Async Isn't Real & Cannot Hurt You](https://www.namtao.com/async-isn-t-real-and-can-t-hurt-you/)
+- [Misusing Macros for Fn and profit](https://www.namtao.com/misusing-macros-for-fn-and-profit/)
+- [Rust: Don't Panic](https://www.namtao.com/rust-dont-panic/)
+- [My 2026 Rust Toolkit](https://www.namtao.com/rust-toolkit-2026/)

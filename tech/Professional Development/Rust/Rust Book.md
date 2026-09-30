@@ -8,10 +8,10 @@ https://pi.dev/docs/latest/termux
 https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
-Up to: 
-https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
-
+Up to
+https://doc.rust-lang.org/stable/book/ch09-03-to-panic-or-not-to-panic.html
 ## First Read
+### Read Now
 
 - [x] What's Different About This Book?
 - [x] The Rust Programming Language
@@ -42,17 +42,16 @@ https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-
     - [x] 6.1. Defining an Enum
     - [x] 6.2. The match Control Flow Construct
     - [x] 6.3. Concise Control Flow with if let and let...else
-- [ ] 7. Packages, Crates, and Modules
+- [x] 7. Packages, Crates, and Modules
     - [x] 7.1. Packages and Crates
-    - [ ] 7.2. Control Scope and Privacy with Modules
-    - [ ] 7.3. Paths for Referring to an Item in the Module Tree
-    - [ ] 7.4. Bringing Paths Into Scope with the use Keyword
-    - [ ] 7.5. Separating Modules into Different Files
-- [ ] 8. Common Collections
-    - [ ] 8.1. Storing Lists of Values with Vectors
-    - [ ] 8.2. Storing UTF-8 Encoded Text with Strings
-    - [ ] 8.3. Storing Keys with Associated Values in Hash Maps
-    - [ ] 8.4. Ownership Inventory #2
+    - [x] 7.2. Control Scope and Privacy with Modules
+    - [x] 7.3. Paths for Referring to an Item in the Module Tree
+    - [x] 7.4. Bringing Paths Into Scope with the use Keyword
+    - [x] 7.5. Separating Modules into Different Files
+- [x] 8. Common Collections
+    - [x] 8.1. Storing Lists of Values with Vectors
+    - [x] 8.2. Storing UTF-8 Encoded Text with Strings
+    - [x] 8.3. Storing Keys with Associated Values in Hash Maps
 - [ ] 9. Error Handling
     - [ ] 9.1. Unrecoverable Errors with panic!
     - [ ] 9.2. Recoverable Errors with Result
@@ -61,7 +60,7 @@ https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-
     - [ ] 10.1. Generic Data Types
     - [ ] 10.2. Defining Shared Behavior with Traits
     - [ ] 10.3. Validating References with Lifetimes
-    - [ ] 10.4. Ownership Inventory #3
+### Soon
 - [ ] 11. Writing Automated Tests
     - [ ] 11.1. How to Write Tests
     - [ ] 11.2. Controlling How Tests Are Run
@@ -103,6 +102,7 @@ https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-
     - [ ] 17.4. Streams: Futures in Sequence
     - [ ] 17.5. A Closer Look at the Traits for Async
     - [ ] 17.6. Futures, Tasks, and Threads
+### Later
 - [ ] 18. Object Oriented Programming Features
     - [ ] 18.1. Characteristics of Object-Oriented Languages
     - [ ] 18.2. Using Trait Objects to Abstract over Shared Behavior
@@ -239,3 +239,4 @@ https://doc.rust-lang.org/stable/book/ch07-02-defining-modules-to-control-scope-
     - [ ] 23.5. E - Editions
     - [ ] 23.6. F - Translations of the Book
     - [ ] 23.7. G - How Rust is Made and "Nightly Rust"
+

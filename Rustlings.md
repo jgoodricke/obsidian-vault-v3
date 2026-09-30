@@ -1,0 +1,123 @@
+- [ ] 00 — Intro
+    - [ ] intro1
+    - [ ] intro2
+- [ ] 01 — Variables
+    - [ ] variables1
+    - [ ] variables2
+    - [ ] variables3
+    - [ ] variables4
+    - [ ] variables5
+    - [ ] variables6
+- [ ] 02 — Functions
+    - [ ] functions1
+    - [ ] functions2
+    - [ ] functions3
+    - [ ] functions4
+    - [ ] functions5
+- [ ] 03 — If
+    - [ ] if1
+    - [ ] if2
+    - [ ] if3
+- [ ] Quiz 1
+    - [ ] quiz1
+- [ ] 04 — Primitive Types
+    - [ ] primitive_types1
+    - [ ] primitive_types2
+    - [ ] primitive_types3
+    - [ ] primitive_types4
+    - [ ] primitive_types5
+    - [ ] primitive_types6
+- [ ] 05 — Vectors
+    - [ ] vecs1
+    - [ ] vecs2
+- [ ] 06 — Move Semantics
+    - [ ] move_semantics1
+    - [ ] move_semantics2
+    - [ ] move_semantics3
+    - [ ] move_semantics4
+    - [ ] move_semantics5
+- [ ] 07 — Structs
+    - [ ] structs1
+    - [ ] structs2
+    - [ ] structs3
+- [ ] 08 — Enums
+    - [ ] enums1
+    - [ ] enums2
+    - [ ] enums3
+- [ ] 09 — Strings
+    - [ ] strings1
+    - [ ] strings2
+    - [ ] strings3
+    - [ ] strings4
+- [ ] 10 — Modules
+    - [ ] modules1
+    - [ ] modules2
+    - [ ] modules3
+- [ ] 11 — HashMaps
+    - [ ] hashmaps1
+    - [ ] hashmaps2
+    - [ ] hashmaps3
+- [ ] Quiz 2
+    - [ ] quiz2
+- [ ] 12 — Options
+    - [ ] options1
+    - [ ] options2
+    - [ ] options3
+- [ ] 13 — Error Handling
+    - [ ] errors1
+    - [ ] errors2
+    - [ ] errors3
+    - [ ] errors4
+    - [ ] errors5
+    - [ ] errors6
+- [ ] 14 — Generics
+    - [ ] generics1
+    - [ ] generics2
+- [ ] 15 — Traits
+    - [ ] traits1
+    - [ ] traits2
+    - [ ] traits3
+    - [ ] traits4
+    - [ ] traits5
+- [ ] Quiz 3
+    - [ ] quiz3
+- [ ] 16 — Lifetimes
+    - [ ] lifetimes1
+    - [ ] lifetimes2
+    - [ ] lifetimes3
+- [ ] 17 — Tests
+    - [ ] tests1
+    - [ ] tests2
+    - [ ] tests3
+- [ ] 18 — Iterators
+    - [ ] iterators1
+    - [ ] iterators2
+    - [ ] iterators3
+    - [ ] iterators4
+    - [ ] iterators5
+- [ ] 19 — Smart Pointers
+    - [ ] smart_pointers1
+    - [ ] smart_pointers2
+    - [ ] smart_pointers3
+    - [ ] smart_pointers4
+- [ ] 20 — Threads
+    - [ ] threads1
+    - [ ] threads2
+    - [ ] threads3
+- [ ] 21 — Macros
+    - [ ] macros1
+    - [ ] macros2
+    - [ ] macros3
+    - [ ] macros4
+- [ ] 22 — Clippy
+    - [ ] clippy1
+    - [ ] clippy2
+    - [ ] clippy3
+- [ ] 23 — Conversions
+    - [ ] conversions1
+    - [ ] conversions2
+    - [ ] conversions3
+    - [ ] conversions4
+    - [ ] conversions5
+- [ ] 24 — Async
+    - [ ] async1
