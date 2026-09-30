@@ -7,6 +7,7 @@
 	- [ ] Git commit moving to Flakes
 	- [ ] Set up Home Manager
 	- [ ] Move Pi settings into Home Manager
+	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 	- [ ] Set up Nix Wrappers? Check how this is different to Home Manager.
 	- [ ] Set up Neovim and Nixvim
 	- [ ] get builder.io ai set up
