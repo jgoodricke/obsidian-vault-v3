@@ -8,8 +8,15 @@
 	- [ ] Set up Home Manager
 	- [ ] Move Pi settings into Home Manager
 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
-	- [ ] Set up Neovim and Nixvim
 	- [ ] set up builder.io ai cli tool
+	- [ ] Set up zsh
+	- [ ] Set up Git Tools
+		- [ ] Tig
+		- [ ] Git iggit
+		- [ ] that nicer git printing thing
+	- [ ] Set up Neovim and Nixvim
+- [ ] Advanced Setup
+	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
 - [ ] UI
 	- [ ] Set up Hyperland and associated packages.
