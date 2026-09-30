@@ -1,15 +1,16 @@
 ## NixOS Todo
 - [x] Push changes to Git
-- [ ] Get Pi set up
-- [ ] Set up Flakes
-- [ ] Set up Home Manager
-- [ ] Set up the Dendritic Pattern?
+- [x] Get Pi set up
+- [x] Set up Flakes
 - [x] Add agents.md
+- [ ] Commit moving to Flakes
+- [ ] Set up Home Manager
+- [ ] Move Pi settings into Home Manager
 - [ ] Set up Nix Wrappers? Check how this is different to Home Manager.
 - [ ] Set up Neovim and Nixvim
-- [ ] Move Pi settings into Home Manager
 - [ ] Set up Stylix
 - [ ] get builder.io ai set up
+- [ ] Set up the Dendritic Pattern?
 
 - [x] Maples’ Incident, Injury, Trauma and Illness Record, including the injury photographs and follow-up note.
 - [x] The June 2026 email correspondence containing Maples’ account and the CCTV screenshots.
