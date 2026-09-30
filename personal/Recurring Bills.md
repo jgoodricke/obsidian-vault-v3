@@ -5,20 +5,20 @@ frontmatter-version: 1
 ---
 # TODO
 Pay back $39.95 for Medicine
-
+Pay back $34.26 for Coles
+2,345.84
 # Joint Account
 
 ## Monthly Bills
 
 | Item             | Price   | Note                                        | Paid |
 | ---------------- | ------- | ------------------------------------------- | ---- |
-| Internet         | $80.00  |                                             |      |
-| Phone            | $25     | Pay from my account                         |      |
-| Health Insurance | $182.75 |                                             |      |
+| Internet         | $80.00  |                                             | X    |
+| Health Insurance | $182.75 |                                             | X    |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
-| ChatGPT          | $32     | $20 USD                                     |      |
-| Eastlink         | $45     |                                             |      |
-| Tax              | 429.60  | See Below                                   |      |
+| ChatGPT          | $32     | $20 USD                                     | X    |
+| Eastlink         | $45     |                                             | X    |
+| Tax              | 429.60  | See Below                                   | X    |
 **TOTAL:** $779.43
 
 ## Tax
@@ -32,17 +32,8 @@ Gas: Energy Locals
 
 # My Account
 
- 
-Allowance (Monthly): $700
-Minus Student Loan: $390
-Total: $310
-
 Allowance (bi-weekly): $323.08
-Minus Student Loan: $180
-Total: $143
 
-Allowance (bi-weekly): $323.08
-Pay: $2959.02 - check this
 Amount to Pay: 
 
 Allowance NEW (bi-weekly): $584
