@@ -7,6 +7,7 @@ TODO:
 - RobCo PALM - VR Wheel Menu
 - Commonwealth Squirrels
 - Commonwealth Iguanas
+- Faster Startups
 
 # Modding Philosophy
 - Character:
