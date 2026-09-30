@@ -1,0 +1,33 @@
+## NixOS Todo
+- [ ] Initial Setup
+	- [x] Push changes to Git
+	- [x] Get Pi set up
+	- [x] Set up Flakes
+	- [x] Add agents.md
+	- [ ] Git commit moving to Flakes
+	- [ ] Set up Home Manager
+	- [ ] Move Pi settings into Home Manager
+	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
+	- [ ] Git tools
+		- [ ] Tig
+		- [ ] Delta
+		- [ ] git-igitt
+- [ ] TUI
+	- [ ] zsh
+	- [ ] Zoxide
+	- [ ] Eza
+	- [ ] Tmux
+	- [ ] fd
+	- [ ] set up builder.io ai cli tool
+	- [ ] Set up Neovim and Nixvim
+	- [ ] Nerd Fonts
+- [ ] GUI
+	- [ ] Set up Hyperland and associated packages.
+	- [ ] Set up Stylix
+	- [ ] Programs
+		- [ ] Obsidian
+			- [ ]  Git LFS
+		- [ ] Helium
+- [ ] Advanced Setup
+	- [ ] Set up Flake Parts
+	- [ ] Set up the Dendritic Pattern?

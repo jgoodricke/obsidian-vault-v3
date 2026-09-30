@@ -33,9 +33,8 @@ frontmatter-version: 1.0
 | kanata        | Rebind keys                                                | [[kanata]]                                                                        |
 | activitywatch |                                                            | Alternative for arch is awatcher                                                  |
 | wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl)                                            |
-| cliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste                                             |
-| beads (bd)    | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface.                                     |
-| agent-browser | Command-line tool for AI agents to access websites.        | Honestly, playwright works better                                                 |
+| tliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste                                             |
+| bd-rust       | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface.                                     |
 | git-igitt     | Better git log                                             | Also serie, which is prettier but more limited and doesn't work on some terminals |
 | Plannotator   | Adds nice interface for commenting on AI agent output.     |                                                                                   |
 
