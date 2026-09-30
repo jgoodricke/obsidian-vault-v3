@@ -1,5 +1,5 @@
 ## NixOS Todo
-- [ ] Push changes to Git
+- [x] Push changes to Git
 - [ ] Get Pi set up
 - [ ] get builder.io ai set up
 - [ ] Set up Stylix
