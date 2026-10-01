@@ -18,7 +18,7 @@
 	- [ ] Eza
 	- [ ] Tmux
 	- [ ] fd
-	- [ ] Starship
+	- [ ] Starship\
 	- [ ] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
