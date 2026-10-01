@@ -12,13 +12,15 @@
 		- [x] Tig
 		- [x] Delta
 		- [x] git-igitt
+	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [ ] TUI
 	- [ ] zsh
 	- [ ] Zoxide
 	- [ ] Eza
 	- [ ] Tmux
 	- [ ] fd
-	- [ ] Starship\
+	- [ ] ripgrep
+	- [ ] Starship
 	- [ ] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
@@ -43,7 +45,6 @@
 		- [ ] Plannotator CLI and Playwright/browser runtime setup.Add 
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Advanced Setup
-	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
 
