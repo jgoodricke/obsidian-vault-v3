@@ -12,6 +12,7 @@
 		- [ ] Tig
 		- [ ] Delta
 		- [ ] git-igitt
+	- [ ] Finish setting up Pi
 - [ ] TUI
 	- [ ] zsh
 	- [ ] Zoxide
@@ -21,6 +22,8 @@
 	- [ ] set up builder.io ai cli tool
 	- [ ] Set up Neovim and Nixvim
 	- [ ] Nerd Fonts
+	- [ ] Docker
+	- [ ] Rust
 - [ ] GUI
 	- [ ] Set up Hyperland and associated packages.
 	- [ ] Set up Stylix
@@ -28,6 +31,10 @@
 		- [ ] Obsidian
 			- [ ]  Git LFS
 		- [ ] Helium
+- [ ] Development Environment
+	- [ ] Rust
+	- [ ] Docker
+	- [ ] Node
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
