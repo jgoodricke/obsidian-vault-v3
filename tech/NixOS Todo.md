@@ -19,6 +19,7 @@
 	- [ ] Eza
 	- [ ] Tmux
 	- [ ] fd
+	- [ ] Starship
 	- [ ] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
@@ -34,6 +35,13 @@
 	- [ ] Rust
 	- [ ] Docker
 	- [ ] Node
+	- [ ] Finish Setting up Pi
+		- [ ] Chrome companion installation and authorization.
+		- [ ] Context7/MCP configuration and verification of the unchanged web-researcher tool names.
+		- [ ] Exa API-key setup.
+		- [ ] Beads and epic-worker setup, including model availability.
+		- [ ] Missing external skill dependencies and inconsistent skill references.
+		- [ ] Plannotator CLI and Playwright/browser runtime setup.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
