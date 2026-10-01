@@ -4,7 +4,7 @@
 	- [x] Get Pi set up
 	- [x] Set up Flakes
 	- [x] Add agents.md
-	- [ ] Git commit moving to Flakes
+	- [x] Git commit moving to Flakes
 	- [ ] Set up Home Manager
 	- [ ] Move Pi settings into Home Manager
 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
