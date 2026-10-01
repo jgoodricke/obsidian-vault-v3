@@ -7,11 +7,11 @@
 	- [x] Git commit moving to Flakes
 	- [x] Set up Home Manager
 	- [x] Move Pi settings into Home Manager
-	- [ ] Finish setting up Pi
-	- [ ] Git tools
-		- [ ] Tig
-		- [ ] Delta
-		- [ ] git-igitt
+	- [x] Finish setting up Pi
+	- [x] Git tools
+		- [x] Tig
+		- [x] Delta
+		- [x] git-igitt
 - [ ] TUI
 	- [ ] zsh
 	- [ ] Zoxide
@@ -40,7 +40,8 @@
 		- [ ] Exa API-key setup.
 		- [ ] Beads and epic-worker setup, including model availability.
 		- [ ] Missing external skill dependencies and inconsistent skill references.
-		- [ ] Plannotator CLI and Playwright/browser runtime setup.
+		- [ ] Plannotator CLI and Playwright/browser runtime setup.Add 
+		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Advanced Setup
 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 	- [ ] Set up Flake Parts
