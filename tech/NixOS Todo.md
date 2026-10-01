@@ -13,18 +13,18 @@
 		- [x] Delta
 		- [x] git-igitt
 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
-- [ ] TUI
-	- [ ] zsh
-	- [ ] Zoxide
-	- [ ] Eza
-	- [ ] Tmux
-	- [ ] fd
-	- [ ] ripgrep
-	- [ ] Starship
+- [x] TUI
+	- [x] zsh
+	- [x] Zoxide
+	- [x] Eza
+	- [x] Tmux
+	- [x] fd
+	- [x] ripgrep
+	- [x] Starship
 	- [ ] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
-	- [ ] Just
+	- [x] Just
 - [ ] GUI
 	- [ ] Set up Hyperland and associated packages.
 	- [ ] Set up Stylix
