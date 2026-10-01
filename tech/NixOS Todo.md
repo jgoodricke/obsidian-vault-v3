@@ -5,14 +5,15 @@
 	- [x] Set up Flakes
 	- [x] Add agents.md
 	- [x] Git commit moving to Flakes
-	- [ ] Set up Home Manager
+	- [x] Set up Home Manager
 	- [ ] Move Pi settings into Home Manager
-	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 	- [ ] Git tools
 		- [ ] Tig
 		- [ ] Delta
 		- [ ] git-igitt
+	- [ ] Just
 	- [ ] Finish setting up Pi
+	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [ ] TUI
 	- [ ] zsh
 	- [ ] Zoxide
@@ -38,3 +39,13 @@
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
+
+
+## Justfile
+### Building
+```bash
+git add .
+
+sudo nixos-rebuild build --flake .#nixos
+sudo nixos-rebuild switch --flake .#nixos
+```
