@@ -6,13 +6,12 @@
 	- [x] Add agents.md
 	- [x] Git commit moving to Flakes
 	- [x] Set up Home Manager
-	- [ ] Move Pi settings into Home Manager
+	- [x] Move Pi settings into Home Manager
+	- [ ] Finish setting up Pi
 	- [ ] Git tools
 		- [ ] Tig
 		- [ ] Delta
 		- [ ] git-igitt
-	- [ ] Just
-	- [ ] Finish setting up Pi
 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [ ] TUI
 	- [ ] zsh
@@ -23,8 +22,7 @@
 	- [ ] set up builder.io ai cli tool
 	- [ ] Set up Neovim and Nixvim
 	- [ ] Nerd Fonts
-	- [ ] Docker
-	- [ ] Rust
+	- [ ] Just
 - [ ] GUI
 	- [ ] Set up Hyperland and associated packages.
 	- [ ] Set up Stylix
@@ -45,6 +43,8 @@
 ### Building
 ```bash
 git add .
+
+nix flake check
 
 sudo nixos-rebuild build --flake .#nixos
 sudo nixos-rebuild switch --flake .#nixos
