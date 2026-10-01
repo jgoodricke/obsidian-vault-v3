@@ -12,7 +12,6 @@
 		- [ ] Tig
 		- [ ] Delta
 		- [ ] git-igitt
-	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [ ] TUI
 	- [ ] zsh
 	- [ ] Zoxide
@@ -43,6 +42,7 @@
 		- [ ] Missing external skill dependencies and inconsistent skill references.
 		- [ ] Plannotator CLI and Playwright/browser runtime setup.
 - [ ] Advanced Setup
+	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
 
