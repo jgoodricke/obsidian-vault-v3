@@ -19,8 +19,8 @@
 	- [ ] Eza
 	- [ ] Tmux
 	- [ ] fd
-	- [ ] set up builder.io ai cli tool
-	- [ ] Set up Neovim and Nixvim
+	- [ ] builder.io ai cli tool
+	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
 	- [ ] Just
 - [ ] GUI
