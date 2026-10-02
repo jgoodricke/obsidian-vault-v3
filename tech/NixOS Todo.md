@@ -22,7 +22,7 @@
 	- [x] ripgrep
 	- [x] Starship
 	- [x] builder.io ai cli tool
-	- [ ] Neovim and Nixvim
+	- [x] Neovim and Nixvim
 	- [x] Nerd Fonts
 	- [x] Just
 - [ ] GUI
