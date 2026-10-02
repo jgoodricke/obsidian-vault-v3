@@ -23,7 +23,7 @@
 	- [x] Starship
 	- [x] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
-	- [ ] Nerd Fonts
+	- [x] Nerd Fonts
 	- [x] Just
 - [ ] GUI
 	- [ ] Set up Hyperland and associated packages.
