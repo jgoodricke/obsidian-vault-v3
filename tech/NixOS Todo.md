@@ -21,7 +21,7 @@
 	- [x] fd
 	- [x] ripgrep
 	- [x] Starship
-	- [ ] builder.io ai cli tool
+	- [x] builder.io ai cli tool
 	- [ ] Neovim and Nixvim
 	- [ ] Nerd Fonts
 	- [x] Just
