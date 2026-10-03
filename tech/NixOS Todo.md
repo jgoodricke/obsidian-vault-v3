@@ -26,12 +26,12 @@
 	- [ ] Nerd Fonts
 	- [x] Just
 - [ ] GUI
-	- [ ] Set up Hyperland and associated packages.
-	- [ ] Set up Stylix
+	- [x] Set up Hyperland and associated packages.
+	- [x] Set up Stylix
 	- [ ] Programs
-		- [ ] Obsidian
+		- [x] Obsidian
 			- [ ]  Git LFS
-		- [ ] Helium
+		- [x] Helium
 - [ ] Development Environment
 	- [ ] Rust
 	- [ ] Docker
@@ -44,6 +44,14 @@
 		- [ ] Missing external skill dependencies and inconsistent skill references.
 		- [ ] Plannotator CLI and Playwright/browser runtime setup.Add 
 		- [ ] Sort out config, it looks a bit overly complex.
+- [ ] Theming
+	- [ ] Add shutdown menu
+	- [ ] Add alt options menu
+	- [ ] Add more keyboard shortcuts
+	- [ ] Fix Clickable panels in Waybar
+	- [ ] Style Waybar
+	- [ ] Style Hyperland
+	- [ ] Style menus
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
