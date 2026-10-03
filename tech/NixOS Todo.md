@@ -45,10 +45,10 @@
 		- [ ] Plannotator CLI and Playwright/browser runtime setup.Add 
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
-	- [ ] Add shutdown menu
+	- [x] Add shutdown menu
 	- [ ] Add alt options menu
 	- [ ] Add more keyboard shortcuts
-	- [ ] Fix Clickable panels in Waybar
+	- [x] Fix Clickable panels in Waybar
 	- [ ] Style Waybar
 	- [ ] Style Hyperland
 	- [ ] Style Walker
