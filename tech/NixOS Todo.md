@@ -51,8 +51,9 @@
 	- [ ] Fix Clickable panels in Waybar
 	- [ ] Style Waybar
 	- [ ] Style Hyperland
-	- [ ] Style menus
+	- [ ] Style Walker
 	- [ ] Add Screensaver
+	- [ ] Add other Walker Menus
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
