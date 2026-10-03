@@ -1,5 +1,6 @@
 ## NixOS Todo
-- [ ] Change password to something simpler
+- [ ] Fix boot order
+- [x] Change password to something simpler
 - [x] Initial Setup
 	- [x] Push changes to Git
 	- [x] Get Pi set up
@@ -47,23 +48,24 @@
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
 	- [x] Add shutdown menu
-	- [ ] Add alt options menu
-	- [ ] Add more keyboard shortcuts
+	- [ ] Add alt options menu?
+	- [x] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
-	- [ ] **Style Walker**
+	- [x] Style Walker
 	- [x] Style Waybar
 	- [x] Style Hyperland
 	- [x] Add LLM Prompts Walker Menu
 	- [x] Style Staship
 	- [x] Style Lock page
 	- [ ] Style login page
-	- [ ] **Add Screensaver**
-	- [ ] Style othe apps
+	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+	- [ ] Style other apps
 		- [x] Helium
 		- [ ] Neovim
 	- [ ] Fine Tune Styling
 		- [ ] Update the Waybar dots
 		- [ ] Remove the selected window title from Waybar
+		- [ ] Fix Wofi search bar spacing
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
