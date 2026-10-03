@@ -57,15 +57,17 @@
 	- [x] Add LLM Prompts Walker Menu
 	- [x] Style Staship
 	- [x] Style Lock page
+	- [ ] Migrate from Wofi to Walker.
+	- [ ] Update layout of Waybar.
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 	- [ ] Style other apps
 		- [x] Helium
 		- [ ] Neovim
 	- [ ] Fine Tune Styling
-		- [ ] Update the Waybar dots
-		- [ ] Remove the selected window title from Waybar
 		- [ ] Fix Wofi search bar spacing
+- [ ] Neovim
+	- [ ] TODO
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
