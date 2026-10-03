@@ -12,7 +12,7 @@
 		- [x] Tig
 		- [x] Delta
 		- [x] git-igitt
- 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
+	- [x] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [x] TUI
 	- [x] zsh
 	- [x] Zoxide
@@ -21,12 +21,16 @@
 	- [x] fd
 	- [x] ripgrep
 	- [x] Starship
-	- [ ] builder.io ai cli tool
-	- [ ] Neovim and Nixvim
-	- [ ] Nerd Fonts
+	- [x] builder.io ai cli tool
+	- [x] Neovim and Nixvim
+	- [x] Nerd Fonts
 	- [x] Just
 - [ ] GUI
+<<<<<<< HEAD
 	- [x] Set up Hyperland and associated packages.
+=======
+	- [ ] Set up Hyperland and associated packages.
+>>>>>>> cbd92eba2338bb0aa847a1504389d8c639f0eeb0
 	- [x] Set up Stylix
 	- [ ] Programs
 		- [x] Obsidian
@@ -64,6 +68,6 @@ git add .
 
 nix flake check
 
-sudo nixos-rebuild build --flake .#nixos
-sudo nixos-rebuild switch --flake .#nixos
+sudo nixos-rebuild build --flake .#bishop
+sudo nixos-rebuild switch --flake .#bishop
 ```
