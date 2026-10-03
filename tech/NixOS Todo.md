@@ -1,5 +1,5 @@
 ## NixOS Todo
-- [ ] Initial Setup
+- [x] Initial Setup
 	- [x] Push changes to Git
 	- [x] Get Pi set up
 	- [x] Set up Flakes
@@ -29,9 +29,9 @@
 	- [ ] Set up Hyperland and associated packages.
 	- [x] Set up Stylix
 	- [ ] Programs
-		- [ ] Obsidian
+		- [x] Obsidian
 			- [ ]  Git LFS
-		- [ ] Helium
+		- [x] Helium
 - [ ] Development Environment
 	- [ ] Rust
 	- [ ] Docker
