@@ -27,7 +27,7 @@
 	- [x] Just
 - [ ] GUI
 	- [ ] Set up Hyperland and associated packages.
-	- [ ] Set up Stylix
+	- [x] Set up Stylix
 	- [ ] Programs
 		- [ ] Obsidian
 			- [ ]  Git LFS
