@@ -12,7 +12,7 @@
 		- [x] Tig
 		- [x] Delta
 		- [x] git-igitt
-	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
+ 	- [ ] Set up Vimjoyers project structure: https://github.com/vimjoyer/flake-starter-config/tree/main
 - [x] TUI
 	- [x] zsh
 	- [x] Zoxide
