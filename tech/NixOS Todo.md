@@ -52,6 +52,7 @@
 	- [ ] Style Waybar
 	- [ ] Style Hyperland
 	- [ ] Style menus
+	- [ ] Add Screensaver
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
