@@ -1,4 +1,5 @@
 ## NixOS Todo
+- [ ] Change password to something simpler
 - [x] Initial Setup
 	- [x] Push changes to Git
 	- [x] Get Pi set up
@@ -49,16 +50,16 @@
 	- [ ] Add alt options menu
 	- [ ] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
-	- [x] Style Walker
+	- [ ] **Style Walker**
 	- [x] Style Waybar
 	- [x] Style Hyperland
 	- [x] Add LLM Prompts Walker Menu
-	- [ ] Style Staship
-	- [ ] Style Lock page
+	- [x] Style Staship
+	- [x] Style Lock page
 	- [ ] Style login page
-	- [ ] Add Screensaver
+	- [ ] **Add Screensaver**
 	- [ ] Style othe apps
-		- [ ] Helium
+		- [x] Helium
 		- [ ] Neovim
 	- [ ] Fine Tune Styling
 		- [ ] Update the Waybar dots
