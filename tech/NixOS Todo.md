@@ -1,5 +1,6 @@
 ## NixOS Todo
 - [ ] Fix boot order
+- [ ] Commit LLM Prompt picker changes
 - [x] Change password to something simpler
 - [x] Initial Setup
 	- [x] Push changes to Git
@@ -58,6 +59,7 @@
 	- [x] Style Staship
 	- [x] Style Lock page
 	- [ ] Migrate from Wofi to Walker.
+	- [ ] Check the Super K keyboard shortcut is working.
 	- [ ] Update layout of Waybar.
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
@@ -65,7 +67,6 @@
 		- [x] Helium
 		- [ ] Neovim
 	- [ ] Fine Tune Styling
-		- [ ] Fix Wofi search bar spacing
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Advanced Setup
