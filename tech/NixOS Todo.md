@@ -49,11 +49,17 @@
 	- [ ] Add alt options menu
 	- [ ] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
-	- [ ] Style Waybar
-	- [ ] Style Hyperland
 	- [ ] Style Walker
+	- [ ] Style Waybar
+	- [x] Style Hyperland
 	- [ ] Add Screensaver
-	- [ ] Add other Walker Menus
+	- [ ] Add custom Walker Menus
+	- [ ] Style Staship
+	- [ ] Style Lock page
+	- [ ] Style login page
+	- [ ] Style othe apps
+		- [ ] Helium
+		- [ ] Neovim
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
