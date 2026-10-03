@@ -49,17 +49,20 @@
 	- [ ] Add alt options menu
 	- [ ] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
-	- [ ] Style Walker
-	- [ ] Style Waybar
+	- [x] Style Walker
+	- [x] Style Waybar
 	- [x] Style Hyperland
-	- [ ] Add Screensaver
-	- [ ] Add custom Walker Menus
+	- [x] Add LLM Prompts Walker Menu
 	- [ ] Style Staship
 	- [ ] Style Lock page
 	- [ ] Style login page
+	- [ ] Add Screensaver
 	- [ ] Style othe apps
 		- [ ] Helium
 		- [ ] Neovim
+	- [ ] Fine Tune Styling
+		- [ ] Update the Waybar dots
+		- [ ] Remove the selected window title from Waybar
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
