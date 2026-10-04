@@ -58,7 +58,15 @@
 	- [x] Add LLM Prompts Walker Menu
 	- [x] Style Staship
 	- [x] Style Lock page
-	- [ ] Migrate from Wofi to Walker.
+	- [ ] Migrate apps
+		- [ ] Wofi -> Walker with Elephant
+		- [ ] Cliphist -> Walker / Elephant clipboard history
+		- [ ] Hyprpaper -> Swaybg
+		- [ ] Hyprpolkitagent -> Polkit GNOME
+		- [ ] NetworkManager applet -> Impala
+		- [ ] Blueman -> Bluetui
+		- [ ] Pavucontrol -> Wiremix
+		- [ ] Greetd + ReGreet -> SDDM
 	- [ ] Check the Super K keyboard shortcut is working.
 	- [ ] Update layout of Waybar.
 	- [ ] Style login page
