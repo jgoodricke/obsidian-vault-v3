@@ -59,22 +59,24 @@
 	- [x] Style Staship
 	- [x] Style Lock page
 	- [ ] Migrate apps
-		- [ ] **Wofi -> Walker with Elephant**
-		- [ ] Cliphist -> Walker / Elephant clipboard history
+		- [ ] Wofi -> Walker with Elephant
 		- [ ] **NetworkManager applet -> Impala**
-		- [ ] Blueman -> Bluetui
+		- [ ] **Blueman -> Bluetui**
 		- [ ] Pavucontrol -> Wiremix
 		- [ ] Greetd + ReGreet -> SDDM
 		- [ ] Hyprpolkitagent -> Polkit GNOME
 		- [ ] Hyprpaper -> Swaybg
-	- [ ] Check the Super K keyboard shortcut is working.
+		- [ ] Cliphist -> Walker / Elephant clipboard history
+	- [ ] Fix broken walker menus
+		- [ ] Fix the Super K.
+		- [ ] Clipboard History
 	- [ ] Update layout of Waybar.
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 	- [ ] Style other apps
 		- [x] Helium
 		- [ ] Neovim
-	- [ ] Fine Tune Styling
+	- [ ] Add icons to the keyboard shortcuts menu.
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Advanced Setup
