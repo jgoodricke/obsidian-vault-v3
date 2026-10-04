@@ -61,7 +61,7 @@
 	- [ ] Migrate apps
 		- [ ] **Wofi -> Walker with Elephant**
 		- [ ] Cliphist -> Walker / Elephant clipboard history
-		- [ ] NetworkManager applet -> Impala
+		- [ ] **NetworkManager applet -> Impala**
 		- [ ] Blueman -> Bluetui
 		- [ ] Pavucontrol -> Wiremix
 		- [ ] Greetd + ReGreet -> SDDM
