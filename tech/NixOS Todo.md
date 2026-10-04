@@ -59,14 +59,14 @@
 	- [x] Style Staship
 	- [x] Style Lock page
 	- [ ] Migrate apps
-		- [ ] Wofi -> Walker with Elephant
+		- [ ] **Wofi -> Walker with Elephant**
 		- [ ] Cliphist -> Walker / Elephant clipboard history
-		- [ ] Hyprpaper -> Swaybg
-		- [ ] Hyprpolkitagent -> Polkit GNOME
 		- [ ] NetworkManager applet -> Impala
 		- [ ] Blueman -> Bluetui
 		- [ ] Pavucontrol -> Wiremix
 		- [ ] Greetd + ReGreet -> SDDM
+		- [ ] Hyprpolkitagent -> Polkit GNOME
+		- [ ] Hyprpaper -> Swaybg
 	- [ ] Check the Super K keyboard shortcut is working.
 	- [ ] Update layout of Waybar.
 	- [ ] Style login page
