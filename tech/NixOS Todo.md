@@ -74,8 +74,6 @@
 - [ ] WSL
 	- [x] Basic Config
 	- [x] set NixOS as default wsl instance.
-	- [ ] Clone and set up project
-	- [ ] Set up worktrees
 	- [ ] Update ZSH
 		- [ ] specific configs
 			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
@@ -83,6 +81,8 @@
 		- [ ] General configs
 			- [ ] Add ZSH plugins
 			- [ ] Add Shell Integrations
+	- [ ] Clone and set up project
+	- [ ] Set up worktrees
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Theming Round 2
