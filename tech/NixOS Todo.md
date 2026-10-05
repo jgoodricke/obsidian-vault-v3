@@ -76,7 +76,7 @@
 	- [x] set NixOS as default wsl instance.
 	- [ ] Update ZSH
 		- [ ] General configs
-			- [ ] Add ZSH plugins
+			- [x] Add ZSH plugins
 			- [ ] Add Shell Integrations
 		- [ ] specific configs
 			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
