@@ -21,6 +21,7 @@ frontmatter-version: 1.0
 	- Delta - better side-by-side diffs
 - Multiple Cursors Plugin
 	- https://github.com/mg979/vim-visual-multi
+- Yazi File Manager
 
 
 

@@ -49,7 +49,6 @@
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
 	- [x] Add shutdown menu
-	- [ ] Add alt options menu?
 	- [x] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
 	- [x] Style Walker
@@ -58,19 +57,46 @@
 	- [x] Add LLM Prompts Walker Menu
 	- [x] Style Staship
 	- [x] Style Lock page
-	- [ ] Migrate from Wofi to Walker.
-	- [ ] Check the Super K keyboard shortcut is working.
-	- [ ] Update layout of Waybar.
-	- [ ] Style login page
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-	- [ ] Style other apps
-		- [x] Helium
-		- [ ] Neovim
-	- [ ] Switch from some of the settings apps to Omarchy equivalents.
-		- [ ] get a list of the packages installed in NixOS and compare to Omarchys apps.
-	- [ ] Fine Tune Styling
+	- [x] Migrate apps
+		- [x] Wofi -> Walker with Elephant
+		- [x] NetworkManager applet -> Impala
+		- [x] Blueman -> Bluetui
+		- [x] Pavucontrol -> Wiremix
+	- [x] Fix broken walker menus
+		- [x] Fix the Super K.
+		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
+		- [x] Add options menu (Super + alt + space) - GRILLING SESSION
+	- [x] Update layout of Waybar.
+	- [x] Add Yazi File Manager, add the other file manager as the alt shortcut
+	- [x] Add update icon.
+	- [x] Confirm rollbacks are working.
+	- [x] Add notification when screenshot taken.
+- [ ] WSL
+	- [x] Basic Config
+	- [ ] set NixOS as default wsl instance.
+	- [ ] Clone and set up project
+	- [ ] Set up worktrees
+	- [ ] Update ZSH
+		- [ ] specific configs
+			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
+			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
+		- [ ] General configs
+			- [ ] Add ZSH plugins
+			- [ ] Add Shell Integrations
 - [ ] Neovim
 	- [ ] TODO
+- [ ] Theming Round 2
+	- [ ] Style login page
+	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+	- [ ] Style Neovim
+	- [ ] Add icons to the keyboard shortcuts menu.
+	- [ ] Add the following features from Omarchy
+		- [ ] Power Profile
+		- [ ] Sleep Configuration
+		- [ ] Power Controls
+		- [ ] Hybernate
+	- [ ] Make update button interactive.
+		- [ ] Pass the update process to an LLM.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
