@@ -59,17 +59,14 @@
 	- [x] Style Staship
 	- [x] Style Lock page
 	- [ ] Migrate apps
-		- [ ] Wofi -> Walker with Elephant
-		- [ ] **NetworkManager applet -> Impala**
-		- [ ] **Blueman -> Bluetui**
-		- [ ] Pavucontrol -> Wiremix
-		- [ ] Greetd + ReGreet -> SDDM
-		- [ ] Hyprpolkitagent -> Polkit GNOME
-		- [ ] Hyprpaper -> Swaybg
-		- [ ] Cliphist -> Walker / Elephant clipboard history
+		- [x] Wofi -> Walker with Elephant
+		- [x] NetworkManager applet -> Impala
+		- [x] Blueman -> Bluetui
+		- [ ] **Pavucontrol -> Wiremix**
 	- [ ] Fix broken walker menus
 		- [ ] Fix the Super K.
 		- [ ] Clipboard History
+		- [ ] Migrate from Cliphist -> Walker / Elephant clipboard history
 	- [ ] Update layout of Waybar.
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
