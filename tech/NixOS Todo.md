@@ -81,7 +81,7 @@
 		- [ ] General configs
 			- [ ] Add ZSH plugins
 			- [ ] Add Shell Integrations
-	- [ ] Clone and set up project
+	- [ ]  Clone and set up project
 	- [ ] Set up worktrees
 - [ ] Neovim
 	- [ ] TODO
