@@ -75,13 +75,13 @@
 	- [x] Basic Config
 	- [x] set NixOS as default wsl instance.
 	- [ ] Update ZSH
-		- [ ] specific configs
-			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
-			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
 		- [ ] General configs
 			- [ ] Add ZSH plugins
 			- [ ] Add Shell Integrations
-	- [ ]  Clone and set up project
+		- [ ] specific configs
+			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
+			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
+	- [ ] Clone and set up project
 	- [ ] Set up worktrees
 - [ ] Neovim
 	- [ ] TODO
