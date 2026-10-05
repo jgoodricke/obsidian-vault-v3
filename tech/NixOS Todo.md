@@ -66,6 +66,8 @@
 	- [ ] Style other apps
 		- [x] Helium
 		- [ ] Neovim
+	- [ ] Switch from some of the settings apps to Omarchy equivalents.
+		- [ ] get a list of the packages installed in NixOS and compare to Omarchys apps.
 	- [ ] Fine Tune Styling
 - [ ] Neovim
 	- [ ] TODO
