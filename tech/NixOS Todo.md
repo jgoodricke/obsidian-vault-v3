@@ -67,9 +67,9 @@
 		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
 		- [x] Add options menu (Super + alt + space) - GRILLING SESSION
 	- [x] Update layout of Waybar.
-	- [ ] **Add Yazi File Manager, add the other file manager as the alt shortcut**
-	- [ ] Add update icon.
-	- [ ] Confirm rollbacks are working.
+	- [x] Add Yazi File Manager, add the other file manager as the alt shortcut
+	- [x] Add update icon.
+	- [x] Confirm rollbacks are working.
 - [ ] Set up WSL version
 - [ ] Neovim
 	- [ ] TODO
