@@ -49,7 +49,6 @@
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
 	- [x] Add shutdown menu
-	- [ ] Add alt options menu?
 	- [x] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
 	- [x] Style Walker
@@ -58,24 +57,25 @@
 	- [x] Add LLM Prompts Walker Menu
 	- [x] Style Staship
 	- [x] Style Lock page
-	- [ ] Migrate apps
+	- [x] Migrate apps
 		- [x] Wofi -> Walker with Elephant
 		- [x] NetworkManager applet -> Impala
 		- [x] Blueman -> Bluetui
-		- [ ] **Pavucontrol -> Wiremix**
+		- [x] Pavucontrol -> Wiremix
 	- [ ] Fix broken walker menus
 		- [ ] Fix the Super K.
-		- [ ] Clipboard History
-		- [ ] Migrate from Cliphist -> Walker / Elephant clipboard history
-	- [ ] Update layout of Waybar.
-	- [ ] Style login page
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-	- [ ] Style other apps
-		- [x] Helium
-		- [ ] Neovim
-	- [ ] Add icons to the keyboard shortcuts menu.
+		- [ ] **Migrate from Cliphist -> Walker / Elephant clipboard history**
+		- [ ] Add options menu (Super + alt + space)
+	- [ ] **Update layout of Waybar.**
+	- [ ] Add Yazi File Manager, add the other file manager as the alt shortcut
+- [ ] Set up WSL version
 - [ ] Neovim
 	- [ ] TODO
+- [ ] Theming Round 2
+	- [ ] Style login page
+	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+	- [ ] Style Neovim
+	- [ ] Add icons to the keyboard shortcuts menu.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
