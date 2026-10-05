@@ -63,10 +63,10 @@
 		- [x] Blueman -> Bluetui
 		- [x] Pavucontrol -> Wiremix
 	- [ ] Fix broken walker menus
-		- [ ] Fix the Super K.
+		- [x] Fix the Super K.
 		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
 		- [ ] Add options menu (Super + alt + space) - GRILLING SESSION
-	- [ ] **Update layout of Waybar.**
+	- [x] Update layout of Waybar.
 	- [ ] **Add Yazi File Manager, add the other file manager as the alt shortcut**
 - [ ] Set up WSL version
 - [ ] Neovim
