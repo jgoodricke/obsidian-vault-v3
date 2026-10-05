@@ -10,7 +10,6 @@
 - Execution: run agents
 - Push Beads
 - Code Review: smoke test
-- Code Review: human code review
 - Code Review: claude review
 - Testing: generates QA plan
 - Testing: Add automated tests
@@ -19,16 +18,13 @@
 - QA: Confirm no slow queries
 - QA: Confirm no console errors
 - QA: confirm no failed jobs (/failed-jobs)
+- Code Review: human code review
 - Testing: Run CI
-- Testing: remove any low-value tests
 - Deploy: create PR
 - Deploy: review PR feedback
+- Testing: remove any low-value tests
 - Deploy: merge
 - Deploy: Review feedback
-
-## Before Deploying to Production
-- Code Review: Run e2e tests
-- Code Review: claude security review 
 
 # V1
 - Exploration: research (optional)
