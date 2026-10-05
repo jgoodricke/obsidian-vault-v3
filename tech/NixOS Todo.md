@@ -71,7 +71,18 @@
 	- [x] Add update icon.
 	- [x] Confirm rollbacks are working.
 	- [x] Add notification when screenshot taken.
-- [ ] Set up WSL version
+- [ ] WSL
+	- [x] Basic Config
+	- [ ] set NixOS as defau
+	- [ ] Clone and set up project
+	- [ ] Set up worktrees
+	- [ ] Update ZSH
+		- [ ] specific configs
+			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
+			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
+		- [ ] General configs
+			- [ ] Add ZSH plugins
+			- [ ] Add Shell Integrations
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Theming Round 2
