@@ -73,7 +73,7 @@
 	- [x] Add notification when screenshot taken.
 - [ ] WSL
 	- [x] Basic Config
-	- [ ] set NixOS as defau
+	- [ ] set NixOS as default wsl instance.
 	- [ ] Clone and set up project
 	- [ ] Set up worktrees
 	- [ ] Update ZSH
