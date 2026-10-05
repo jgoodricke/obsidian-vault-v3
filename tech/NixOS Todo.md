@@ -70,6 +70,7 @@
 	- [x] Add Yazi File Manager, add the other file manager as the alt shortcut
 	- [x] Add update icon.
 	- [x] Confirm rollbacks are working.
+	- [x] Add notification when screenshot taken.
 - [ ] Set up WSL version
 - [ ] Neovim
 	- [ ] TODO
