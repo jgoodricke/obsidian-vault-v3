@@ -1,6 +1,9 @@
 ## NixOS Todo
 - [ ] Fix boot order
 - [ ] Commit LLM Prompt picker changes
+- [ ] remove S from password
+	- [ ] webres
+	- [ ] bishop
 - [x] Change password to something simpler
 - [x] Initial Setup
 	- [x] Push changes to Git
