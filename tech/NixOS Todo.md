@@ -64,7 +64,7 @@
 		- [x] Pavucontrol -> Wiremix
 	- [ ] Fix broken walker menus
 		- [ ] Fix the Super K.
-		- [ ] **Migrate from Cliphist -> Walker / Elephant clipboard history**
+		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
 		- [ ] Add options menu (Super + alt + space)
 	- [ ] **Update layout of Waybar.**
 	- [ ] Add Yazi File Manager, add the other file manager as the alt shortcut
