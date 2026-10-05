@@ -65,7 +65,7 @@
 	- [ ] Fix broken walker menus
 		- [x] Fix the Super K.
 		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
-		- [ ] Add options menu (Super + alt + space) - GRILLING SESSION
+		- [x] Add options menu (Super + alt + space) - GRILLING SESSION
 	- [x] Update layout of Waybar.
 	- [ ] **Add Yazi File Manager, add the other file manager as the alt shortcut**
 - [ ] Set up WSL version
