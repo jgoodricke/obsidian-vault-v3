@@ -77,7 +77,7 @@
 	- [ ] Update ZSH
 		- [ ] General configs
 			- [x] Add ZSH plugins
-			- [ ] Add Shell Integrations
+			- [x] Add Shell Integrations
 		- [ ] specific configs
 			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
 			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
