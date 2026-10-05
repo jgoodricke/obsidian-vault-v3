@@ -76,6 +76,11 @@
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 	- [ ] Style Neovim
 	- [ ] Add icons to the keyboard shortcuts menu.
+	- [ ] Add the following features from Omarchy
+		- [ ] Power Profile
+		- [ ] Sleep Configuration
+		- [ ] Power Controls
+		- [ ] Hybernate
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
