@@ -62,12 +62,14 @@
 		- [x] NetworkManager applet -> Impala
 		- [x] Blueman -> Bluetui
 		- [x] Pavucontrol -> Wiremix
-	- [ ] Fix broken walker menus
+	- [x] Fix broken walker menus
 		- [x] Fix the Super K.
 		- [x] Migrate from Cliphist -> Walker / Elephant clipboard history
 		- [x] Add options menu (Super + alt + space) - GRILLING SESSION
 	- [x] Update layout of Waybar.
 	- [ ] **Add Yazi File Manager, add the other file manager as the alt shortcut**
+	- [ ] Add update icon.
+	- [ ] Confirm rollbacks are working.
 - [ ] Set up WSL version
 - [ ] Neovim
 	- [ ] TODO
@@ -81,6 +83,8 @@
 		- [ ] Sleep Configuration
 		- [ ] Power Controls
 		- [ ] Hybernate
+	- [ ] Make update button interactive.
+		- [ ] Pass the update process to an LLM.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
