@@ -91,7 +91,7 @@
 				- [x] worktree sync
 				- [x] git AI commit
 	- [x] Add refreshing zsh and tmux to the switch recipe
-	- [ ] Clone and set up project
+	- [x] Clone and set up project
 	- [ ] Set up worktrees
 	- [ ] Set up PHPStorm
 - [ ] Neovim
