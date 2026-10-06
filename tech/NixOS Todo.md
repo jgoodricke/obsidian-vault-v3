@@ -51,6 +51,7 @@
 		- [x] Plannotator CLI.
 		- [ ] Set up Linear MCP.
 		- [ ] Sort out config, it looks a bit overly complex.
+		- [ ] Migrate from bd to bd-rust
 - [x] Theming
 	- [x] Add shutdown menu
 	- [x] Add more keyboard shortcuts
