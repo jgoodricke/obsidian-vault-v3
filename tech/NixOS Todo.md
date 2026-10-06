@@ -2,7 +2,7 @@
 - [ ] Fix boot order
 - [ ] Commit LLM Prompt picker changes
 - [ ] remove S from password
-	- [ ] webres
+	- [x] webres
 	- [ ] bishop
 - [x] Change password to something simpler
 - [x] Initial Setup
@@ -43,12 +43,12 @@
 	- [ ] Docker
 	- [ ] Node
 	- [ ] Finish Setting up Pi
-		- [ ] Chrome companion installation and authorization.
-		- [ ] Context7/MCP configuration and verification of the unchanged web-researcher tool names.
-		- [ ] Exa API-key setup.
-		- [ ] Beads and epic-worker setup, including model availability.
-		- [ ] Missing external skill dependencies and inconsistent skill references.
-		- [ ] Plannotator CLI and Playwright/browser runtime setup.Add 
+		- [x] Chrome companion installation and authorization.
+		- [ ] Context7/MCP configuration.
+		- [x] Exa API-key setup.
+		- [x] Beads and epic-worker setup, including model availability.
+		- [x] Missing external skill dependencies and inconsistent skill references.
+		- [ ] Plannotator CLIj.
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
 	- [x] Add shutdown menu
@@ -77,15 +77,21 @@
 - [ ] WSL
 	- [x] Basic Config
 	- [x] set NixOS as default wsl instance.
+	- [x] Copy tig settings
+	- [x] copy rg settings
+	- [x] copy tmux settings
 	- [ ] Update ZSH
-		- [ ] General configs
+		- [x] General configs
 			- [x] Add ZSH plugins
 			- [x] Add Shell Integrations
 		- [ ] specific configs
-			- [ ] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
-			- [ ] Add alias sync_worktree from dotfiles/wsl-arch/.custom.zshrc
+			- [x] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
+			- [ ] Add bin scripts
+				- [x] worktree sync
+				- [ ] git AI commit
 	- [ ] Clone and set up project
 	- [ ] Set up worktrees
+	- [ ] Set up PHPStorm
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Theming Round 2
