@@ -40,7 +40,7 @@
 		- [x] Helium
 - [ ] Development Environment
 	- [ ] Rust
-	- [ ] Docker
+	- [x] Docker
 	- [ ] Node
 	- [ ] Finish Setting up Pi
 		- [x] Chrome companion installation and authorization.
@@ -51,7 +51,7 @@
 		- [x] Plannotator CLI.
 		- [ ] Set up Linear MCP.
 		- [ ] Sort out config, it looks a bit overly complex.
-- [ ] Theming
+- [x] Theming
 	- [x] Add shutdown menu
 	- [x] Add more keyboard shortcuts
 	- [x] Fix Clickable panels in Waybar
@@ -92,8 +92,9 @@
 				- [x] git AI commit
 	- [x] Add refreshing zsh and tmux to the switch recipe
 	- [x] Clone and set up project
-	- [ ] Set up worktrees
+	- [x] Set up worktrees
 	- [ ] Set up PHPStorm
+		- [ ] Set up ideavim config
 - [ ] Neovim
 	- [ ] TODO
 - [ ] Theming Round 2
