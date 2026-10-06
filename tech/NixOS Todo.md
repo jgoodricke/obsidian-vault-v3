@@ -80,15 +80,16 @@
 	- [x] Copy tig settings
 	- [x] copy rg settings
 	- [x] copy tmux settings
-	- [ ] Update ZSH
+	- [x] Update ZSH
 		- [x] General configs
 			- [x] Add ZSH plugins
 			- [x] Add Shell Integrations
-		- [ ] specific configs
+		- [x] specific configs
 			- [x] Add git status hooks from dotfiles/wsl-arch/.custom.zshrc
-			- [ ] Add bin scripts
+			- [x] Add bin scripts
 				- [x] worktree sync
-				- [ ] git AI commit
+				- [x] git AI commit
+	- [x] Add refreshing zsh and tmux to the switch recipe
 	- [ ] Clone and set up project
 	- [ ] Set up worktrees
 	- [ ] Set up PHPStorm
