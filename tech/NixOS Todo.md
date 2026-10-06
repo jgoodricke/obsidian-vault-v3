@@ -48,7 +48,7 @@
 		- [x] Exa API-key setup.
 		- [x] Beads and epic-worker setup, including model availability.
 		- [x] Missing external skill dependencies and inconsistent skill references.
-		- [ ] Plannotator CLIj.
+		- [ ] Plannotator CLI.
 		- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming
 	- [x] Add shutdown menu
