@@ -3,10 +3,7 @@ tags:
   - Leaf
 frontmatter-version: 1
 ---
-# TODO
-Pay back $39.95 for Medicine
-Pay back $34.26 for Coles
-2,345.84
+
 # Joint Account
 
 ## Monthly Bills
@@ -47,7 +44,8 @@ Allowance NEW (bi-weekly): $584
 | Audible | $8.99  |         |
 | Sunsama | $30.65 | $20 USD |
 | Grok    | $43.47 |         |
-| Phone   | $25    |         |
+| Phone   | $30    |         |
+| Deezer  | Todo   |         |
 
 Total: $120
 
