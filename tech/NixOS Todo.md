@@ -44,7 +44,7 @@
 	- [ ] Node
 	- [ ] Finish Setting up Pi
 		- [x] Chrome companion installation and authorization.
-		- [ ] Context7/MCP configuration.
+		- [x] Context7/MCP configuration.
 		- [x] Exa API-key setup.
 		- [x] Beads and epic-worker setup, including model availability.
 		- [x] Missing external skill dependencies and inconsistent skill references.
