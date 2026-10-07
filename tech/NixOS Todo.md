@@ -100,11 +100,12 @@
 	- [ ] Fix the C shortcut not working in zsh.
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
+	- [ ] Fix AI Shell not working
 - [ ] Neovim
 	- [x] Port Nvim Kickstart Core
 	- [x] Port Nvim Kickstart Optional Plugins
-	- [ ] Update theme.
-		- [ ] Switch to Catpuccin theme
+	- [x] Update theme.
+		- [x] Switch to Catpuccin theme
 		- [ ] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
 	- [ ] Style login page
@@ -118,6 +119,7 @@
 		- [ ] Hybernate
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
+	- [ ] Update NVim theme to use Stylix instead of default theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
