@@ -97,10 +97,11 @@
 	- [ ] Finish setting up git_ai_commit
 		- [ ] Add alias to zshrc
 		- [ ] Add openAI key
+	- [ ] Fix the C shortcut not working in zsh.
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
 - [ ] Neovim
-	- [ ] Port Nvim Kickstart Core
+	- [x] Port Nvim Kickstart Core
 	- [ ] Port Nvim Kickstart Optional Plugins
 - [ ] Theming Round 2
 	- [ ] Style login page
