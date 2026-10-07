@@ -102,7 +102,10 @@
 		- [ ] Set up ideavim config
 - [ ] Neovim
 	- [x] Port Nvim Kickstart Core
-	- [ ] Port Nvim Kickstart Optional Plugins
+	- [x] Port Nvim Kickstart Optional Plugins
+	- [ ] Update theme.
+		- [ ] Switch to Catpuccin theme
+		- [ ] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
