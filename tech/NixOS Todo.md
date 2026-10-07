@@ -94,6 +94,9 @@
 	- [x] Add refreshing zsh and tmux to the switch recipe
 	- [x] Clone and set up project
 	- [x] Set up worktrees
+	- [ ] Finish setting up git_ai_commit
+		- [ ] Add alias to zshrc
+		- [ ] Add openAI key
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
 - [ ] Neovim
