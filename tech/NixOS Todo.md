@@ -49,7 +49,7 @@
 		- [x] Beads and epic-worker setup, including model availability.
 		- [x] Missing external skill dependencies and inconsistent skill references.
 		- [x] Plannotator CLI.
-		- [ ] Set up Linear MCP.
+		- [x] Set up Linear MCP.
 		- [ ] Sort out config, it looks a bit overly complex.
 		- [ ] Migrate from bd to bd-rust
 - [x] Theming
@@ -106,7 +106,7 @@
 	- [x] Port Nvim Kickstart Optional Plugins
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
-		- [ ] figure out if its possible to use the Stylix theming.
+		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
