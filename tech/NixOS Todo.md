@@ -100,7 +100,8 @@
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
 - [ ] Neovim
-	- [ ] TODO
+	- [ ] Port Nvim Kickstart Core
+	- [ ] Port Nvim Kickstart Optional Plugins
 - [ ] Theming Round 2
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
