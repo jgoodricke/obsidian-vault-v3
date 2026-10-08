@@ -119,6 +119,15 @@
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
 	- [ ] Update NVim theme to use Stylix instead of default theme.
+	- [ ] Get better background:
+		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
+		- [ ] Change Cursor
+		- [ ] check out ricing list:
+			- [ ] https://github.com/avtzis/awesome-linux-ricing
+			- [ ] https://github.com/avtzis/awesome-linux-ricing
+	- [ ] Add Calendar
+	- [ ] Add notification tracker
+	- [ ] Look into adding notification dot to waybar
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?

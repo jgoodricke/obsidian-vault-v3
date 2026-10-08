@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -424,8 +424,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "96b224576ebed48b",
+  "active": "07274c6c67ac23b7",
   "lastOpenFiles": [
+    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/NixOS Todo.md",
     "tech/Useful Tools.md",
     "personal/Recurring Bills.md",
@@ -441,7 +442,6 @@
     "Rustlings.md",
     "Dioxus.md",
     "tech/Professional Development/Rust/Rust by Example.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Clothes Sizes.md",
     "personal/gaming/VR Mods.md",
     "personal/Tea brewing Times.md",
