@@ -49,7 +49,7 @@
 		- [x] Beads and epic-worker setup, including model availability.
 		- [x] Missing external skill dependencies and inconsistent skill references.
 		- [x] Plannotator CLI.
-		- [ ] Set up Linear MCP.
+		- [x] Set up Linear MCP.
 		- [ ] Sort out config, it looks a bit overly complex.
 		- [ ] Migrate from bd to bd-rust
 - [x] Theming
@@ -94,10 +94,19 @@
 	- [x] Add refreshing zsh and tmux to the switch recipe
 	- [x] Clone and set up project
 	- [x] Set up worktrees
+	- [ ] Finish setting up git_ai_commit
+		- [ ] Add alias to zshrc
+		- [ ] Add openAI key
+	- [ ] Fix the C shortcut not working in zsh.
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
+	- [ ] Fix AI Shell not working
 - [ ] Neovim
-	- [ ] TODO
+	- [x] Port Nvim Kickstart Core
+	- [x] Port Nvim Kickstart Optional Plugins
+	- [x] Update theme.
+		- [x] Switch to Catpuccin theme
+		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
 	- [ ] Style login page
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
@@ -109,6 +118,7 @@
 		- [ ] Hybernate
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
+	- [ ] Update NVim theme to use Stylix instead of default theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
