@@ -436,6 +436,7 @@ Redguard:
 	- [ ] Yorvaskr
 	- [ ] Thalmor
 	- [ ] Dawnguard and Vigilants
+	- [ ] Volkihar
 
 
 

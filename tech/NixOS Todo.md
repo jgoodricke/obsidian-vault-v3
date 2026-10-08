@@ -106,7 +106,6 @@
 	- [ ] Add the following features from Omarchy
 		- [ ] Power Profile
 		- [ ] Sleep Configuration
-		- [ ] Power Controls
 		- [ ] Hybernate
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.

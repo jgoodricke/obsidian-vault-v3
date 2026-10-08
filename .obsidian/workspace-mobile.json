@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -424,10 +424,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c6c4fac3872735f",
+  "active": "96b224576ebed48b",
   "lastOpenFiles": [
-    "personal/Recurring Bills.md",
     "tech/NixOS Todo.md",
+    "tech/Useful Tools.md",
+    "personal/Recurring Bills.md",
     "Untitled 3.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
@@ -443,7 +444,6 @@
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Clothes Sizes.md",
     "personal/gaming/VR Mods.md",
-    "tech/Useful Tools.md",
     "personal/Tea brewing Times.md",
     "job/webres/Carebridge/Analytics Dashboard/Overview V3.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-03.md",
