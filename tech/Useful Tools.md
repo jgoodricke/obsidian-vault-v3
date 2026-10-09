@@ -42,21 +42,15 @@ frontmatter-version: 1.0
 ## Omarchy in Windows
 - Hyprland
 	- **GlazeWM**
-		-  **Zebar**
-		- Dithering Tiling
-			- GlazeTiler
-			- Gat
-	- Komorebi
-	- Seelen
+	- **GlazeTiler**
+- Waybar
+	- Zebar
 - Hotkeys
-	- **Autohotkey**
-	- WHK
+	- Autohotkey
 - Launcher
-	- **Windows Command Pallette**
+	- Windows Command Pallette
 - Menus
-	- **My custom menu**
-	- Keypirinha?
-	- Flow Launcher
+	- My custom menu
 
 
 # Git plugins
