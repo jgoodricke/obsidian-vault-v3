@@ -108,6 +108,7 @@
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
+	- [ ] Update Pi to use Stylix theme.
 	- [ ] Get better background:
 		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Calendar
