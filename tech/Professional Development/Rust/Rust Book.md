@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch09-03-to-panic-or-not-to-panic.html#guidelines-for-error-handling
+https://doc.rust-lang.org/stable/book/ch10-00-generics.html#removing-duplication-by-extracting-a-function
 ## First Read
 ### Read Now
 

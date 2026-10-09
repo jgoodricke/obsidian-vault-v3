@@ -121,7 +121,7 @@
 	- [ ] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Get better background:
 		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-		- [ ] Change Cursor
+		- [ ] Change Cursor: https://github.com/catppuccin/cursors
 		- [ ] check out ricing list:
 			- [ ] https://github.com/avtzis/awesome-linux-ricing
 			- [ ] https://github.com/avtzis/awesome-linux-ricing

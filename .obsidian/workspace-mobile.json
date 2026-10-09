@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tech/Professional Development/Rust/Rust Book.md",
+            "file": "tech/NixOS Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,10 +424,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "07274c6c67ac23b7",
+  "active": "bef514bde30f6f9d",
   "lastOpenFiles": [
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/NixOS Todo.md",
+    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/Useful Tools.md",
     "personal/Recurring Bills.md",
     "Untitled 3.md",
