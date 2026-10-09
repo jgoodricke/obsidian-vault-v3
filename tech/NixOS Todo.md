@@ -108,7 +108,6 @@
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
-	- [ ] Update Pi to use Stylix theme.
 	- [ ] Get better background:
 		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Calendar
@@ -126,13 +125,16 @@
 		- [ ] Pass the update process to an LLM.
 	- [ ] Change Cursor
 	- [ ] check out ricing list:
-		- [ ] https://github.com/avtzis/awesome-linux-ricing
+		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 - [ ] Neovim Round 2
-	- [ ] Update NVim theme to use Stylix instead of default theme.
+	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
+- [ ] Pi
+	- [ ] Change layout of status bar on small windows.
+	- [ ] Update Pi to use Stylix theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
