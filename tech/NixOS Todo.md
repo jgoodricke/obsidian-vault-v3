@@ -134,6 +134,7 @@
 	- [ ] Add conditional breakpoints.
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
+	- [x] Add Catppuccin theme to Pi
 	- [ ] Update Pi to use Stylix theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
