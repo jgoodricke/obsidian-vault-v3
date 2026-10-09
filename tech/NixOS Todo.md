@@ -119,6 +119,7 @@
 		- [ ] Sleep Configuration
 		- [ ] Hybernate
 - [ ] Theming Round 3
+	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Style login page
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
