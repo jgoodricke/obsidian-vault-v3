@@ -119,7 +119,6 @@
 		- [ ] Sleep Configuration
 		- [ ] Hybernate
 - [ ] Theming Round 3
-	- [ ] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Style login page
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
@@ -129,6 +128,7 @@
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 - [ ] Neovim Round 2
+	- [ ] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
