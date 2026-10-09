@@ -21,28 +21,27 @@ frontmatter-version: 1.0
 	- Delta - better side-by-side diffs
 - Multiple Cursors Plugin
 	- https://github.com/mg979/vim-visual-multi
-- Yazi File Manager
 
 
-
-| Tool          | Description                                                | Note                                                                              |
-| ------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| bat           | a `cat` clone with syntax highlighting and Git integration |                                                                                   |
-| chafa         | show images in console                                     |                                                                                   |
-| exiftool      | Show and edit image metadata                               |                                                                                   |
-| hyprmon       | Monitor manager for hyprland                               | Arch only                                                                         |
-| kanata        | Rebind keys                                                | [[kanata]]                                                                        |
-| activitywatch |                                                            | Alternative for arch is awatcher                                                  |
-| wl-kbptr      | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl)                                            |
-| tliphist      | Better clipboard manager                                   | Hyperland-specific, requires wl-paste                                             |
-| bd-rust       | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface.                                     |
-| git-igitt     | Better git log                                             | Also serie, which is prettier but more limited and doesn't work on some terminals |
-| Plannotator   | Adds nice interface for commenting on AI agent output.     |                                                                                   |
+| Tool              | Description                                                | Note                                                                              |
+| ----------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| bat               | a `cat` clone with syntax highlighting and Git integration |                                                                                   |
+| chafa             | show images in console                                     |                                                                                   |
+| exiftool          | Show and edit image metadata                               |                                                                                   |
+| hyprmon           | Monitor manager for hyprland                               | Arch only                                                                         |
+| kanata            | Rebind keys                                                | [[kanata]]                                                                        |
+| activitywatch     |                                                            | Alternative for arch is awatcher                                                  |
+| wl-kbptr          | mouse movement and clicking with keyboard                  | Arch only, requires wlrctl (NOT wlctl)                                            |
+| tliphist          | Better clipboard manager                                   | Hyperland-specific, requires wl-paste                                             |
+| bd-rust           | Jira-Like system for LLMs using the command line.          | See also beads-ui and perles for interfaface.                                     |
+| git-igitt         | Better git log                                             | Also serie, which is prettier but more limited and doesn't work on some terminals |
+| Plannotator       | Adds nice interface for commenting on AI agent output.     |                                                                                   |
+| Yazi file manager | TLI file manager                                           |                                                                                   |
 
 ## Omarchy in Windows
 - Hyprland
-	- **GlazeWM**
-	- **GlazeTiler**
+	- GlazeWM
+	- GlazeTiler
 - Waybar
 	- Zebar
 - Hotkeys
