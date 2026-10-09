@@ -133,7 +133,7 @@
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
 - [ ] Pi
-	- [ ] Change layout of status bar on small windows.
+	- [x] Change layout of status bar on small windows.
 	- [ ] Update Pi to use Stylix theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
