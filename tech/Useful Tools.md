@@ -43,7 +43,9 @@ frontmatter-version: 1.0
 - Hyprland
 	- **GlazeWM**
 		-  **Zebar**
-		- **Gat**
+		- Dithering Tiling
+			- GlazeTiler
+			- Gat
 	- Komorebi
 	- Seelen
 - Hotkeys
