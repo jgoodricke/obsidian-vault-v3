@@ -101,33 +101,42 @@
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
 	- [ ] Fix AI Shell not working
-- [ ] Neovim
+- [x] Neovim
 	- [x] Port Nvim Kickstart Core
 	- [x] Port Nvim Kickstart Optional Plugins
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
-	- [ ] Style login page
+	- [ ] Get better background:
+		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
+	- [ ] Add Calendar
+	- [ ] Add notification tracker
+	- [ ] Look into adding notification dot to waybar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-	- [ ] Style Neovim
-	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Add the following features from Omarchy
 		- [ ] Power Profile
 		- [ ] Sleep Configuration
 		- [ ] Hybernate
+- [ ] Theming Round 3
+	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
+	- [ ] Style login page
+	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-	- [ ] Update NVim theme to use Stylix instead of default theme.
-	- [ ] Get better background:
-		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-		- [ ] Change Cursor: https://github.com/catppuccin/cursors
-		- [ ] check out ricing list:
-			- [ ] https://github.com/avtzis/awesome-linux-ricing
-			- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Add Calendar
-	- [ ] Add notification tracker
-	- [ ] Look into adding notification dot to waybar
+	- [ ] Change Cursor: https://github.com/catppuccin/cursors
+	- [ ] check out ricing list:
+		- [ ] https://github.com/fosslife/awesome-ricing
+		- [ ] https://github.com/avtzis/awesome-linux-ricing
+- [ ] Neovim Round 2
+	- [x] Update NVim theme to use Stylix instead of default theme.
+	- [ ] Add Git diff/comparison.
+	- [ ] Add breakpoints.
+	- [ ] Add conditional breakpoints.
+- [ ] Pi
+	- [x] Change layout of status bar on small windows.
+	- [x] Add Catppuccin theme to Pi
+	- [ ] Update Pi to use Stylix theme.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?

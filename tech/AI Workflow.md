@@ -1,16 +1,15 @@
 # V2
 - DELETE THIS
-- Exploration: research (optional)
-- Exploration: create Linear ticket
 - Exploration: grill session
+- Exploration: research (optional)
 - Exploration: prototyping (optional)
-- Planning: product requirements document (PRD)
-- Planning: implementation planning (kanban board)
+- Planning: Write spec
+- Planning: Write tickets
 - Push Beads
 - Execution: run agents
 - Push Beads
 - Code Review: smoke test
-- Code Review: claude review
+- Code Review: AI review
 - Testing: generates QA plan
 - Testing: Add automated tests
 - Push Beads

@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -424,14 +424,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "bef514bde30f6f9d",
+  "active": "07274c6c67ac23b7",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
     "tech/NixOS Todo.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/Useful Tools.md",
     "personal/Recurring Bills.md",
     "Untitled 3.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
     "personal/gaming/Epic Games Mobile Library.md",
