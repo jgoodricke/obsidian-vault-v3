@@ -248,20 +248,6 @@
             }
           },
           {
-            "id": "07274c6c67ac23b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tech/NixOS Todo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NixOS Todo"
-            }
-          },
-          {
             "id": "9c6c4fac3872735f",
             "type": "leaf",
             "state": {
@@ -276,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -369,7 +355,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tech/NixOS Todo.md",
+            "file": "personal/gaming/Epic Games Mobile Library.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,12 +410,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "07274c6c67ac23b7",
+  "active": "1f8f6d4149b30b34",
   "lastOpenFiles": [
-    "tech/Professional Development/Rust/Rust Book.md",
-    "tech/NixOS Todo.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "tech/Useful Tools.md",
+    "tech/NixOS Todo.md",
+    "tech/Professional Development/Rust/Rust Book.md",
+    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Recurring Bills.md",
     "Untitled 3.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
