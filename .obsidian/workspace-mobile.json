@@ -262,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -355,7 +355,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "personal/gaming/Epic Games Mobile Library.md",
+            "file": "tech/Professional Development/Rust/Rust Book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -410,8 +410,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f8f6d4149b30b34",
+  "active": "bef514bde30f6f9d",
   "lastOpenFiles": [
+    "personal/gaming/Epic Games Mobile Library.md",
     "tech/Useful Tools.md",
     "tech/NixOS Todo.md",
     "tech/Professional Development/Rust/Rust Book.md",
@@ -420,7 +421,6 @@
     "Untitled 3.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
-    "personal/gaming/Epic Games Mobile Library.md",
     "Scratchpad.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/Brandon Sanderson Cosmere Reading Order.md",
