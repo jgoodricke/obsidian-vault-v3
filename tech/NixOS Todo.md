@@ -108,8 +108,9 @@
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
 - [ ] Theming Round 2
-	- [ ] Get better background:
-		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
+	- [ ] Figure out why login screen freezes when pressing enter.
+	- [x] Get better background:
+		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Calendar
 	- [ ] Add notification tracker
 	- [ ] Look into adding notification dot to waybar
@@ -124,10 +125,17 @@
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-	- [ ] Change Cursor: https://github.com/catppuccin/cursors
+- [ ] Theming Round 4
+	- [ ] Install remaining features
+		- [ ] Dictation
+		- [ ] video capture
+		- [ ] ???
+	- [ ] Change Cursor
+		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
+	- [ ] Install Dynamic Dark theme.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
