@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch10-01-syntax.html#in-struct-definitions
+https://doc.rust-lang.org/stable/book/ch10-01-syntax.html#in-method-definitions
 ## First Read
 ### Read Now
 
@@ -52,10 +52,10 @@ https://doc.rust-lang.org/stable/book/ch10-01-syntax.html#in-struct-definitions
     - [x] 8.1. Storing Lists of Values with Vectors
     - [x] 8.2. Storing UTF-8 Encoded Text with Strings
     - [x] 8.3. Storing Keys with Associated Values in Hash Maps
-- [ ] 9. Error Handling
-    - [ ] 9.1. Unrecoverable Errors with panic!
-    - [ ] 9.2. Recoverable Errors with Result
-    - [ ] 9.3. To panic! or Not to panic!
+- [x] 9. Error Handling
+    - [x] 9.1. Unrecoverable Errors with panic!
+    - [x] 9.2. Recoverable Errors with Result
+    - [x] 9.3. To panic! or Not to panic!
 - [ ] 10. Generic Types, Traits, and Lifetimes
     - [ ] 10.1. Generic Data Types
     - [ ] 10.2. Defining Shared Behavior with Traits
