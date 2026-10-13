@@ -111,7 +111,6 @@
 	- [x] Add Catppuccin theme to Pi
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
-	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming Round 2
 	- [ ] Figure out why login screen freezes when pressing enter.
 	- [x] Get better background:
@@ -149,9 +148,10 @@
 	- [ ] Add conditional breakpoints.
 	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
-
+	- [ ] Add spell checker.
 - [ ] Pi Round 2
 	- [ ] Update Pi to use Stylix theme. 
+	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
