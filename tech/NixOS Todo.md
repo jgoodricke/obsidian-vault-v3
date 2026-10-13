@@ -38,11 +38,11 @@
 		- [x] Obsidian
 			- [ ]  Git LFS
 		- [x] Helium
-- [ ] Development Environment
-	- [ ] Rust
+- [x] Development Environment
+	- [x] Rust
 	- [x] Docker
-	- [ ] Node
-	- [ ] Finish Setting up Pi
+	- [x] Node
+	- [x] Finish Setting up Pi
 		- [x] Chrome companion installation and authorization.
 		- [x] Context7/MCP configuration.
 		- [x] Exa API-key setup.
@@ -50,8 +50,7 @@
 		- [x] Missing external skill dependencies and inconsistent skill references.
 		- [x] Plannotator CLI.
 		- [x] Set up Linear MCP.
-		- [ ] Sort out config, it looks a bit overly complex.
-		- [ ] Migrate from bd to bd-rust
+		- [x] Migrate from bd to bd-rust
 - [x] Theming
 	- [x] Add shutdown menu
 	- [x] Add more keyboard shortcuts
@@ -107,6 +106,12 @@
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
+- [ ] Pi
+	- [x] Change layout of status bar on small windows.
+	- [x] Add Catppuccin theme to Pi
+	- [ ] Find better subagent package.
+	- [ ] Add seperate field to statusbar for tracking total time.
+	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming Round 2
 	- [ ] Figure out why login screen freezes when pressing enter.
 	- [x] Get better background:
@@ -144,10 +149,9 @@
 	- [ ] Add conditional breakpoints.
 	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
-- [ ] Pi
-	- [x] Change layout of status bar on small windows.
-	- [x] Add Catppuccin theme to Pi
-	- [ ] Update Pi to use Stylix theme.
+
+- [ ] Pi Round 2
+	- [ ] Update Pi to use Stylix theme. 
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
