@@ -136,11 +136,14 @@
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 	- [ ] Install Dynamic Dark theme.
+	- [ ] 
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
+	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
+	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
