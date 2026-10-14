@@ -1,3 +1,6 @@
+https://linear.app/webres-solutions/issue/CBR-301
+
+## Technical Notes
 - Add confirmation dialogs to the existing delete actions for:
     - Users
     - Companies
