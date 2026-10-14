@@ -102,12 +102,13 @@
 	- [ ] Fix AI Shell not working
 	- [ ] Install Nix REPL
 		- [ ] Figure out how to get the AI to use it.
-- [x] Neovim
+- [ ] Neovim
 	- [x] Port Nvim Kickstart Core
 	- [x] Port Nvim Kickstart Optional Plugins
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
+	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
@@ -145,7 +146,6 @@
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
-	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
 	- [ ] Add spell checker.
 - [ ] Pi Round 2
