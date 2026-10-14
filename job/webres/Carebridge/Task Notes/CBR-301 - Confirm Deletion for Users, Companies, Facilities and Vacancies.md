@@ -1,0 +1,17 @@
+https://linear.app/webres-solutions/issue/CBR-301
+
+## Technical Notes
+- Add confirmation dialogs to the existing delete actions for:
+    - Users
+    - Companies
+    - Facilities
+    - Individual saved Vacancies
+- Do not send a deletion request to the server until the user confirms.
+- Cancelling or dismissing the dialog, including with the Escape key, must not trigger a deletion or change the current view.
+- On confirmation, use the existing deletion endpoints and preserve their current behaviour, including success messages and error handling.
+- Existing server-side validation and permissions must remain unchanged, including:
+    - Users cannot delete their own accounts.
+    - Hospital Companies must meet the existing Hospital Offboarding Readiness requirements before deletion.
+- Existing confirmation behaviour for Application Files and bulk Vacancy deletion must be preserved.
+- Confirmation dialogs should support keyboard navigation, appropriate focus management and screen readers.
+- No changes are required to the underlying deletion mechanisms, including whether records are permanently deleted or marked as deleted.
