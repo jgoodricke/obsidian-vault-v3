@@ -114,10 +114,8 @@
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
-	- [ ] Make the indicators clickable.
 	- [ ] Fix size and position of floating windows
 	- [ ] Fix Grow Window shortcuts
-	- [ ] Add scratchpad?
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
@@ -144,13 +142,14 @@
 		- [ ] Color Picker
 		- [ ] Text Extraction
 		- [ ] Night Light
+		- [ ] Add scratchpad?
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 	- [ ] Install Dynamic Dark theme.
-	- [ ] 
+	- [ ] Make the workspace indicators clickable (currently not possible on the current version of Waybar).
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
