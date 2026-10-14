@@ -118,40 +118,26 @@
 		- [ ] Go full width
 		- [ ] Go full screen inside window
 		- [ ] Scroll through workspaces
-		- [ ] Zoom in on screen (repeat for more zoom)
-		- [ ] Cycle forward through monitor scaling options
 		- [ ] Change Btop to Super + Ctrl + T
-		- [ ] Minimum/Maximum screen brightness
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
-		- [ ] Precise 1% volume changes
-		- [ ] Scratchpad
-		- [ ] Power
-			- [ ] Power Profile
-			- [ ] Sleep Configuration (enable/disable)
-			- [ ] Hybernate
+		- [ ] Power Profile
 		- [ ] Capture
-			- [ ] Capture Menu
 			- [ ] Screenshot
 			- [ ] Screen Record
 			- [ ] Color Picker
-			- [ ] Text Extraction to Clipbaord
-			- [ ] Dictation
-		- [ ] Toggles
-			- [ ] Idle/Sleep Prevention
-			- [ ] Nightlight Display Temperature
-			- [ ] Laptop Display
-			- [ ] Top Bar
-			- [ ] Audio Output
-		- [ ] Reminders
-			- [ ] Set a reminder
-			- [ ] See all reminders
-			- [ ] Clear all reminders
-		- [ ] Quick Emojis
-		- [ ] Menus
-			- [ ] Toggle menu
-			- [ ] Hardware menu
+			- [ ] Capture Menu
 			- [ ] Transcoding menu
+		- [ ] Toggle Menu
+			- [ ] Night Light
+			- [ ] Audio Output
+		- [ ] Menus
+			- [ ] Hardware menu
+		- [ ] Notifications
+			- [ ] Dismiss latest notification
+			- [ ] Dismiss all notifications
+			- [ ] Toggle silencing notifications?
+			- [ ] Invoke most recent notification
 - [ ] Theming Round 3
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
@@ -165,6 +151,27 @@
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+	- [ ] Add Missing features
+		- [ ] Quick Emojis (find a better example)
+		- [ ] Reminders
+			- [ ] Set a reminder
+			- [ ] See all reminders
+			- [ ] Clear all reminders
+		- [ ] Hybernate
+		- [ ] Precise 1% volume changes
+		- [ ] Scratchpad
+		- [ ] Minimum/Maximum screen brightness
+		- [ ] Toggles
+			- [ ] Idle/Sleep Prevention
+			- [ ] Nightlight Display Temperature
+			- [ ] Laptop Display
+			- [ ] Top Bar
+			- [ ] Toggle menu
+		- [ ] Zoom in on screen (repeat for more zoom)
+		- [ ] Cycle forward through monitor scaling options
+		- [ ] Capture
+			- [ ] Text Extraction to Clipboard
+			- [ ] Dictation
 - [ ] Theming Round 5
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Add icons to the keyboard shortcuts menu.
