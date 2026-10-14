@@ -116,25 +116,25 @@
 	- [x] Fix dithering direction.
 	- [ ] Fix size and position of floating windows
 	- [ ] Fix Grow Window shortcuts
+	- [ ] Add Calendar
+	- [ ] Add notification tracker
+- [ ] Theming Round 3
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Calendar
-	- [ ] Add notification tracker
-	- [ ] Look into adding notification dot to waybar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 	- [ ] Add the following features from Omarchy
 		- [ ] Power Profile
-		- [ ] Sleep Configuration
+		- [ ] Sleep Configuration (enable/disable)
 		- [ ] Hybernate
-- [ ] Theming Round 3
+- [ ] Theming Round 4
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-- [ ] Theming Round 4
+- [ ] Theming Round 5
 	- [ ] Install remaining features
 		- [ ] Dictation
 		- [ ] transcoding
@@ -143,6 +143,7 @@
 		- [ ] Text Extraction
 		- [ ] Night Light
 		- [ ] Add scratchpad?
+		- [ ] Anything else.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
