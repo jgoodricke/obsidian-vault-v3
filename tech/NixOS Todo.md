@@ -112,9 +112,12 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
-	- [ ] Fix keyboard shortcut for moving windows.
+	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [ ] Make the indicators clickable.
+	- [ ] Fix size and position of floating windows
+	- [ ] Fix Grow Window shortcuts
+	- [ ] Add scratchpad?
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
@@ -136,8 +139,11 @@
 - [ ] Theming Round 4
 	- [ ] Install remaining features
 		- [ ] Dictation
-		- [ ] video capture
-		- [ ] ???
+		- [ ] transcoding
+		- [ ] Add capture control menu
+		- [ ] Color Picker
+		- [ ] Text Extraction
+		- [ ] Night Light
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
