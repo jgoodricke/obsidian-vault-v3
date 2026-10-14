@@ -131,8 +131,7 @@
 		- [ ] Toggle Menu
 			- [ ] Night Light
 			- [ ] Audio Output
-		- [ ] Menus
-			- [ ] Hardware menu
+		- [ ] Hardware menu
 		- [ ] Notifications
 			- [ ] Dismiss latest notification
 			- [ ] Dismiss all notifications
