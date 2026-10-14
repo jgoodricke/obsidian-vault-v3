@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -424,12 +424,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dde84347e15bfc10",
+  "active": "bef514bde30f6f9d",
   "lastOpenFiles": [
+    "tech/NixOS Todo.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Useful Tools.md",
-    "tech/NixOS Todo.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Recurring Bills.md",
     "Untitled 3.md",
