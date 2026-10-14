@@ -100,6 +100,8 @@
 	- [ ] Set up PHPStorm
 		- [ ] Set up ideavim config
 	- [ ] Fix AI Shell not working
+	- [ ] Install Nix REPL
+		- [ ] Figure out how to get the AI to use it.
 - [x] Neovim
 	- [x] Port Nvim Kickstart Core
 	- [x] Port Nvim Kickstart Optional Plugins
@@ -112,6 +114,7 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
+	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add missing features
 		- [ ]  Grow Window shortcuts
 		- [ ] Toggle pseudo window style (natural v stretch)
