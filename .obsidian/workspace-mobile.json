@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -424,17 +424,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "bef514bde30f6f9d",
+  "active": "9d8ae98ebd4340f5",
   "lastOpenFiles": [
+    "tech/NixOS Todo.md",
+    "Untitled 3.md",
+    "tech/Professional Development/Rust/Rust Book.md",
     "job/webres/Carebridge/Task Notes/CBR-301 - Confirm Deletion for Users, Companies, Facilities and Vacancies.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-10-15.md",
-    "tech/NixOS Todo.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Useful Tools.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Recurring Bills.md",
-    "Untitled 3.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
     "Scratchpad.md",
