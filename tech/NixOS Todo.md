@@ -146,13 +146,14 @@
 	- [x] Fix size and position of floating windows
 	- [ ] Add notification tracker
 	- [ ] Add Calendar
+	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+		- [ ] 
 - [ ] Theming Round 4
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 	- [ ] Add Missing features
 		- [ ] Quick Emojis (find a better example)
 		- [ ] Reminders
