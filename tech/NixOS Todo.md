@@ -112,7 +112,9 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
-	- [ ] Figure out why login screen freezes when pressing enter.
+	- [ ] Style Login Page
+	- [ ] Style Bootloader
+	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Calendar
@@ -125,7 +127,6 @@
 		- [ ] Hybernate
 - [ ] Theming Round 3
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
-	- [ ] Style login page
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
