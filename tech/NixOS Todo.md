@@ -140,6 +140,17 @@
 			- [ ] Dismiss all notifications
 			- [ ] Toggle silencing notifications?
 			- [ ] Invoke most recent notification
+- [ ] Neovim Round 2
+	- [x] Update NVim theme to use Stylix instead of default theme.
+	- [ ] Add Git diff/comparison.
+	- [ ] Add breakpoints.
+	- [ ] Add conditional breakpoints.
+	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
+	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
+	- [ ] Add spell checker.
+- [ ] Pi Round 2
+	- [ ] Update Pi to use Stylix theme. 
+	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming Round 3
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
@@ -200,18 +211,6 @@
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 	- [ ] Install Dynamic Dark them?
-	- [ ] Make the workspace indicators clickable (currently not possible on the current version of Waybar).
-- [ ] Neovim Round 2
-	- [x] Update NVim theme to use Stylix instead of default theme.
-	- [ ] Add Git diff/comparison.
-	- [ ] Add breakpoints.
-	- [ ] Add conditional breakpoints.
-	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
-	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
-	- [ ] Add spell checker.
-- [ ] Pi Round 2
-	- [ ] Update Pi to use Stylix theme. 
-	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
