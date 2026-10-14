@@ -112,6 +112,7 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
+	- [ ] Make the indicators clickable.
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
