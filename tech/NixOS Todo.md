@@ -114,7 +114,7 @@
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
-	- [ ] Fix size and position of floating windows
+	- [x] Fix size and position of floating windows
 	- [ ] Fix Grow Window shortcuts
 	- [ ] Add Calendar
 	- [ ] Add notification tracker
