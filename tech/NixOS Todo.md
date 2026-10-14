@@ -147,7 +147,11 @@
 	- [ ] Add notification tracker
 	- [ ] Add Calendar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-		- [ ] Pipes
+		- [ ] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
+		- [ ] [Pipes](https://github.com/pipeseroni/pipes.sh)
+		- [ ] [Birds](https://github.com/clainstone/cbirds)
+		- [ ] [Rain](https://github.com/nkleemann/ascii-rain)
+	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 4
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
@@ -195,7 +199,7 @@
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Install Dynamic Dark theme.
+	- [ ] Install Dynamic Dark them?
 	- [ ] Make the workspace indicators clickable (currently not possible on the current version of Waybar).
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
