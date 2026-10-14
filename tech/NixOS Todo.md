@@ -38,11 +38,11 @@
 		- [x] Obsidian
 			- [ ]  Git LFS
 		- [x] Helium
-- [ ] Development Environment
-	- [ ] Rust
+- [x] Development Environment
+	- [x] Rust
 	- [x] Docker
-	- [ ] Node
-	- [ ] Finish Setting up Pi
+	- [x] Node
+	- [x] Finish Setting up Pi
 		- [x] Chrome companion installation and authorization.
 		- [x] Context7/MCP configuration.
 		- [x] Exa API-key setup.
@@ -50,8 +50,7 @@
 		- [x] Missing external skill dependencies and inconsistent skill references.
 		- [x] Plannotator CLI.
 		- [x] Set up Linear MCP.
-		- [ ] Sort out config, it looks a bit overly complex.
-		- [ ] Migrate from bd to bd-rust
+		- [x] Migrate from bd to bd-rust
 - [x] Theming
 	- [x] Add shutdown menu
 	- [x] Add more keyboard shortcuts
@@ -107,9 +106,15 @@
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
+- [ ] Pi
+	- [x] Change layout of status bar on small windows.
+	- [x] Add Catppuccin theme to Pi
+	- [ ] Find better subagent package.
+	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
-	- [ ] Get better background:
-		- [ ] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
+	- [ ] Figure out why login screen freezes when pressing enter.
+	- [x] Get better background:
+		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 	- [ ] Add Calendar
 	- [ ] Add notification tracker
 	- [ ] Look into adding notification dot to waybar
@@ -124,19 +129,29 @@
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-	- [ ] Change Cursor: https://github.com/catppuccin/cursors
+- [ ] Theming Round 4
+	- [ ] Install remaining features
+		- [ ] Dictation
+		- [ ] video capture
+		- [ ] ???
+	- [ ] Change Cursor
+		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
+	- [ ] Install Dynamic Dark theme.
+	- [ ] 
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
-- [ ] Pi
-	- [x] Change layout of status bar on small windows.
-	- [x] Add Catppuccin theme to Pi
-	- [ ] Update Pi to use Stylix theme.
+	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
+	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
+	- [ ] Add spell checker.
+- [ ] Pi Round 2
+	- [ ] Update Pi to use Stylix theme. 
+	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?

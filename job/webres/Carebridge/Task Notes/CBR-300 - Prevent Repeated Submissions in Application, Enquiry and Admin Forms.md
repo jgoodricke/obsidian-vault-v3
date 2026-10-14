@@ -1,6 +1,6 @@
 https://linear.app/webres-solutions/issue/CBR-300
-## Developer Notes
 
+## Technical Notes
 - Apply one consistent browser-only submission rule to Application, User, Company and Facility creation and updates, and to Enquiry sending.
 - Disable all submit controls while validation or submission is pending and prevent rapid repeated clicks, switching between submit buttons or keyboard submission from starting another request.
 - Protection must remain active for the full pending request.

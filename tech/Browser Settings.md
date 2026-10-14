@@ -54,6 +54,8 @@ http://localhost:5600/#/timeline
 [Codex Usage]([Codex Usage](https://chatgpt.com/codex/cloud/settings/analytics))
 [Code reviews]([Code Reviews](https://chatgpt.com/codex/cloud?tab=code_reviews))
 https://z-library.sk/
+[Vim Golf](https://www.vimgolf.com/)
+[Vim Ventures](https://vimventure.dev/)
 # Settings
 ## SocialFocus
 ```text
