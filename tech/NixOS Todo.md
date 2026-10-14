@@ -112,6 +112,8 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
+	- [ ] Fix keyboard shortcut for moving windows.
+	- [ ] Fix dithering direction.
 	- [ ] Make the indicators clickable.
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
