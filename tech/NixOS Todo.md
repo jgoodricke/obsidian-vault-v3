@@ -147,7 +147,7 @@
 	- [ ] Add notification tracker
 	- [ ] Add Calendar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-		- [ ] 
+		- [ ] Pipes
 - [ ] Theming Round 4
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
