@@ -121,10 +121,6 @@
 		- [ ] Zoom in on screen (repeat for more zoom)
 		- [ ] Cycle forward through monitor scaling options
 		- [ ] Change Btop to Super + Ctrl + T
-		- [ ] Capture controls (screenshot/-recording/picker)
-		- [ ] Toggle menu
-		- [ ] Hardware menu
-		- [ ] Transcoding menu
 		- [ ] Minimum/Maximum screen brightness
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
@@ -152,6 +148,10 @@
 			- [ ] See all reminders
 			- [ ] Clear all reminders
 		- [ ] Quick Emojis
+		- [ ] Menus
+			- [ ] Toggle menu
+			- [ ] Hardware menu
+			- [ ] Transcoding menu
 - [ ] Theming Round 3
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
