@@ -1,9 +1,9 @@
 ## NixOS Todo
 - [ ] Fix boot order
 - [ ] Commit LLM Prompt picker changes
-- [ ] remove S from password
+- [x] remove S from password
 	- [x] webres
-	- [ ] bishop
+	- [x] bishop
 - [x] Change password to something simpler
 - [x] Initial Setup
 	- [x] Push changes to Git
@@ -112,35 +112,81 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
-	- [ ] Figure out why login screen freezes when pressing enter.
+	- [ ] Add missing features
+		- [ ]  Grow Window shortcuts
+		- [ ] Toggle pseudo window style (natural v stretch)
+		- [ ] Go full width
+		- [ ] Go full screen inside window
+		- [ ] Scroll through workspaces
+		- [ ] Zoom in on screen (repeat for more zoom)
+		- [ ] Cycle forward through monitor scaling options
+		- [ ] Change Btop to Super + Ctrl + T
+		- [ ] Minimum/Maximum screen brightness
+		- [ ] Volume Popup
+		- [ ] Brightness Popup
+		- [ ] Precise 1% volume changes
+		- [ ] Scratchpad
+		- [ ] Power
+			- [ ] Power Profile
+			- [ ] Sleep Configuration (enable/disable)
+			- [ ] Hybernate
+		- [ ] Capture
+			- [ ] Capture Menu
+			- [ ] Screenshot
+			- [ ] Screen Record
+			- [ ] Color Picker
+			- [ ] Text Extraction to Clipbaord
+			- [ ] Dictation
+		- [ ] Toggles
+			- [ ] Idle/Sleep Prevention
+			- [ ] Nightlight Display Temperature
+			- [ ] Laptop Display
+			- [ ] Top Bar
+			- [ ] Audio Output
+		- [ ] Reminders
+			- [ ] Set a reminder
+			- [ ] See all reminders
+			- [ ] Clear all reminders
+		- [ ] Quick Emojis
+		- [ ] Menus
+			- [ ] Toggle menu
+			- [ ] Hardware menu
+			- [ ] Transcoding menu
+- [ ] Theming Round 3
+	- [x] Fix keyboard shortcut for moving windows.
+	- [x] Fix dithering direction.
+	- [x] Fix size and position of floating windows
+	- [ ] Add notification tracker
+	- [ ] Add Calendar
+- [ ] Theming Round 4
+	- [ ] Style Login Page
+	- [ ] Style Bootloader
+	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Calendar
-	- [ ] Add notification tracker
-	- [ ] Look into adding notification dot to waybar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-	- [ ] Add the following features from Omarchy
-		- [ ] Power Profile
-		- [ ] Sleep Configuration
-		- [ ] Hybernate
-- [ ] Theming Round 3
+- [ ] Theming Round 5
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
-	- [ ] Style login page
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-- [ ] Theming Round 4
+- [ ] Theming Round 6
 	- [ ] Install remaining features
 		- [ ] Dictation
-		- [ ] video capture
-		- [ ] ???
+		- [ ] transcoding
+		- [ ] Add capture control menu
+		- [ ] Color Picker
+		- [ ] Text Extraction
+		- [ ] Night Light
+		- [ ] Add scratchpad?
+		- [ ] Anything else.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
 	- [ ] Install Dynamic Dark theme.
-	- [ ] 
+	- [ ] Make the workspace indicators clickable (currently not possible on the current version of Waybar).
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
