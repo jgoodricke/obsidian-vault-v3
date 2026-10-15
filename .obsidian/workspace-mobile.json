@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tech/Professional Development/Rust/Rust Book.md",
+            "file": "tech/NixOS Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,8 +424,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d8ae98ebd4340f5",
+  "active": "dde84347e15bfc10",
   "lastOpenFiles": [
+    "Scratchpad.md",
     "tech/NixOS Todo.md",
     "Untitled 3.md",
     "tech/Professional Development/Rust/Rust Book.md",
@@ -437,7 +438,6 @@
     "personal/Recurring Bills.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
-    "Scratchpad.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/Brandon Sanderson Cosmere Reading Order.md",
     "tech/Professional Development/Contents.md",
