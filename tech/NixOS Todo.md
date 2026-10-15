@@ -177,9 +177,8 @@
 			- [ ] See all reminders
 			- [ ] Clear all reminders
 		- [ ] Hybernate
-		- [ ] Precise 1% volume changes
 		- [ ] Scratchpad
-		- [ ] Minimum/Maximum screen brightness
+	
 		- [ ] Toggles
 			- [ ] Idle/Sleep Prevention
 			- [ ] Nightlight Display Temperature
@@ -196,22 +195,16 @@
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
-- [ ] Theming Round 6
-	- [ ] Install remaining features
-		- [ ] Dictation
-		- [ ] transcoding
-		- [ ] Add capture control menu
-		- [ ] Color Picker
-		- [ ] Text Extraction
-		- [ ] Night Light
-		- [ ] Add scratchpad?
-		- [ ] Anything else.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
+- [ ] Theming round 6
+	- [ ] Install Dynamic Dark theme
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Install Dynamic Dark them?
+	- [ ] Install Missing Feetures
+		- [ ] Minimum/Maximum screen brightness
+		- [ ] Precise 1% volume and brightness changes
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
