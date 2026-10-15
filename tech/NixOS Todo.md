@@ -97,8 +97,6 @@
 		- [ ] Add alias to zshrc
 		- [ ] Add openAI key
 	- [ ] Fix the C shortcut not working in zsh.
-	- [ ] Set up PHPStorm
-		- [ ] Set up ideavim config
 	- [ ] Fix AI Shell not working
 	- [ ] Install Nix REPL
 		- [ ] Figure out how to get the AI to use it.
@@ -115,7 +113,6 @@
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
-	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add missing features
 		- [ ]  Grow Window shortcuts
 		- [ ] Toggle pseudo window style (natural v stretch)
@@ -125,16 +122,6 @@
 		- [ ] Change Btop to Super + Ctrl + T
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
-		- [ ] Power Profile
-		- [ ] Capture
-			- [ ] Screenshot
-			- [ ] Screen Record
-			- [ ] Color Picker
-			- [ ] Capture Menu
-			- [ ] Transcoding menu
-		- [ ] Toggle Menu
-			- [ ] Night Light
-			- [ ] Audio Output
 		- [ ] Hardware menu
 		- [ ] Notifications
 			- [ ] Dismiss latest notification
@@ -155,7 +142,7 @@
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
-	- [ ] Add notification tracker
+	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add Calendar
 	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [ ] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
@@ -163,7 +150,22 @@
 		- [ ] [Birds](https://github.com/clainstone/cbirds)
 		- [ ] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
+	- [ ] Add Missing Features
+		- [ ]  window grouping
+		- [ ] Toggle between dwindle and scrolling layout
+		- [ ] Power Profile
+		- [ ] Capture
+			- [ ] Screenshot
+			- [ ] Screen Record
+			- [ ] Color Picker
+			- [ ] Capture Menu
+			- [ ] Transcoding menu
+		- [ ] Toggle Menu
+			- [ ] Night Light
+			- [ ] Audio Output
+		- [ ] Share menu (via LocalSend)
 - [ ] Theming Round 4
+	- [ ] Add Google to Calendar
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
