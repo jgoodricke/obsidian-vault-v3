@@ -269,7 +269,7 @@
               "state": {
                 "file": "tech/NixOS Todo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "NixOS Todo"
@@ -426,6 +426,9 @@
   },
   "active": "dde84347e15bfc10",
   "lastOpenFiles": [
+    "job/webres/Carebridge/Task Notes/CBR-304 - Add Custom Reporting Period Selection to Reports.md",
+    "job/webres/Carebridge/Task Notes/CBR-303 - Allow Provider Users to Print Application Forms.md",
+    "AI/ChatGPT Project Instructions/ADHD.md",
     "Scratchpad.md",
     "tech/NixOS Todo.md",
     "Untitled 3.md",
@@ -450,9 +453,6 @@
     "job/webres/Carebridge/Analytics Dashboard/Overview V3.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-03.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-20.md",
-    "Untitled 2.md",
-    "personal/Chats/Discussion 2026-08-15.md",
-    "tech/Professional Development/Rust/Rust Lightsaber.md",
     "job/webres/Focus Machinery/Meetings",
     "job/webres/Focus Machinery/Claude MCP",
     "job/webres/Focus Machinery",

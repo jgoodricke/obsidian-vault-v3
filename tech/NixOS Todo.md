@@ -96,16 +96,16 @@
 	- [ ] Finish setting up git_ai_commit
 		- [ ] Add alias to zshrc
 		- [ ] Add openAI key
-	- [x] Fix the C shortcut not working in zsh.
-	- [x] Set up PHPStorm
-		- [x] Set up ideavim config
 	- [ ] Fix AI Shell not working
-- [x] Neovim
+	- [ ] Install Nix REPL
+		- [ ] Figure out how to get the AI to use it.
+- [ ] Neovim
 	- [x] Port Nvim Kickstart Core
 	- [x] Port Nvim Kickstart Optional Plugins
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
+	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
@@ -118,53 +118,79 @@
 		- [ ] Go full width
 		- [ ] Go full screen inside window
 		- [ ] Scroll through workspaces
-		- [ ] Zoom in on screen (repeat for more zoom)
-		- [ ] Cycle forward through monitor scaling options
 		- [ ] Change Btop to Super + Ctrl + T
-		- [ ] Minimum/Maximum screen brightness
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
-		- [ ] Precise 1% volume changes
-		- [ ] Scratchpad
-		- [ ] Power
-			- [ ] Power Profile
-			- [ ] Sleep Configuration (enable/disable)
-			- [ ] Hybernate
-		- [ ] Capture
-			- [ ] Capture Menu
-			- [ ] Screenshot
-			- [ ] Screen Record
-			- [ ] Color Picker
-			- [ ] Text Extraction to Clipbaord
-			- [ ] Dictation
-		- [ ] Toggles
-			- [ ] Idle/Sleep Prevention
-			- [ ] Nightlight Display Temperature
-			- [ ] Laptop Display
-			- [ ] Top Bar
-			- [ ] Audio Output
-		- [ ] Reminders
-			- [ ] Set a reminder
-			- [ ] See all reminders
-			- [ ] Clear all reminders
-		- [ ] Quick Emojis
-		- [ ] Menus
-			- [ ] Toggle menu
-			- [ ] Hardware menu
-			- [ ] Transcoding menu
+		- [ ] Hardware menu
+		- [ ] Notifications
+			- [ ] Dismiss latest notification
+			- [ ] Dismiss all notifications
+			- [ ] Toggle silencing notifications?
+			- [ ] Invoke most recent notification
+- [ ] Neovim Round 2
+	- [x] Update NVim theme to use Stylix instead of default theme.
+	- [ ] Add Git diff/comparison.
+	- [ ] Add breakpoints.
+	- [ ] Add conditional breakpoints.
+	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
+	- [ ] Add spell checker.
+- [ ] Pi Round 2
+	- [ ] Update Pi to use Stylix theme. 
+	- [ ] Sort out config, it looks a bit overly complex.
 - [ ] Theming Round 3
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
-	- [ ] Add notification tracker
+	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add Calendar
+	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+		- [ ] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
+		- [ ] [Pipes](https://github.com/pipeseroni/pipes.sh)
+		- [ ] [Birds](https://github.com/clainstone/cbirds)
+		- [ ] [Rain](https://github.com/nkleemann/ascii-rain)
+	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
+	- [ ] Add Missing Features
+		- [ ]  window grouping
+		- [ ] Toggle between dwindle and scrolling layout
+		- [ ] Power Profile
+		- [ ] Capture
+			- [ ] Screenshot
+			- [ ] Screen Record
+			- [ ] Color Picker
+			- [ ] Capture Menu
+			- [ ] Transcoding menu
+		- [ ] Toggle Menu
+			- [ ] Night Light
+			- [ ] Audio Output
+		- [ ] Share menu (via LocalSend)
 - [ ] Theming Round 4
+	- [ ] Add Google to Calendar
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+	- [ ] Add Missing features
+		- [ ] Quick Emojis (find a better example)
+		- [ ] Reminders
+			- [ ] Set a reminder
+			- [ ] See all reminders
+			- [ ] Clear all reminders
+		- [ ] Hybernate
+		- [ ] Precise 1% volume changes
+		- [ ] Scratchpad
+		- [ ] Minimum/Maximum screen brightness
+		- [ ] Toggles
+			- [ ] Idle/Sleep Prevention
+			- [ ] Nightlight Display Temperature
+			- [ ] Laptop Display
+			- [ ] Top Bar
+			- [ ] Toggle menu
+		- [ ] Zoom in on screen (repeat for more zoom)
+		- [ ] Cycle forward through monitor scaling options
+		- [ ] Capture
+			- [ ] Text Extraction to Clipboard
+			- [ ] Dictation
 - [ ] Theming Round 5
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Add icons to the keyboard shortcuts menu.
@@ -185,19 +211,7 @@
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Install Dynamic Dark theme.
-	- [ ] Make the workspace indicators clickable (currently not possible on the current version of Waybar).
-- [ ] Neovim Round 2
-	- [x] Update NVim theme to use Stylix instead of default theme.
-	- [ ] Add Git diff/comparison.
-	- [ ] Add breakpoints.
-	- [ ] Add conditional breakpoints.
-	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
-	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
-	- [ ] Add spell checker.
-- [ ] Pi Round 2
-	- [ ] Update Pi to use Stylix theme. 
-	- [ ] Sort out config, it looks a bit overly complex.
+	- [ ] Install Dynamic Dark them?
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
