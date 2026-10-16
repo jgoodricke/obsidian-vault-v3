@@ -121,7 +121,7 @@
 		- [ ] Change Btop to Super + Ctrl + T
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
-		- [ ] Hardware menu
+		- [ ] Hardware menu (Fastfetcjh?)
 		- [ ] Notifications
 			- [ ] Dismiss latest notification
 			- [ ] Dismiss all notifications
@@ -143,11 +143,11 @@
 	- [x] Fix size and position of floating windows
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add Calendar
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-		- [ ] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
-		- [ ] [Pipes](https://github.com/pipeseroni/pipes.sh)
-		- [ ] [Birds](https://github.com/clainstone/cbirds)
-		- [ ] [Rain](https://github.com/nkleemann/ascii-rain)
+	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
+		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
+		- [x] [Birds](https://github.com/clainstone/cbirds)
+		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 	- [ ] Add Missing Features
 		- [ ]  window grouping
