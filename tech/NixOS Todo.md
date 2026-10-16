@@ -121,7 +121,7 @@
 		- [ ] Change Btop to Super + Ctrl + T
 		- [ ] Volume Popup
 		- [ ] Brightness Popup
-		- [ ] Hardware menu
+		- [ ] Hardware menu (Fastfetcjh?)
 		- [ ] Notifications
 			- [ ] Dismiss latest notification
 			- [ ] Dismiss all notifications
