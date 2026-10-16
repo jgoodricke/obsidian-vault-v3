@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tech/Professional Development/Rust/Rust Book.md",
+            "file": "tech/NixOS Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,9 +424,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d8ae98ebd4340f5",
+  "active": "13f912123b27c30e",
   "lastOpenFiles": [
     "tech/NixOS Todo.md",
+    "job/webres/Carebridge/Task Notes/CBR-304 - Add Custom Reporting Period Selection to Reports.md",
+    "job/webres/Carebridge/Task Notes/CBR-303 - Allow Provider Users to Print Application Forms.md",
+    "AI/ChatGPT Project Instructions/ADHD.md",
+    "Scratchpad.md",
     "Untitled 3.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "job/webres/Carebridge/Task Notes/CBR-301 - Confirm Deletion for Users, Companies, Facilities and Vacancies.md",
@@ -437,7 +441,6 @@
     "personal/Recurring Bills.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
-    "Scratchpad.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "personal/Brandon Sanderson Cosmere Reading Order.md",
     "tech/Professional Development/Contents.md",
@@ -450,9 +453,6 @@
     "job/webres/Carebridge/Analytics Dashboard/Overview V3.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-03.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-20.md",
-    "Untitled 2.md",
-    "personal/Chats/Discussion 2026-08-15.md",
-    "tech/Professional Development/Rust/Rust Lightsaber.md",
     "job/webres/Focus Machinery/Meetings",
     "job/webres/Focus Machinery/Claude MCP",
     "job/webres/Focus Machinery",
