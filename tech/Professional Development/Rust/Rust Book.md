@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch10-02-traits.html#clearer-trait-bounds-with-where-clauses
+https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#lifetime-annotation-syntax
 ## First Read
 ### Read Now
 
