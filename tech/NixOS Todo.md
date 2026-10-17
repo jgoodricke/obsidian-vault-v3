@@ -134,7 +134,8 @@
 		- [x] Dismiss all notifications
 		- [x] Toggle silencing notifications?
 		- [x] Invoke most recent notification
-	- [ ] window grouping
+	- [x] window grouping
+	- [ ] Scratchpad
 	- [ ] Toggle between dwindle and scrolling layout
 	- [ ] Hardware menu (Fastfetcjh?)
 	- [ ] Power Profile
@@ -142,8 +143,10 @@
 		- [ ] Screenshot
 		- [ ] Screen Record
 		- [ ] Color Picker
-		- [ ] Capture Menu
 		- [ ] Transcoding menu
+		- [ ] Text Extraction to Clipboard
+		- [ ] Dictation
+		- [ ] Capture Menu
 	- [ ] Toggle Menu
 		- [ ] Night Light
 		- [ ] Audio Output
@@ -156,16 +159,12 @@
 		- [ ] Set a reminder
 		- [ ] See all reminders
 		- [ ] Clear all reminders
-	- [ ] Hibernate
-	- [ ] Scratchpad
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Cycle forward through monitor scaling options
-	- [ ] Capture
-		- [ ] Text Extraction to Clipboard
-		- [ ] Dictation
 	- [ ] Minimum/Maximum screen brightness
 	- [ ] Precise 1% volume and brightness changes
 	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Hibernate?
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
