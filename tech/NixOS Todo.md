@@ -115,7 +115,7 @@
 	- [ ] Add missing features
 		- [x]  Grow Window shortcuts
 		- [x] Toggle pseudo window style (natural v stretch)
-		- [ ] Go full width
+		- [x] Go full width
 		- [ ] Go full screen inside window
 		- [ ] Scroll through workspaces
 		- [ ] Change Btop to Super + Ctrl + T
