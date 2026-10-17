@@ -138,6 +138,16 @@
 	- [x] Scratchpad
 	- [x] Toggle between dwindle and scrolling layout
 	- [ ] Power Profile
+	- [ ] Share menu (via LocalSend)
+	- [ ] Reminders
+		- [ ] Set a reminder
+		- [ ] See all reminders
+		- [ ] Clear all reminders
+	- [ ] Zoom in on screen (repeat for more zoom)
+	- [ ] Cycle forward through monitor scaling options
+	- [ ] Minimum/Maximum screen brightness
+	- [ ] Precise 1% volume and brightness changes
+	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Capture
 		- [ ] Screenshot
 		- [ ] Screen Record
@@ -153,16 +163,6 @@
 		- [ ] Nightlight Display Temperature
 		- [ ] Laptop Display
 		- [ ] Top Bar
-	- [ ] Share menu (via LocalSend)
-	- [ ] Reminders
-		- [ ] Set a reminder
-		- [ ] See all reminders
-		- [ ] Clear all reminders
-	- [ ] Zoom in on screen (repeat for more zoom)
-	- [ ] Cycle forward through monitor scaling options
-	- [ ] Minimum/Maximum screen brightness
-	- [ ] Precise 1% volume and brightness changes
-	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Hardware menu
 	- [ ] Fastfetch
 	- [ ] Hibernate?
