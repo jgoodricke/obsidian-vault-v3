@@ -10,14 +10,14 @@
 	- [x] Sunsama
 	- [x] Ebay
 	- [ ] Amazon
-	- [ ] Officeworks
-	- [ ] Good Guys
+	- [x] Officeworks
+	- [x] Good Guys
 	- [x] PC Case Gear
-	- [ ] Amazon
 	- [ ] Ikea
 	- [ ] Spotify
 	- [x] Jetbrains
-	- [ ] Reciepts
+	- [x] Physical Reciepts
+	- [ ] Digital Reciepts
 - [x] Calculate WFH
 - [ ] Things for Christy to Claim
 	- [ ] Dreame Robot

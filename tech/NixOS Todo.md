@@ -137,7 +137,7 @@
 	- [x] window grouping
 	- [x] Scratchpad
 	- [x] Toggle between dwindle and scrolling layout
-	- [ ] Power Profile
+	- [x] Power Profile
 	- [ ] Share menu (via LocalSend)
 	- [ ] Reminders
 		- [ ] Set a reminder
