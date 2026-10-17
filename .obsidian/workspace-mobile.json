@@ -269,7 +269,7 @@
               "state": {
                 "file": "tech/NixOS Todo.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "NixOS Todo"

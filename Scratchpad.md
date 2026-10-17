@@ -1,19 +1,29 @@
 # Tax Todo
 - [ ] Get Deductions
-	- [ ] AI
-		- [ ] OpenAI
-		- [ ] OpenAI API
-		- [ ] Anthropic
-		- [ ] Anthropic API
-		- [ ] Fireworks
-		- [ ] OpenCode
-	- [ ] Amazon
-	- [ ] Officeworks
-	- [ ] Good Guys
-	- [ ] PC Case Gear
-	- [ ] 
-	- [ ] Reciepts
-- [ ] Calculate WFH
+	- [x] AI
+		- [x] OpenAI
+		- [x] OpenAI API
+		- [x] Anthropic
+		- [x] Anthropic API
+		- [x] Fireworks
+		- [x] OpenCode
+	- [x] Sunsama
+	- [x] Ebay
+	- [x] Amazon
+	- [x] Officeworks
+	- [x] Good Guys
+	- [x] PC Case Gear
+	- [x] Ikea
+	- [ ] Spotify
+	- [x] Jetbrains
+	- [x] Physical Reciepts
+	- [ ] Digital Reciepts
+- [x] Calculate WFH
+- [ ] Things for Christy to Claim
+	- [ ] Dreame Robot
+	- [ ] Fridge
+	- [ ] Washer
+
 
 ## BPC Case Manager 
 Martina BPC
