@@ -13,7 +13,7 @@
 	- [ ] PC Case Gear
 	- [ ] 
 	- [ ] Reciepts
-- [ ] Calculate WFH
+- [x] Calculate WFH
 
 ## BPC Case Manager 
 Martina BPC

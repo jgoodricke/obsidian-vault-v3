@@ -111,22 +111,6 @@
 	- [x] Add Catppuccin theme to Pi
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
-- [ ] Theming Round 2
-	- [ ] Add missing features
-		- [x]  Grow Window shortcuts
-		- [x] Toggle pseudo window style (natural v stretch)
-		- [x] Go full width
-		- [ ] Go full screen inside window
-		- [ ] Scroll through workspaces
-		- [ ] Change Btop to Super + Ctrl + T
-		- [ ] Volume Popup
-		- [ ] Brightness Popup
-		- [ ] Hardware menu (Fastfetcjh?)
-		- [ ] Notifications
-			- [ ] Dismiss latest notification
-			- [ ] Dismiss all notifications
-			- [ ] Toggle silencing notifications?
-			- [ ] Invoke most recent notification
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
@@ -137,7 +121,55 @@
 - [ ] Pi Round 2
 	- [ ] Update Pi to use Stylix theme. 
 	- [ ] Sort out config, it looks a bit overly complex.
-- [ ] Theming Round 3
+- [ ] Theming - Missing Features
+	- [x]  Grow Window shortcuts
+	- [x] Toggle pseudo window style (natural v stretch)
+	- [x] Go full width
+	- [x] Go full screen inside window
+	- [ ] Scroll through workspaces
+	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Volume Popup
+	- [ ] Brightness Popup
+	- [ ] Hardware menu (Fastfetcjh?)
+	- [ ] Notifications
+		- [ ] Dismiss latest notification
+		- [ ] Dismiss all notifications
+		- [ ] Toggle silencing notifications?
+		- [ ] Invoke most recent notification
+	- [ ]  window grouping
+	- [ ] Toggle between dwindle and scrolling layout
+	- [ ] Power Profile
+	- [ ] Capture
+		- [ ] Screenshot
+		- [ ] Screen Record
+		- [ ] Color Picker
+		- [ ] Capture Menu
+		- [ ] Transcoding menu
+	- [ ] Toggle Menu
+		- [ ] Night Light
+		- [ ] Audio Output
+	- [ ] Share menu (via LocalSend)
+	- [ ] Quick Emojis (find a better example)
+	- [ ] Reminders
+		- [ ] Set a reminder
+		- [ ] See all reminders
+		- [ ] Clear all reminders
+	- [ ] Hybernate
+	- [ ] Scratchpad
+	- [ ] Toggles
+		- [ ] Idle/Sleep Prevention
+		- [ ] Nightlight Display Temperature
+		- [ ] Laptop Display
+		- [ ] Top Bar
+		- [ ] Toggle menu
+	- [ ] Zoom in on screen (repeat for more zoom)
+	- [ ] Cycle forward through monitor scaling options
+	- [ ] Capture
+		- [ ] Text Extraction to Clipboard
+		- [ ] Dictation
+	- [ ] Minimum/Maximum screen brightness
+	- [ ] Precise 1% volume and brightness changes
+- [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
@@ -149,48 +181,14 @@
 		- [x] [Birds](https://github.com/clainstone/cbirds)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
-	- [ ] Add Missing Features
-		- [ ]  window grouping
-		- [ ] Toggle between dwindle and scrolling layout
-		- [ ] Power Profile
-		- [ ] Capture
-			- [ ] Screenshot
-			- [ ] Screen Record
-			- [ ] Color Picker
-			- [ ] Capture Menu
-			- [ ] Transcoding menu
-		- [ ] Toggle Menu
-			- [ ] Night Light
-			- [ ] Audio Output
-		- [ ] Share menu (via LocalSend)
-- [ ] Theming Round 4
+- [ ] Theming Round 3
 	- [ ] Add Google to Calendar
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Missing features
-		- [ ] Quick Emojis (find a better example)
-		- [ ] Reminders
-			- [ ] Set a reminder
-			- [ ] See all reminders
-			- [ ] Clear all reminders
-		- [ ] Hybernate
-		- [ ] Scratchpad
-	
-		- [ ] Toggles
-			- [ ] Idle/Sleep Prevention
-			- [ ] Nightlight Display Temperature
-			- [ ] Laptop Display
-			- [ ] Top Bar
-			- [ ] Toggle menu
-		- [ ] Zoom in on screen (repeat for more zoom)
-		- [ ] Cycle forward through monitor scaling options
-		- [ ] Capture
-			- [ ] Text Extraction to Clipboard
-			- [ ] Dictation
-- [ ] Theming Round 5
+- [ ] Theming Round 4
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
@@ -202,9 +200,6 @@
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Install Missing Feetures
-		- [ ] Minimum/Maximum screen brightness
-		- [ ] Precise 1% volume and brightness changes
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
