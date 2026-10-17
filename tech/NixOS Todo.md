@@ -113,8 +113,8 @@
 	- [ ] Add seperate field to statusbar for tracking total time.
 - [ ] Theming Round 2
 	- [ ] Add missing features
-		- [ ]  Grow Window shortcuts
-		- [ ] Toggle pseudo window style (natural v stretch)
+		- [x]  Grow Window shortcuts
+		- [x] Toggle pseudo window style (natural v stretch)
 		- [ ] Go full width
 		- [ ] Go full screen inside window
 		- [ ] Scroll through workspaces
