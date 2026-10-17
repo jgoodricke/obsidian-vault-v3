@@ -167,7 +167,7 @@
 	- [ ] Precise 1% volume and brightness changes
 	- [ ] Hotkeys for Monitor Switching?
 	- [ ] Hibernate?
-	- [ ] Check if any other features are missuing
+	- [ ] Check if any other features are missing
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
