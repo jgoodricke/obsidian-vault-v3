@@ -1,17 +1,21 @@
 # Tax Todo
 - [ ] Get Deductions
 	- [ ] AI
-		- [ ] OpenAI
-		- [ ] OpenAI API
-		- [ ] Anthropic
-		- [ ] Anthropic API
-		- [ ] Fireworks
-		- [ ] OpenCode
+		- [x] OpenAI
+		- [x] OpenAI API
+		- [x] Anthropic
+		- [x] Anthropic API
+		- [x] Fireworks
+		- [x] OpenCode
+	- [ ] Ebay
 	- [ ] Amazon
 	- [ ] Officeworks
 	- [ ] Good Guys
 	- [ ] PC Case Gear
-	- [ ] 
+	- [ ] Amazon
+	- [ ] Ikea
+	- [ ] Spotify
+	- [ ] Jetbrains
 	- [ ] Reciepts
 - [x] Calculate WFH
 
