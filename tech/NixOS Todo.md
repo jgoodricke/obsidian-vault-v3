@@ -1,6 +1,6 @@
 ## NixOS Todo
 - [ ] Fix boot order
-- [ ] Commit LLM Prompt picker changes
+- [x] Commit LLM Prompt picker changes
 - [x] remove S from password
 	- [x] webres
 	- [x] bishop
@@ -142,7 +142,7 @@
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
-	- [ ] Add Calendar
+	- [ ] Add Google Calendar shortcut
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
@@ -164,7 +164,6 @@
 			- [ ] Audio Output
 		- [ ] Share menu (via LocalSend)
 - [ ] Theming Round 4
-	- [ ] Add Google to Calendar
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
