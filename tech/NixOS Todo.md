@@ -143,9 +143,8 @@
 		- [x] Set a reminder
 		- [x] See all reminders
 		- [x] Clear all reminders
-	- [ ] Zoom in on screen (repeat for more zoom)
-	- [ ] Cycle forward through monitor scaling options
 	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Capture
 		- [ ] Screenshot
 		- [ ] Screen Record
@@ -163,16 +162,19 @@
 		- [ ] Top Bar
 	- [ ] Hardware menu
 	- [ ] Fastfetch
+	- [ ] Cycle forward through monitor scaling options
 	- [ ] Minimum/Maximum screen brightness
 	- [ ] Precise 1% volume and brightness changes
 	- [ ] Hotkeys for Monitor Switching?
 	- [ ] Hibernate?
+	- [ ] Check if any other features are missuing
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Add Calendar
+	- [ ] Add a hotkey (or another way) to see the last notifications.
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
