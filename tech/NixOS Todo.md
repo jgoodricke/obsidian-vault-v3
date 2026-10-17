@@ -139,14 +139,12 @@
 	- [x] Toggle between dwindle and scrolling layout
 	- [x] Power Profile
 	- [x] Share menu (via LocalSend)
-	- [ ] Reminders
-		- [ ] Set a reminder
-		- [ ] See all reminders
-		- [ ] Clear all reminders
+	- [x] Reminders
+		- [x] Set a reminder
+		- [x] See all reminders
+		- [x] Clear all reminders
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Cycle forward through monitor scaling options
-	- [ ] Minimum/Maximum screen brightness
-	- [ ] Precise 1% volume and brightness changes
 	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Capture
 		- [ ] Screenshot
@@ -165,6 +163,9 @@
 		- [ ] Top Bar
 	- [ ] Hardware menu
 	- [ ] Fastfetch
+	- [ ] Minimum/Maximum screen brightness
+	- [ ] Precise 1% volume and brightness changes
+	- [ ] Hotkeys for Monitor Switching?
 	- [ ] Hibernate?
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
