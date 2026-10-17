@@ -138,7 +138,7 @@
 	- [x] Scratchpad
 	- [x] Toggle between dwindle and scrolling layout
 	- [x] Power Profile
-	- [ ] Share menu (via LocalSend)
+	- [x] Share menu (via LocalSend)
 	- [ ] Reminders
 		- [ ] Set a reminder
 		- [ ] See all reminders
