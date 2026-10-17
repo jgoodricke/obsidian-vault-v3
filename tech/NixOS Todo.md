@@ -135,9 +135,8 @@
 		- [x] Toggle silencing notifications?
 		- [x] Invoke most recent notification
 	- [x] window grouping
-	- [ ] Scratchpad
+	- [x] Scratchpad
 	- [ ] Toggle between dwindle and scrolling layout
-	- [ ] Hardware menu (Fastfetcjh?)
 	- [ ] Power Profile
 	- [ ] Capture
 		- [ ] Screenshot
@@ -164,6 +163,8 @@
 	- [ ] Minimum/Maximum screen brightness
 	- [ ] Precise 1% volume and brightness changes
 	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Hardware menu
+	- [ ] Fastfetch
 	- [ ] Hibernate?
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.

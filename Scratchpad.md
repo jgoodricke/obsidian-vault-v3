@@ -7,7 +7,8 @@
 		- [x] Anthropic API
 		- [x] Fireworks
 		- [x] OpenCode
-	- [ ] Ebay
+	- [ ] Sunsama
+	- [x] Ebay
 	- [ ] Amazon
 	- [ ] Officeworks
 	- [ ] Good Guys
