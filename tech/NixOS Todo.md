@@ -136,7 +136,7 @@
 		- [x] Invoke most recent notification
 	- [x] window grouping
 	- [x] Scratchpad
-	- [ ] Toggle between dwindle and scrolling layout
+	- [x] Toggle between dwindle and scrolling layout
 	- [ ] Power Profile
 	- [ ] Capture
 		- [ ] Screenshot
