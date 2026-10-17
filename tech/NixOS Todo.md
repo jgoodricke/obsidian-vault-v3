@@ -127,16 +127,16 @@
 	- [x] Go full width
 	- [x] Go full screen inside window
 	- [x] Scroll through workspaces
-	- [ ] Volume Popup
-	- [ ] Brightness Popup
-	- [ ] Hardware menu (Fastfetcjh?)
-	- [ ] Notifications
-		- [ ] Dismiss latest notification
-		- [ ] Dismiss all notifications
-		- [ ] Toggle silencing notifications?
-		- [ ] Invoke most recent notification
-	- [ ]  window grouping
+	- [x] Volume Popup
+	- [x] Brightness Popup
+	- [x] Notifications
+		- [x] Dismiss latest notification
+		- [x] Dismiss all notifications
+		- [x] Toggle silencing notifications?
+		- [x] Invoke most recent notification
+	- [ ] window grouping
 	- [ ] Toggle between dwindle and scrolling layout
+	- [ ] Hardware menu (Fastfetcjh?)
 	- [ ] Power Profile
 	- [ ] Capture
 		- [ ] Screenshot
@@ -147,20 +147,17 @@
 	- [ ] Toggle Menu
 		- [ ] Night Light
 		- [ ] Audio Output
-	- [ ] Share menu (via LocalSend)
-	- [ ] Quick Emojis (find a better example)
-	- [ ] Reminders
-		- [ ] Set a reminder
-		- [ ] See all reminders
-		- [ ] Clear all reminders
-	- [ ] Hybernate
-	- [ ] Scratchpad
-	- [ ] Toggles
 		- [ ] Idle/Sleep Prevention
 		- [ ] Nightlight Display Temperature
 		- [ ] Laptop Display
 		- [ ] Top Bar
-		- [ ] Toggle menu
+	- [ ] Share menu (via LocalSend)
+	- [ ] Reminders
+		- [ ] Set a reminder
+		- [ ] See all reminders
+		- [ ] Clear all reminders
+	- [ ] Hibernate
+	- [ ] Scratchpad
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Cycle forward through monitor scaling options
 	- [ ] Capture
@@ -181,6 +178,7 @@
 		- [x] [Birds](https://github.com/clainstone/cbirds)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
+	- [ ] Quick Emojis (find a better example)
 - [ ] Theming Round 3
 	- [ ] Add Google to Calendar
 	- [ ] Style Login Page
