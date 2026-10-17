@@ -126,8 +126,7 @@
 	- [x] Toggle pseudo window style (natural v stretch)
 	- [x] Go full width
 	- [x] Go full screen inside window
-	- [ ] Scroll through workspaces
-	- [ ] Change Btop to Super + Ctrl + T
+	- [x] Scroll through workspaces
 	- [ ] Volume Popup
 	- [ ] Brightness Popup
 	- [ ] Hardware menu (Fastfetcjh?)
@@ -169,6 +168,7 @@
 		- [ ] Dictation
 	- [ ] Minimum/Maximum screen brightness
 	- [ ] Precise 1% volume and brightness changes
+	- [ ] Change Btop to Super + Ctrl + T
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
@@ -195,7 +195,7 @@
 		- [ ] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
-- [ ] Theming round 6
+- [ ] Theming round 5
 	- [ ] Install Dynamic Dark theme
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
