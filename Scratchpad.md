@@ -9,11 +9,11 @@
 		- [x] OpenCode
 	- [x] Sunsama
 	- [x] Ebay
-	- [ ] Amazon
+	- [x] Amazon
 	- [x] Officeworks
 	- [x] Good Guys
 	- [x] PC Case Gear
-	- [ ] Ikea
+	- [x] Ikea
 	- [ ] Spotify
 	- [x] Jetbrains
 	- [x] Physical Reciepts
