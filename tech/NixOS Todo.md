@@ -1,6 +1,29 @@
 ## NixOS Todo
+```
+I would like to add the following features to my config. Using @~/ref-repos/omarchy as a guide. 
+		- [Screenshot
+		- Screen Record
+		- Color Picker
+		- Transcoding menu
+		- Text Extraction to Clipboard
+		- Dictation
+
+Also add the Capture Menu, along with these hotkeys to use them:
+
+Capture #
+Hotkey	Function
+Super + Ctrl + C	Capture menu (for keyboards w/o PrintScr button)
+Print Screen	Screenshot
+Alt + Print Screen	Screenrecord
+Super + Print Screen	Color picker
+Super + Ctrl + Print Screen	Text extraction to clipboard
+Alt + Shift + L	Copy current URL from webapp or Chromium
+Super + Ctrl + X	Start/stop dictation (requires Install > AI > Dictation)
+F9	Push-to-talk dictation (requires Install > AI > Dictation)
+```
+
 - [ ] Fix boot order
-- [ ] Commit LLM Prompt picker changes
+- [x] Commit LLM Prompt picker changes
 - [x] remove S from password
 	- [x] webres
 	- [x] bishop
@@ -111,22 +134,6 @@
 	- [x] Add Catppuccin theme to Pi
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
-- [ ] Theming Round 2
-	- [ ] Add missing features
-		- [ ]  Grow Window shortcuts
-		- [ ] Toggle pseudo window style (natural v stretch)
-		- [ ] Go full width
-		- [ ] Go full screen inside window
-		- [ ] Scroll through workspaces
-		- [ ] Change Btop to Super + Ctrl + T
-		- [ ] Volume Popup
-		- [ ] Brightness Popup
-		- [ ] Hardware menu
-		- [ ] Notifications
-			- [ ] Dismiss latest notification
-			- [ ] Dismiss all notifications
-			- [ ] Toggle silencing notifications?
-			- [ ] Invoke most recent notification
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
@@ -137,74 +144,86 @@
 - [ ] Pi Round 2
 	- [ ] Update Pi to use Stylix theme. 
 	- [ ] Sort out config, it looks a bit overly complex.
-- [ ] Theming Round 3
+- [ ] Theming - Missing Features
+	- [x]  Grow Window shortcuts
+	- [x] Toggle pseudo window style (natural v stretch)
+	- [x] Go full width
+	- [x] Go full screen inside window
+	- [x] Scroll through workspaces
+	- [x] Volume Popup
+	- [x] Brightness Popup
+	- [x] Notifications
+		- [x] Dismiss latest notification
+		- [x] Dismiss all notifications
+		- [x] Toggle silencing notifications?
+		- [x] Invoke most recent notification
+	- [x] window grouping
+	- [x] Scratchpad
+	- [x] Toggle between dwindle and scrolling layout
+	- [x] Power Profile
+	- [x] Share menu (via LocalSend)
+	- [x] Reminders
+		- [x] Set a reminder
+		- [x] See all reminders
+		- [x] Clear all reminders
+	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Zoom in on screen (repeat for more zoom)
+	- [ ] Capture
+		- [ ] Screenshot
+		- [ ] Screen Record
+		- [ ] Color Picker
+		- [ ] Transcoding menu
+		- [ ] Text Extraction to Clipboard
+		- [ ] Dictation
+		- [ ] Capture Menu
+	- [ ] Toggle Menu
+		- [ ] Night Light
+		- [ ] Audio Output
+		- [ ] Idle/Sleep Prevention
+		- [ ] Nightlight Display Temperature
+		- [ ] Laptop Display
+		- [ ] Top Bar
+	- [ ] Hardware menu
+	- [ ] Fastfetch
+	- [ ] Cycle forward through monitor scaling options
+	- [ ] Minimum/Maximum screen brightness
+	- [ ] Precise 1% volume and brightness changes
+	- [ ] Hotkeys for Monitor Switching?
+	- [ ] Hibernate?
+	- [ ] Check if any other features are missing
+- [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
-	- [ ] Install WLR Which Key (and find an equivalent for Windows)
-	- [ ] Add Calendar
-	- [ ] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
-		- [ ] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
-		- [ ] [Pipes](https://github.com/pipeseroni/pipes.sh)
-		- [ ] [Birds](https://github.com/clainstone/cbirds)
-		- [ ] [Rain](https://github.com/nkleemann/ascii-rain)
+	- [ ] Add Google Calendar shortcut
+	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
+	- [ ] Add a hotkey (or another way) to see the last notifications.
+	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
+		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
+		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
+		- [x] [Birds](https://github.com/clainstone/cbirds)
+		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
-	- [ ] Add Missing Features
-		- [ ]  window grouping
-		- [ ] Toggle between dwindle and scrolling layout
-		- [ ] Power Profile
-		- [ ] Capture
-			- [ ] Screenshot
-			- [ ] Screen Record
-			- [ ] Color Picker
-			- [ ] Capture Menu
-			- [ ] Transcoding menu
-		- [ ] Toggle Menu
-			- [ ] Night Light
-			- [ ] Audio Output
-		- [ ] Share menu (via LocalSend)
-- [ ] Theming Round 4
-	- [ ] Add Google to Calendar
+- [ ] Theming Round 3
+- [ ] Install WLR Which Key (and find an equivalent for Windows)
+- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
-	- [ ] Add Missing features
-		- [ ] Quick Emojis (find a better example)
-		- [ ] Reminders
-			- [ ] Set a reminder
-			- [ ] See all reminders
-			- [ ] Clear all reminders
-		- [ ] Hybernate
-		- [ ] Scratchpad
-	
-		- [ ] Toggles
-			- [ ] Idle/Sleep Prevention
-			- [ ] Nightlight Display Temperature
-			- [ ] Laptop Display
-			- [ ] Top Bar
-			- [ ] Toggle menu
-		- [ ] Zoom in on screen (repeat for more zoom)
-		- [ ] Cycle forward through monitor scaling options
-		- [ ] Capture
-			- [ ] Text Extraction to Clipboard
-			- [ ] Dictation
-- [ ] Theming Round 5
+- [ ] Theming Round 4
 	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
-- [ ] Theming round 6
+- [ ] Theming round 5
 	- [ ] Install Dynamic Dark theme
 	- [ ] check out ricing list:
 		- [ ] https://github.com/fosslife/awesome-ricing
 		- [ ] https://github.com/avtzis/awesome-linux-ricing
-	- [ ] Install Missing Feetures
-		- [ ] Minimum/Maximum screen brightness
-		- [ ] Precise 1% volume and brightness changes
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?

@@ -1,6 +1,6 @@
 # Philosophy
 ## Player Character
-- Discrased noblemans son and budding mage, looking to start a new life in Skyrim and potentially seeking redemption through making a name for himself.
+- Discrased noblemans son and budding mage, looking to start a new life in Skyrim and potentially seeking redemption through making name for himself.
 
 ## Type of Game
 - Story-Driven
@@ -50,6 +50,7 @@
 - Immersive Weapon Penetration VR
 - Voiced Narrative - The Cause
 - Voiced Narrative - Ghosts of the Tribunal
+- Faster NGIO Grass Cache
 
 Redguard:
 - Desert Trader
