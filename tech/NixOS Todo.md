@@ -1,7 +1,7 @@
 ## NixOS Todo
 ```
 I would like to add the following features to my config. Using @~/ref-repos/omarchy as a guide. 
-		- [Screenshot
+		- Screenshot
 		- Screen Record
 		- Color Picker
 		- Transcoding menu
