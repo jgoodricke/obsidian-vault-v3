@@ -23,7 +23,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 ```
 
 - [ ] Fix boot order
-- [ ] Commit LLM Prompt picker changes
+- [x] Commit LLM Prompt picker changes
 - [x] remove S from password
 	- [x] webres
 	- [x] bishop
@@ -195,8 +195,8 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
-	- [ ] Install WLR Which Key (and find an equivalent for Windows)
-	- [ ] Add Calendar
+	- [ ] Add Google Calendar shortcut
+	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [ ] Add a hotkey (or another way) to see the last notifications.
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
@@ -204,9 +204,9 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] [Birds](https://github.com/clainstone/cbirds)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
-	- [ ] Quick Emojis (find a better example)
 - [ ] Theming Round 3
-	- [ ] Add Google to Calendar
+- [ ] Install WLR Which Key (and find an equivalent for Windows)
+- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 

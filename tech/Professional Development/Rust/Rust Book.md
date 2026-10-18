@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#lifetime-annotation-syntax
+https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#in-method-definitions
 ## First Read
 ### Read Now
 
@@ -58,7 +58,7 @@ https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#lifetime-anno
     - [x] 9.3. To panic! or Not to panic!
 - [ ] 10. Generic Types, Traits, and Lifetimes
     - [x] 10.1. Generic Data Types
-    - [ ] 10.2. Defining Shared Behavior with Traits
+    - [x] 10.2. Defining Shared Behavior with Traits
     - [ ] 10.3. Validating References with Lifetimes
 ### Soon
 - [ ] 11. Writing Automated Tests
