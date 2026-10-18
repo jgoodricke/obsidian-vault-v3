@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#lifetime-elision
+https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#in-method-definitions
 ## First Read
 ### Read Now
 
