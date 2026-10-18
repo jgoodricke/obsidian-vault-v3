@@ -15,4 +15,5 @@
 - Need to identify the data sources we can use and start mapping them together.
 # Useful Resources
 - https://wazuh.com/
+- https://attack.mitre.org/
 - SentinalOne Dashboard
