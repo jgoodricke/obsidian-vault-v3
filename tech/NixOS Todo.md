@@ -170,16 +170,14 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Capture
 		- [x] Screenshot 
-		- [ ] *Screen Record (~/tmp/screen-record-guide.md)*
-		- [ ] *Color Picker*
-		- [ ] *Transcoding menu*
-		- [ ] Text Extraction to Clipboard
-		- [ ] Dictation
-		- [ ] Capture Menu
+		- [x] Screen Record (~/tmp/screen-record-guide.md)
+		- [x] *Color Picker*
+		- [ ] Transcoding menu (~/tmp/transcoding-menu-implementation.md)
+		- [ ] Text Extraction to Clipboard (~/tmp/text-extraction-to-clipboard.md)
+		- [ ] Dictation (~/tmp/dictation-implementation.md)
 	- [ ] Toggle Menu
 		- [ ] Night Light
 		- [ ] Audio Output
-		- [ ] Idle/Sleep Prevention
 		- [ ] Nightlight Display Temperature
 		- [ ] Laptop Display
 		- [ ] Top Bar
@@ -188,13 +186,18 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Cycle forward through monitor scaling options
 	- [ ] Minimum/Maximum screen brightness
 	- [ ] Precise 1% volume and brightness changes
-	- [ ] Hotkeys for Monitor Switching?
-	- [ ] Hibernate?
 	- [ ] Check if any other features are missing
+	- [x] Fix keybindings baseline test
+	- [ ] Maybe
+		- [ ] Idle/Sleep Prevention?
+		- [ ] Hotkeys for moving between monitors?
+		- [ ] Hibernate?
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
+	- [ ] Set up Helium
+	- [ ] Add VLC
 	- [ ] Add Google Calendar shortcut
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [ ] Add a hotkey (or another way) to see the last notifications.
@@ -205,7 +208,6 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
-	- [ ] Set up Helium
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
