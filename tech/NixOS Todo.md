@@ -179,7 +179,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Audio Output (~tmp/audio-output-toggle-guide.md)
 		- [x] Idle/Sleep prevention (~/tmp/prevent-idle-implementation.md)
 		- [x] Laptop Display (~tmp/laptop-display-toggle-guide.md)
-		- [ ] Toggle Top Bar (~/tmp/toggle-statusbar-instructions.md)
+		- [x] Toggle Top Bar (~/tmp/toggle-statusbar-instructions.md)
 	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
 	- [ ] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
