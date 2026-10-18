@@ -169,8 +169,8 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Capture
-		- [ ] Screenshot
-		- [ ] Screen Record
+		- [x] Screenshot 
+		- [ ] Screen Record (~/tmp/screen-record-guide.md)
 		- [ ] Color Picker
 		- [ ] Transcoding menu
 		- [ ] Text Extraction to Clipboard
