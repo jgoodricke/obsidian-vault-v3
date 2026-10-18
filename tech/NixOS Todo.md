@@ -180,15 +180,15 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Idle/Sleep prevention (~/tmp/prevent-idle-implementation.md)
 		- [x] Laptop Display (~tmp/laptop-display-toggle-guide.md)
 		- [x] Toggle Top Bar (~/tmp/toggle-statusbar-instructions.md)
-	- [ ] Change Btop to Super + Ctrl + T
-	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
-	- [ ] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
-	- [ ] Minimum/Maximum screen brightness (/tmp/omarchy-brightness-hotkeys-guide.md)
-	- [ ] Precise 1% volume and brightness changes (/tmp/precise-media-hotkeys-guide.md)
+	- [x] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
+	- [x] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
+	- [ ] Minimum/Maximum screen brightness (~/tmp/omarchy-brightness-hotkeys-guide.md)
+	- [ ] Precise 1% volume and brightness changes (~/tmp/precise-media-hotkeys-guide.md)
 	- [x] System Sleep (and sleep on battery)
 	- [ ] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
 	- [ ] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
+	- [ ] Change Btop to Super + Ctrl + T
 	- [x] Check if any other features are missing
 	- [x] Fix keybindings baseline test
 - [ ] Theming Round 2
