@@ -177,16 +177,15 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Toggle Menu
 		- [x] Night Light (~/tmp/night-light-instructions.md))
 		- [x] Audio Output (~tmp/audio-output-toggle-guide.md)
+		- [x] Idle/Sleep prevention (~/tmp/prevent-idle-implementation.md)
 		- [ ] Laptop Display (~tmp/laptop-display-toggle-guide.md)
-		- [ ] Idle/Sleep prevention.
-		- [ ] Toggle Top Bar
+		- [ ] Toggle Top Bar (~/tmp/toggle-statusbar-instructions.md)
 	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
 	- [ ] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
 	- [ ] Minimum/Maximum screen brightness (/tmp/omarchy-brightness-hotkeys-guide.md)
 	- [ ] Precise 1% volume and brightness changes (/tmp/precise-media-hotkeys-guide.md)
 	- [ ] System Sleep (and sleep on battery)
-	- [ ] Hibernation.
 	- [ ] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
 	- [ ] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
@@ -240,6 +239,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [ ] Current Time
 		- [ ] Current Battery
 	- [ ] Windows VM
+	- [ ] Hibernation
 ## Justfile
 ### Building
 ```bash
