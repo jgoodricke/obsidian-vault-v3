@@ -176,9 +176,9 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Dictation (~/tmp/dictation-implementation.md)
 	- [ ] Toggle Menu
 		- [x] Night Light (~/tmp/night-light-instructions.md))
-		- [ ] Audio Output (~tmp/audio-output-toggle-guide.md)
+		- [x] Audio Output (~tmp/audio-output-toggle-guide.md)
 		- [ ] Laptop Display (~tmp/laptop-display-toggle-guide.md)
-		- [ ] Idle/Sleep prevention (make sure it also prevents screensaver).k
+		- [ ] Idle/Sleep prevention.
 		- [ ] Toggle Top Bar
 	- [ ] Change Btop to Super + Ctrl + T
 	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
