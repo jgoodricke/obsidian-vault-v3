@@ -167,52 +167,49 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] See all reminders
 		- [x] Clear all reminders
 	- [ ] Change Btop to Super + Ctrl + T
-	- [ ] Zoom in on screen (repeat for more zoom)
-	- [ ] Capture
+	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
+	- [x] Capture
 		- [x] Screenshot 
 		- [x] Screen Record (~/tmp/screen-record-guide.md)
 		- [x] *Color Picker*
-		- [ ] Transcoding menu (~/tmp/transcoding-menu-implementation.md)
-		- [ ] Text Extraction to Clipboard (~/tmp/text-extraction-to-clipboard.md)
-		- [ ] Dictation (~/tmp/dictation-implementation.md)
+		- [x] Transcoding menu (~/tmp/transcoding-menu-implementation.md)
+		- [x] Text Extraction to Clipboard (~/tmp/text-extraction-to-clipboard.md)
+		- [x] Dictation (~/tmp/dictation-implementation.md)
 	- [ ] Toggle Menu
-		- [ ] Night Light
-		- [ ] Audio Output
-		- [ ] Nightlight Display Temperature
-		- [ ] Laptop Display
-		- [ ] Top Bar
-	- [ ] Hardware menu
-	- [ ] Fastfetch
-	- [ ] Cycle forward through monitor scaling options
-	- [ ] Minimum/Maximum screen brightness
-	- [ ] Precise 1% volume and brightness changes
+		- [x] Night Light (~/tmp/night-light-instructions.md))
+		- [ ] Audio Output (~tmp/audio-output-toggle-guide.md)
+		- [ ] Laptop Display (~tmp/laptop-display-toggle-guide.md)
+	- [ ] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
+	- [ ] Minimum/Maximum screen brightness (/tmp/omarchy-brightness-hotkeys-guide.md)
+	- [ ] Precise 1% volume and brightness changes (/tmp/precise-media-hotkeys-guide.md)
+	- [ ] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
+	- [ ] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [ ] Check if any other features are missing
 	- [x] Fix keybindings baseline test
-	- [ ] Maybe
-		- [ ] Idle/Sleep Prevention?
-		- [ ] Hotkeys for moving between monitors?
-		- [ ] Hibernate?
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [ ] Set up Helium
-	- [ ] Add VLC
 	- [ ] Add Google Calendar shortcut
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [ ] Add a hotkey (or another way) to see the last notifications.
+	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
 		- [x] [Birds](https://github.com/clainstone/cbirds)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
-	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
+	- [x] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
+	- [ ] Add VLC
+	- [ ] Add an image viewer that supports moving between images.
+	- [ ] Add a PDF reader that supports signing PDFs.
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
-	- [ ] Figure out why login screen freezes when using mouse. 
+	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
@@ -230,7 +227,11 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
-
+- [ ] Maybe Implement these Omarchy Features:
+	- [ ] Idle/Sleep Prevention?
+	- [ ] Hotkeys for moving between monitors?
+	- [ ] Hibernate?
+	- [ ] Toggle Top Bar
 
 ## Justfile
 ### Building
