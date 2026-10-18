@@ -184,7 +184,8 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Precise 1% volume and brightness changes (/tmp/precise-media-hotkeys-guide.md)
 	- [ ] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
 	- [ ] About Menu (~/tmp/fastfetch-about-page-guide.md)
-	- [ ] Check if any other features are missing
+	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
+	- [x] Check if any other features are missing
 	- [x] Fix keybindings baseline test
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
