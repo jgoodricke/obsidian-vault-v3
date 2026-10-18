@@ -205,8 +205,9 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [ ] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
-- [ ] Install WLR Which Key (and find an equivalent for Windows)
-- [ ] Quick Emojis (find a better example)
+	- [ ] Set up Helium
+	- [ ] Install WLR Which Key (and find an equivalent for Windows)
+	- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Figure out why login screen freezes when using mouse. 
