@@ -134,6 +134,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Add Catppuccin theme to Pi
 	- [ ] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
+	- [ ] Add notification when task completed.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
@@ -166,8 +167,6 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Set a reminder
 		- [x] See all reminders
 		- [x] Clear all reminders
-	- [ ] Change Btop to Super + Ctrl + T
-	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
 	- [x] Capture
 		- [x] Screenshot 
 		- [x] Screen Record (~/tmp/screen-record-guide.md)
@@ -179,9 +178,15 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Night Light (~/tmp/night-light-instructions.md))
 		- [ ] Audio Output (~tmp/audio-output-toggle-guide.md)
 		- [ ] Laptop Display (~tmp/laptop-display-toggle-guide.md)
+		- [ ] Idle/Sleep prevention (make sure it also prevents screensaver).k
+		- [ ] Toggle Top Bar
+	- [ ] Change Btop to Super + Ctrl + T
+	- [ ] Zoom in on screen (~/tmp/omarchy-screen-zoom-guide.md)
 	- [ ] Cycle forward through monitor scaling options (/tmp/monitor-scaling-guide.md)
 	- [ ] Minimum/Maximum screen brightness (/tmp/omarchy-brightness-hotkeys-guide.md)
 	- [ ] Precise 1% volume and brightness changes (/tmp/precise-media-hotkeys-guide.md)
+	- [ ] System Sleep (and sleep on battery)
+	- [ ] Hibernation.
 	- [ ] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
 	- [ ] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [ ] Check if any other features are missing
@@ -190,10 +195,10 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
-	- [ ] Set up Helium
-	- [ ] Add Google Calendar shortcut
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
-	- [ ] Add a hotkey (or another way) to see the last notifications.
+	- [ ] Add a hotkey (or another way) to see the previous notifications.
+	- [ ] Add Google Calendar shortcut
+	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
@@ -204,7 +209,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 - [ ] Theming Round 3
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
-	- [ ] Add a PDF reader that supports signing PDFs.
+	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
@@ -228,11 +233,12 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
 - [ ] Maybe Implement these Omarchy Features:
-	- [ ] Idle/Sleep Prevention?
 	- [ ] Hotkeys for moving between monitors?
-	- [ ] Hibernate?
-	- [ ] Toggle Top Bar
-
+	- [ ] Weather
+	- [ ] Notification Toggle
+		- [ ] Current Time
+		- [ ] Current Battery
+	- [ ] Windows VM
 ## Justfile
 ### Building
 ```bash
