@@ -170,9 +170,9 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Zoom in on screen (repeat for more zoom)
 	- [ ] Capture
 		- [x] Screenshot 
-		- [ ] Screen Record (~/tmp/screen-record-guide.md)
-		- [ ] Color Picker
-		- [ ] Transcoding menu
+		- [ ] *Screen Record (~/tmp/screen-record-guide.md)*
+		- [ ] *Color Picker*
+		- [ ] *Transcoding menu*
 		- [ ] Text Extraction to Clipboard
 		- [ ] Dictation
 		- [ ] Capture Menu
