@@ -251,5 +251,5 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Hibernation
 
 ## ricing list
-		- https://github.com/fosslife/awesome-ricing
+- https://github.com/fosslife/awesome-ricing
 - https://github.com/avtzis/awesome-linux-ricing
