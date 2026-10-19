@@ -145,7 +145,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 - [ ] Pi Round 2
 	- [ ] Update Pi to use Stylix theme. 
 	- [ ] Sort out config, it looks a bit overly complex.
-- [ ] Theming - Missing Features
+- [x] Theming - Missing Features
 	- [x]  Grow Window shortcuts
 	- [x] Toggle pseudo window style (natural v stretch)
 	- [x] Go full width
