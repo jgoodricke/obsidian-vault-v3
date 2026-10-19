@@ -203,7 +203,6 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
-	- [ ] Fix styling the about menu to look like [this](https://forum.endeavouros.com/uploads/default/original/3X/9/1/916d87314f525a95ce5a0ad3278635d91af6336d.jpeg).
 	- [ ] Replace fastfetch with Neofetch.
 	- [ ] Tidy Up Alt Menu
 		- [ ] Get rid of trigger menu.
