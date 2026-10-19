@@ -205,6 +205,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Replace fastfetch with Neofetch.
 	- [ ] Tidy Up Alt Menu
+		- [ ] Change Alt Menu labels to Match Omarchy.
 		- [ ] Get rid of trigger menu.
 		- [ ] Add missing icons
 		- [ ] Fix some entries being too long.
