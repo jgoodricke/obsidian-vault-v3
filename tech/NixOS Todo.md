@@ -204,7 +204,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Tidy Up Alt Menu
-		- [ ] Change Alt Menu labels to Match Omarchy.
+		- [x] Change Alt Menu labels to Match Omarchy.
 		- [ ] Get rid of trigger menu.
 		- [ ] Add missing icons
 		- [ ] Fix some entries being too long.
