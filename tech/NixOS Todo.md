@@ -216,6 +216,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [x] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
+	- [ ] Replace fastfetch with Neofetch.
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
 	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
@@ -236,12 +237,10 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [ ] https://github.com/catppuccin/cursors
 - [ ] Theming round 5
 	- [ ] Install Dynamic Dark theme
-	- [ ] check out ricing list:
-		- [ ] https://github.com/fosslife/awesome-ricing
-		- [ ] https://github.com/avtzis/awesome-linux-ricing
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
+
 - [ ] Maybe Implement these Omarchy Features:
 	- [ ] Hotkeys for moving between monitors?
 	- [ ] Weather
@@ -250,13 +249,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [ ] Current Battery
 	- [ ] Windows VM
 	- [ ] Hibernation
-## Justfile
-### Building
-```bash
-git add .
 
-nix flake check
-
-sudo nixos-rebuild build --flake .#bishop
-sudo nixos-rebuild switch --flake .#bishop
-```
+## ricing list
+		- https://github.com/fosslife/awesome-ricing
+- https://github.com/avtzis/awesome-linux-ricing
