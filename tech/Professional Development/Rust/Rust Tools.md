@@ -1,19 +1,22 @@
 
 
-- Test Runner: [Bacon](https://crates.io/crates/bacon) - Build, clippy, test, run watcher.
-- Async Runtime: [TOKIO](https://crates.io/crates/tokio)
+- [Bacon](https://crates.io/crates/bacon) - Build, clippy, test, run watcher.
+- [TOKIO](https://crates.io/crates/tokio):  Async Runtime:
 - better runtime exceptions: 
 	- Eyre
 	- [Color-Eyre](https://crates.io/crates/color-eyre)
-- Better logging: [tracing](https://crates.io/crates/tracing) - Async-native logging
-- http requests: [Reqwest](https://crates.io/crates/reqwest)
-- Easy parallelism: [Rayon](https://crates.io/crates/rayon)
+-  [tracing](https://crates.io/crates/tracing) - Async-native logging
+- [Reqwest](https://crates.io/crates/reqwest):  http requests:
+- [Rayon](https://crates.io/crates/rayon):  Easy parallelism:
 - [AWS SDK](https://crates.io/crates/aws-sdk-rust)
-- Command Line Parser: [Clap](https://crates.io/crates/clap)
-- SQL Framework: [SQLX](https://crates.io/crates/sqlx)
-- Datetimes: [Chrono](https://crates.io/crates/chrono)
+- [Clap](https://crates.io/crates/clap): Command Line Parser:
+-  [SQLX](https://crates.io/crates/sqlx): SQL Framework:
+- [Chrono](https://crates.io/crates/chrono): Datetimes
 - iRust: Fully-featured REPL, debug, asm inspection.
 - rstest: testing framework with fixtures
+- Nextest: Next generation test runner
+- Cargo Generate: quickly scaffold larger frameworks such as a web app
+- watchexec: execute commands in response to file modifications
 - const_panic: string formatting for asserts in a const format
 - tailcall: adss tail call recursion.
 
@@ -85,7 +88,7 @@ strip = "symbols"   # Strip symbols from binary
 
 ### Useful Commands
 ```Bash
-# cargo clippy
+# cargo clippy - use this instead of relying on IDE
 bacon clippy
 
 
@@ -101,6 +104,7 @@ Source: https://m.youtube.com/watch?v=JIvKgSyvtxI
 ## Tips
 - Use const functions wherever possible. These work like pure functions (kind of).
 - use Compiler-Driven development (similar to Type-Driven Development)
+- Follow the advice of cargo clippy. Remember, that the first error in your file is not always the one to fix - the first error in the COMPILER output usually is.
 
 Source:
 https://github.com/0atman/noboilerplate/blob/main/scripts/06-build-your-rust-lightsaber.md
