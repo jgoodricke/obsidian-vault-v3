@@ -186,10 +186,9 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Precise 1% volume and brightness changes (~/tmp/precise-media-hotkeys-guide.md)
 	- [x] System Sleep (and sleep on battery)
 	- [x] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
-		- [ ] Toggle Touchpad (~/tmp/toggle-touchpad-instructions.md)
+		- [x] Toggle Touchpad (~/tmp/toggle-touchpad-instructions.md)
 		- [ ] Toggle Screen Mirroring (~/tmp/screen-mirroring-guide.md)
 	- [x] About Menu (~/tmp/fastfetch-about-page-guide.md)
-	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
 	- [x] Change Btop to Super + Ctrl + T
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [x] Check if any other features are missing
@@ -204,6 +203,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Fix styling the about menu to look like [this](https://forum.endeavouros.com/uploads/default/original/3X/9/1/916d87314f525a95ce5a0ad3278635d91af6336d.jpeg).
+	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
