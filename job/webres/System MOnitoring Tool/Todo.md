@@ -1,0 +1,5 @@
+- [ ] Familiarise myself with the Docs.
+- [ ] Development Environment
+	- [ ] Set up Docker image.
+	- [ ] Set up clippy and all those tools.
+	- [ ] 

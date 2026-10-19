@@ -1,6 +1,4 @@
-Source:
-https://github.com/0atman/noboilerplate/blob/main/scripts/06-build-your-rust-lightsaber.md
-https://m.youtube.com/watch?v=ifaLk5v3W90&list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP&index=6&pp=iAQB
+
 
 - Test Runner: [Bacon](https://crates.io/crates/bacon) - Build, clippy, test, run watcher.
 - Async Runtime: [TOKIO](https://crates.io/crates/tokio)
@@ -21,14 +19,45 @@ https://m.youtube.com/watch?v=ifaLk5v3W90&list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSE
 
 - Poem-openapi: Fast, correct, and ergonomic REST builder
 - Serde: Data serialisation
+- CARGO-SEEK: A TUI for finding rust packages.
 
-## Clippy Sensible Defaults
+
+## Clippy Sensible Defaults (OLD)
 ```
 cargo clippy --fix -- \
 -W clippy::pedantic \
 -W clippy::nursery \
 -W clippy::unwrap_used \
 -W clippy::expect_used
+```
+
+## Clippy Config
+### cargo.toml
+```toml
+[lints.clippy]
+pedantic = { level = "deny", priority = -1 }   # UM, ACTUALLY
+nursery = { level = "deny", priority = -1 }    # BETA LINTS
+# DENY PANICS
+unwrap_used = "deny"
+expect_used = "deny"
+indexing_slicing = "deny"
+arithmetic_side_effects = "deny"
+unreachable = "deny"
+unimplemented = "deny"
+unchecked_time_subtraction = "deny"
+todo = "deny"
+string_slice = "deny"
+panic_in_result_fn = "deny"
+panic = "deny"
+exit = "deny"
+as_conversions = "deny"
+```
+### clippy.toml
+```toml
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-panic-in-tests = true
+allow-indexing-slicing-in-tests = true
 ```
 
 
@@ -53,6 +82,7 @@ panic = 'abort'     # Abort on panic
 strip = "symbols"   # Strip symbols from binary
 ```
 
+
 ### Useful Commands
 ```Bash
 # cargo clippy
@@ -71,3 +101,7 @@ Source: https://m.youtube.com/watch?v=JIvKgSyvtxI
 ## Tips
 - Use const functions wherever possible. These work like pure functions (kind of).
 - use Compiler-Driven development (similar to Type-Driven Development)
+
+Source:
+https://github.com/0atman/noboilerplate/blob/main/scripts/06-build-your-rust-lightsaber.md
+http://namtao.com/rust-toolkit-2026/
