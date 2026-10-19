@@ -174,7 +174,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Transcoding menu (~/tmp/transcoding-menu-implementation.md)
 		- [x] Text Extraction to Clipboard (~/tmp/text-extraction-to-clipboard.md)
 		- [x] Dictation (~/tmp/dictation-implementation.md)
-	- [ ] Toggle Menu
+	- [x] Toggle Menu
 		- [x] Night Light (~/tmp/night-light-instructions.md))
 		- [x] Audio Output (~tmp/audio-output-toggle-guide.md)
 		- [x] Idle/Sleep prevention (~/tmp/prevent-idle-implementation.md)
@@ -190,9 +190,10 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [x] Toggle Screen Mirroring (~/tmp/screen-mirroring-guide.md)
 	- [x] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [x] Change Btop to Super + Ctrl + T
-	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
+	- [x] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [x] Check if any other features are missing
 	- [x] Fix keybindings baseline test
+	- [ ] Style SwayOSD (volume,brightness,touchpad toggle etc) to look like Omarchy
 - [ ] Theming Round 2
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
@@ -203,7 +204,6 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Fix styling the about menu to look like [this](https://forum.endeavouros.com/uploads/default/original/3X/9/1/916d87314f525a95ce5a0ad3278635d91af6336d.jpeg).
-	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
@@ -218,6 +218,11 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
+	- [ ] Remove Configuration from Night Light menu.
+	- [ ] Tidy Up Alt Menu
+		- [ ] Get rid of trigger menu.
+		- [ ] Add missing icons
+		- [ ] Fix some entries being too long.
 	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
