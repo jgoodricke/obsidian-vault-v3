@@ -200,7 +200,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
-	- [ ] Fix Alt + Brightness down not work
+	- [ ] Fix Alt + Brightness Down not working.
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
