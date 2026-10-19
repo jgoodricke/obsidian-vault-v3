@@ -187,7 +187,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] System Sleep (and sleep on battery)
 	- [x] Hardware menu (/tmp/omarchy-hardware-menu-guide.md)
 		- [x] Toggle Touchpad (~/tmp/toggle-touchpad-instructions.md)
-		- [ ] Toggle Screen Mirroring (~/tmp/screen-mirroring-guide.md)
+		- [x] Toggle Screen Mirroring (~/tmp/screen-mirroring-guide.md)
 	- [x] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [x] Change Btop to Super + Ctrl + T
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
