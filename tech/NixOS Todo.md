@@ -222,20 +222,19 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Quick Emojis (find a better example)
-	- [ ] Style Login Page
-	- [ ] Style Bootloader
 	- [ ] Remove Configuration from Night Light menu.
 	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
-
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 - [ ] Theming round 5
+- [ ] Style Login Page
+	- [ ] Style Bootloader
 	- [ ] Install Dynamic Dark theme
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
