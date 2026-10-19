@@ -208,7 +208,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [ ] Get rid of trigger menu.
 		- [ ] Add missing icons
 		- [ ] Fix some entries being too long.
-		- [ ] Remove Close All Windows from the System Menu.
+		- [x] Remove Close All Windows from the System Menu.
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
