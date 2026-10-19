@@ -190,7 +190,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 		- [ ] Toggle Screen Mirroring (~/tmp/screen-mirroring-guide.md)
 	- [x] About Menu (~/tmp/fastfetch-about-page-guide.md)
 	- [ ] Style SwayOSD (volume/brightness) to look like Omarchy
-	- [ ] Change Btop to Super + Ctrl + T
+	- [x] Change Btop to Super + Ctrl + T
 	- [ ] Disable Notification Timeout (set default-timeout to 0 and ignore-timeout to 1).
 	- [x] Check if any other features are missing
 	- [x] Fix keybindings baseline test
