@@ -229,7 +229,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
-	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
+
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [ ] Make update button interactive.
 		- [ ] Pass the update process to an LLM.
@@ -240,15 +240,17 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
-
-- [ ] Maybe Implement these Omarchy Features:
-	- [ ] Hotkeys for moving between monitors?
-	- [ ] Weather
-	- [ ] Notification Toggle
-		- [ ] Current Time
-		- [ ] Current Battery
-	- [ ] Windows VM
-	- [ ] Hibernation
+- [ ] Won't Do
+	- [ ] Install catppuccin-nix: https://github.com/catppuccin/nix
+	- [ ] Maybe Implement these Omarchy Features:
+		- [ ] Hotkeys for moving between monitors?
+		- [ ] Weather
+		- [ ] Notification Toggle
+			- [ ] Current Time
+			- [ ] Current Battery
+		- [ ] Windows VM
+		- [ ] Hibernation
+		- [ ] 
 
 ## ricing list
 - https://github.com/fosslife/awesome-ricing
