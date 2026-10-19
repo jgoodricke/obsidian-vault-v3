@@ -233,7 +233,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 - [ ] Theming round 5
-- [ ] Style Login Page
+	- [ ] Style Login Page
 	- [ ] Style Bootloader
 	- [ ] Install Dynamic Dark theme
 - [ ] Advanced Setup
