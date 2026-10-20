@@ -108,4 +108,4 @@ Source: https://m.youtube.com/watch?v=JIvKgSyvtxI
 
 Source:
 https://github.com/0atman/noboilerplate/blob/main/scripts/06-build-your-rust-lightsaber.md
-http://namtao.com/rust-toolkit-2026/
+https://www.namtao.com/rust-toolkit-2026/
