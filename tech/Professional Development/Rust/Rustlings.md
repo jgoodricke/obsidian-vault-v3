@@ -1,0 +1,119 @@
+- [ ] 00_intro
+	- [ ] intro1.rs
+	- [ ] intro2.rs
+- [ ] 01_variables
+	- [x] variables1.rs
+	- [ ] variables2.rs
+	- [ ] variables3.rs
+	- [ ] variables4.rs
+	- [ ] variables5.rs
+	- [ ] variables6.rs
+- [ ] 02_functions
+	- [ ] functions1.rs
+	- [ ] functions2.rs
+	- [ ] functions3.rs
+	- [ ] functions4.rs
+	- [ ] functions5.rs
+- [ ] 03_if
+	- [ ] if1.rs
+	- [ ] if2.rs
+	- [ ] if3.rs
+- [ ] 04_primitive_types
+	- [ ] primitive_types1.rs
+	- [ ] primitive_types2.rs
+	- [ ] primitive_types3.rs
+	- [ ] primitive_types4.rs
+	- [ ] primitive_types5.rs
+	- [ ] primitive_types6.rs
+- [ ] 05_vecs
+	- [ ] vecs1.rs
+	- [ ] vecs2.rs
+- [ ] 06_move_semantics
+	- [ ] move_semantics1.rs
+	- [ ] move_semantics2.rs
+	- [ ] move_semantics3.rs
+	- [ ] move_semantics4.rs
+	- [ ] move_semantics5.rs
+- [ ] 07_structs
+	- [ ] structs1.rs
+	- [ ] structs2.rs
+	- [ ] structs3.rs
+- [ ] 08_enums
+	- [ ] enums1.rs
+	- [ ] enums2.rs
+	- [ ] enums3.rs
+- [ ] 09_strings
+	- [ ] strings1.rs
+	- [ ] strings2.rs
+	- [ ] strings3.rs
+	- [ ] strings4.rs
+- [ ] 10_modules
+	- [ ] modules1.rs
+	- [ ] modules2.rs
+	- [ ] modules3.rs
+- [ ] 11_hashmaps
+	- [ ] hashmaps1.rs
+	- [ ] hashmaps2.rs
+	- [ ] hashmaps3.rs
+- [ ] 12_options
+	- [ ] options1.rs
+	- [ ] options2.rs
+	- [ ] options3.rs
+- [ ] 13_error_handling
+	- [ ] errors1.rs
+	- [ ] errors2.rs
+	- [ ] errors3.rs
+	- [ ] errors4.rs
+	- [ ] errors5.rs
+	- [ ] errors6.rs
+- [ ] 14_generics
+	- [ ] generics1.rs
+	- [ ] generics2.rs
+- [ ] 15_traits
+	- [ ] traits1.rs
+	- [ ] traits2.rs
+	- [ ] traits3.rs
+	- [ ] traits4.rs
+	- [ ] traits5.rs
+- [ ] 16_lifetimes
+	- [ ] lifetimes1.rs
+	- [ ] lifetimes2.rs
+	- [ ] lifetimes3.rs
+- [ ] 17_tests
+	- [ ] tests1.rs
+	- [ ] tests2.rs
+	- [ ] tests3.rs
+- [ ] 18_iterators
+	- [ ] iterators1.rs
+	- [ ] iterators2.rs
+	- [ ] iterators3.rs
+	- [ ] iterators4.rs
+	- [ ] iterators5.rs
+- [ ] 19_smart_pointers
+	- [ ] arc1.rs
+	- [ ] box1.rs
+	- [ ] cow1.rs
+	- [ ] rc1.rs
+- [ ] 20_threads
+	- [ ] threads1.rs
+	- [ ] threads2.rs
+	- [ ] threads3.rs
+- [ ] 21_macros
+	- [ ] macros1.rs
+	- [ ] macros2.rs
+	- [ ] macros3.rs
+	- [ ] macros4.rs
+- [ ] 22_clippy
+	- [ ] clippy1.rs
+	- [ ] clippy2.rs
+	- [ ] clippy3.rs
+- [ ] 23_conversions
+	- [ ] as_ref_mut.rs
+	- [ ] from_into.rs
+	- [ ] from_str.rs
+	- [ ] try_from_into.rs
+	- [ ] using_as.rs
+- [ ] quizzes
+	- [ ] quiz1.rs
+	- [ ] quiz2.rs
+	- [ ] quiz3.rs
