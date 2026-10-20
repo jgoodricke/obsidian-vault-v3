@@ -3,7 +3,8 @@
 - Monitoring Devices for Zoro-Days
 	- Need to find a data source for this.
 ## User Device Monitoring
-- Pulling Data from Windows Defender, SentinalOne and mapping that against 365 Devices
+- Pulling Data from Halo for User Data. 
+- Matching that from data from Windows Defender, SentinalOne and mapping that against 365 Devices
 ## User Monitoring
 - Monitoring for Suspicious activity.
 - Pulling that data from SentinalOne.
