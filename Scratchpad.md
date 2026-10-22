@@ -1,30 +1,3 @@
-# Tax Todo
-- [ ] Get Deductions
-	- [x] AI
-		- [x] OpenAI
-		- [x] OpenAI API
-		- [x] Anthropic
-		- [x] Anthropic API
-		- [x] Fireworks
-		- [x] OpenCode
-	- [x] Sunsama
-	- [x] Ebay
-	- [x] Amazon
-	- [x] Officeworks
-	- [x] Good Guys
-	- [x] PC Case Gear
-	- [x] Ikea
-	- [ ] Spotify
-	- [x] Jetbrains
-	- [x] Physical Reciepts
-	- [ ] Digital Reciepts
-- [x] Calculate WFH
-- [ ] Things for Christy to Claim
-	- [ ] Dreame Robot
-	- [ ] Fridge
-	- [ ] Washer
-
-
 ## BPC Case Manager 
 Martina BPC
 1300 124 512
