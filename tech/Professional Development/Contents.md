@@ -13,7 +13,8 @@
 		- [ ] Do Rust by Example
 		- [ ] Learn Haskell
 			- [ ] Learn You A Haskell
-			- [ ] Real World Haskell
+			- [ ] Real World Haskell?
+			- [ ] [Maybe Hascal](https://github.com/thoughtbot/maybe_haskell/tree/master/release)
 	- [ ] [[Rust Book]]
 	- [ ] [[Rust by Example]]
 	- [ ] [[Rustlings]]
