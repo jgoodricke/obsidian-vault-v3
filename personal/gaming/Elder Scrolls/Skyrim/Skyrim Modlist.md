@@ -51,6 +51,9 @@
 - Voiced Narrative - The Cause
 - Voiced Narrative - Ghosts of the Tribunal
 - Faster NGIO Grass Cache
+- Stealth Fixes - SKSE
+- Shadow Fixes - SKSE
+- Lethal Unarmed VR
 
 Redguard:
 - Desert Trader

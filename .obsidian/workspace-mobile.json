@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Skyrim Modlist"
             }
           },
           {
@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -424,11 +424,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "dde84347e15bfc10",
+  "active": "96b224576ebed48b",
   "lastOpenFiles": [
+    "personal/Recurring Bills.md",
+    "personal/Brandon Sanderson Cosmere Reading Order.md",
     "tech/Professional Development/Rust/Rust Book.md",
-    "tech/NixOS Todo.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
+    "tech/NixOS Todo.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Task Notes/CBR-304 - Add Custom Reporting Period Selection to Reports.md",
     "job/webres/Carebridge/Task Notes/CBR-303 - Allow Provider Users to Print Application Forms.md",
@@ -438,11 +440,9 @@
     "job/webres/Carebridge/Task Notes/CBR-301 - Confirm Deletion for Users, Companies, Facilities and Vacancies.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-10-15.md",
     "tech/Useful Tools.md",
-    "personal/Recurring Bills.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
-    "personal/Brandon Sanderson Cosmere Reading Order.md",
     "tech/Professional Development/Contents.md",
     "Rustlings.md",
     "Dioxus.md",

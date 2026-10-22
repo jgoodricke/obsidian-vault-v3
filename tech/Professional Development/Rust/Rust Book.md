@@ -9,7 +9,7 @@ https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
 
 Up to
-https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#in-method-definitions
+https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 ## First Read
 ### Read Now
 
@@ -56,10 +56,10 @@ https://doc.rust-lang.org/stable/book/ch10-03-lifetime-syntax.html#in-method-def
     - [x] 9.1. Unrecoverable Errors with panic!
     - [x] 9.2. Recoverable Errors with Result
     - [x] 9.3. To panic! or Not to panic!
-- [ ] 10. Generic Types, Traits, and Lifetimes
+- [x] 10. Generic Types, Traits, and Lifetimes
     - [x] 10.1. Generic Data Types
     - [x] 10.2. Defining Shared Behavior with Traits
-    - [ ] 10.3. Validating References with Lifetimes
+    - [x] 10.3. Validating References with Lifetimes
 ### Soon
 - [ ] 11. Writing Automated Tests
     - [ ] 11.1. How to Write Tests

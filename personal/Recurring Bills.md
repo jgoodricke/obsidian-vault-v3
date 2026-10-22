@@ -28,6 +28,7 @@ Electricity: Alinta Energy
 Gas: Energy Locals
 
 # My Account
+Remember to get Hunble Bundle
 
 Allowance (bi-weekly): $323.08
 
