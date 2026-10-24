@@ -1,0 +1,8 @@
+- [ ] List of Matters in Dispute
+- [ ] Copy of email or text correspondence relating to dispute 
+- [ ] Copy of contract of sale
+- [ ] Copy of building permit
+- [ ] Copy of occupancy permit
+- [ ] Domestic Building Insurance Certificate
+- [ ] Copy of building report
+- [ ] Supporting photographs
