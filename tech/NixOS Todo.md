@@ -203,6 +203,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
+	- [ ] Fix sleep not working.
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
 		- [ ] Get rid of trigger menu.
