@@ -24,7 +24,14 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 
 - [ ] Fix boot order
 - [ ] Check these out
-	- [ ] Hype, Monologue, Signed, Elsewhen, Disktree, Omawrite, Omacut, and Omacalc
+	- [ ] Hype
+	- [ ] Monologue
+	- [ ] Signed
+	- [ ] Elsewhen
+	- [ ] Disktree
+	- [ ] Omawrite
+	- [ ] Omacut
+	- [ ] Omacalc
 - [x] Commit LLM Prompt picker changes
 - [x] remove S from password
 	- [x] webres
