@@ -1,5 +1,5 @@
 - [ ] List of Matters in Dispute
-- [ ] Copy of email or text correspondence relating to dispute 
+- [x] Copy of email or text correspondence relating to dispute 
 - [ ] Supporting photographs
 - [x] Documents
 	- [x] Copy of contract of sale
