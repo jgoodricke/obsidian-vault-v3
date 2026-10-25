@@ -1,4 +1,4 @@
-- [ ] List of Matters in Dispute
+- [x] List of Matters in Dispute
 - [x] Copy of email or text correspondence relating to dispute 
 - [ ] Supporting photographs
 	- [x] 1. Garage concrete slab cracking and localised dip

@@ -25,8 +25,6 @@ Page references below are PDF page numbers, counted from the first page of each 
 - **C — Correspondence:** Email chain from 11 June to 15 July 2026, attached as `correspondence.pdf`.
 - **P — Building permit:** Permit dated 18 September 2020, recording amendment 1 dated 20 October 2020; attached as `building-permit.pdf`.
 
-The supplied builder correspondence predates the engineering report. It does not show the builder's response to that report. Photographs referred to below are those within the reports, unless a separate photograph is expressly identified.
-
 ## A. Cracking, floor levels, drainage and bathroom moisture
 
 ### 1. Garage concrete slab cracking and localised dip
@@ -34,7 +32,7 @@ The supplied builder correspondence predates the engineering report. It does not
 - **Location:** Garage floor slab.
 - **Matter in dispute:** The building report records significant cracking and recommends engineering assessment. The engineering report records cracks from hairline to approximately 2 mm, together with a localised dip and discolouration. It identifies differential footing movement and normal concrete shrinkage as possible causes. It says the cracks do not pose a structural integrity risk and do not require repair, although filling is an option. It recommends a concrete overlay to raise the low area. Whether the slab condition involves defective building work, and who is responsible for any required work, remain disputed.
 - **Builder's position:** Denies a defect attributable to its work and attributes movement and cracking to drainage, landscaping and post-handover conditions. Its July response does not provide a detailed garage crack survey or slab-level assessment.
-- **Outcome requested:** Assess the cracking and dip together with matter 4. Agree on any further investigation, monitoring, and work needed to restore floor serviceability. Rectify any condition attributable to defective builder work. I do not seek slab replacement or structural repair without supporting engineering advice.
+- **Outcome requested:** Assess the cracking and dip together with matter 4. Agree on any further investigation, monitoring, and work needed to restore floor serviceability. Rectify any condition attributable to defective builder work. 
 - **Evidence:** B, major defect 1.01, pp. 12–13; E, observation 4, pp. 17–18, and floor survey, pp. 9–11; C, pp. 2–3 and 9–11.
 
 ### 2. External brickwork cracking
