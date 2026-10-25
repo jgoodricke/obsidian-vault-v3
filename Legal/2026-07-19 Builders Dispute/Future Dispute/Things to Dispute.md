@@ -1,0 +1,2 @@
+- Laundry door does not shut correctly, the pin does not line up with the hole. 
+- Window locks do not work, the window can easily be opened even when locked.

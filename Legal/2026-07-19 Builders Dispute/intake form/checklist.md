@@ -1,6 +1,18 @@
 - [ ] List of Matters in Dispute
 - [x] Copy of email or text correspondence relating to dispute 
 - [ ] Supporting photographs
+	- [x] 1. Garage concrete slab cracking and localised dip
+	- [x] 2. External brickwork cracking (above garage entrance and western wall)
+	- [x] 3. Surface drainage, ponding and ground levels around the dwelling
+	- [x] 4. Uneven floor levels and associated internal cracking or separation
+	- [x] 5. Bathroom shower moisture and possible leakage
+	- [x] 6. Window sealing and possible water ingress
+	- [x] 7. Roof-tile pointing
+	- [x] 8. Loose gutter clips
+	- [ ] 9. External concrete paving cracks and separation from brickwork
+	- [x] 10. Missing laundry door seal
+	- [x] 11. Sticking and moisture-damaged laundry door
+	- [x] 12. Flooring edges and quad mouldings
 - [x] Documents
 	- [x] Copy of contract of sale
 	- [x] Copy of building permit
