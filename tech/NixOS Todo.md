@@ -264,8 +264,8 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Rebind fn key to the ends
 	- [ ] Rebind backspace to the keys left of the space bar
 		- [ ] Add an alt-layer to those keys for delete
-	- [ ] Add an alt-layer for slash, adding the backslash key.
-	- [ ] Add an alt-layer to the quote key, adding the tilde key
+	- [x] Add an alt-layer for slash, adding the backslash key.
+	- [x] Add an alt-layer to the quote key, adding the tilde key
 
 ## ricing list
 - https://github.com/fosslife/awesome-ricing
