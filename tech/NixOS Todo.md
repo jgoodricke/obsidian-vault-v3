@@ -207,6 +207,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [x] Fix keyboard shortcut for moving windows.
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
+	- [x] Add keyboard shortcuts for Yazi.
 	- [ ] Add a hotkey (or another way) to see the previous notifications.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
