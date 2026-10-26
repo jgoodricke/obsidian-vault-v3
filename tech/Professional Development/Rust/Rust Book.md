@@ -62,7 +62,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
     - [x] 10.3. Validating References with Lifetimes
 ### Soon
 - [ ] 11. Writing Automated Tests
-    - [ ] 11.1. How to Write Tests
+    - [x] 11.1. How to Write Tests
     - [ ] 11.2. Controlling How Tests Are Run
     - [ ] 11.3. Test Organization
 - [ ] 12. An I/O Project: Building a Command Line Program
