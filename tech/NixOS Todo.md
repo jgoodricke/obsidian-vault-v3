@@ -214,6 +214,7 @@ F9	Push-to-talk dictation (requires Install > AI > Dictation)
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Set Yazi as default file manager
+	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
 		- [ ] Get rid of trigger menu.
