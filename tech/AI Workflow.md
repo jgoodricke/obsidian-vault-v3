@@ -6,6 +6,7 @@
 - Planning: Write spec
 - Planning: Write tickets
 - Execution: run agents
+- Execution: run laravel simplifier
 - Code Review: smoke test
 - Code Review: AI review
 - Testing: generates QA plan
