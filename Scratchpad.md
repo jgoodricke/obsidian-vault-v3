@@ -1,3 +1,28 @@
+## Bundle Games
+### Bundle 1 - $23.70
+- Homeworld: Vast Reaches
+- Z.O.N.A: Origin
+- Z.O.N.A Project X VR
+- A Rogue Escape
+Nope
+- Star Trek: Infection
+- Layers of Fear VR
+- Blair Witch VR
+### Bundle 2 - U$34.77 
+- Yes 
+	- I AM YOUR BEAST VR
+	- VRacer Hoverbike
+	- WRATH: Aeon of Ruin VR - Brutal Edition
+- Maybe
+	- Roboquest VR
+	- Surviving Mars: Pioneer
+	- Genotype
+	- RAGER
+- No 
+	- Out of Sight VR
+	- Audio Trip
+
+
 ## BPC Case Manager 
 Martina BPC
 1300 124 512

@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tech/NixOS Todo.md",
+            "file": "Scratchpad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,15 +424,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "dde84347e15bfc10",
+  "active": "9d8ae98ebd4340f5",
   "lastOpenFiles": [
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-015.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-014.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-013.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-012.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-011.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-010.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-009.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-008.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-007.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-006.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE/image-005.jpeg",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/DONT USE",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/5. Shower moisture and leaks",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/4. Uneven floors and internal cracks",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/3. Surface drainage",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/2. External brick cracks",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/12. Floor edges and quad mouldings",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/10. Missing laundry door seal",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/1. Garage slab cracks and dip",
+    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs",
+    "Legal/2026-07-19 Builders Dispute/intake form/documents/occupancy-permit.pdf",
+    "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md",
+    "tech/NixOS Todo.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Recurring Bills.md",
     "personal/Brandon Sanderson Cosmere Reading Order.md",
-    "tech/NixOS Todo.md",
     "job/webres/Carebridge/Task Notes/CBR-304 - Add Custom Reporting Period Selection to Reports.md",
     "job/webres/Carebridge/Task Notes/CBR-303 - Allow Provider Users to Print Application Forms.md",
     "AI/ChatGPT Project Instructions/ADHD.md",
@@ -442,7 +464,6 @@
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-10-15.md",
     "tech/Useful Tools.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
-    "Legal/2026-06-05-vcat-mold/Compensation Claim 2",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "Rustlings.md",
     "Dioxus.md",
@@ -450,17 +471,6 @@
     "personal/Clothes Sizes.md",
     "personal/gaming/VR Mods.md",
     "personal/Tea brewing Times.md",
-    "job/webres/Carebridge/Analytics Dashboard/Overview V3.md",
-    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-03.md",
-    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-08-20.md",
-    "job/webres/Focus Machinery/Meetings",
-    "job/webres/Focus Machinery/Claude MCP",
-    "job/webres/Focus Machinery",
-    "personal/gaming/Elder Scrolls/Oblivion",
-    "tech/Professional Development/Rust",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components/location-info",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body/components",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components/body",
-    "home/james/Projects/portal/resources/js/pages/map/components/content/components/info-panel/components"
+    "job/webres/Carebridge/Analytics Dashboard/Overview V3.md"
   ]
 }
