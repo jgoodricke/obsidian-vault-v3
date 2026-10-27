@@ -7,7 +7,6 @@
 Maybe
 - Star Trek: Infection 6.56
 Nope
-- Star Trek: Infection
 - Layers of Fear VR
 - Blair Witch VR
 ### Bundle 2 - $34.77 
