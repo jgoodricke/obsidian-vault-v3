@@ -199,6 +199,7 @@
 	- [ ] Change update recipe so it updates Pi packages first and then updates.
 	- [ ] Prompt for a password when running update, same as for switch
 	- [ ] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
+	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
 		- [x] Get rid of trigger menu.
