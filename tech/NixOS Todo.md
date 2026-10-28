@@ -1,6 +1,6 @@
 ## NixOS Todo
 
-- [ ] Fix boot order
+- [x] Fix boot order
 - [ ] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
 - [ ] set up SSH key
 - [ ] Check these out? Maybe note the ones by DHH
@@ -197,7 +197,7 @@
 	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
-		- [ ] Get rid of trigger menu.
+		- [x] Get rid of trigger menu.
 		- [x] Add missing icons
 		- [x] Fix some entries being too long.
 		- [x] Remove Close All Windows from the System Menu.
