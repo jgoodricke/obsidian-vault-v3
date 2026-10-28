@@ -197,7 +197,8 @@
 	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [ ] Change update recipe so it updates Pi packages first and then updates.
-	- [ ] 
+	- [ ] Prompt for a password when running update, same as for switch
+	- [ ] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
 		- [x] Get rid of trigger menu.
