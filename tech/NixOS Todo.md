@@ -2,6 +2,7 @@
 
 - [ ] Fix boot order
 - [ ] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
+- [ ] set up SSH key
 - [ ] Check these out? Maybe note the ones by DHH
 	- [ ] Hype
 	- [ ] Monologue
