@@ -200,7 +200,7 @@
 		- [x] Get rid of trigger menu.
 		- [x] Add missing icons
 		- [x] Fix some entries being too long.
-		- [x] Remove Close All Windows from the System Menu.
+		- [x] Remove Close All Windows from the System Menu.a
 	- [x] Add Screensaver (~/tmp/omarchy-screensaver-notes.md)
 		- [x] [Omarchy Screensaver]([https://omarchy.org/manual/branding/](https://omarchy.org/manual/branding/#screensaver))
 		- [x] [Pipes](https://github.com/pipeseroni/pipes.sh)
