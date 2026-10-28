@@ -1,7 +1,7 @@
 ## NixOS Todo
 
 - [ ] Fix boot order
-- [ ] Remove tests
+- [ ] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
 - [ ] Check these out? Maybe note the ones by DHH
 	- [ ] Hype
 	- [ ] Monologue
