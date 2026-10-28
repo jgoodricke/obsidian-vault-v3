@@ -1,29 +1,8 @@
 ## NixOS Todo
-```
-I would like to add the following features to my config. Using @~/ref-repos/omarchy as a guide. 
-		- Screenshot
-		- Screen Record
-		- Color Picker
-		- Transcoding menu
-		- Text Extraction to Clipboard
-		- Dictation
-
-Also add the Capture Menu, along with these hotkeys to use them:
-
-Capture #
-Hotkey	Function
-Super + Ctrl + C	Capture menu (for keyboards w/o PrintScr button)
-Print Screen	Screenshot
-Alt + Print Screen	Screenrecord
-Super + Print Screen	Color picker
-Super + Ctrl + Print Screen	Text extraction to clipboard
-Alt + Shift + L	Copy current URL from webapp or Chromium
-Super + Ctrl + X	Start/stop dictation (requires Install > AI > Dictation)
-F9	Push-to-talk dictation (requires Install > AI > Dictation)
-```
 
 - [ ] Fix boot order
-- [ ] Check these out
+- [ ] Remove tests
+- [ ] Check these out? Maybe note the ones by DHH
 	- [ ] Hype
 	- [ ] Monologue
 	- [ ] Signed
