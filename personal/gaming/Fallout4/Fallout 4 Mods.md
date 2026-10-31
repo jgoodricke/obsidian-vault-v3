@@ -8,6 +8,13 @@ TODO:
 - Commonwealth Squirrels
 - Commonwealth Iguanas
 - Faster Startups
+- Faster Shadows
+- Faster Decompression
+- Faster Loadscreens
+- Faster File Copy
+- Faster Cell Lookup
+- Faster Saves
+
 
 # Modding Philosophy
 - Character:
