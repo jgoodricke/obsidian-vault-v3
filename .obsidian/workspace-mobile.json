@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -369,7 +369,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Scratchpad.md",
+            "file": "tech/Professional Development/Rust/Rust Book.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -424,8 +424,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "dde84347e15bfc10",
+  "active": "2e50ead6eb725dfc",
   "lastOpenFiles": [
+    "personal/gaming/Fallout4/Fallout 4 Mods.md",
+    "tech/NixOS Todo.md",
     "Scratchpad.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/9. External concrete paving cracks and separation from brickwork/frontyard-2.jpg",
@@ -449,7 +451,6 @@
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/1. Garage slab cracks and dip",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs",
     "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md",
-    "tech/NixOS Todo.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
@@ -463,7 +464,6 @@
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-10-15.md",
     "tech/Useful Tools.md",
     "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
-    "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "Rustlings.md",
     "Dioxus.md",
     "tech/Professional Development/Rust/Rust by Example.md",
