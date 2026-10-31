@@ -121,9 +121,9 @@
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
-	- [ ] Find better subagent package.
+	- [x] Find better subagent package.
 	- [ ] Add seperate field to statusbar for tracking total time.
-	- [ ] Add notification when task completed.
+	- [x] Add notification when task completed.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Add Git diff/comparison.
@@ -188,7 +188,7 @@
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [x] Add keyboard shortcuts for Yazi.
-	- [ ] Add a hotkey (or another way) to see the previous notifications.
+	- [x] Add a hotkey (or another way) to see the previous notifications.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
@@ -199,6 +199,7 @@
 	- [ ] Prompt for a password when running update, same as for switch
 	- [x] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
 	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
+	- [ ] Add theme building to Obsidian, similar to Omarchy.
 	- [ ] Add menu items
 		- [ ] Switching from Light to Dark mode
 		- [ ] Switching themes
