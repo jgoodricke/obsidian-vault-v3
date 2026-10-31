@@ -126,6 +126,7 @@
 	- [ ] Add notification when task completed.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
+	- [ ] Show relative and absolute line numbers
 	- [ ] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
@@ -188,6 +189,7 @@
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [x] Add keyboard shortcuts for Yazi.
+	- [ ] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [ ] Add a hotkey (or another way) to see the previous notifications.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
