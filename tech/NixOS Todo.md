@@ -202,6 +202,7 @@
 	- [x] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
 	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
 	- [ ] Add theme building to Obsidian, similar to Omarchy.
+	- [ ] Add desktop backgrounds to the light and dark mode themes f
 	- [ ] Add menu items
 		- [ ] Switching from Light to Dark mode
 		- [ ] Switching themes
