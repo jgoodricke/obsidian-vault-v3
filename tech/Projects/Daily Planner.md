@@ -1,5 +1,5 @@
 ## Todo
-- [ ] Set up dev shell
-- [ ] Get Dioxus
+- [x] Set up dev shell
+- [ ] Get Dioxus runningh
 - [ ] Install [Rust Toolkit Toolchain](https://www.namtao.com/rust-toolkit-2026/)
-- [ ] 
+- [ ] Upload to Githubjj3
