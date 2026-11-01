@@ -189,7 +189,7 @@
 	- [x] Fix dithering direction.
 	- [x] Fix size and position of floating windows
 	- [x] Add keyboard shortcuts for Yazi.
-	- [ ] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
+	- [x] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [x] Add a hotkey (or another way) to see the previous notifications.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
@@ -201,7 +201,7 @@
 	- [ ] Prompt for a password when running update, same as for switch
 	- [x] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
 	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
-	- [ ] Add theme building to Obsidian, similar to Omarchy.
+	- [x] Add theme building to Obsidian, similar to Omarchy.
 	- [ ] Add desktop backgrounds to the light and dark mode themes. 
 		- [ ] Will need to track down desktop backgrounds for some of the themes
 	- [ ] Add menu items
