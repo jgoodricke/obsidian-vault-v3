@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Tokyo Night",
-  "textFontFamily": "Inter"
+  "cssTheme": "",
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "base16"
+  ]
 }

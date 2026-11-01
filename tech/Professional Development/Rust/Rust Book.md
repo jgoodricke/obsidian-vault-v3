@@ -7,7 +7,6 @@ https://pi.dev/docs/latest/termux
 
 https://rust-book.cs.brown.edu/ch01-00-getting-started.html
 
-
 Up to
 https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 ## First Read
