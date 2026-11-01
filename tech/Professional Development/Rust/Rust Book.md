@@ -242,24 +242,6 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 ## Dioxus 
 ### Listening
-### Take a Tour
-
-- [ ] [Overview](https://dioxuslabs.com/learn/0.7/tutorial/)
-- [ ] [Tooling Setup](https://dioxuslabs.com/learn/0.7/tutorial/tooling)
-- [ ] [Creating a new app](https://dioxuslabs.com/learn/0.7/tutorial/new_app)
-- [ ] [Your First Component](https://dioxuslabs.com/learn/0.7/tutorial/component)
-- [ ] [Creating UI with RSX](https://dioxuslabs.com/learn/0.7/tutorial/rsx)
-- [ ] [Styling and Assets](https://dioxuslabs.com/learn/0.7/tutorial/assets)
-- [ ] [Adding State](https://dioxuslabs.com/learn/0.7/tutorial/state)
-- [ ] [Fetching Data](https://dioxuslabs.com/learn/0.7/tutorial/data_fetching)
-- [ ] [Add a Backend](https://dioxuslabs.com/learn/0.7/tutorial/backend)
-- [ ] [Working with Databases](https://dioxuslabs.com/learn/0.7/tutorial/databases)
-- [ ] [Routing and Structure](https://dioxuslabs.com/learn/0.7/tutorial/routing)
-- [ ] [Bundling](https://dioxuslabs.com/learn/0.7/tutorial/bundle)
-- [ ] [Deploying](https://dioxuslabs.com/learn/0.7/tutorial/deploy)
-- [ ] [Next Steps](https://dioxuslabs.com/learn/0.7/tutorial/next_steps)
-
-### Core Concepts
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
@@ -312,25 +294,8 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 
 ## Reading
-
-### Take a Tour
-
-- [ ] [Overview](https://dioxuslabs.com/learn/0.7/tutorial/)
-- [ ] [Tooling Setup](https://dioxuslabs.com/learn/0.7/tutorial/tooling)
-- [ ] [Creating a new app](https://dioxuslabs.com/learn/0.7/tutorial/new_app)
-- [ ] [Your First Component](https://dioxuslabs.com/learn/0.7/tutorial/component)
-- [ ] [Creating UI with RSX](https://dioxuslabs.com/learn/0.7/tutorial/rsx)
-- [ ] [Styling and Assets](https://dioxuslabs.com/learn/0.7/tutorial/assets)
-- [ ] [Adding State](https://dioxuslabs.com/learn/0.7/tutorial/state)
-- [ ] [Fetching Data](https://dioxuslabs.com/learn/0.7/tutorial/data_fetching)
-- [ ] [Add a Backend](https://dioxuslabs.com/learn/0.7/tutorial/backend)
-- [ ] [Working with Databases](https://dioxuslabs.com/learn/0.7/tutorial/databases)
-- [ ] [Routing and Structure](https://dioxuslabs.com/learn/0.7/tutorial/routing)
-- [ ] [Bundling](https://dioxuslabs.com/learn/0.7/tutorial/bundle)
-- [ ] [Deploying](https://dioxuslabs.com/learn/0.7/tutorial/deploy)
-- [ ] [Next Steps](https://dioxuslabs.com/learn/0.7/tutorial/next_steps)
-
-### Core Concepts
+Up To:
+https://dioxuslabs.com/learn/0.7/essentials/ui/iteration#the-fragment-component
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
@@ -338,7 +303,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 	- [x] [Elements and Text](https://dioxuslabs.com/learn/0.7/essentials/ui/elements)
 	- [x] [Dynamic Attributes](https://dioxuslabs.com/learn/0.7/essentials/ui/attributes)
 	- [x] [Conditional Rendering](https://dioxuslabs.com/learn/0.7/essentials/ui/conditional)
-	- [x] [Rendering Lists](https://dioxuslabs.com/learn/0.7/essentials/ui/iteration)
+	- [ ] [Rendering Lists](https://dioxuslabs.com/learn/0.7/essentials/ui/iteration)
 	- [ ] [Components](https://dioxuslabs.com/learn/0.7/essentials/ui/components)
 	- [ ] [Reconciliation](https://dioxuslabs.com/learn/0.7/essentials/ui/render)
 	- [ ] [Assets](https://dioxuslabs.com/learn/0.7/essentials/ui/assets)
