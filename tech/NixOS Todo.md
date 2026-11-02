@@ -191,7 +191,7 @@
 	- [x] Add keyboard shortcuts for Yazi.
 	- [x] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [x] Add a hotkey (or another way) to see the previous notifications.
-	- [ ] Add instructions for converting themes.
+	- [x] Add instructions for converting themes.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
@@ -200,6 +200,8 @@
 	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [ ] Prompt for a password when running update, same as for switch
+	- [ ] Add theme images to Readme.
+	- [ ] Look into styling the file explorer.
 	- [ ] Add Btop themes
 	- [ ] Add other themes from OldJobobo files.
 	- [ ] Add these themes: https://github.com/OldJobobo/OldJobobo/blob/main/THEMES.md
