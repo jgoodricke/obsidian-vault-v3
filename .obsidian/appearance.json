@@ -1,7 +1,5 @@
 {
   "cssTheme": "",
   "textFontFamily": "Inter",
-  "enabledCssSnippets": [
-    "base16"
-  ]
+  "enabledCssSnippets": []
 }

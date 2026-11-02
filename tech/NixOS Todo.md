@@ -191,6 +191,7 @@
 	- [x] Add keyboard shortcuts for Yazi.
 	- [x] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [x] Add a hotkey (or another way) to see the previous notifications.
+	- [ ] Add instructions for converting themes.
 	- [ ] Add Google Calendar shortcut
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
