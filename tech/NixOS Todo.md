@@ -199,6 +199,8 @@
 	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [ ] Prompt for a password when running update, same as for switch
+	- [ ] Add Btop themes
+	- [ ] Add other themes from OldJobobo files.
 	- [ ] Add these themes: https://github.com/OldJobobo/OldJobobo/blob/main/THEMES.md
 	- [ ] Add desktop backgrounds from these repos:
 		- [ ] https://github.com/OldJobobo/omarchy-lumon-theme
