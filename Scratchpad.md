@@ -1,3 +1,13 @@
+## Deployment Notes
+### Bedsearch Staging
+-  current application version label: 673-35471bd
+-  starting health: Ok
+-  the current DB_QUEUE_RETRY_AFTER: absent
+### Carebridge Staging
+-  current application version label: 673-35471bd
+-  starting health: Ok
+-  the current DB_QUEUE_RETRY_AFTER: absent
+
 ## Bundle Games
 ### Bundle 1 - $23.70
 - Homeworld: Vast Reaches 0.73
