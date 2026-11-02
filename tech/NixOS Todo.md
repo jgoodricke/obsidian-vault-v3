@@ -199,6 +199,12 @@
 	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [ ] Prompt for a password when running update, same as for switch
+	- [ ] Add these themes: https://github.com/OldJobobo/OldJobobo/blob/main/THEMES.md
+	- [ ] Add desktop backgrounds from these repos:
+		- [ ] https://github.com/OldJobobo/omarchy-lumon-theme
+		- [ ] https://github.com/OldJobobo/omarchy-retro-82-theme
+		- [ ] https://github.com/OldJobobo/omarchy-miasma-theme
+		- [ ] https://github.com/OldJobobo/omarchy-gruvbox-theme
 	- [x] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
 	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
 	- [x] Add theme building to Obsidian, similar to Omarchy.
