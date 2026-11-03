@@ -202,9 +202,9 @@
 	- [ ] Prompt for a password when running update, same as for switch
 	- [ ] Add theme images to Readme.
 	- [ ] Look into styling the file explorer.
-	- [ ] Add Btop themes
-	- [ ] Add other themes from OldJobobo files.
-	- [ ] Add these themes: https://github.com/OldJobobo/OldJobobo/blob/main/THEMES.md
+	- [x] Add Btop themes
+	- [x] Add other themes from OldJobobo files.
+	- [x] Add these themes: https://github.com/OldJobobo/OldJobobo/blob/main/THEMES.md
 	- [x] Add desktop backgrounds from these repos:
 		- [x] https://github.com/OldJobobo/omarchy-lumon-theme
 		- [x] https://github.com/OldJobobo/omarchy-retro-82-theme
