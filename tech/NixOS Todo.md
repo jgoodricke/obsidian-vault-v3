@@ -239,6 +239,7 @@
 	- [ ] Install WLR Which Key (and find an equivalent for Windows)
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Remove Configuration from Night Light menu.
+	- [ ] Change Workspace numbers to Kanji.
 	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
