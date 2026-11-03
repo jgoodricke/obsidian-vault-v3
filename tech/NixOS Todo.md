@@ -211,14 +211,14 @@
 		- [x] https://github.com/OldJobobo/omarchy-miasma-theme
 		- [x] https://github.com/OldJobobo/omarchy-gruvbox-theme
 	- [x] Add a way of setting the theme for individual apps, along with the theme for Stylix using a paramater.
-	- [ ] Switch to the Login page used by Omarchy and Style it accordingly.
+	- [x] Switch to the Login page used by Omarchy and Style it accordingly.
 	- [x] Add theme building to Obsidian, similar to Omarchy.
-	- [ ] Add desktop backgrounds to the light and dark mode themes. 
-		- [ ] Will need to track down desktop backgrounds for some of the themes
-	- [ ] Add menu items
-		- [ ] Switching from Light to Dark mode
-		- [ ] Switching themes
-		- [ ] Switching desktop backgrounds
+	- [x] Add desktop backgrounds to the light and dark mode themes. 
+		- [x] Will need to track down desktop backgrounds for some of the themes
+	- [x] Add menu items
+		- [x] Switching from Light to Dark mode
+		- [x] Switching themes
+		- [x] Switching desktop backgrounds
 	- [ ] Tidy Up Alt Menu
 		- [x] Change Alt Menu labels to Match Omarchy.
 		- [x] Get rid of trigger menu.
