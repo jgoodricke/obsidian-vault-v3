@@ -1,0 +1,8 @@
+- [ ] Overhauling Agents.md
+	- [ ] Look into using Contex7 instead of putting that all in the Agents.md
+	- [ ] Start with a blank slate and add things to it where neccesary.
+- [ ] Sidebar
+	- [ ] Could handle the state in index.html
+	- [ ] This would be much faster, but would also move the logic outside of rust.
+- [ ] Add the Google Rust guidelines as a coding standard.
+- [ ] Look into adding stricter Clippy rules.
