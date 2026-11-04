@@ -7,4 +7,4 @@
 - [ ] Add the Google Rust guidelines as a coding standard.
 - [ ] Look into adding stricter Clippy rules.
 - [ ] Using Just
-- [ ] Combine Readmes
+- [ ] Combine Readmesd
