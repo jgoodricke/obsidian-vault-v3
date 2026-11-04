@@ -8,4 +8,3 @@
 - [ ] Look into adding stricter Clippy rules.
 - [ ] Using Just
 - [ ] Combine Readmes
-- [ ] Changing to Docker Compose, pulling out the Postgres DB
