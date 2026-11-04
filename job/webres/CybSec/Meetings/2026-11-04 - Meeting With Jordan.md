@@ -6,3 +6,4 @@
 	- [ ] This would be much faster, but would also move the logic outside of rust.
 - [ ] Add the Google Rust guidelines as a coding standard.
 - [ ] Look into adding stricter Clippy rules.
+- [ ] Using Just
