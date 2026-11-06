@@ -372,6 +372,10 @@ Interested (Cross-Play)
 | Pixel Ripped 1989                                           | Yes                | Yes             | 85          | N/A        | 85    | Not Playing           | Touch             | no    |
 | Roboquest VR                                                | Yes                | Yes             | 87          | N/A        | 87    | Not Playing           | Touch             | no    |
 | Star Treck Voyager: Elite Forces                            | Yes                | Yes             | N/A         | N/A        | N/A   | Not Playing           | Touch             | No    |
+| Z.O.N.A Project X                                           |                    | Yes             | 83          |            |       | Not Playing           | Touch             | Yes   |
+| Z.O.N.A Origin                                              |                    | Yes             | 75          |            |       | Not Playing           | Touch             | Yes   |
+| Homeworld: Vast Reaches                                     |                    | Yes             |             |            |       | Not Playing           | Touch             | Yes   |
+| A Rogue Escape                                              |                    | Yes             |             |            |       | Not Playing           | Touch             | Yes   |
 
 
 - Action Hero
