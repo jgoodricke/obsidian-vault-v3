@@ -1,0 +1,24 @@
+## Technical Details
+
+- Use GuardDuty Malware Protection for S3.
+- Route relevant GuardDuty scan-result and post-scan-action-failure events from the default EventBridge bus to SNS.
+- SNS should deliver to an email subscription confirmed by the development team.
+- Include:
+    - threats
+    - skipped scans
+    - failed scans
+    - unsupported outcomes
+    - access-denied outcomes
+    - failed result-tag writes
+- A GuardDuty detector or GuardDuty finding is not required for this alert channel.
+- Use an allowlisted generic email template containing only status, time, Region and an opaque event reference.
+- Keep object keys, filenames, patient information and malware details in access-controlled AWS evidence.
+- Monitor EventBridge delivery, SNS delivery, retries and subscription status.
+- Reconcile all current S3 objects daily using object identity/version.
+- Compare each current object against:
+    - completed scan-result evidence
+    - the trusted tag on the current object
+- Do not rely on CloudWatch aggregate metrics as a per-object ledger. They may still be monitored for operational health.
+- Provisionally flag objects without valid evidence after 24 hours and validate this threshold in staging.
+- Synthetic tests must cover event filtering, redaction, duplicate/retry handling and daily gap-check logic.
+- Non-patient staging tests must cover real EventBridge/SNS delivery, restricted evidence lookup, scan/tag failures, a missing current object and exclusion of old versions.
