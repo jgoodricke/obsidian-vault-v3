@@ -1,0 +1,26 @@
+## Technical Details
+
+- Use the GuardDuty object tag `GuardDutyMalwareScanStatus=NO_THREATS_FOUND` as the S3 policy condition that permits ordinary `GetObject` access.
+- Inventory the existing bucket policy, IAM principals, Carebridge readers/writers, manual clients, signed URL access, object versions and tag-writing permissions before finalising the policy.
+- The ordinary read deny must apply to all serving principals, including rowless objects and explicit version reads.
+- Exempt only the exact GuardDuty scanner role where untagged-object read access is required for scanning.
+- Do not introduce broad operator, prefix or File-row exceptions.
+- Normal authorised deletion must remain possible.
+- Restrict permissions to write, copy or retain the GuardDuty result tag so uploads and overwrites cannot forge or inherit a clean status.
+- Staging tests must cover:
+    - safe objects
+    - unsafe objects
+    - untagged objects
+    - stale tags
+    - failed tag writes
+    - unsupported scan results
+    - uploads and overwrites
+    - copied objects
+    - rowless objects
+    - signed requests
+    - explicit object-version requests
+    - GuardDuty scanner access
+- Coordinate with the separate stale-tag revocation work. A tag-only S3 policy does not fully address failed rescan tag writes or a late threat result.
+- Store the reviewed S3 policy and least-privilege rollback procedure in the repository. Do not include secrets, credentials or patient information.
+- Rollback must not restore unsafe ordinary read access.
+- Stop and reassess if the actual bucket policy, access paths or stale-tag revocation behaviour cannot be made fail-closed.
