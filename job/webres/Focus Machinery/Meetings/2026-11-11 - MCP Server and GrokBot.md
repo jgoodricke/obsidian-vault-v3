@@ -11,3 +11,4 @@
 ## Action Items
 - [ ] Ideally, they would not use a dedicated machine. GrokBots run in the cloud, so if we can connect them directly to the service they are using that eliminates the need for an environment completely. 
 - [ ] I would also question using GrokBot rather than OpenAI Dots or Gemini Spark.
+- [ ] Also worth considering n8n as a more deterministic alternative. 
