@@ -12,6 +12,6 @@
 - [ ] Security Concerns
 	- [ ] Questions about Grok having full access to an open instance of the app. Is that account locked down?
 	- [ ] I would also be concerned about the laptop running non-stop. How will it get updates in that case? 
-	- [ ] Besides that, assuming they keep the machine inside their local network, I don't see it being a particular security threat compared with any other device
+	- [ ] Besides that, assuming they keep the machine inside their local network, I don't see it being a particular security threat compared with any other device.
 
 ## Action Items
