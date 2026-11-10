@@ -23,6 +23,7 @@
 - Testing: remove any low-value tests
 - Deploy: merge
 - Deploy: Review feedback
+- Testing: remove any low-value tests
 
 # V1
 - Exploration: research (optional)
