@@ -8,7 +8,7 @@
 ### Grok Bot
 - [ ] Ideally, they would not use a dedicated machine. GrokBots run in the cloud, so if we can connect them directly to the service they are using that eliminates the need for an environment completely. 
 - [ ] I would also question using GrokBot rather than OpenAI Dots or Gemini Spark.
-	- [ ] Or even something Like Hermes Agent, which is platform agn
+	- [ ] Or even something Like Hermes Agent, which is platform agnostic.
 - [ ] Also worth considering n8n as a more deterministic alternative. 
 - [ ] Security Concerns
 	- [ ] Questions about Grok having full access to an open instance of the app. Is that account locked down?
