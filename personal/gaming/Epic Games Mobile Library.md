@@ -71,3 +71,4 @@
 - Agent A: A puzzle in disguise
 - Home - A Unique Horror Adventure
 - Galaxy Cart
+- Chants of Sennaar

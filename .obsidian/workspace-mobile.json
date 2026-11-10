@@ -276,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -424,13 +424,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d8ae98ebd4340f5",
+  "active": "bef514bde30f6f9d",
   "lastOpenFiles": [
+    "personal/gaming/Epic Games Mobile Library.md",
+    "Scratchpad.md",
+    "job/webres/CybSec/Meetings/2026-11-04 - Meeting With Jordan.md",
+    "job/webres/CybSec/Todo.md",
+    "job/webres/CybSec/Meetings",
+    "job/webres/CybSec/Initial Meeting Notes.md",
+    "job/webres/CybSec",
+    "job/webres/Carebridge/Task Notes/CBR-295 - Route - GuardDuty alerts and reconcile private-bucket scan gaps.md",
+    "job/webres/Carebridge/Task Notes/CBR-270 Build the GuardDuty S3 safe-to-serve and new-upload guards.md",
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/Untitled.md",
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-11-06.md",
     "personal/gaming/VR Games V2.md",
     "personal/gaming/VR Games.md",
     "tech/NixOS Todo.md",
     "tech/Professional Development/Rust/Rust Book.md",
-    "Scratchpad.md",
     "personal/gaming/Fallout4/Fallout 4 Mods.md",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/9. External concrete paving cracks and separation from brickwork/frontyard-2.jpg",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/9. External concrete paving cracks and separation from brickwork/frontyard-1.jpg",
@@ -450,10 +460,7 @@
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/2. External brick cracks",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/12. Floor edges and quad mouldings",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/10. Missing laundry door seal",
-    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/1. Garage slab cracks and dip",
-    "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs",
     "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md",
-    "personal/gaming/Epic Games Mobile Library.md",
     "tech/Professional Development/Contents.md",
     "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
     "personal/Recurring Bills.md",
@@ -464,13 +471,6 @@
     "Untitled 3.md",
     "job/webres/Carebridge/Task Notes/CBR-301 - Confirm Deletion for Users, Companies, Facilities and Vacancies.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-10-15.md",
-    "tech/Useful Tools.md",
-    "Legal/2026-06-05-vcat-mold/Compensation Claim 2/Checklist.md",
-    "Rustlings.md",
-    "Dioxus.md",
-    "tech/Professional Development/Rust/Rust by Example.md",
-    "personal/Clothes Sizes.md",
-    "personal/gaming/VR Mods.md",
-    "personal/Tea brewing Times.md"
+    "tech/Useful Tools.md"
   ]
 }
