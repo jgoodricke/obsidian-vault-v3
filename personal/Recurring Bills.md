@@ -42,11 +42,9 @@ Allowance NEW (bi-weekly): $584
 
 | Item    | Price  | Note    |
 | ------- | ------ | ------- |
-| Audible | $8.99  |         |
 | Sunsama | $30.65 | $20 USD |
-| Grok    | $43.47 |         |
 | Phone   | $30    |         |
-| Deezer  | Todo   |         |
+| Deezer  | 13.99  |         |
 
 Total: $120
 
@@ -70,6 +68,7 @@ AFP Check: $56.0
 | GitKraken              | ~$85    | 19th Mar | $52.80 USD      |
 | JetBrains Product Pack | ~$270   | 18th Aug | $179.00 USD<br> |
 | *Sunsama*              | *~$290* |          | *192 USD*       |
+| Audible                |         |          |                 |
 Not including Sunsama:
 TOTAL: $934
 Total to Save Montly: ~$80
