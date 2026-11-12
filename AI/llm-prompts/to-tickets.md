@@ -1,1 +1,1 @@
-Convert the above spec $to-tickets. Add them as sub tasks to the epic you just created.
+Convert the above spec $to-tickets. Add them as sub-tasks to the epic you just created.
