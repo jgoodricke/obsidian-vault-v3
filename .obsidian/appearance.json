@@ -3,5 +3,6 @@
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "base16"
-  ]
+  ],
+  "showRibbon": true
 }
