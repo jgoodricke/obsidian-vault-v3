@@ -72,3 +72,4 @@
 - Home - A Unique Horror Adventure
 - Galaxy Cart
 - Chants of Sennaar
+- Knightica

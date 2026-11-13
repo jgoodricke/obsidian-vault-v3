@@ -304,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -452,8 +452,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "54bb8bf7c6193af4",
+  "active": "13f912123b27c30e",
   "lastOpenFiles": [
+    "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-11-12.md",
+    "job/webres/Carebridge/Task Notes/CBR-309 - Fix Cleared Values Reverting on Company, Facility and User Forms.md",
+    "job/webres/Carebridge/Task Notes/CBR-266 - Backfill all current private-bucket objects with GuardDuty.md",
+    "AI/llm-prompts/to-tickets.md",
+    "AI/llm-prompts/to-spec.md",
+    "AI/llm-prompts/code-review.md",
+    "AI/llm-prompts/Simplify Ticket.md",
     "tech/Professional Development/Rust/Rust Book.md",
     "Dioxus.md",
     "tech/Useful Tools.md",
@@ -492,13 +499,6 @@
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/12. Floor edges and quad mouldings",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/10. Missing laundry door seal",
     "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md",
-    "tech/Professional Development/Contents.md",
-    "personal/gaming/Elder Scrolls/Skyrim/Skyrim Modlist.md",
-    "personal/Recurring Bills.md",
-    "personal/Brandon Sanderson Cosmere Reading Order.md",
-    "job/webres/Carebridge/Task Notes/CBR-304 - Add Custom Reporting Period Selection to Reports.md",
-    "job/webres/Carebridge/Task Notes/CBR-303 - Allow Provider Users to Print Application Forms.md",
-    "AI/ChatGPT Project Instructions/ADHD.md",
-    "Untitled 3.md"
+    "tech/Professional Development/Contents.md"
   ]
 }
