@@ -217,7 +217,6 @@ Interested (Cross-Play)
 | X-Wing & Tie Fighter                                        | No                 | Yes             |                    | N/A         |       | Waiting for Update    | HOTAS           | yes   |
 | X-Wing Alliance                                             | No                 | Yes             |                    | N/A         |       | Waiting for Update    | HOTAS           | yes   |
 | XING The Land Beyond                                        | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | yes   |
-| Z.O.N.A: Origin                                             | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | X Rebirth VR Edition                                        | No                 | Yes             | 59                 | N/A         | 59    | Not Playing           | HOTAS           | no    |
 | EVERSPACE                                                   | No                 | Yes             | 77                 | N/A         | 77    | Playing               | HOTAS           | yes   |
 | Freespace 2                                                 | No                 | Yes             | 78                 | N/A         | 78    | Not Playing           | HOTAS           | no    |
@@ -380,6 +379,8 @@ Interested (Cross-Play)
 | Rager                                                       | Yes                | Yes             | 94                 | 90          | 92    | Not Playing           | Touch           | Yes   |
 | Genotype                                                    | Yes                | Yes             | 90                 | 92          | 91    | Not Playing           | Touch           | Yes   |
 | Out of Sight VR                                             | Yes                | Yes             | 96                 | Not Out Yet | 96    | Not Playing           | Touch           | Yes   |
+| Fallout 3                                                   | No                 | Yes             | 80                 | N/A         | 80    | Not Playing           | Touch           | Yes   |
+| Fallout New Vegas                                           | No                 | Yes             |                    | N/A         | 96    | Not Playing           | Touch           | Yes   |
 
 
 - Action Hero
