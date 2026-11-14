@@ -304,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -452,8 +452,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "13f912123b27c30e",
+  "active": "25bda64141a2207d",
   "lastOpenFiles": [
+    "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-11-12.md",
     "job/webres/Carebridge/Task Notes/CBR-309 - Fix Cleared Values Reverting on Company, Facility and User Forms.md",
     "job/webres/Carebridge/Task Notes/CBR-266 - Backfill all current private-bucket objects with GuardDuty.md",
@@ -466,7 +467,6 @@
     "tech/Useful Tools.md",
     "Scratchpad.md",
     "job/webres/Focus Machinery/Meetings/2026-11-11 - MCP Server and GrokBot.md",
-    "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/CybSec/Meetings/2026-11-04 - Meeting With Jordan.md",
     "job/webres/CybSec/Todo.md",
     "job/webres/CybSec/Meetings",
