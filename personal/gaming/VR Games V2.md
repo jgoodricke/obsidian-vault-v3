@@ -370,7 +370,7 @@ Interested (Cross-Play)
 | Jedi Knight 2                                               | Yes                | Yes             | 76                 | N/A         | 76    | Playing               | Touch           | yes   |
 | Pixel Ripped 1989                                           | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | no    |
 | Roboquest VR                                                | Yes                | Yes             | 87                 | N/A         | 87    | Not Playing           | Touch           | Yes   |
-| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | N/A                | N/A         | N/A   | Not Playing           | Touch           | No    |
+| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | 92 (GOG)           | N/A         |       | Not Playing           | Touch           | No    |
 | Z.O.N.A Project X                                           | No                 | Yes             | 75                 | N/A         | 75    | Not Playing           | Touch           | Yes   |
 | Z.O.N.A Origin                                              | No                 | Yes             | 83                 | N/A         | 83    | Not Playing           | Touch           | Yes   |
 | Homeworld: Vast Reaches                                     | Yes                | Yes             | Not enough reviews | 74          | 74    | Not Playing           | Touch           | Yes   |
@@ -379,8 +379,8 @@ Interested (Cross-Play)
 | Rager                                                       | Yes                | Yes             | 94                 | 90          | 92    | Not Playing           | Touch           | Yes   |
 | Genotype                                                    | Yes                | Yes             | 90                 | 92          | 91    | Not Playing           | Touch           | Yes   |
 | Out of Sight VR                                             | Yes                | Yes             | 96                 | Not Out Yet | 96    | Not Playing           | Touch           | Yes   |
-| Fallout 3                                                   | No                 | Yes             | 80                 | N/A         | 80    | Not Playing           | Touch           | Yes   |
-| Fallout New Vegas                                           | No                 | Yes             |                    | N/A         | 96    | Not Playing           | Touch           | Yes   |
+| Fallout 3                                                   | No                 | Yes             | 80                 | N/A         | 80    | Waiting for Mod       | Touch           | Yes   |
+| Fallout New Vegas                                           | No                 | Yes             | 96                 | N/A         | 96    | Waiting for Mod       | Touch           | Yes   |
 
 
 - Action Hero
