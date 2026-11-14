@@ -370,7 +370,7 @@ Interested (Cross-Play)
 | Jedi Knight 2                                               | Yes                | Yes             | 76                 | N/A         | 76    | Playing               | Touch           | yes   |
 | Pixel Ripped 1989                                           | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | no    |
 | Roboquest VR                                                | Yes                | Yes             | 87                 | N/A         | 87    | Not Playing           | Touch           | Yes   |
-| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | 92 (GOG)           | N/A         |       | Not Playing           | Touch           | No    |
+| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | 92 (GOG)           | N/A         | 92    | Not Playing           | Touch           | No    |
 | Z.O.N.A Project X                                           | No                 | Yes             | 75                 | N/A         | 75    | Not Playing           | Touch           | Yes   |
 | Z.O.N.A Origin                                              | No                 | Yes             | 83                 | N/A         | 83    | Not Playing           | Touch           | Yes   |
 | Homeworld: Vast Reaches                                     | Yes                | Yes             | Not enough reviews | 74          | 74    | Not Playing           | Touch           | Yes   |
