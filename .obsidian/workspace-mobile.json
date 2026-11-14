@@ -281,12 +281,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratchpad.md",
+                "file": "tech/Professional Development/Rust/Rust Book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratchpad"
+              "title": "Rust Book"
             }
           },
           {
@@ -454,6 +454,8 @@
   },
   "active": "25bda64141a2207d",
   "lastOpenFiles": [
+    "Dioxus.md",
+    "Scratchpad.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "job/webres/Carebridge/Meetings/Cycle Catch-Up/2026-11-12.md",
     "job/webres/Carebridge/Task Notes/CBR-309 - Fix Cleared Values Reverting on Company, Facility and User Forms.md",
@@ -463,9 +465,7 @@
     "AI/llm-prompts/code-review.md",
     "AI/llm-prompts/Simplify Ticket.md",
     "tech/Professional Development/Rust/Rust Book.md",
-    "Dioxus.md",
     "tech/Useful Tools.md",
-    "Scratchpad.md",
     "job/webres/Focus Machinery/Meetings/2026-11-11 - MCP Server and GrokBot.md",
     "job/webres/CybSec/Meetings/2026-11-04 - Meeting With Jordan.md",
     "job/webres/CybSec/Todo.md",

@@ -294,7 +294,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 ## Reading
 Up To:
-https://dioxuslabs.com/learn/0.7/essentials/ui/components#the-component-macro
+https://dioxuslabs.com/learn/0.7/essentials/ui/render#components-rerender
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
@@ -303,7 +303,7 @@ https://dioxuslabs.com/learn/0.7/essentials/ui/components#the-component-macro
 	- [x] [Dynamic Attributes](https://dioxuslabs.com/learn/0.7/essentials/ui/attributes)
 	- [x] [Conditional Rendering](https://dioxuslabs.com/learn/0.7/essentials/ui/conditional)
 	- [x] [Rendering Lists](https://dioxuslabs.com/learn/0.7/essentials/ui/iteration)
-	- [ ] [Components](https://dioxuslabs.com/learn/0.7/essentials/ui/components)
+	- [x] [Components](https://dioxuslabs.com/learn/0.7/essentials/ui/components)
 	- [ ] [Reconciliation](https://dioxuslabs.com/learn/0.7/essentials/ui/render)
 	- [ ] [Assets](https://dioxuslabs.com/learn/0.7/essentials/ui/assets)
 	- [ ] [Styling](https://dioxuslabs.com/learn/0.7/essentials/ui/styling)

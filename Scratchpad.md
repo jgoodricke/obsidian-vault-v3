@@ -1,4 +1,3 @@
-Get to work by 8:30 tomorrow.
 ## Bundle Games
 ### Bundle 1 - $23.70
 - Homeworld: Vast Reaches 0.73
