@@ -281,12 +281,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/Professional Development/Rust/Rust Book.md",
+                "file": "personal/Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Book"
+              "title": "Goals"
             }
           },
           {
@@ -454,6 +454,8 @@
   },
   "active": "25bda64141a2207d",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
+    "personal/Goals.md",
     "Dioxus.md",
     "Scratchpad.md",
     "personal/gaming/Epic Games Mobile Library.md",
@@ -464,7 +466,6 @@
     "AI/llm-prompts/to-spec.md",
     "AI/llm-prompts/code-review.md",
     "AI/llm-prompts/Simplify Ticket.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "tech/Useful Tools.md",
     "job/webres/Focus Machinery/Meetings/2026-11-11 - MCP Server and GrokBot.md",
     "job/webres/CybSec/Meetings/2026-11-04 - Meeting With Jordan.md",
@@ -498,7 +499,6 @@
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/2. External brick cracks",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/12. Floor edges and quad mouldings",
     "Legal/2026-07-19 Builders Dispute/intake form/supporting-photographs/10. Missing laundry door seal",
-    "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md",
-    "tech/Professional Development/Contents.md"
+    "Legal/2026-07-19 Builders Dispute/Future Dispute/Things to Dispute.md"
   ]
 }
