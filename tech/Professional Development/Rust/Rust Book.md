@@ -294,7 +294,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 ## Reading
 Up To:
-https://dioxuslabs.com/learn/0.7/essentials/ui/render#components-rerender
+https://dioxuslabs.com/learn/0.7/essentials/ui/assets#including-folders by
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
@@ -304,7 +304,7 @@ https://dioxuslabs.com/learn/0.7/essentials/ui/render#components-rerender
 	- [x] [Conditional Rendering](https://dioxuslabs.com/learn/0.7/essentials/ui/conditional)
 	- [x] [Rendering Lists](https://dioxuslabs.com/learn/0.7/essentials/ui/iteration)
 	- [x] [Components](https://dioxuslabs.com/learn/0.7/essentials/ui/components)
-	- [ ] [Reconciliation](https://dioxuslabs.com/learn/0.7/essentials/ui/render)
+	- [x] [Reconciliation](https://dioxuslabs.com/learn/0.7/essentials/ui/render)
 	- [ ] [Assets](https://dioxuslabs.com/learn/0.7/essentials/ui/assets)
 	- [ ] [Styling](https://dioxuslabs.com/learn/0.7/essentials/ui/styling)
 	- [ ] [Hot-Reload](https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload)
