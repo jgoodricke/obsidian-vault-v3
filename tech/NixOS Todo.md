@@ -1,7 +1,7 @@
 ## NixOS Todo
 
 - [x] Fix boot order
-- [ ] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
+- [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
 - [ ] set up SSH key
 - [ ] Check these out? Maybe note the ones by DHH
 	- [ ] Hype
@@ -133,7 +133,7 @@
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
 	- [ ] Add spell checker.
 - [ ] Pi Round 2
-	- [ ] Update Pi to use Stylix theme. 
+	- [x] Update Pi to use Stylix theme. 
 	- [ ] Sort out config, it looks a bit overly complex.
 - [x] Theming - Missing Features
 	- [x]  Grow Window shortcuts
@@ -192,12 +192,12 @@
 	- [x] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [x] Add a hotkey (or another way) to see the previous notifications.
 	- [x] Add instructions for converting themes.
-	- [ ] Add Google Calendar shortcut
+	- [x] Add Google Calendar shortcut
 	- [ ] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Set Yazi as default file manager
-	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
+	- [x] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [ ] Prompt for a password when running update, same as for switch
 	- [ ] Add theme images to Readme.
