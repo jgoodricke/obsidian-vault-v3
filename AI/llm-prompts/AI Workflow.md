@@ -1,0 +1,25 @@
+- DELETE THIS
+- Exploration: grill session
+- Exploration: research (optional)
+- Exploration: prototyping (optional)
+- Planning: Write spec
+- Planning: Write tickets
+- Execution: run agents
+- Execution: run laravel simplifier
+- Code Review: smoke test
+- Code Review: AI review
+- Testing: generates QA plan
+- Testing: Add automated tests
+- QA: test locally
+- QA: Squash test results
+- QA: Confirm no slow queries
+- QA: Confirm no console errors
+- QA: confirm no failed jobs (/failed-jobs)
+- Code Review: human code review
+- Testing: Run CI
+- Deploy: create PR
+- Deploy: review PR feedback
+- Testing: remove any low-value tests
+- Deploy: merge
+- Deploy: Review feedback
+- Testing: remove any low-value tests
