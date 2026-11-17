@@ -251,6 +251,7 @@
 		- [x] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
+	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
