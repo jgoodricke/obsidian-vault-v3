@@ -196,7 +196,7 @@
 	- [x] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
-	- [ ] Set Yazi as default file manager
+	- [x] Set Yazi as default file manager
 	- [x] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [x] Prompt for a password when running update, same as for switch
@@ -233,7 +233,7 @@
 	- [x] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
 	- [x] Add the [Superfile plugins](https://superfile.dev/list/plugin-list/).
-	- [ ] Replace fastfetch with Neofetch.
+	- [x] Replace fastfetch with Neofetch.
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
 	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
@@ -254,7 +254,7 @@
 - [ ] Theming round 5
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
-	- [ ] Install Dynamic Dark theme
+
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
@@ -268,11 +268,9 @@
 			- [ ] Current Battery
 		- [ ] Windows VM
 		- [ ] Hibernation
+	- [ ] Install Dynamic Dark theme
 - [ ] Keyboard
 	- [ ] Rebind fn key to the ends
-	- [ ] Rebind backspace to the keys left of the space bar
-		- [ ] Add an alt-layer to those keys for delete
-	- [ ] Remap backspace key to Space + left shift
 	- [x] Add an alt-layer for slash, adding the backslash key.
 	- [x] Add an alt-layer to the quote key, adding the tilde key
 
