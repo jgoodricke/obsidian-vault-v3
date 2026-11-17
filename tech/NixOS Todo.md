@@ -117,7 +117,7 @@
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
-	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
+	- [x] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
@@ -244,6 +244,7 @@
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
+	- [ ] For Superfile, use the existing built-in themes where possible. 
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [x] Make update button interactive.
 		- [x] Pass the update process to an LLM.
