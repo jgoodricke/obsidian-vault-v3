@@ -193,7 +193,7 @@
 	- [x] Add a hotkey (or another way) to see the previous notifications.
 	- [x] Add instructions for converting themes.
 	- [x] Add Google Calendar shortcut
-	- [ ] Set up Helium
+	- [x] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
 	- [ ] Set Yazi as default file manager
@@ -239,7 +239,7 @@
 	- [ ] Install WLR Which Key 
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Remove Configuration from Night Light menu.
-	- [ ] Change Workspace numbers to Kanji.
+	- [x] Change Workspace numbers to Kanji.
 	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
