@@ -127,7 +127,7 @@
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Show relative and absolute line numbers
-	- [ ] Add Git diff/comparison.
+	- [x] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
@@ -199,7 +199,7 @@
 	- [ ] Set Yazi as default file manager
 	- [x] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
-	- [ ] Prompt for a password when running update, same as for switch
+	- [x] Prompt for a password when running update, same as for switch
 	- [ ] Add theme images to Readme.
 	- [ ] Look into styling the file explorer.
 	- [x] Add Btop themes
@@ -236,7 +236,7 @@
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
 	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
-	- [ ] Install WLR Which Key (and find an equivalent for Windows)
+	- [ ] Install WLR Which Key 
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Remove Configuration from Night Light menu.
 	- [ ] Change Workspace numbers to Kanji.
@@ -245,8 +245,8 @@
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
 	- [ ] Add icons to the keyboard shortcuts menu.
-	- [ ] Make update button interactive.
-		- [ ] Pass the update process to an LLM.
+	- [x] Make update button interactive.
+		- [x] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
 - [ ] Theming round 5
