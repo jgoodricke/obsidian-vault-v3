@@ -232,6 +232,7 @@
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [x] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
+	- [ ] Add the [Superfile plugins](https://superfile.dev/list/plugin-list/).
 	- [ ] Replace fastfetch with Neofetch.
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
@@ -244,7 +245,7 @@
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
-	- [ ] For Superfile, use the existing built-in themes where possible. 
+	- [ ] For Superfile, use the [existing built-in themes](https://superfile.dev/list/theme-list/) where possible. 
 	- [ ] Add icons to the keyboard shortcuts menu.
 	- [x] Make update button interactive.
 		- [x] Pass the update process to an LLM.
