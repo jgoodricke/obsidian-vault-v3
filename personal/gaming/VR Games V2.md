@@ -6,7 +6,7 @@ Playing Now
 - Iron Lung
 
 Interested (Quest Only)
-- [x] Robo Recall
+- [ ] Robo Recall
 - [x] Attack on Titan Fan Game
 - [x] Iron Lung
 - [x] **Journey of the Gods**
@@ -94,7 +94,7 @@ Interested (Cross-Play)
 | Marvel's Deadpool VR                                        | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
 | Robo Recall: Unplugged                                      | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
 | Starship Home                                               | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Return to Castle Wolfenstein                                | Yes                | No              | 89                 | N/A         | 89    | Not Playing           | Touch           | yes   |
+| Return to Castle Wolfenstein                                | Yes                | Yes             | 89                 | N/A         | 89    | Not Playing           | Touch           | yes   |
 | Lucent VR - Relax and Explore                               | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
 | Marvel's Iron Man VR                                        | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
 | Street Gods                                                 | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
