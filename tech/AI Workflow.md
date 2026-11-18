@@ -13,9 +13,6 @@
 - Testing: Add automated tests
 - QA: test locally
 - QA: Squash test results
-- QA: Confirm no slow queries
-- QA: Confirm no console errors
-- QA: confirm no failed jobs (/failed-jobs)
 - Code Review: human code review
 - Testing: Run CI
 - Deploy: create PR
