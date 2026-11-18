@@ -1,4 +1,4 @@
-### Technical Details
+## Technical Details
 
 - Map submission text is currently stored in enquiries.comments; history comments use the separate enquiry_comments table. Preserve the existing stored submission text.
 - The submission email uses Markdown rendering. HTML escaping alone does not ensure that Markdown syntax stays literal.
