@@ -1,10 +1,13 @@
 Playing Now
+- Journey of the Gods
 - Jedi Knight 2
 - Doom 3
 - Robo Recall
+- Iron Lung
 
 Interested (Quest Only)
-- [ ] Attack on Titan Fan Game
+- [ ] Robo Recall
+- [x] Attack on Titan Fan Game
 - [x] Iron Lung
 - [x] **Journey of the Gods**
 - [x] **Nano**
@@ -46,10 +49,11 @@ Interested (Quest Only)
 - [x] Games to Show Off
 	- [x] Superhot
 	- [x] Beat Saber
-	- [x] Blade and Sorcery
+	- [ ] Blade and Sorcery
 	- [x] Zero Caliber 2
 	- [x] Thrill of the Fight
 	- [x] Warplanes: WWI
+	- [ ] Contractors
 
 
 Interested (Cross-Play)
@@ -71,6 +75,172 @@ Interested (Cross-Play)
 
 | Title                                                       | Available on Quest | Available on PC | Steam Score        | Meta Score  | Score | Status                | Control Type    | Owned |
 | ----------------------------------------------------------- | ------------------ | --------------- | ------------------ | ----------- | ----- | --------------------- | --------------- | ----- |
+| Doom                                                        | Yes                | No              | 97                 | N/A         | 97    | Playing               | Touch           | yes   |
+| Nano                                                        | Yes                | No              | N/A                | 96          | 96    | Not Playing           | Touch           | No    |
+| Quake                                                       | Yes                | No              | 95                 | N/A         | 95    | Not Playing           | Touch           | yes   |
+| Quake 3                                                     | Yes                | No              | 95                 | N/A         | 95    | Not Playing           | Touch           | yes   |
+| Resident Evil 4                                             | Yes                | No              | 96                 | 94          | 94    | Not Playing           | Touch           | No    |
+| Airspace Defender                                           | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
+| In Death Unchained                                          | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | yes   |
+| Medieval Dynasty New Settlement                             | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
+| Action Hero                                                 | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
+| Batman: Arkham Shadow                                       | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
+| Journey of the Gods                                         | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
+| Laser Dance                                                 | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
+| Iron Lung                                                   | Yes                | No              | 92                 | N/A         | 92    | Not Playing           | Touch           | yes   |
+| Quake 2                                                     | Yes                | No              | 92                 | N/A         | 92    | Not Playing           | Touch           | yes   |
+| Drop Dead: The Cabin                                        | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
+| Infinite Inside                                             | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
+| Marvel's Deadpool VR                                        | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
+| Robo Recall: Unplugged                                      | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
+| Starship Home                                               | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
+| Return to Castle Wolfenstein                                | Yes                | Yes             | 89                 | N/A         | 89    | Not Playing           | Touch           | yes   |
+| Lucent VR - Relax and Explore                               | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
+| Marvel's Iron Man VR                                        | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
+| Street Gods                                                 | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
+| Assassin’s Creed® Nexus VR                                  | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
+| Attack on Titan VR: Unbreakable                             | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
+| Exploding Kittens VR                                        | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
+| The Climb 2                                                 | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
+| Vader Immortal: Episode I                                   | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
+| Phantom: Covert Ops                                         | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
+| Shattered                                                   | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
+| Star Wars: Tales from the Galaxy's Edge                     | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
+| Espire 2: Stealth Operatives                                | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
+| Ocean Rift                                                  | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
+| Out of Scale: A Kurzgesagt Adventure                        | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
+| The Climb                                                   | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
+| Doom 3                                                      | Yes                | No              | 81                 | N/A         | 81    | Not Playing           | Touch           | yes   |
+| Catana: Red Flowers                                         | Yes                | No              | N/A                | 80          | 80    | Not Playing           | Touch           | No    |
+| Dimensional Double Shift                                    | Yes                | No              | N/A                | 80          | 80    | Not Playing           | Touch           | No    |
+| Prey                                                        | Yes                | No              | 79                 | N/A         | 79    | Not Playing           | Touch           | yes   |
+| Beyond Blue: After the Storm                                | Yes                | No              | N/A                | 78          | 78    | Not Playing           | Touch           | No    |
+| Ghostbusters: Rise of the Ghost Lord                        | Yes                | No              | N/A                | 78          | 78    | Not Playing           | Touch           | No    |
+| Just Dance VR – Welcome to Dancity                          | Yes                | No              | N/A                | 72          | 72    | Not Playing           | Touch           | No    |
+| PianoVision                                                 | Yes                | No              | N/A                | 62          | 62    | Not Playing           | Touch           | No    |
+| Trombone Champ: Unflattened                                 | Yes                | Yes             | 99                 | 98          | 99    | Not Playing           | Touch           | no    |
+| UNDERDOGS                                                   | Yes                | Yes             | 98                 | 96          | 98    | Not Playing           | Touch           | no    |
+| COMPOUND                                                    | Yes                | Yes             | 97                 | 96          | 97    | Not Playing           | Touch           | no    |
+| Wrath: Aeon of Ruin VR - Brutal Edition                     | Yes                | Yes             | 97                 | 96          | 97    | Not Playing           | Touch           | Yes   |
+| The Room VR: A Dark Matter                                  | Yes                | Yes             | 97                 | 98          | 97    | Not Playing           | Touch           | no    |
+| Blade and Sorcery                                           | Yes                | Yes             | 96                 | 86          | 96    | Not Playing           | Touch           | yes   |
+| Beat Saber                                                  | Yes                | Yes             | 96                 | 90          | 96    | Playing               | Touch           | yes   |
+| The Last Clockwinder                                        | Yes                | Yes             | 96                 | 96          | 96    | Not Playing           | Touch           | no    |
+| Out of Sight VR                                             | Yes                | Yes             | 96                 | Not Out Yet | 96    | Not Playing           | Touch           | Yes   |
+| The Thrill of the Fight                                     | Yes                | Yes             | 95                 | 96          | 95    | Not Playing           | Touch           | Yes   |
+| RUNNER                                                      | Yes                | Yes             | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
+| Fujii - A Magical Gardening Adventure                       | Yes                | Yes             | 94                 | 92          | 94    | Playing               | Touch           | yes   |
+| Ghost Signal: A Stellaris Game                              | Yes                | Yes             | 94                 | 92          | 94    | Not Playing           | Touch           | no    |
+| The 7th Guest VR                                            | Yes                | Yes             | 94                 | 92          | 94    | Not Playing           | Touch           | no    |
+| Into the Radius VR                                          | Yes                | Yes             | 94                 | 94          | 94    | Not Playing           | Touch           | no    |
+| Until You Fall                                              | Yes                | Yes             | 94                 | 94          | 94    | Not Playing           | Touch           | yes   |
+| I Expect You To Die                                         | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | yes   |
+| Moss                                                        | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | yes   |
+| Space Docker VR                                             | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | no    |
+| Riven                                                       | Yes                | Yes             | 93                 | 76          | 93    | Not Playing           | Touch           | no    |
+| Maskmaker                                                   | Yes                | Yes             | 93                 | 90          | 93    | Not Playing           | Touch           | yes   |
+| Garden of the Sea (VR)                                      | Yes                | Yes             | 93                 | 92          | 93    | Not Playing           | Touch           | no    |
+| Eye of the Temple                                           | Yes                | Yes             | 93                 | 94          | 93    | Not Playing           | Touch           | no    |
+| The House of Da Vinci VR                                    | Yes                | Yes             | 93                 | 94          | 93    | Not Playing           | Touch           | no    |
+| Pistol Whip                                                 | Yes                | Yes             | 93                 | 96          | 93    | Playing               | Touch           | yes   |
+| Red Matter 2                                                | Yes                | Yes             | 93                 | 96          | 93    | Not Playing           | Touch           | yes   |
+| The Curious Tale of the Stolen Pets                         | Yes                | Yes             | 92                 | 88          | 92    | Not Playing           | Touch           | yes   |
+| VENDETTA FOREVER                                            | Yes                | Yes             | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
+| RAGER                                                       | Yes                | Yes             | 100                | 92          | 92    | Not Playing           | Touch           | no    |
+| Virtual Virtual Reality                                     | Yes                | Yes             | 92                 | 94          | 92    | Not Playing           | Touch           | no    |
+| We Are One                                                  | Yes                | Yes             | 92                 | 96          | 92    | Not Playing           | Touch           | no    |
+| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | 92 (GOG)           | N/A         | 92    | Not Playing           | Touch           | No    |
+| Rager                                                       | Yes                | Yes             | 94                 | 90          | 92    | Not Playing           | Touch           | Yes   |
+| Clone Drone in the Hyperdome                                | Yes                | Yes             | 91                 | 92          | 91    | Not Playing           | Touch           | no    |
+| Waltz of the Wizard                                         | Yes                | Yes             | 91                 | 98          | 91    | Playing               | Touch           | yes   |
+| Genotype                                                    | Yes                | Yes             | 90                 | 92          | 91    | Not Playing           | Touch           | Yes   |
+| Thrasher                                                    | Yes                | Yes             | 90                 | 80          | 90    | Not Playing           | Touch           | no    |
+| Floor Plan 2                                                | Yes                | Yes             | 90                 | 88          | 90    | Not Playing           | Touch           | no    |
+| VEX MAGE                                                    | Yes                | Yes             | 95                 | 90          | 90    | Not Playing           | Touch           | no    |
+| Audio Trip                                                  | Yes                | Yes             | 90                 | 90          | 90    | Not Playing           | Touch           | Yes   |
+| Superfly                                                    | Yes                | Yes             | 90                 | 90          | 90    | Not Playing           | Touch           | yes   |
+| Red Matter                                                  | Yes                | Yes             | 90                 | 92          | 90    | Not Playing           | Touch           | yes   |
+| V-Racer Hoverbike                                           | Yes                | Yes             | 90                 | 96          | 90    | Not Playing           | Touch           | Yes   |
+| Arken Age                                                   | Yes                | Yes             | 90                 | 98          | 90    | Not Playing           | Touch           | no    |
+| Shooty Fruity                                               | Yes                | Yes             | 89                 | 82          | 89    | Not Playing           | Touch           | yes   |
+| The Light Brigade                                           | Yes                | Yes             | 89                 | 88          | 89    | Not Playing           | Touch           | no    |
+| Angry Birds VR: Isle of Pigs                                | Yes                | Yes             | 89                 | 90          | 89    | Not Playing           | Touch           | No    |
+| Guns'n'Stories: Bulletproof VR                              | Yes                | Yes             | 88                 | 74          | 88    | Not Playing           | Touch           | no    |
+| Colossal Cave VR                                            | Yes                | Yes             | 88                 | 76          | 88    | Not Playing           | Touch           | no    |
+| Carly and the Reaperman - Escape from the Underworld        | Yes                | Yes             | 88                 | 82          | 88    | Not Playing           | Touch           | no    |
+| AMID EVIL VR                                                | Yes                | Yes             | 87                 | 92          | 87    | Not Playing           | Touch           | no    |
+| Into Black                                                  | Yes                | Yes             | 87                 | 94          | 87    | Not Playing           | Touch           | no    |
+| Roboquest VR                                                | Yes                | Yes             | 87                 | N/A         | 87    | Not Playing           | Touch           | Yes   |
+| Sairento VR                                                 | Yes                | Yes             | 86                 | 90          | 86    | Not Playing           | Touch           | yes   |
+| A Fisherman's Tale 2                                        | Yes                | Yes             | 86                 | 92          | 86    | Not Playing           | Touch           | yes   |
+| The Walking Dead Saints & Sinners                           | Yes                | Yes             | 86                 | 92          | 86    | Not Playing           | Touch           | yes   |
+| Quake 4                                                     | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | yes   |
+| Tomb Raider                                                 | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | yes   |
+| Traffic Jams                                                | Yes                | Yes             | 85                 | 82          | 85    | Not Playing           | Touch           | yes   |
+| PowerBeatsVR                                                | Yes                | Yes             | 85                 | 90          | 85    | Not Playing           | Touch           | no    |
+| Pixel Ripped 1989                                           | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | no    |
+| Elven Assassin                                              | Yes                | Yes             | 84                 | 80          | 84    | Not Playing           | Touch           | no    |
+| Sweet Surrender                                             | Yes                | Yes             | 84                 | 92          | 84    | Not Playing           | Touch           | no    |
+| FREEDIVER: Triton Down                                      | Yes                | Yes             | 83                 | 80          | 83    | Not Playing           | Touch           | no    |
+| Nature Treks VR                                             | Yes                | Yes             | 82                 | 78          | 82    | Not Playing           | Touch           | no    |
+| Budget Cuts 2 Mission Insolvency                            | Yes                | Yes             | 82                 | 88          | 82    | Not Playing           | Touch           | yes   |
+| Surviving Mars: Pioneer                                     | Yes                | Yes             | 82                 | 92          | 82    | Not Playing           | Touch           | Yes   |
+| The Amusement                                               | Yes                | Yes             | 82                 | 94          | 82    | Not Playing           | Touch           | no    |
+| Escaping Wonderland                                         | Yes                | Yes             | 82                 | 96          | 82    | Not Playing           | Touch           | No    |
+| Audioshield                                                 | Yes                | Yes             | 81                 | 68          | 81    | Not Playing           | Touch           | no    |
+| Budget Cuts                                                 | Yes                | Yes             | 81                 | 88          | 81    | Not Playing           | Touch           | yes   |
+| Tethered                                                    | Yes                | Yes             | 81                 | 80          | 80    | Not Playing           | Touch           | no    |
+| Gravity Lab - Gravitational Testing Facility & Observations | Yes                | Yes             | 80                 | 82          | 80    | Not Playing           | Touch           | no    |
+| Dance Collider                                              | Yes                | Yes             | 80                 | 84          | 80    | Not Playing           | Touch           | no    |
+| Void Jump VR                                                | Yes                | Yes             | 80                 | 84          | 80    | Not Playing           | Touch           | no    |
+| JUST ONE MAN                                                | Yes                | Yes             | 80                 | 96          | 80    | Not Playing           | Touch           | no    |
+| Swarm                                                       | Yes                | Yes             | 80                 | 96          | 80    | Not Playing           | Touch           | no    |
+| Falcon Age                                                  | Yes                | Yes             | 79                 | 82          | 79    | Not Playing           | Touch           | no    |
+| Grimlord                                                    | Yes                | Yes             | 78                 | 80          | 78    | Not Playing           | Touch           | yes   |
+| Knockout League                                             | Yes                | Yes             | 77                 | 74          | 77    | Not Playing           | Touch           | no    |
+| Thief VR: Legacy of shadow                                  | Yes                | Yes             | 77                 | 82          | 77    | Not Playing           | Touch           | no    |
+| Windlands                                                   | Yes                | Yes             | 77                 | 94          | 77    | Not Playing           | Touch           | yes   |
+| Wall Town Wonders                                           | Yes                | Yes             | 76                 | 82          | 76    | Not Playing           | Touch           | No    |
+| Jedi Knight 2                                               | Yes                | Yes             | 76                 | N/A         | 76    | Playing               | Touch           | yes   |
+| Creed Rise to Glory™                                        | Yes                | Yes             | 75                 | 82          | 75    | Not Playing           | Touch           | yes   |
+| Skydance's BEHEMOTH                                         | Yes                | Yes             | 75                 | 82          | 75    | Not Playing           | Touch           | no    |
+| The Wizards                                                 | Yes                | Yes             | 74                 | 82          | 74    | Not Playing           | Touch           | yes   |
+| Metro Awakening                                             | Yes                | Yes             | 74                 | 90          | 74    | Not Playing           | Touch           | no    |
+| Homeworld: Vast Reaches                                     | Yes                | Yes             | Not enough reviews | 74          | 74    | Not Playing           | Touch           | Yes   |
+| A Rogue Escape                                              | Yes                | Yes             | 73                 | 74          | 74    | Not Playing           | Touch           | Yes   |
+| The Pirate Queen: A Forgotten Legend                        | Yes                | Yes             | 73                 | 78          | 73    | Not Playing           | Touch           | no    |
+| Apex Construct                                              | Yes                | Yes             | 73                 | 82          | 73    | Playing               | Touch           | yes   |
+| Accounting+                                                 | Yes                | Yes             | 73                 | 84          | 73    | Not Playing           | Touch           | no    |
+| SWARM 2                                                     | Yes                | Yes             | 73                 | 96          | 73    | Not Playing           | Touch           | no    |
+| The Wizards - Dark Times                                    | Yes                | Yes             | 72                 | 76          | 72    | Not Playing           | Touch           | yes   |
+| Wanderer: The Fragments of Fate                             | Yes                | Yes             | 67                 | 68          | 67    | Not Playing           | Touch           | no    |
+| A Long Survive                                              | Yes                | Yes             | 67                 | 82          | 67    | Not Playing           | Touch           | no    |
+| Vampire: The Masquerade - Justice                           | Yes                | Yes             | 65                 | 80          | 65    | Not Playing           | Touch           | no    |
+| The Walking Dead: Saints & Sinners - Chapter 2: Retribution | Yes                | Yes             | 64                 | 78          | 64    | Not Playing           | Touch           | no    |
+| Reach                                                       | Yes                | Yes             | 62                 | 80          | 62    | Not Playing           | Touch           | no    |
+| Doctor Who: The Edge Of Time                                | Yes                | Yes             | 61                 | 68          | 61    | Not Playing           | Touch           | no    |
+| Homeworld: Vast Reaches                                     | Yes                | Yes             | 57                 | 74          | 57    | Not Playing           | Touch           | no    |
+| STRIDE: Fates                                               | Yes                | Yes             | 54                 | 80          | 54    | Not Playing           | Touch           | no    |
+| Espire 1 VR Operative                                       | Yes                | Yes             | 53                 | 84          | 53    | Not Playing           | Touch           | yes   |
+| Quake 4                                                     | Yes                | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
+| Return to Castle Wolfenstein                                | Yes                | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
+| I am your Beast VR                                          | No                 | Yes             | 96                 | N/A         | 96    | Not Playing           | Touch           | Yes   |
+| Fallout New Vegas                                           | No                 | Yes             | 96                 | N/A         | 96    | Waiting for Mod       | Touch           | Yes   |
+| Aircar                                                      | No                 | Yes             | 95                 | N/A         | 95    | Not Playing           | HOTAS           | yes   |
+| BallisticNG                                                 | No                 | Yes             | 95                 | N/A         | 95    | Not Playing           | HOTAS           | no    |
+| Distance                                                    | No                 | Yes             | 93                 | N/A         | 93    | Not Playing           | HOTAS           | yes   |
+| House of the Dying Sun                                      | No                 | Yes             | 89                 | N/A         | 89    | Not Playing           | HOTAS           | yes   |
+| Alliance Peacefighter                                       | No                 | Yes             | 85                 | N/A         | 85    | Not Playing           | HOTAS           | no    |
+| Falcon 4.0                                                  | No                 | Yes             | 85                 | N/A         | 85    | Not Playing           | HOTAS           | no    |
+| Z.O.N.A Origin                                              | No                 | Yes             | 83                 | N/A         | 83    | Not Playing           | Touch           | Yes   |
+| BARDO                                                       | No                 | Yes             | 82                 | N/A         | 82    | Not Playing           | Touch           | no    |
+| Vector 36                                                   | No                 | Yes             | 80                 | N/A         | 80    | Not Playing           | HOTAS           | no    |
+| Fallout 3                                                   | No                 | Yes             | 80                 | N/A         | 80    | Waiting for Mod       | Touch           | Yes   |
+| IL-2 Sturmovik: Battle of Stalingrad                        | No                 | Yes             | 79                 | N/A         | 79    | Not Playing           | HOTAS           | no    |
+| Freespace 2                                                 | No                 | Yes             | 78                 | N/A         | 78    | Not Playing           | HOTAS           | no    |
+| EVERSPACE                                                   | No                 | Yes             | 77                 | N/A         | 77    | Playing               | HOTAS           | yes   |
+| Z.O.N.A Project X                                           | No                 | Yes             | 75                 | N/A         | 75    | Not Playing           | Touch           | Yes   |
+| X Rebirth VR Edition                                        | No                 | Yes             | 59                 | N/A         | 59    | Not Playing           | HOTAS           | no    |
 | ARKTIKA.1                                                   | No                 | Yes             | N/A                |             |       | Waiting for Better PC | Touch           | No    |
 | Lone Echo                                                   | No                 | Yes             | N/A                |             |       | Waiting for Better PC | Touch           | No    |
 | Lone Echo II                                                | No                 | Yes             | N/A                |             |       | Waiting for Better PC | Touch           | No    |
@@ -145,13 +315,11 @@ Interested (Cross-Play)
 | Project Wingman                                             | No                 | Yes             |                    | N/A         |       | Waiting for Better PC | HOTAS           | no    |
 | Psychonauts in the Rhombus of Ruin                          | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | QUAKE                                                       | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
-| Quake 4                                                     | Yes                | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | QUAKE II                                                    | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | QUAKE III Arena                                             | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | Raw Data                                                    | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | yes   |
 | RESIDENT EVIL 7 biohazard                                   | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | Resident Evil Village                                       | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
-| Return to Castle Wolfenstein                                | Yes                | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | Rick and Morty Virtual Rick-ality                           | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | yes   |
 | Robinson: The Journey                                       | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
 | Run Of Mydan                                                | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | no    |
@@ -217,170 +385,6 @@ Interested (Cross-Play)
 | X-Wing & Tie Fighter                                        | No                 | Yes             |                    | N/A         |       | Waiting for Update    | HOTAS           | yes   |
 | X-Wing Alliance                                             | No                 | Yes             |                    | N/A         |       | Waiting for Update    | HOTAS           | yes   |
 | XING The Land Beyond                                        | No                 | Yes             |                    | N/A         |       | Not Playing           | Touch           | yes   |
-| X Rebirth VR Edition                                        | No                 | Yes             | 59                 | N/A         | 59    | Not Playing           | HOTAS           | no    |
-| EVERSPACE                                                   | No                 | Yes             | 77                 | N/A         | 77    | Playing               | HOTAS           | yes   |
-| Freespace 2                                                 | No                 | Yes             | 78                 | N/A         | 78    | Not Playing           | HOTAS           | no    |
-| IL-2 Sturmovik: Battle of Stalingrad                        | No                 | Yes             | 79                 | N/A         | 79    | Not Playing           | HOTAS           | no    |
-| Vector 36                                                   | No                 | Yes             | 80                 | N/A         | 80    | Not Playing           | HOTAS           | no    |
-| BARDO                                                       | No                 | Yes             | 82                 | N/A         | 82    | Not Playing           | Touch           | no    |
-| Alliance Peacefighter                                       | No                 | Yes             | 85                 | N/A         | 85    | Not Playing           | HOTAS           | no    |
-| Falcon 4.0                                                  | No                 | Yes             | 85                 | N/A         | 85    | Not Playing           | HOTAS           | no    |
-| House of the Dying Sun                                      | No                 | Yes             | 89                 | N/A         | 89    | Not Playing           | HOTAS           | yes   |
-| Distance                                                    | No                 | Yes             | 93                 | N/A         | 93    | Not Playing           | HOTAS           | yes   |
-| Aircar                                                      | No                 | Yes             | 95                 | N/A         | 95    | Not Playing           | HOTAS           | yes   |
-| BallisticNG                                                 | No                 | Yes             | 95                 | N/A         | 95    | Not Playing           | HOTAS           | no    |
-| PianoVision                                                 | Yes                | No              | N/A                | 62          | 62    | Not Playing           | Touch           | No    |
-| Just Dance VR – Welcome to Dancity                          | Yes                | No              | N/A                | 72          | 72    | Not Playing           | Touch           | No    |
-| Beyond Blue: After the Storm                                | Yes                | No              | N/A                | 78          | 78    | Not Playing           | Touch           | No    |
-| Ghostbusters: Rise of the Ghost Lord                        | Yes                | No              | N/A                | 78          | 78    | Not Playing           | Touch           | No    |
-| Catana: Red Flowers                                         | Yes                | No              | N/A                | 80          | 80    | Not Playing           | Touch           | No    |
-| Dimensional Double Shift                                    | Yes                | No              | N/A                | 80          | 80    | Not Playing           | Touch           | No    |
-| Espire 2: Stealth Operatives                                | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
-| Ocean Rift                                                  | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
-| Out of Scale: A Kurzgesagt Adventure                        | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
-| The Climb                                                   | Yes                | No              | N/A                | 82          | 82    | Not Playing           | Touch           | No    |
-| Phantom: Covert Ops                                         | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
-| Shattered                                                   | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
-| Star Wars: Tales from the Galaxy's Edge                     | Yes                | No              | N/A                | 84          | 84    | Not Playing           | Touch           | No    |
-| Assassin’s Creed® Nexus VR                                  | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
-| Attack on Titan VR: Unbreakable                             | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
-| Exploding Kittens VR                                        | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
-| The Climb 2                                                 | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
-| Vader Immortal: Episode I                                   | Yes                | No              | N/A                | 86          | 86    | Not Playing           | Touch           | No    |
-| Lucent VR - Relax and Explore                               | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
-| Marvel's Iron Man VR                                        | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
-| Street Gods                                                 | Yes                | No              | N/A                | 88          | 88    | Not Playing           | Touch           | No    |
-| Drop Dead: The Cabin                                        | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Infinite Inside                                             | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Marvel's Deadpool VR                                        | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Robo Recall: Unplugged                                      | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Starship Home                                               | Yes                | No              | N/A                | 90          | 90    | Not Playing           | Touch           | No    |
-| Action Hero                                                 | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
-| Batman: Arkham Shadow                                       | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
-| Journey of the Gods                                         | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
-| Laser Dance                                                 | Yes                | No              | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
-| Resident Evil 4                                             | Yes                | No              | 96                 | 94          | 94    | Not Playing           | Touch           | No    |
-| Airspace Defender                                           | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
-| In Death Unchained                                          | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | yes   |
-| Medieval Dynasty New Settlement                             | Yes                | No              | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
-| RUNNER                                                      | Yes                | Yes             | N/A                | 94          | 94    | Not Playing           | Touch           | No    |
-| Nano                                                        | Yes                | No              | N/A                | 96          | 96    | Not Playing           | Touch           | No    |
-| Prey                                                        | Yes                | No              | 79                 | N/A         | 79    | Not Playing           | Touch           | yes   |
-| Doom 3                                                      | Yes                | No              | 81                 | N/A         | 81    | Not Playing           | Touch           | yes   |
-| Quake 4                                                     | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | yes   |
-| Tomb Raider                                                 | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | yes   |
-| Return to Castle Wolfenstein                                | Yes                | No              | 89                 | N/A         | 89    | Not Playing           | Touch           | yes   |
-| Iron Lung                                                   | Yes                | No              | 92                 | N/A         | 92    | Not Playing           | Touch           | yes   |
-| Quake 2                                                     | Yes                | No              | 92                 | N/A         | 92    | Not Playing           | Touch           | yes   |
-| Quake                                                       | Yes                | No              | 95                 | N/A         | 95    | Not Playing           | Touch           | yes   |
-| Quake 3                                                     | Yes                | No              | 95                 | N/A         | 95    | Not Playing           | Touch           | yes   |
-| Doom                                                        | Yes                | No              | 97                 | N/A         | 97    | Playing               | Touch           | yes   |
-| Doctor Who: The Edge Of Time                                | Yes                | Yes             | 61                 | 68          | 61    | Not Playing           | Touch           | no    |
-| Wanderer: The Fragments of Fate                             | Yes                | Yes             | 67                 | 68          | 67    | Not Playing           | Touch           | no    |
-| Audioshield                                                 | Yes                | Yes             | 81                 | 68          | 81    | Not Playing           | Touch           | no    |
-| Homeworld: Vast Reaches                                     | Yes                | Yes             | 57                 | 74          | 57    | Not Playing           | Touch           | no    |
-| Knockout League                                             | Yes                | Yes             | 77                 | 74          | 77    | Not Playing           | Touch           | no    |
-| Guns'n'Stories: Bulletproof VR                              | Yes                | Yes             | 88                 | 74          | 88    | Not Playing           | Touch           | no    |
-| The Wizards - Dark Times                                    | Yes                | Yes             | 72                 | 76          | 72    | Not Playing           | Touch           | yes   |
-| Colossal Cave VR                                            | Yes                | Yes             | 88                 | 76          | 88    | Not Playing           | Touch           | no    |
-| Riven                                                       | Yes                | Yes             | 93                 | 76          | 93    | Not Playing           | Touch           | no    |
-| The Walking Dead: Saints & Sinners - Chapter 2: Retribution | Yes                | Yes             | 64                 | 78          | 64    | Not Playing           | Touch           | no    |
-| The Pirate Queen: A Forgotten Legend                        | Yes                | Yes             | 73                 | 78          | 73    | Not Playing           | Touch           | no    |
-| Nature Treks VR                                             | Yes                | Yes             | 82                 | 78          | 82    | Not Playing           | Touch           | no    |
-| STRIDE: Fates                                               | Yes                | Yes             | 54                 | 80          | 54    | Not Playing           | Touch           | no    |
-| Reach                                                       | Yes                | Yes             | 62                 | 80          | 62    | Not Playing           | Touch           | no    |
-| Vampire: The Masquerade - Justice                           | Yes                | Yes             | 65                 | 80          | 65    | Not Playing           | Touch           | no    |
-| Grimlord                                                    | Yes                | Yes             | 78                 | 80          | 78    | Not Playing           | Touch           | yes   |
-| Tethered                                                    | Yes                | Yes             | 81                 | 80          | 80    | Not Playing           | Touch           | no    |
-| FREEDIVER: Triton Down                                      | Yes                | Yes             | 83                 | 80          | 83    | Not Playing           | Touch           | no    |
-| Elven Assassin                                              | Yes                | Yes             | 84                 | 80          | 84    | Not Playing           | Touch           | no    |
-| Thrasher                                                    | Yes                | Yes             | 90                 | 80          | 90    | Not Playing           | Touch           | no    |
-| A Long Survive                                              | Yes                | Yes             | 67                 | 82          | 67    | Not Playing           | Touch           | no    |
-| Apex Construct                                              | Yes                | Yes             | 73                 | 82          | 73    | Playing               | Touch           | yes   |
-| The Wizards                                                 | Yes                | Yes             | 74                 | 82          | 74    | Not Playing           | Touch           | yes   |
-| Creed Rise to Glory™                                        | Yes                | Yes             | 75                 | 82          | 75    | Not Playing           | Touch           | yes   |
-| Skydance's BEHEMOTH                                         | Yes                | Yes             | 75                 | 82          | 75    | Not Playing           | Touch           | no    |
-| Wall Town Wonders                                           | Yes                | Yes             | 76                 | 82          | 76    | Not Playing           | Touch           | No    |
-| Thief VR: Legacy of shadow                                  | Yes                | Yes             | 77                 | 82          | 77    | Not Playing           | Touch           | no    |
-| Falcon Age                                                  | Yes                | Yes             | 79                 | 82          | 79    | Not Playing           | Touch           | no    |
-| Gravity Lab - Gravitational Testing Facility & Observations | Yes                | Yes             | 80                 | 82          | 80    | Not Playing           | Touch           | no    |
-| Traffic Jams                                                | Yes                | Yes             | 85                 | 82          | 85    | Not Playing           | Touch           | yes   |
-| Carly and the Reaperman - Escape from the Underworld        | Yes                | Yes             | 88                 | 82          | 88    | Not Playing           | Touch           | no    |
-| Shooty Fruity                                               | Yes                | Yes             | 89                 | 82          | 89    | Not Playing           | Touch           | yes   |
-| Espire 1 VR Operative                                       | Yes                | Yes             | 53                 | 84          | 53    | Not Playing           | Touch           | yes   |
-| Accounting+                                                 | Yes                | Yes             | 73                 | 84          | 73    | Not Playing           | Touch           | no    |
-| Dance Collider                                              | Yes                | Yes             | 80                 | 84          | 80    | Not Playing           | Touch           | no    |
-| Void Jump VR                                                | Yes                | Yes             | 80                 | 84          | 80    | Not Playing           | Touch           | no    |
-| Blade and Sorcery                                           | Yes                | Yes             | 96                 | 86          | 96    | Not Playing           | Touch           | yes   |
-| Budget Cuts                                                 | Yes                | Yes             | 81                 | 88          | 81    | Not Playing           | Touch           | yes   |
-| Budget Cuts 2 Mission Insolvency                            | Yes                | Yes             | 82                 | 88          | 82    | Not Playing           | Touch           | yes   |
-| The Light Brigade                                           | Yes                | Yes             | 89                 | 88          | 89    | Not Playing           | Touch           | no    |
-| Floor Plan 2                                                | Yes                | Yes             | 90                 | 88          | 90    | Not Playing           | Touch           | no    |
-| The Curious Tale of the Stolen Pets                         | Yes                | Yes             | 92                 | 88          | 92    | Not Playing           | Touch           | yes   |
-| Metro Awakening                                             | Yes                | Yes             | 74                 | 90          | 74    | Not Playing           | Touch           | no    |
-| PowerBeatsVR                                                | Yes                | Yes             | 85                 | 90          | 85    | Not Playing           | Touch           | no    |
-| Sairento VR                                                 | Yes                | Yes             | 86                 | 90          | 86    | Not Playing           | Touch           | yes   |
-| Angry Birds VR: Isle of Pigs                                | Yes                | Yes             | 89                 | 90          | 89    | Not Playing           | Touch           | No    |
-| VEX MAGE                                                    | Yes                | Yes             | 95                 | 90          | 90    | Not Playing           | Touch           | no    |
-| Audio Trip                                                  | Yes                | Yes             | 90                 | 90          | 90    | Not Playing           | Touch           | Yes   |
-| Superfly                                                    | Yes                | Yes             | 90                 | 90          | 90    | Not Playing           | Touch           | yes   |
-| Maskmaker                                                   | Yes                | Yes             | 93                 | 90          | 93    | Not Playing           | Touch           | yes   |
-| Beat Saber                                                  | Yes                | Yes             | 96                 | 90          | 96    | Playing               | Touch           | yes   |
-| Surviving Mars: Pioneer                                     | Yes                | Yes             | 82                 | 92          | 82    | Not Playing           | Touch           | Yes   |
-| Sweet Surrender                                             | Yes                | Yes             | 84                 | 92          | 84    | Not Playing           | Touch           | no    |
-| A Fisherman's Tale 2                                        | Yes                | Yes             | 86                 | 92          | 86    | Not Playing           | Touch           | yes   |
-| The Walking Dead Saints & Sinners                           | Yes                | Yes             | 86                 | 92          | 86    | Not Playing           | Touch           | yes   |
-| AMID EVIL VR                                                | Yes                | Yes             | 87                 | 92          | 87    | Not Playing           | Touch           | no    |
-| Red Matter                                                  | Yes                | Yes             | 90                 | 92          | 90    | Not Playing           | Touch           | yes   |
-| Clone Drone in the Hyperdome                                | Yes                | Yes             | 91                 | 92          | 91    | Not Playing           | Touch           | no    |
-| VENDETTA FOREVER                                            | Yes                | Yes             | N/A                | 92          | 92    | Not Playing           | Touch           | No    |
-| RAGER                                                       | Yes                | Yes             | 100                | 92          | 92    | Not Playing           | Touch           | no    |
-| Garden of the Sea (VR)                                      | Yes                | Yes             | 93                 | 92          | 93    | Not Playing           | Touch           | no    |
-| Fujii - A Magical Gardening Adventure                       | Yes                | Yes             | 94                 | 92          | 94    | Playing               | Touch           | yes   |
-| Ghost Signal: A Stellaris Game                              | Yes                | Yes             | 94                 | 92          | 94    | Not Playing           | Touch           | no    |
-| The 7th Guest VR                                            | Yes                | Yes             | 94                 | 92          | 94    | Not Playing           | Touch           | no    |
-| Windlands                                                   | Yes                | Yes             | 77                 | 94          | 77    | Not Playing           | Touch           | yes   |
-| The Amusement                                               | Yes                | Yes             | 82                 | 94          | 82    | Not Playing           | Touch           | no    |
-| Into Black                                                  | Yes                | Yes             | 87                 | 94          | 87    | Not Playing           | Touch           | no    |
-| Virtual Virtual Reality                                     | Yes                | Yes             | 92                 | 94          | 92    | Not Playing           | Touch           | no    |
-| Eye of the Temple                                           | Yes                | Yes             | 93                 | 94          | 93    | Not Playing           | Touch           | no    |
-| The House of Da Vinci VR                                    | Yes                | Yes             | 93                 | 94          | 93    | Not Playing           | Touch           | no    |
-| Into the Radius VR                                          | Yes                | Yes             | 94                 | 94          | 94    | Not Playing           | Touch           | no    |
-| Until You Fall                                              | Yes                | Yes             | 94                 | 94          | 94    | Not Playing           | Touch           | yes   |
-| SWARM 2                                                     | Yes                | Yes             | 73                 | 96          | 73    | Not Playing           | Touch           | no    |
-| JUST ONE MAN                                                | Yes                | Yes             | 80                 | 96          | 80    | Not Playing           | Touch           | no    |
-| Swarm                                                       | Yes                | Yes             | 80                 | 96          | 80    | Not Playing           | Touch           | no    |
-| Escaping Wonderland                                         | Yes                | Yes             | 82                 | 96          | 82    | Not Playing           | Touch           | No    |
-| V-Racer Hoverbike                                           | Yes                | Yes             | 90                 | 96          | 90    | Not Playing           | Touch           | Yes   |
-| We Are One                                                  | Yes                | Yes             | 92                 | 96          | 92    | Not Playing           | Touch           | no    |
-| Pistol Whip                                                 | Yes                | Yes             | 93                 | 96          | 93    | Playing               | Touch           | yes   |
-| Red Matter 2                                                | Yes                | Yes             | 93                 | 96          | 93    | Not Playing           | Touch           | yes   |
-| I Expect You To Die                                         | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | yes   |
-| Moss                                                        | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | yes   |
-| Space Docker VR                                             | Yes                | Yes             | 94                 | 96          | 94    | Not Playing           | Touch           | no    |
-| The Thrill of the Fight                                     | Yes                | Yes             | 95                 | 96          | 95    | Not Playing           | Touch           | Yes   |
-| The Last Clockwinder                                        | Yes                | Yes             | 96                 | 96          | 96    | Not Playing           | Touch           | no    |
-| COMPOUND                                                    | Yes                | Yes             | 97                 | 96          | 97    | Not Playing           | Touch           | no    |
-| Wrath: Aeon of Ruin VR - Brutal Edition                     | Yes                | Yes             | 97                 | 96          | 97    | Not Playing           | Touch           | Yes   |
-| UNDERDOGS                                                   | Yes                | Yes             | 98                 | 96          | 98    | Not Playing           | Touch           | no    |
-| Arken Age                                                   | Yes                | Yes             | 90                 | 98          | 90    | Not Playing           | Touch           | no    |
-| Waltz of the Wizard                                         | Yes                | Yes             | 91                 | 98          | 91    | Playing               | Touch           | yes   |
-| The Room VR: A Dark Matter                                  | Yes                | Yes             | 97                 | 98          | 97    | Not Playing           | Touch           | no    |
-| Trombone Champ: Unflattened                                 | Yes                | Yes             | 99                 | 98          | 99    | Not Playing           | Touch           | no    |
-| Jedi Knight 2                                               | Yes                | Yes             | 76                 | N/A         | 76    | Playing               | Touch           | yes   |
-| Pixel Ripped 1989                                           | Yes                | Yes             | 85                 | N/A         | 85    | Not Playing           | Touch           | no    |
-| Roboquest VR                                                | Yes                | Yes             | 87                 | N/A         | 87    | Not Playing           | Touch           | Yes   |
-| Star Treck Voyager: Elite Forces                            | Yes                | Yes             | 92 (GOG)           | N/A         | 92    | Not Playing           | Touch           | No    |
-| Z.O.N.A Project X                                           | No                 | Yes             | 75                 | N/A         | 75    | Not Playing           | Touch           | Yes   |
-| Z.O.N.A Origin                                              | No                 | Yes             | 83                 | N/A         | 83    | Not Playing           | Touch           | Yes   |
-| Homeworld: Vast Reaches                                     | Yes                | Yes             | Not enough reviews | 74          | 74    | Not Playing           | Touch           | Yes   |
-| A Rogue Escape                                              | Yes                | Yes             | 73                 | 74          | 74    | Not Playing           | Touch           | Yes   |
-| I am your Beast VR                                          | No                 | Yes             | 96                 | N/A         | 96    | Not Playing           | Touch           | Yes   |
-| Rager                                                       | Yes                | Yes             | 94                 | 90          | 92    | Not Playing           | Touch           | Yes   |
-| Genotype                                                    | Yes                | Yes             | 90                 | 92          | 91    | Not Playing           | Touch           | Yes   |
-| Out of Sight VR                                             | Yes                | Yes             | 96                 | Not Out Yet | 96    | Not Playing           | Touch           | Yes   |
-| Fallout 3                                                   | No                 | Yes             | 80                 | N/A         | 80    | Waiting for Mod       | Touch           | Yes   |
-| Fallout New Vegas                                           | No                 | Yes             | 96                 | N/A         | 96    | Waiting for Mod       | Touch           | Yes   |
 
 
 - Action Hero

@@ -1,7 +1,9 @@
 ## NixOS Todo
+- [x] Apply Ghostty transparency from themes.
+- [ ] Import OldJobobo narative themes.
 
 - [x] Fix boot order
-- [ ] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
+- [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
 - [ ] set up SSH key
 - [ ] Check these out? Maybe note the ones by DHH
 	- [ ] Hype
@@ -117,7 +119,7 @@
 	- [x] Update theme.
 		- [x] Switch to Catpuccin theme
 		- [x] figure out if its possible to use the Stylix theming.
-	- [ ] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
+	- [x] Add [Vim Coach](https://github.com/shahshlok/vim-coach.nvim)
 - [ ] Pi
 	- [x] Change layout of status bar on small windows.
 	- [x] Add Catppuccin theme to Pi
@@ -127,13 +129,13 @@
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
 	- [ ] Show relative and absolute line numbers
-	- [ ] Add Git diff/comparison.
+	- [x] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
 	- [ ] Add [Vim Be Good](https://github.com/ThePrimeagen/vim-be-good)
 	- [ ] Add spell checker.
 - [ ] Pi Round 2
-	- [ ] Update Pi to use Stylix theme. 
+	- [x] Update Pi to use Stylix theme. 
 	- [ ] Sort out config, it looks a bit overly complex.
 - [x] Theming - Missing Features
 	- [x]  Grow Window shortcuts
@@ -192,15 +194,15 @@
 	- [x] Figure out if there's a way to either control Obsidian themes Nix, or add a custom theme like Omarchy Does.
 	- [x] Add a hotkey (or another way) to see the previous notifications.
 	- [x] Add instructions for converting themes.
-	- [ ] Add Google Calendar shortcut
-	- [ ] Set up Helium
+	- [x] Add Google Calendar shortcut
+	- [x] Set up Helium
 	- [ ] Figure out why dictation is slow compared to Omarchy
 	- [ ] Fix Alt + Brightness Down not working.
-	- [ ] Set Yazi as default file manager
-	- [ ] Unify keyboard shortcuts for opening vim from terminal and PI. 
+	- [x] Set Yazi as default file manager
+	- [x] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
-	- [ ] Prompt for a password when running update, same as for switch
-	- [ ] Add theme images to Readme.
+	- [x] Prompt for a password when running update, same as for switch
+	- [x] Add theme images to Readme.
 	- [ ] Look into styling the file explorer.
 	- [x] Add Btop themes
 	- [x] Add other themes from OldJobobo files.
@@ -232,27 +234,30 @@
 		- [x] [Rain](https://github.com/nkleemann/ascii-rain)
 	- [x] [About Screen](https://omarchy.org/manual/branding/#about-screen)
 - [ ] Theming Round 3
-	- [ ] Replace fastfetch with Neofetch.
+	- [x] Add the [Superfile plugins](https://superfile.dev/list/plugin-list/).
+	- [x] Replace fastfetch with Neofetch.
 	- [ ] Add VLC
 	- [ ] Add an image viewer that supports moving between images.
 	- [ ] Add a PDF reader that supports signing PDFs (like Xournal++)
-	- [ ] Install WLR Which Key (and find an equivalent for Windows)
+	- [ ] Install WLR Which Key 
 	- [ ] Quick Emojis (find a better example)
 	- [ ] Remove Configuration from Night Light menu.
-	- [ ] Change Workspace numbers to Kanji.
+	- [x] Change Workspace numbers to Kanji.
 	- [x] Figure out why login screen freezes when using mouse. 
 	- [x] Get better background:
 		- [x] https://github.com/zhichaoh/catppuccin-wallpapers/blob/main/os/nix-black-4k.png
 - [ ] Theming Round 4
+	- [x] For Superfile, use the [existing built-in themes](https://superfile.dev/list/theme-list/) where possible. 
 	- [ ] Add icons to the keyboard shortcuts menu.
-	- [ ] Make update button interactive.
-		- [ ] Pass the update process to an LLM.
+	- [x] Make update button interactive.
+		- [x] Pass the update process to an LLM.
 	- [ ] Change Cursor
 		- [ ] https://github.com/catppuccin/cursors
+	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
 	- [ ] Style Bootloader
-	- [ ] Install Dynamic Dark theme
+
 - [ ] Advanced Setup
 	- [ ] Set up Flake Parts
 	- [ ] Set up the Dendritic Pattern?
@@ -266,11 +271,9 @@
 			- [ ] Current Battery
 		- [ ] Windows VM
 		- [ ] Hibernation
+	- [ ] Install Dynamic Dark theme
 - [ ] Keyboard
 	- [ ] Rebind fn key to the ends
-	- [ ] Rebind backspace to the keys left of the space bar
-		- [ ] Add an alt-layer to those keys for delete
-	- [ ] Remap backspace key to Space + left shift
 	- [x] Add an alt-layer for slash, adding the backslash key.
 	- [x] Add an alt-layer to the quote key, adding the tilde key
 
