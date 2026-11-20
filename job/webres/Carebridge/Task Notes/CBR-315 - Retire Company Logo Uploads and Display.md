@@ -1,4 +1,7 @@
-#s# Technical Details
+## Branch Name
+feature/cbr-315-retire-company-logo-uploads-and-display
+
+## Technical Details
 
 ### Data Retention and Deployment
 
