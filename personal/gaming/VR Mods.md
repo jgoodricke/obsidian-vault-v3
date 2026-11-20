@@ -19,8 +19,15 @@ Todo
 - Fear
 - Fear 2
 
-# To Check Out:  
+## Check out these:
+https://pcvrcentral.com/mods?motion=full&quality=native-like%2Cexcellent%2Cplayable&score=95%2C80&sort=added
 
+https://pcvrcentral.com/mods?quality=native-like%2Cexcellent%2Cplayable&tag=flight%2Cracing%2Cspace-sim&score=80%2C95&sort=added
+
+
+
+# To Check Out:  
+- Bioshock: https://github.com/VR-Stereo-Hub/bioshock-trilogy-vr
 - [https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9](https://beastsaber.notion.site/beastsaber/Flat2VR-Modding-Group-8eb9ae0535144eac843f428abb104de9)  
 - [https://www.youtube.com/watch?v=aR459G_Yp2Q](https://www.youtube.com/watch?v=aR459G_Yp2Q)
 
