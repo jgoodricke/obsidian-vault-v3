@@ -200,7 +200,7 @@
 	- [x] Unify keyboard shortcuts for opening vim from terminal and PI. 
 	- [ ] Add nix-cachyos-kernel
 	- [x] Prompt for a password when running update, same as for switch
-	- [ ] Add theme images to Readme.
+	- [x] Add theme images to Readme.
 	- [ ] Look into styling the file explorer.
 	- [x] Add Btop themes
 	- [x] Add other themes from OldJobobo files.

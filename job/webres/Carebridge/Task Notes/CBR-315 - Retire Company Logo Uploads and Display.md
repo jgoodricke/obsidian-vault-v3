@@ -1,4 +1,4 @@
-## Technical Details
+#s# Technical Details
 
 ### Data Retention and Deployment
 
