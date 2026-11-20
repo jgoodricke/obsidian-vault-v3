@@ -1,5 +1,5 @@
 ## Branch Name
-feature/cbr-315-retire-company-logo-uploads-and-display
+cbr-315-retire-company-logo-uploads-and-display
 
 ## Technical Details
 
