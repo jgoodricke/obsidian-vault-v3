@@ -1,5 +1,6 @@
 ## NixOS Todo
-- [ ] Apply Ghostty transparency from themes.
+- [x] Apply Ghostty transparency from themes.
+- [ ] Import OldJobobo narative themes.
 
 - [x] Fix boot order
 - [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
