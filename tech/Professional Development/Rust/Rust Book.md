@@ -294,7 +294,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 ## Reading
 Up To:
-https://dioxuslabs.com/learn/0.7/essentials/ui/assets#including-folders by
+https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload#rsx-hot-reload
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
