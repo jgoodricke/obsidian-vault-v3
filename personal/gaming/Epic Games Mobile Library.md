@@ -73,3 +73,4 @@
 - Galaxy Cart
 - Chants of Sennaar
 - Knightica
+- Lonesome Village

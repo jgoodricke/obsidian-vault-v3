@@ -346,7 +346,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -494,11 +494,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "3918c2bdd870b8b6",
+  "active": "13f912123b27c30e",
   "lastOpenFiles": [
+    "tech/NixOS Todo.md",
+    "tech/Professional Development/Rust/Rust Book.md",
     "Rust Manual.md",
     "personal/Residential Address History.md",
-    "tech/NixOS Todo.md",
     "personal/gaming/VR Mods.md",
     "job/webres/Carebridge/Task Notes/CBR-316 - Add Enquiries CSV Download with Status Comments.md",
     "job/webres/Carebridge/Task Notes/CBR-315 - Retire Company Logo Uploads and Display.md",
@@ -508,7 +509,6 @@
     "AI/llm-prompts/AI Workflow.md",
     "personal/Goals.md",
     "personal/Plan.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "Dioxus.md",
     "Scratchpad.md",
     "personal/gaming/Epic Games Mobile Library.md",

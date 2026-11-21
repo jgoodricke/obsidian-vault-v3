@@ -1,9 +1,10 @@
 ## NixOS Todo
-- [x] Apply Ghostty transparency from themes.
+- [x] Apply Ghostty transparency from themes.i
+- [ ] Add transparency rules for all windows, not just ghostty.
 - [ ] Import OldJobobo narative themes. And Grimdark Solarised
-- [ ] Add custom theme styling.
-- [ ] add HANCORE-linux themes.
-- [ ] add atif-1402 themes?:
+- [ ] Find different desk
+- [x] Add custom theme styling.
+- [ ] add HANCORE-linux themes?
 
 - [x] Fix boot order
 - [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
