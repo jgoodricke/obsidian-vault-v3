@@ -5,7 +5,7 @@
 - [x] Find different desk
 - [x] Add custom theme styling.
 - [x] add HANCORE-linux themes?
-- [ ] See if there's a way to rotate the desktop background on startup.
+- [x] See if there's a way to rotate the desktop background on startup.
 
 - [x] Fix boot order
 - [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
