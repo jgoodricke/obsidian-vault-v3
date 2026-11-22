@@ -133,7 +133,7 @@
 	- [x] Add notification when task completed.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
-	- [ ] Show relative and absolute line numbers
+	- [x] Sihow relative and absolute line numbers
 	- [x] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
