@@ -17,6 +17,7 @@
 - Fill out:
 	 - **Name**: `Google Web`
 	 - **URL**: `https://www.google.com/search?q=%s&udm=14`
+	 - **Suggestions Url:** `https://www.google.com/complete/search?client=chrome&q=%s`
 	 - **Keyword:** `@gweb`
  - Save it, close and re-open the settings and set "Google Web" as your default.
 ### Chrome
