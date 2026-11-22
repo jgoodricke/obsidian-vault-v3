@@ -1,8 +1,8 @@
 ## NixOS Todo
 - [x] Apply Ghostty transparency from themes.i
-- [ ] Add transparency rules for all windows, not just ghostty.
-- [ ] Import OldJobobo narative themes. And Grimdark Solarised
-- [ ] Find different desk
+- [x] Add transparency rules for all windows, not just ghostty.
+- [x] Import OldJobobo narative themes. And Grimdark Solarised
+- [x] Find different desk
 - [x] Add custom theme styling.
 - [ ] add HANCORE-linux themes?
 
