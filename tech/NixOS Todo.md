@@ -1,4 +1,5 @@
 ## NixOS Todo
+- [ ] Fix The Loop theme.
 - [x] Apply Ghostty transparency from themes.i
 - [x] Add transparency rules for all windows, not just ghostty.
 - [x] Import OldJobobo narative themes. And Grimdark Solarised
