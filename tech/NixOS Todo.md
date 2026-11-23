@@ -1,4 +1,45 @@
 ## NixOS Todo
+- [ ] Fix themes
+	- [ ] 01
+	- [ ] awakening
+	- [ ] batman
+	- [ ] biscuit-de-mar-dark
+	- [ ] bloom-protocol
+	- [ ] breaking-bad
+	- [ ] caroline-skyline
+	- [ ] city-783
+	- [ ] deckard
+	- [ ] dispatch
+	- [ ] dracula-reborn
+	- [ ] dune
+	- [ ] dune-messiah
+	- [ ] eldritch
+	- [ ] event-horizon
+	- [ ] flat-dracula
+	- [ ] florida-man
+	- [ ] ghosts-i
+	- [ ] grimdark-solarized
+	- [ ] hex
+	- [ ] hinterlands
+	- [ ] killer-klownz
+	- [ ] kings
+	- [ ] last-call
+	- [ ] monolith
+	- [ ] noir
+	- [ ] phosphor-os
+	- [ ] pinup
+	- [ ] sakura-mochi
+	- [ ] scooby-doo
+	- [ ] the-black-pharaoh
+	- [ ] the-loop
+	- [ ] the-navigator
+	- [ ] waffle-cat
+	- [ ] watchmen
+	- [ ] weyland-yutani
+	- [ ] windows-dark-mode
+	- [ ] x-1632
+
+ 
 - [ ] Fix The Loop theme.
 - [x] Apply Ghostty transparency from themes.i
 - [x] Add transparency rules for all windows, not just ghostty.
