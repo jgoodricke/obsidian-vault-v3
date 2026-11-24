@@ -23,9 +23,9 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [x] last-call
+	- [ ] *last-call*
 	- [ ] lumon
-	- [x] monolith
+	- [ ] *monolith*
 	- [ ] noir
 	- [ ] phosphor-os
 	- [ ] pinup
