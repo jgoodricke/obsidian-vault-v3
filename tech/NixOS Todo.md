@@ -24,7 +24,7 @@
 	- [ ] killer-klownz
 	- [ ] kings
 	- [x] last-call
-		- [ ] Update the Vim config to more closely match.
+		- [x] Update the Vim config to more closely match.
 	- [ ] lumon
 	- [ ] **monolith**
 	- [ ] noir
@@ -41,7 +41,7 @@
 	- [ ] weyland-yutani
 	- [ ] windows-dark-mode
 	- [ ] x-1632
-- [ ] Update the Vim config to more closely match
+- [x] Update the Vim config to more closely match
 
  
 - [ ] Fix The Loop theme.
