@@ -25,7 +25,7 @@
 	- [ ] kings
 	- [x] last-call
 	- [ ] lumon
-	- [ ] monolith
+	- [x] monolith
 	- [ ] noir
 	- [ ] phosphor-os
 	- [ ] pinup
