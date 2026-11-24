@@ -23,7 +23,7 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] **last-call**
+	- [ ] ***last-call***
 	- [ ] lumon
 	- [ ] **monolith**
 	- [ ] noir
