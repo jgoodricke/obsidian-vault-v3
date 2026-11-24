@@ -26,7 +26,7 @@
 	- [x] last-call
 		- [x] Update the Vim config to more closely match.
 	- [ ] lumon
-	- [ ] ***monolith***
+	- [x] monolith
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
