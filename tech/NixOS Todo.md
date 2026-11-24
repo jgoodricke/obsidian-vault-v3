@@ -24,7 +24,7 @@
 	- [ ] killer-klownz
 	- [ ] kings
 	- [x] last-call
-		- [ ] Update the Vim config to more closely
+		- [ ] Update the Vim config to more closely match.
 	- [ ] lumon
 	- [ ] **monolith**
 	- [ ] noir
