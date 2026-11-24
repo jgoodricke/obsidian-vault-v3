@@ -31,7 +31,7 @@
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [ ] **retro-82**
-	- [ ] **sakura-mochi**
+	- [ ] ***sakura-mochi***
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
 	- [x] the-loop
