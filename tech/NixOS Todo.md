@@ -7,7 +7,7 @@
 	- [ ] bloom-protocol
 	- [ ] breaking-bad
 	- [ ] caroline-skyline
-	- [ ] city-783
+	- [ ] **city-783**
 	- [ ] deckard
 	- [ ] dispatch
 	- [ ] dracula-reborn
@@ -19,7 +19,7 @@
 	- [ ] florida-man
 	- [ ] ghosts-i
 	- [ ] grimdark-solarized
-	- [ ] hex
+	- [ ] **hex**
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
@@ -30,16 +30,16 @@
 	- [ ] phosphor-os
 	- [ ] pinup
 	- [x] retro-82
-	- [ ] sakura-mochi
+	- [ ] **sakura-mochi**
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [ ] the-loop
+	- [ ] **the-loop**
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
 	- [ ] weyland-yutani
 	- [ ] windows-dark-mode
-	- [ ] x-1632
+	- [ ] **x-1632**
 
  
 - [ ] Fix The Loop theme.
