@@ -23,13 +23,14 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] ***last-call***
+	- [x] last-call
+		- [ ] Update the Vim config to more closely
 	- [ ] lumon
 	- [ ] **monolith**
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
-	- [x] retro-82
+	- [ ] **retro-82**
 	- [ ] **sakura-mochi**
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
@@ -40,6 +41,7 @@
 	- [ ] weyland-yutani
 	- [ ] windows-dark-mode
 	- [ ] x-1632
+- [ ] Update the Vim config to more closely match
 
  
 - [ ] Fix The Loop theme.
