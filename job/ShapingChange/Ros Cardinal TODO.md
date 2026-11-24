@@ -1,1 +1,2 @@
+- [ ] Finish review of Homepage
 - [ ] Add Favicon
