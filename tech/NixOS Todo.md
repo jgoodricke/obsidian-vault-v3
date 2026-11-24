@@ -33,7 +33,7 @@
 	- [ ] **sakura-mochi**
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [ ] **the-loop**
+	- [x] the-loop
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
