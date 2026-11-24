@@ -7,7 +7,7 @@
 	- [ ] bloom-protocol
 	- [ ] breaking-bad
 	- [ ] caroline-skyline
-	- [ ] city-783
+	- [ ] *city-783*
 	- [ ] deckard
 	- [ ] dispatch
 	- [ ] dracula-reborn
@@ -19,7 +19,7 @@
 	- [ ] florida-man
 	- [ ] ghosts-i
 	- [ ] grimdark-solarized
-	- [ ] hex
+	- [ ] *hex*
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
