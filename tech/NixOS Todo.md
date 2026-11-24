@@ -7,27 +7,27 @@
 	- [ ] bloom-protocol
 	- [ ] breaking-bad
 	- [ ] caroline-skyline
-	- [ ] **city-783**
+	- [ ] city-783
 	- [ ] deckard
 	- [ ] dispatch
 	- [ ] dracula-reborn
 	- [ ] dune
 	- [ ] dune-messiah
 	- [ ] eldritch
-	- [ ] event-horizon
+	- [ ] *event-horizon*
 	- [ ] flat-dracula
 	- [ ] florida-man
 	- [ ] ghosts-i
 	- [ ] grimdark-solarized
-	- [ ] **hex**
+	- [ ] hex
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] *last-call*
+	- [ ] **last-call**
 	- [ ] lumon
-	- [ ] *monolith*
+	- [ ] **monolith**
 	- [ ] noir
-	- [ ] phosphor-os
+	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [x] retro-82
 	- [ ] **sakura-mochi**
@@ -39,7 +39,7 @@
 	- [ ] watchmen
 	- [ ] weyland-yutani
 	- [ ] windows-dark-mode
-	- [ ] **x-1632**
+	- [ ] x-1632
 
  
 - [ ] Fix The Loop theme.
