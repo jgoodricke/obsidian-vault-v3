@@ -31,7 +31,8 @@
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [ ] **retro-82**
-	- [ ] *l*
+	- [ ] ***sakura-mochi***
+		- [ ] Fix the issues
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
 	- [x] the-loop
