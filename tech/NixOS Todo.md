@@ -23,15 +23,15 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [x] last-call
-		- [x] Update the Vim config to more closely match.
+	- [ ] **last-call**
 	- [ ] lumon
-	- [ ] ***monolith***
+	- [x] monolith
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [ ] **retro-82**
-	- [ ] **sakura-mochi**
+	- [x] sakura-mochi
+		- [x] Fix the issues
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
 	- [x] the-loop
@@ -307,6 +307,19 @@
 	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
+		- [ ] miasma
+		- [ ] sakura-mochi
+		- [ ] the-navigator
+		- [ ] 01
+		- [ ] batman
+		- [ ] dune
+		- [ ] event-horizon
+		- [ ] florida-man
+		- [ ] ghosts-i
+		- [ ] the-loop
+		- [ ] watchmen
+		- [ ] dispatch
+		- [ ] dracula-reborn
 	- [ ] Style Bootloader
 
 - [ ] Advanced Setup
