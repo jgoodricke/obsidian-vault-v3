@@ -23,8 +23,9 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [x] last-call
+	- [ ] last-call
 		- [x] Update the Vim config to more closely match.
+		- [ ] Add lock screen background.
 	- [ ] lumon
 	- [ ] monolith
 		- [ ] Add glassmorphism using a blur effect
@@ -33,10 +34,12 @@
 	- [ ] pinup
 	- [ ] **retro-82**
 	- [ ] ***sakura-mochi***
-		- [ ] Fix the issues
+		- [x] Fix the issues
+		- [ ] Add lock screen background
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [x] the-loop
+	- [ ] the-loop
+		- [ ] Add lock screen background
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
