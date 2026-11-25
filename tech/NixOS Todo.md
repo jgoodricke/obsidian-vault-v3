@@ -23,23 +23,20 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] last-call
+	- [x] last-call
 		- [x] Update the Vim config to more closely match.
-		- [ ] Add lock screen background.
 	- [ ] lumon
-	- [ ] monolith
+	- [ ] **monolith**
 		- [ ] Add glassmorphism using a blur effect
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [ ] **retro-82**
-	- [ ] ***sakura-mochi***
+	- [x] sakura-mochi
 		- [x] Fix the issues
-		- [ ] Add lock screen background
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [ ] the-loop
-		- [ ] Add lock screen background
+	- [x] the-loop
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
@@ -312,19 +309,19 @@
 	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
-	- [ ] miasma
-	- [ ] sakura-mochi
-	- [ ] the-navigator
-	- [ ] 01
-	- [ ] batman
-	- [ ] dune
-	- [ ] event-horizon
-	- [ ] florida-man
-	- [ ] ghosts-i
-	- [ ] the-loop
-	- [ ] watchmen
-	- [ ] dispatch
-	- [ ] dracula-reborn
+		- [ ] miasma
+		- [ ] sakura-mochi
+		- [ ] the-navigator
+		- [ ] 01
+		- [ ] batman
+		- [ ] dune
+		- [ ] event-horizon
+		- [ ] florida-man
+		- [ ] ghosts-i
+		- [ ] the-loop
+		- [ ] watchmen
+		- [ ] dispatch
+		- [ ] dracula-reborn
 	- [ ] Style Bootloader
 
 - [ ] Advanced Setup
