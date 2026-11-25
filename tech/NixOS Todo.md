@@ -1,6 +1,6 @@
 ## NixOS Todo
 - [ ] Add a performance flag, to disable animations.
-- [ ] Fix themes
+- [ ] Align Themes with original Design
 	- [ ] 01
 	- [ ] awakening
 	- [ ] batman
@@ -43,7 +43,48 @@
 	- [ ] windows-dark-mode
 	- [ ] x-1632
 - [x] Update the Vim config to more closely match
-
+- [ ] Visual Test and Fix Themes
+	- [ ] 01
+	- [ ] awakening
+	- [ ] batman
+	- [ ] biscuit-de-mar-dark
+	- [ ] bloom-protocol
+	- [ ] breaking-bad
+	- [ ] caroline-skyline
+	- [ ] *city-783*
+	- [ ] deckard
+	- [ ] dispatch
+	- [ ] dracula-reborn
+	- [ ] dune
+	- [ ] dune-messiah
+	- [ ] eldritch
+	- [ ] *event-horizon*
+	- [ ] flat-dracula
+	- [ ] florida-man
+	- [ ] ghosts-i
+	- [ ] grimdark-solarized
+	- [ ] *hex*
+	- [ ] hinterlands
+	- [ ] killer-klownz
+	- [ ] kings
+	- [x] last-call
+	- [ ] lumon
+	- [x] monolith
+	- [ ] noir
+	- [ ] *phosphor-os*
+	- [ ] pinup
+	- [x] retro-82
+	- [x] sakura-mochi
+		- [x] Fix the issues
+	- [ ] scooby-doo
+	- [ ] the-black-pharaoh
+	- [x] the-loop
+	- [ ] the-navigator
+	- [ ] waffle-cat
+	- [ ] watchmen
+	- [ ] weyland-yutani
+	- [ ] windows-dark-mode
+	- [ ] x-1632
  
 - [ ] Fix The Loop theme.
 - [x] Apply Ghostty transparency from themes.i

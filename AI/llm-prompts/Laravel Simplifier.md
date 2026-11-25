@@ -1,0 +1,1 @@
+Compare the current branch with main and run $laravel-simplifier on the changes. Run relevant CI commands and $gitmoji-commit the changes when you are done.
