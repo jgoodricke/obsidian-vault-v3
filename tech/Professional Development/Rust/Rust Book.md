@@ -253,17 +253,17 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 	- [x] [Reconciliation](https://dioxuslabs.com/learn/0.7/essentials/ui/render)
 	- [x] [Assets](https://dioxuslabs.com/learn/0.7/essentials/ui/assets)
 	- [x] [Styling](https://dioxuslabs.com/learn/0.7/essentials/ui/styling)
-	- [ ] [Hot-Reload](https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload)
-	- [ ] [Escape Hatches](https://dioxuslabs.com/learn/0.7/essentials/ui/escape)
-- [ ] [The Basics of State](https://dioxuslabs.com/learn/0.7/essentials/basics/)
-	- [ ] [Intro to Reactivity](https://dioxuslabs.com/learn/0.7/essentials/basics/reactivity)
-	- [ ] [Storing State in Hooks](https://dioxuslabs.com/learn/0.7/essentials/basics/hooks)
-	- [ ] [Reactive Signals](https://dioxuslabs.com/learn/0.7/essentials/basics/signals)
+	- [x] [Hot-Reload](https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload)
+	- [x] [Escape Hatches](https://dioxuslabs.com/learn/0.7/essentials/ui/escape)
+- [x] [The Basics of State](https://dioxuslabs.com/learn/0.7/essentials/basics/)
+	- [x] [Intro to Reactivity](https://dioxuslabs.com/learn/0.7/essentials/basics/reactivity)
+	- [x] [Storing State in Hooks](https://dioxuslabs.com/learn/0.7/essentials/basics/hooks)
+	- [x] [Reactive Signals](https://dioxuslabs.com/learn/0.7/essentials/basics/signals)
 	- [ ] [User Input](https://dioxuslabs.com/learn/0.7/essentials/basics/event_handlers)
-	- [ ] [Async and Futures](https://dioxuslabs.com/learn/0.7/essentials/basics/async)
-	- [ ] [Data Fetching](https://dioxuslabs.com/learn/0.7/essentials/basics/resources)
-	- [ ] [Effects and Memos](https://dioxuslabs.com/learn/0.7/essentials/basics/effects)
-	- [ ] [Hoisting State](https://dioxuslabs.com/learn/0.7/essentials/basics/hoisting)
+	- [x] [Async and Futures](https://dioxuslabs.com/learn/0.7/essentials/basics/async)
+	- [x] [Data Fetching](https://dioxuslabs.com/learn/0.7/essentials/basics/resources)
+	- [x] [Effects and Memos](https://dioxuslabs.com/learn/0.7/essentials/basics/effects)
+	- [x] [Hoisting State](https://dioxuslabs.com/learn/0.7/essentials/basics/hoisting)
 	- [ ] [Global Context](https://dioxuslabs.com/learn/0.7/essentials/basics/context)
 	- [ ] [Stores and Collections](https://dioxuslabs.com/learn/0.7/essentials/basics/collections)
 	- [ ] [Error Handling](https://dioxuslabs.com/learn/0.7/essentials/basics/error_handling)
@@ -294,7 +294,7 @@ https://doc.rust-lang.org/book/ch13-01-closures.html - SUMMARY
 
 ## Reading
 Up To:
-https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload#rsx-hot-reload
+https://dioxuslabs.com/learn/0.7/essentials/ui/hotreload#experimental-rust-hot-patching
 
 - [x] [Overview](https://dioxuslabs.com/learn/0.7/essentials/)
 - [x] [Building User Interfaces](https://dioxuslabs.com/learn/0.7/essentials/ui/)
