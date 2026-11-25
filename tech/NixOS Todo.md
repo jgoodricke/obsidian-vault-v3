@@ -312,6 +312,19 @@
 	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
+	- [ ] miasma
+	- [ ] sakura-mochi
+	- [ ] the-navigator
+	- [ ] 01
+	- [ ] batman
+	- [ ] dune
+	- [ ] event-horizon
+	- [ ] florida-man
+	- [ ] ghosts-i
+	- [ ] the-loop
+	- [ ] watchmen
+	- [ ] dispatch
+	- [ ] dracula-reborn
 	- [ ] Style Bootloader
 
 - [ ] Advanced Setup
