@@ -1,5 +1,3 @@
-# 4-Week Personal Wellbeing Plan
-
 **Goal:** Reduce emotional pain, manage sexual frustration, maintain self-respect, and improve my quality of life while remaining committed to my marriage.
 
 ---
