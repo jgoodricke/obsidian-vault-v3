@@ -23,13 +23,13 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] **last-call**
+	- [x] last-call
 	- [ ] lumon
 	- [x] monolith
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
-	- [ ] **retro-82**
+	- [x] retro-82
 	- [x] sakura-mochi
 		- [x] Fix the issues
 	- [ ] scooby-doo
