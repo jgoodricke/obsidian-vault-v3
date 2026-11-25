@@ -26,8 +26,7 @@
 	- [x] last-call
 		- [x] Update the Vim config to more closely match.
 	- [ ] lumon
-	- [ ] **monolith**
-		- [ ] Add glassmorphism using a blur effect
+	- [x] monolith
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
