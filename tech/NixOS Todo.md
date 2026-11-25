@@ -23,8 +23,7 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [x] last-call
-		- [x] Update the Vim config to more closely match.
+	- [ ] **last-call**
 	- [ ] lumon
 	- [x] monolith
 	- [ ] noir
