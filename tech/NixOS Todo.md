@@ -1,10 +1,99 @@
 ## NixOS Todo
+- [ ] Add a performance flag, to disable animations.
+- [ ] Align Themes with original Design
+	- [ ] 01
+	- [ ] awakening
+	- [ ] batman
+	- [ ] biscuit-de-mar-dark
+	- [ ] bloom-protocol
+	- [ ] breaking-bad
+	- [ ] caroline-skyline
+	- [ ] *city-783*
+	- [ ] deckard
+	- [ ] dispatch
+	- [ ] dracula-reborn
+	- [ ] dune
+	- [ ] dune-messiah
+	- [ ] eldritch
+	- [ ] *event-horizon*
+	- [ ] flat-dracula
+	- [ ] florida-man
+	- [ ] ghosts-i
+	- [ ] grimdark-solarized
+	- [ ] *hex*
+	- [ ] hinterlands
+	- [ ] killer-klownz
+	- [ ] kings
+	- [x] last-call
+	- [ ] lumon
+	- [x] monolith
+	- [ ] noir
+	- [ ] *phosphor-os*
+	- [ ] pinup
+	- [x] retro-82
+	- [x] sakura-mochi
+		- [x] Fix the issues
+	- [ ] scooby-doo
+	- [ ] the-black-pharaoh
+	- [x] the-loop
+	- [ ] the-navigator
+	- [ ] waffle-cat
+	- [ ] watchmen
+	- [ ] weyland-yutani
+	- [ ] windows-dark-mode
+	- [ ] x-1632
+- [x] Update the Vim config to more closely match
+- [ ] Visual Test and Fix Themes
+	- [ ] 01
+	- [ ] awakening
+	- [ ] batman
+	- [ ] biscuit-de-mar-dark
+	- [ ] bloom-protocol
+	- [ ] breaking-bad
+	- [ ] caroline-skyline
+	- [ ] *city-783*
+	- [ ] deckard
+	- [ ] dispatch
+	- [ ] dracula-reborn
+	- [ ] dune
+	- [ ] dune-messiah
+	- [ ] eldritch
+	- [ ] *event-horizon*
+	- [ ] flat-dracula
+	- [ ] florida-man
+	- [ ] ghosts-i
+	- [ ] grimdark-solarized
+	- [ ] *hex*
+	- [ ] hinterlands
+	- [ ] killer-klownz
+	- [ ] kings
+	- [x] last-call
+	- [ ] lumon
+	- [x] monolith
+	- [ ] noir
+	- [ ] *phosphor-os*
+	- [ ] pinup
+	- [x] retro-82
+	- [x] sakura-mochi
+		- [x] Fix the issues
+	- [ ] scooby-doo
+	- [ ] the-black-pharaoh
+	- [x] the-loop
+	- [ ] the-navigator
+	- [ ] waffle-cat
+	- [ ] watchmen
+	- [ ] weyland-yutani
+	- [ ] windows-dark-mode
+	- [ ] x-1632
+ 
+- [ ] Fix The Loop theme.
 - [x] Apply Ghostty transparency from themes.i
-- [ ] Add transparency rules for all windows, not just ghostty.
-- [ ] Import OldJobobo narative themes. And Grimdark Solarised
-- [ ] Find different desk
+- [x] Add transparency rules for all windows, not just ghostty.
+- [x] Import OldJobobo narative themes. And Grimdark Solarised
+- [x] Find different desk
 - [x] Add custom theme styling.
-- [ ] add HANCORE-linux themes?
+- [x] add HANCORE-linux themes?
+- [x] See if there's a way to rotate the desktop background on startup.
 
 - [x] Fix boot order
 - [x] Remove tests, and update AGENTS.md to say you should add tests, but remove them when you are finished.
@@ -132,7 +221,7 @@
 	- [x] Add notification when task completed.
 - [ ] Neovim Round 2
 	- [x] Update NVim theme to use Stylix instead of default theme.
-	- [ ] Show relative and absolute line numbers
+	- [x] Sihow relative and absolute line numbers
 	- [x] Add Git diff/comparison.
 	- [ ] Add breakpoints.
 	- [ ] Add conditional breakpoints.
@@ -260,6 +349,19 @@
 	- [ ] Customise Neofetch
 - [ ] Theming round 5
 	- [ ] Style Login Page
+		- [ ] miasma
+		- [ ] sakura-mochi
+		- [ ] the-navigator
+		- [ ] 01
+		- [ ] batman
+		- [ ] dune
+		- [ ] event-horizon
+		- [ ] florida-man
+		- [ ] ghosts-i
+		- [ ] the-loop
+		- [ ] watchmen
+		- [ ] dispatch
+		- [ ] dracula-reborn
 	- [ ] Style Bootloader
 
 - [ ] Advanced Setup

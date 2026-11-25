@@ -10,12 +10,11 @@ frontmatter-version: 1
 
 | Item             | Price   | Note                                        | Paid |
 | ---------------- | ------- | ------------------------------------------- | ---- |
-| Internet         | $80.00  |                                             | X    |
+| Internet         | $84.00  |                                             | X    |
 | Health Insurance | $182.75 |                                             | X    |
 | Ambulance Cover  | $25.97  | On the 9th of January, April, July, October | X    |
 | ChatGPT          | $32     | $20 USD                                     | X    |
 | Eastlink         | $45     |                                             | X    |
-| Tax              | 429.60  | See Below                                   | X    |
 **TOTAL:** $779.43
 
 ## Tax
