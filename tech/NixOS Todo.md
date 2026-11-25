@@ -1,4 +1,5 @@
 ## NixOS Todo
+- [ ] Add a performance flag, to disable animations.
 - [ ] Fix themes
 	- [ ] 01
 	- [ ] awakening
