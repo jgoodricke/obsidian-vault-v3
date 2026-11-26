@@ -67,19 +67,21 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [x] last-call
+	- [ ] **last-call**
+		- [ ] Re-apply the background color
 	- [ ] lumon
-	- [x] monolith
+	- [ ] **monolith**
+		- [ ] Re-apply the background color
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [x] retro-82
-	- [x] sakura-mochi
-		- [x] Fix the issues
+	- [ ] **sakura-mochi**
+		- [ ] Re-apply the background color
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
 	- [ ] **the-loop**
-		- [ ] Fix the contrast issue. Maybe consider disabling background color for all terminal apps.
+		- [ ] Re-apply the background color
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
@@ -87,7 +89,7 @@
 	- [ ] windows-dark-mode
 	- [ ] x-1632
  
-- [ ] Fix The Loop theme.
+- [x] Fix The Loop theme.
 - [x] Apply Ghostty transparency from themes.i
 - [x] Add transparency rules for all windows, not just ghostty.
 - [x] Import OldJobobo narative themes. And Grimdark Solarised
