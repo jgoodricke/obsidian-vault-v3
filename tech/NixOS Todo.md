@@ -78,7 +78,8 @@
 		- [x] Fix the issues
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [x] the-loop
+	- [ ] **the-loop**
+		- [ ] Fix the contrast issue. Maybe consider disabling background color for all terminal apps.
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
