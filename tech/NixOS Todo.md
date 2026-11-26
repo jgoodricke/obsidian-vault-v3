@@ -80,8 +80,8 @@
 		- [ ] Re-apply the background color
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
-	- [ ] **the-loop**
-		- [ ] Re-apply the background color
+	- [x] the-loop
+		- [x] Re-apply the background color
 	- [ ] the-navigator
 	- [ ] waffle-cat
 	- [ ] watchmen
