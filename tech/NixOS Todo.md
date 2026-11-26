@@ -76,8 +76,8 @@
 	- [ ] *phosphor-os*
 	- [ ] pinup
 	- [x] retro-82
-	- [ ] **sakura-mochi**
-		- [ ] Re-apply the background color
+	- [x] **sakura-mochi**
+		- [x] Re-apply the background color
 	- [ ] scooby-doo
 	- [ ] the-black-pharaoh
 	- [x] the-loop
