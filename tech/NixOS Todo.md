@@ -70,8 +70,8 @@
 	- [ ] **last-call**
 		- [ ] Re-apply the background color
 	- [ ] lumon
-	- [ ] **monolith**
-		- [ ] Re-apply the background color
+	- [x] monolith
+		- [x] Re-apply the background color
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
