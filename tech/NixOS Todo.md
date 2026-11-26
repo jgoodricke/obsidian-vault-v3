@@ -67,8 +67,8 @@
 	- [ ] hinterlands
 	- [ ] killer-klownz
 	- [ ] kings
-	- [ ] **last-call**
-		- [ ] Re-apply the background color
+	- [x] last-call
+		- [x] Re-apply the background color
 	- [ ] lumon
 	- [x] monolith
 		- [x] Re-apply the background color
