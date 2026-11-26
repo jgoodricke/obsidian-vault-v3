@@ -70,8 +70,9 @@
 	- [x] last-call
 		- [x] Re-apply the background color
 	- [ ] lumon
-	- [x] monolith
+	- [ ] monolith
 		- [x] Re-apply the background color
+		- [ ] Re-adde frosted glass effect.
 	- [ ] noir
 	- [ ] *phosphor-os*
 	- [ ] pinup
