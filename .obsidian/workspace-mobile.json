@@ -360,7 +360,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -508,14 +508,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "3918c2bdd870b8b6",
+  "active": "bbe41ee40e5052ac",
   "lastOpenFiles": [
+    "tech/Professional Development/Rust/Rust Book.md",
     "personal/4-Week Personal Wellbeing Plan.md",
     "personal/Plan.md",
     "personal/Chats/Plan.md",
     "personal/gaming/Epic Games Mobile Library.md",
     "tech/NixOS Todo.md",
-    "tech/Professional Development/Rust/Rust Book.md",
     "Rust Manual.md",
     "personal/Residential Address History.md",
     "personal/gaming/VR Mods.md",

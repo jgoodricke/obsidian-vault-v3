@@ -1,4 +1,5 @@
 TODO: 
+- Unlevelled World or Scourge
 - [Conquest](https://www.nexusmods.com/fallout4/mods/12511) (Not compatible with SIM Settlements 2, but can be used to build simple outposts).
 - Knockout Framework (Death Alternative) VR
 	- Perfect Pacify Knockout
@@ -117,6 +118,7 @@ TODO:
 - Bullet Time VATS VR
 	- UsefulER Perception
 	- Bullet Time V.A.T.S VR - static values
+	- OR Bullet Time VATS VR - F4SEVR Remake
 - Critical Hits Outside of VATS
 - Weapon Accuracy Redone for VR 
 	- Make a patch for Nuka World Weapons
